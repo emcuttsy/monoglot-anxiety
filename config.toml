@@ -55,7 +55,7 @@ disableLanguages        = ['fr','pl','pt','de','es','zh-cn','zh-tw','ja','nl']
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "/img/main/logo.png"
+      src                 = "logo.png"
       shape               = ""
       width               = "170rem"
       alt                 = "Monoglot Anxiety"
