@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Being the good cornfed American girl that I am, I didn&amp;rsquo;t learn a second language growing up. Most of us do just fine beating everyone over the head with our English and never thinking twice about it, but I ended up develop a nasty case of I now affectionately call monoglot anxiety: anxiety about having never learned to speak a second language, and anxiety around inevitably screwing up all the time if I did try to learn one.</description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>https://example.com/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
@@ -33,17 +42,6 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://example.com/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
     <item>

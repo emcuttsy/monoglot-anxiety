@@ -1,4 +1,10 @@
 [{
+    "title": "About",
+    "date": "",
+    "description": "A blog about language and language learning that doesn't take itself too seriously",
+    "body": "Being the good cornfed American girl that I am, I didn\u0026rsquo;t learn a second language growing up. Most of us do just fine beating everyone over the head with our English and never thinking twice about it, but I ended up develop a nasty case of I now affectionately call monoglot anxiety: anxiety about having never learned to speak a second language, and anxiety around inevitably screwing up all the time if I did try to learn one. And it really held me back.\nEventually, it drove me bonkers enough to grind all the way through Duolingo German.\nAnxiety is, for the record, never the best reason to do anything. But in the absence of other motivators, it sometimes gets the job done. And while there\u0026rsquo;s still a way to go before I reach fluency, I\u0026rsquo;ve stuck with German.\nAnyways, one thing led to another and now I have a language blog.\nI\u0026rsquo;m not an expert—more an enthusiastic fan. I can\u0026rsquo;t humble-brag on the 15 languages I\u0026rsquo;ve taught myself like all those internet polyglots who run language sites. So you won\u0026rsquo;t find promises of fluency in X amount of time here, nor any #inspiration. What you will find is what I hope is an entertaining take on language and language learning, written by someone who\u0026rsquo;s in this for fun, not perfection.\nAside: humble-bragging is totally justified if you\u0026rsquo;ve taught yourself 15 languages\u0026hellip; But just because you\u0026rsquo;ve earned it doesn\u0026rsquo;t mean I have to like it!\nI write about all sort of language topics. But I\u0026rsquo;m still learning German, so there\u0026rsquo;s definitely a bit of a focus there. I share a lot of German-specific tips and resources, including new Anki decks and vocabulary lists every two weeks.\n",
+    "ref": "/about/"
+  },{
     "title": "Markdown Syntax Guide",
     "date": "",
     "description": "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
@@ -16,12 +22,6 @@
     "description": "Guide to emoji usage in Hugo",
     "body": "Emoji can be enabled in a Hugo project in a number of ways.\nThe emojify function can be called directly in templates or Inline Shortcodes.\nTo enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.\n🙈 :see_no_evil: 🙉 :hear_no_evil: 🙊 :speak_no_evil:\nThe Emoji cheat sheet is a useful reference for emoji shorthand codes.\n N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.\n.emoji { font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols; }",
     "ref": "/blog/emoji-support/"
-  },{
-    "title": "About",
-    "date": "",
-    "description": "Hugo, the world’s fastest framework for building websites",
-    "body": "Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.\nHugo makes use of a variety of open source projects including:\n https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.\nHugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nWebsites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.\nLearn more and contribute on GitHub.\n",
-    "ref": "/about/"
   },{
     "title": "Contact",
     "date": "",
