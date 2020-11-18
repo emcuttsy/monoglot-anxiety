@@ -37,7 +37,7 @@ comments:
   moderation: false
 
   # Name of the site. Used in notification emails.
-  name: ""
+  name: "Monoglot Anxiety"
 
   # (*) REQUIRED
   #

@@ -73,10 +73,10 @@ disableLanguages        = ['fr','pl','pt','de','es','zh-cn','zh-tw','ja','nl']
   [params.staticman]
     enabled             = true
     api                 = ""  # No Trailing Slash
-    gitProvider         = ""
-    username            = ""
-    repo                = ""
-    branch              = ""
+    gitProvider         = "github"
+    username            = "emcuttsy"
+    repo                = "monoglot-anxiety"
+    branch              = "master"
 
     [params.staticman.recaptcha]
       siteKey           = ""
