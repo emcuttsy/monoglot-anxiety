@@ -10,7 +10,8 @@
     {{- $entryId := .File.UniqueID -}}
     {{/* Additional div wrapper for proper consistent margin */}}
     <div>
-      <h2 id="say-something">{{ i18n "say_something" }}</h2>
+      <h2 id="say-something">Leave a comment</h2>
+      Your comment will appear a few minutes after submission.
         <form id="comment-form" class="new-comment" method="POST">
           {{/* Display reply target */}}
           <h3 class='reply-notice hidden'>
@@ -25,7 +26,6 @@
 
           {{/* User input fields */}}
           <input required name='fields[name]' type='text' placeholder='{{ i18n "form_name" }}'>
-          <input name='fields[website]' type='text' placeholder='{{ i18n "form_website" }}'>
           <input name='fields[email]' type='email' placeholder='{{ i18n "form_email" }}'>
           <textarea required name='fields[body]' placeholder='{{ i18n "form_body" }}' rows='10'></textarea>
 
