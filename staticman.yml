@@ -64,8 +64,8 @@ comments:
   reCaptcha:
     enabled: false
     # siteKey and secret should match your config.toml
-    siteKey: ""
+    siteKey: "6LdUnecZAAAAAEbntlBHUXiR1kEmbooLh66KuEB2"
     # (!) ENCRYPT reCaptcha secret key using Staticman /encrypt endpoint
     # i.e. https://{your-staticman-api}/v3/encrypt/{your-site-secret}
     # For more information, visit https://staticman.net/docs/encryption
-    secret: ""
+    secret: "6LdUnecZAAAAAAzp4pj2AWGyCxU6HiJ0k9a5J6FC"

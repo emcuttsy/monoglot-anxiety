@@ -79,8 +79,8 @@ disableLanguages        = ['fr','pl','pt','de','es','zh-cn','zh-tw','ja','nl']
     branch              = "master"
 
     [params.staticman.recaptcha]
-      siteKey           = ""
-      encryptedKey      = ""
+      siteKey           = "6LdUnecZAAAAAEbntlBHUXiR1kEmbooLh66KuEB2"
+      encryptedKey      = "6LdUnecZAAAAAAzp4pj2AWGyCxU6HiJ0k9a5J6FC"
 
 [menu]
 
