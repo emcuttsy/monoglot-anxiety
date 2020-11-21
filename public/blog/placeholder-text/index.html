@@ -315,7 +315,8 @@ Propoetides <strong>parte</strong>.</p>
   <article class="post">
     
     <div>
-      <h2 id="say-something">Say Something</h2>
+      <h2 id="say-something">Leave a comment</h2>
+      Your comment will appear a few minutes after submission.
         <form id="comment-form" class="new-comment" method="POST">
           
           <h3 class='reply-notice hidden'>
@@ -330,10 +331,15 @@ Propoetides <strong>parte</strong>.</p>
 
           
           <input required name='fields[name]' type='text' placeholder='Your Name'>
-          <input name='fields[website]' type='text' placeholder='Your Website'>
-          <input required name='fields[email]' type='email' placeholder='Your Email'>
+          <input name='fields[email]' type='email' placeholder='Your Email'>
           <textarea required name='fields[body]' placeholder='Your Message' rows='10'></textarea>
 
+          
+          
+          
+            <input hidden name="options[reCaptcha][siteKey]" value="6LdUnecZAAAAAEbntlBHUXiR1kEmbooLh66KuEB2">
+            <input hidden name="options[reCaptcha][secret]" value="6LdUnecZAAAAAAzp4pj2AWGyCxU6HiJ0k9a5J6FC">
+            <div class="g-recaptcha" data-sitekey="6LdUnecZAAAAAEbntlBHUXiR1kEmbooLh66KuEB2"></div>
           
           
 
@@ -505,6 +511,7 @@ Propoetides <strong>parte</strong>.</p>
     
     <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.ef37d1d86ad6730c88f5ff4a3482de4f66d174e15015817998493b44e4727e87.js" integrity="sha256-7zfR2GrWcwyI9f9KNILeT2bRdOFQFYF5mEk7RORyfoc="></script>
     <script src="/js/add-on.js"></script>
+  <script src='https://www.google.com/recaptcha/api.js'></script>
     </div>
   </body>
 </html>
