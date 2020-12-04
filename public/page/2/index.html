@@ -2,16 +2,16 @@
 <html lang="en">
   <head>
   <meta charset="utf-8">
-<title>syntax - Monoglot Anxiety</title>
+<title>Monoglot Anxiety</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 <meta name="generator" content="Hugo 0.78.2" /><meta property="og:site_name" content="Monoglot Anxiety">
-  <meta property="og:title" content="syntax">
+  <meta property="og:title" content="Monoglot Anxiety">
   <meta property="og:description" content="A blog about language and language learning that doesn&#39;t take itself too seriously">
   <meta property="description" content="A blog about language and language learning that doesn&#39;t take itself too seriously">
-  <meta property="og:url" content="https://suspicious-galileo-91919d.netlify.app/categories/syntax/">
-  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://suspicious-galileo-91919d.netlify.app/">
+  <meta property="og:type" content="website">
   
     <meta property="og:image" content="https://suspicious-galileo-91919d.netlify.app/logo.png">
   
@@ -23,12 +23,48 @@
   <body>
     
 
+  <div id="theme-message" style="background-color:#3c3b3b;color:#f4f4f4;margin:auto auto;padding:.25em 2em;width:75%;">
+    <p style="text-align:center;">This message, related to the development of the theme, only displays on the
+      <code>localhost</code> homepage to notify you of any important theme changes.</p>
+      <hr>
+      <h5 style="color:#f4f4f4;text-align:center;"><i class="fas fa-exclamation-triangle"></i>Version 2.0.0 - July 20, 2020<i class="fas fa-exclamation-triangle"></i></h5>
+    <p>Below are the following changes that <em>could</em> be breaking changes for your site. For more details on any change, please refer to <a href="https://github.com/pacollins/hugo-future-imperfect-slim/pull/154">PR #154</a>.</p>
+<p>The major breaking change is:</p>
+<ol>
+<li>Users that have front matter that utilize <code>images</code> (backwards compatibility for <code>featured</code> and associated parameters still remains) <em>will</em> need to adjust from <code>[images]=&quot;SRC&quot;</code> to the new format.</li>
+</ol>
+<pre><code>[[images]]
+    src = &quot;&quot; // Link to image
+    alt = &quot;&quot; // Alt text for image
+    stretch = // Optional: See screenshots for referenced values and outcomes
+</code></pre><p>If you utilize any of the following, there <em>might</em> be a breaking:</p>
+<ol>
+<li>User custom templates <em>may</em> require adjustment.</li>
+<li>User custom i18n languages, or custom templates referencing i18n translations <em>may</em> require adjustment.</li>
+<li>User custom template for comments <em>will</em> require adjustment <em>if</em> it uses the theme&rsquo;s CSS and/or JS.</li>
+<li>User custom CSS <em>may</em> need to adjust due to a variety of class name changes and specificity changes.</li>
+</ol>
+<p>While I realize this is inconvenient, I hope that it is worth it to you in the long run. Thanks for using the theme, and feel free to submit issues as needed.</p>
+
+    <div style="text-align:center;">
+      <button onclick="removeBox()" class="button" style="color:#f4f4f4;margin-bottom:1em;">Close Notification Until Next Update</button>
+    </div>
+    <script>
+      if (window.location.href.indexOf('localhost:') < 1 || window.localStorage.getItem('HFIS-version') == '2.0.0') {
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+      function removeBox() {
+        window.localStorage.setItem('HFIS-version', '2.0.0');
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+    </script>
+  </div>
 <header id="site-header">
   <nav id="site-nav">
     <h1 class="nav-title">
       <a href="/" class="nav">
         
-          Categories
+          Monoglot Anxiety
         
       </a>
     </h1>
@@ -79,37 +115,37 @@
 
   
     
-    <a href="//twitter.com/share?text=syntax&amp;url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fcategories%2fsyntax%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+    <a href="//twitter.com/share?text=Monoglot%20Anxiety&amp;url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
         <p>Twitter</p>
       </a>
   
 
   
-      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fcategories%2fsyntax%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
         <p>Facebook</p>
         </a>
   
 
   
-    <a href="//www.reddit.com/submit?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fcategories%2fsyntax%2f&amp;title=syntax" target="_blank" rel="noopener" class="nav share-btn reddit">
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2f&amp;title=Monoglot%20Anxiety" target="_blank" rel="noopener" class="nav share-btn reddit">
           <p>Reddit</p>
         </a>
   
 
   
-        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fcategories%2fsyntax%2f&amp;title=syntax" target="_blank" rel="noopener" class="nav share-btn linkedin">
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2f&amp;title=Monoglot%20Anxiety" target="_blank" rel="noopener" class="nav share-btn linkedin">
             <p>LinkedIn</p>
           </a>
   
 
   
-        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fcategories%2fsyntax%2f&amp;description=syntax" target="_blank" rel="noopener" class="nav share-btn pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2f&amp;description=Monoglot%20Anxiety" target="_blank" rel="noopener" class="nav share-btn pinterest">
           <p>Pinterest</p>
         </a>
   
 
   
-        <a href="mailto:?subject=Check%20out%20this%20post%20by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fcategories%2fsyntax%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+        <a href="mailto:?subject=Check%20out%20this%20post%20by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
           <p>Email</p>
         </a>
   
@@ -132,7 +168,7 @@
     <footer>
       <ul class="socnet-icons">
         
-    <li><a href="/categories/syntax/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
+    <li><a href="/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
 
 
         
@@ -190,51 +226,39 @@
   <header>
   <div class="title">
     
-      <h2><a href="/blog/markdown-syntax/">Markdown Syntax Guide</a></h2>
+      <h2><a href="/blog/emoji-support/">Emoji Support</a></h2>
     
     
-      <p>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</p>
+      <p>Guide to emoji usage in Hugo</p>
     
   </div>
   <div class="meta">
-    <time datetime="2019-03-11 00:00:00 &#43;0000 UTC">March 11, 2019</time>
+    <time datetime="2019-03-05 00:00:00 &#43;0000 UTC">March 5, 2019</time>
     <p>Hugo Authors</p>
-    <p>3-Minute Read</p>
+    <p>1-Minute Read</p>
   </div>
 </header>
 
   <div class="content">
-    <a href="/blog/markdown-syntax/" class="image" style="--bg-image: url('https://suspicious-galileo-91919d.netlify.app/img/2019/03/pic01.jpg');">
-    <img class="stretchH" src="https://suspicious-galileo-91919d.netlify.app/img/2019/03/pic01.jpg" alt="Mountain Range Through Clouds">
+    <a href="/blog/emoji-support/" class="image" style="--bg-image: url('https://suspicious-galileo-91919d.netlify.app/img/2019/03/pic02.jpg');">
+    <img class="" src="https://suspicious-galileo-91919d.netlify.app/img/2019/03/pic02.jpg" alt="Desert Scene">
   </a>
     
-    <p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
+    <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
   </div>
   <footer>
-    <a href="/blog/markdown-syntax/" class="button big">Read More</a>
+    <a href="/blog/emoji-support/" class="button big">Read More</a>
     <div class="stats">
   
     <ul class="categories">
-      
-        
-          <li><a class="article-terms-link" href="/categories/themes/">themes</a></li>
-        
-          <li><a class="article-terms-link" href="/categories/syntax/">syntax</a></li>
-        
-      
+      <li>None</li>
     </ul>
   
   
     <ul class="tags">
       
         
-          <li><a class="article-terms-link" href="/tags/markdown/">markdown</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/css/">css</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/html/">html</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/themes/">themes</a></li>
+          <li><a class="article-terms-link" href="/tags/emoji/">emoji</a></li>
         
       
     </ul>
@@ -246,6 +270,8 @@
 
   
   <div class="pagination">
+    
+      <a href="/" class="button left"><span>Previous Page</span></a>
     
     
   </div>
@@ -273,6 +299,16 @@
         <header>
           <h2><a href="/blog/markdown-syntax/">Markdown Syntax Guide</a></h2>
           <time class="published" datetime="2019-03-11 00:00:00 &#43;0000 UTC">March 11, 2019</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          <a href="/blog/placeholder-text/" class="image" style="--bg-image: url('https://suspicious-galileo-91919d.netlify.app/img/2019/03/pic03.jpg');">
+    <img class="stretchH" src="https://suspicious-galileo-91919d.netlify.app/img/2019/03/pic03.jpg" alt="Valley">
+  </a>
+        <header>
+          <h2><a href="/blog/placeholder-text/">Placeholder Text</a></h2>
+          <time class="published" datetime="2019-03-09 00:00:00 &#43;0000 UTC">March 9, 2019</time>
         </header>
       </article>
       
@@ -335,7 +371,7 @@
   
       <ul class="socnet-icons">
         
-    <li><a href="/categories/syntax/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
+    <li><a href="/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
 
 
         
