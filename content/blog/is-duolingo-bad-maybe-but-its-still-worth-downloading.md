@@ -24,7 +24,7 @@ So Duolingo's advantage isn't that it works. It has something else going for it.
 
 ## Duolingo can replace other addictive apps
 
-If you're anything like me, you probably pull out your phone almost compulsively whenever there's an idle moment: standing in line, riding the bus, waiting for meetings to start, going to the bathroom… This isn't the place to go into whether or not that's a habit worth cracking, but it is relevant to discussing the pros and cons of Duolingo because the best use for Duolingo isn't as a study tool—relying on Duolingo as your primary mode of learning won't work well for all the reasons I've already discussed—but as an upgrade to our phone addictions.
+If you're anything like me, you probably pull out your phone almost compulsively whenever there's an idle moment: standing in line, riding the bus, waiting for meetings to start, going to the bathroom… This isn't the place to go into whether or not that's a habit worth cracking, but it is relevant to discussing the pros and cons of Duolingo because the best use for Duolingo isn't as a study tool but as an upgrade to our phone addictions.
 
 Maybe Duolingo should do a better job of pointing that out instead of marketing itself as the "best way to learn a language." But the "usefully addictive way to start learning a language" just doesn't have the same ring to it. 
 
