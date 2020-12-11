@@ -21,5 +21,5 @@ I'm not an expert—more an enthusiastic fan. I can't humble-brag on the 15 lang
 
 ---
 
-I write about all sort of language topics, but this blog definitely has a specific focus on German. I share a lot of **German-specific tips and resources**, including **new Anki decks and vocabulary lists every two weeks.**
+I write about all sort of language topics, but this blog definitely has a specific focus on German. I share a lot of **German-specific tips and resources**, including **new Anki cards and vocabulary lists every month.**
 
