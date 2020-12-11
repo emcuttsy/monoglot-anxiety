@@ -49,3 +49,7 @@ This all comes with a caveat, though. Like I said, Duolingo works best for begin
 Anyways, I'm sure that others would say that you'd be better served by subbing out whatever you tend to do on your phone with X,Y, or Z. And X, Y, and Z probably will help you learn faster than Duolingo—if you can manage to get as addicted to them as you are to whatever you do with your phone already. 
 
 If not? There's nothing wrong hitting up Duo for some good fun translating classic phrases like "they wash the holy potato." 
+
+---
+
+<small>*Owl trophy image from https://forum.duolingo.com/comment/8613388/I-Have-Conquered-My-German-Treewith,  edited by me*</small>
