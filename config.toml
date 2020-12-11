@@ -6,7 +6,7 @@ title                   = "Monoglot Anxiety"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "G-ZZFJTVX2TH"
 pluralizeListTitles     = false
 disableLanguages        = ['fr','pl','pt','de','es','zh-cn','zh-tw','ja','nl']
 
