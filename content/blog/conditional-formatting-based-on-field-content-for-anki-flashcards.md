@@ -5,7 +5,7 @@ author: "Anxious Monoglot"
 draft: false
 date: 2020-12-12T10:06:21-07:00
 tags: ["anki", "german anki flashcards"]
-categories: ["Anki", "German"]
+categories: ["Anki"]
 comments: true
 removeBlur: true
 featured: "2020/12/conditional-formatting-banner.jpg"
@@ -40,7 +40,7 @@ Luckily, there's a way to pull off content-based conditional formatting even if 
 
 *Credit where credit is due: I didn't come up with this myself. Look hard enough on Anki forums and you'll find the answer (I found it [here](https://anki.tenderapp.com/discussions/ankidesktop/21132-conditional-formatting-based-on-deck#comment_41634514)). But I wanted to save other code-illiterates the hours it took me to figure out how to make this work by going into a bit more detail and providing a concrete example.*
 
-## Changing CSS styles and displaying different text based on field content
+## Changing card style and displaying different text based on field content
 
 The way this works is by using Javascript to change the CSS styling of some part of your card based on field content. You can also change what text gets displayed based on field contents as well. This card template shows how to do both:
 
