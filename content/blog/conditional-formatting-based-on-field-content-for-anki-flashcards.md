@@ -165,7 +165,7 @@ color: black
 }
 ```
 
-The result? Some nicely color-coded cards that I didn't need to color-code myself. And the best part is that this will automatically color code any new cards of this note type as well, which is great for me since I tend to mass-import cards from spreadsheets of vocabulary.
+The result? Some nicely color-coded cards that I didn't need to color-code myself. And the best part is that this will automatically work on any new cards of this note type as well, which is great for me since I tend to mass-import cards from spreadsheets of vocabulary.
 
 ![Image](/img/2020/12/conditional-formatting-example-cards.png)
 
