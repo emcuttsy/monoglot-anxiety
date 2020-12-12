@@ -115,23 +115,23 @@ In the Gender field, I use "m" for masculine, "f" for feminine, and "n" for neut
 {{Images}}
 
 <script>
-    if ("{{gender/plural 1}}" == "m") {
-        document.getElementById("gender").classList.add('m')
+    if ("{{Gender}}" == "m") {
+        document.getElementById("gender_color").classList.add('m')
         document.getElementById("article").innerHTML= 'der'
     }
     
-    else if ("{{gender/plural 1}}" == "f") {
-        document.getElementById("gender").classList.add('f')
+    else if ("{{Gender}}" == "f") {
+        document.getElementById("gender_color").classList.add('f')
         document.getElementById("article").innerHTML = 'die'
     }
 
-    else if ("{{gender/plural 1}}" == "n") {
-        document.getElementById("gender").classList.add('n')
+    else if ("{{Gender}}" == "n") {
+        document.getElementById("gender_color").classList.add('n')
         document.getElementById("article").innerHTML = 'das'
     }
 
-    else if ("{{gender/plural 1}}" == "p") {
-        document.getElementById("gender").classList.add('p')
+    else if ("{{Gender}}" == "p") {
+        document.getElementById("gender_color").classList.add('p')
         document.getElementById("article").innerHTML = 'die'
     };
 </script>

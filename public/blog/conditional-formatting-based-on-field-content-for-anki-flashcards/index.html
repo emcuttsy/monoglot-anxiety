@@ -320,23 +320,23 @@ Shown always
 {{Images}}
 
 &lt;script&gt;
-    if (&quot;{{gender/plural 1}}&quot; == &quot;m&quot;) {
-        document.getElementById(&quot;gender&quot;).classList.add('m')
+    if (&quot;{{Gender}}&quot; == &quot;m&quot;) {
+        document.getElementById(&quot;gender_color&quot;).classList.add('m')
         document.getElementById(&quot;article&quot;).innerHTML= 'der'
     }
     
-    else if (&quot;{{gender/plural 1}}&quot; == &quot;f&quot;) {
-        document.getElementById(&quot;gender&quot;).classList.add('f')
+    else if (&quot;{{Gender}}&quot; == &quot;f&quot;) {
+        document.getElementById(&quot;gender_color&quot;).classList.add('f')
         document.getElementById(&quot;article&quot;).innerHTML = 'die'
     }
 
-    else if (&quot;{{gender/plural 1}}&quot; == &quot;n&quot;) {
-        document.getElementById(&quot;gender&quot;).classList.add('n')
+    else if (&quot;{{Gender}}&quot; == &quot;n&quot;) {
+        document.getElementById(&quot;gender_color&quot;).classList.add('n')
         document.getElementById(&quot;article&quot;).innerHTML = 'das'
     }
 
-    else if (&quot;{{gender/plural 1}}&quot; == &quot;p&quot;) {
-        document.getElementById(&quot;gender&quot;).classList.add('p')
+    else if (&quot;{{Gender}}&quot; == &quot;p&quot;) {
+        document.getElementById(&quot;gender_color&quot;).classList.add('p')
         document.getElementById(&quot;article&quot;).innerHTML = 'die'
     };
 &lt;/script&gt;
