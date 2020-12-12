@@ -1,0 +1,627 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+<title>Conditional formatting based on field content for Anki flashcards - Monoglot Anxiety</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="generator" content="Hugo 0.78.2" /><meta property="og:site_name" content="Monoglot Anxiety">
+  <meta property="og:title" content="Conditional formatting based on field content for Anki flashcards">
+  <meta property="og:description" content="Change card styling and text based on the content of your note fields, not just whether they&#39;re empty or not empty">
+  <meta property="description" content="Change card styling and text based on the content of your note fields, not just whether they&#39;re empty or not empty">
+  <meta property="og:url" content="https://suspicious-galileo-91919d.netlify.app/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/">
+  <meta property="og:type" content="article">
+  
+    <meta property="og:image" content="https://suspicious-galileo-91919d.netlify.app/logo.png">
+  
+  <link rel="stylesheet" href="/css/bundle.min.e0bcf7e8825fbefdf480d9f9644a00943e05599c3224705d7585752edc7c8b1f.css" integrity="sha256-4Lz36IJfvv30gNn5ZEoAlD4FWZwyJHBddYV1Ltx8ix8="><link rel="stylesheet" href="/css/add-on.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+  <body>
+    
+
+<header id="site-header">
+  <nav id="site-nav">
+    <h1 class="nav-title">
+      <a href="/" class="nav">
+        
+          Blog
+        
+      </a>
+    </h1>
+    <menu id="site-nav-menu" class="flyout-menu menu">
+      
+        
+          
+          <a href="/" class="nav link"><i class='fa fa-home'></i> Home</a>
+        
+      
+        
+          
+          <a href="/about/" class="nav link"><i class='far fa-id-card'></i> About</a>
+        
+      
+        
+          
+          <a href="/blog/" class="nav link"><i class='far fa-newspaper'></i> Blog</a>
+        
+      
+        
+          
+          <a href="/categories/" class="nav link"><i class='fas fa-sitemap'></i> Categories</a>
+        
+      
+        
+          
+          <a href="/contact/" class="nav link"><i class='far fa-envelope'></i> Contact</a>
+        
+      
+      <a href="#share-menu" class="nav link share-toggle"><i class="fas fa-share-alt">&nbsp;</i>Share</a>
+      <a href="#search-input" class="nav link search-toggle"><i class="fas fa-search">&nbsp;</i>Search</a>
+    </menu>
+    <a href="#search-input" class="nav search-toggle"><i class="fas fa-search fa-2x">&nbsp;</i></a>
+    <a href="#share-menu" class="nav share-toggle"><i class="fas fa-share-alt fa-2x">&nbsp;</i></a>
+    
+    <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
+  </nav>
+  <menu id="search" class="menu"><input id="search-input" class="search-input menu"></input><div id="search-results" class="search-results menu"></div></menu>
+  
+  
+    <menu id="share-menu" class="flyout-menu menu">
+      <h1>Share Post</h1>
+      
+
+
+
+
+  
+    
+    <a href="//twitter.com/share?text=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards&amp;url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+        <p>Twitter</p>
+      </a>
+  
+
+  
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+        <p>Facebook</p>
+        </a>
+  
+
+  
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f&amp;title=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards" target="_blank" rel="noopener" class="nav share-btn reddit">
+          <p>Reddit</p>
+        </a>
+  
+
+  
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f&amp;title=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards" target="_blank" rel="noopener" class="nav share-btn linkedin">
+            <p>LinkedIn</p>
+          </a>
+  
+
+  
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f&amp;description=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards" target="_blank" rel="noopener" class="nav share-btn pinterest">
+          <p>Pinterest</p>
+        </a>
+  
+
+  
+        <a href="mailto:?subject=Check%20out%20this%20post%20by Anxious%20Monoglot&amp;body=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+          <p>Email</p>
+        </a>
+  
+
+
+    </menu>
+  
+</header>
+
+    <div id="wrapper">
+      <section id="site-intro" >
+  <a href="/"><img src="https://suspicious-galileo-91919d.netlify.app/logo.png" width="170rem" alt="Monoglot Anxiety" /></a>
+  <header>
+    <h1>Monoglot Anxiety</h1>
+  </header>
+  <main>
+    <p>A blog about language and language learning that doesn't take itself too seriously</p>
+  </main>
+  
+    <footer>
+      <ul class="socnet-icons">
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="mailto:hello@monoglotanxiety.com" target="_blank" title="Email" class="far fa-envelope"></a></li>
+
+      </ul>
+    </footer>
+  
+</section>
+
+      <main id="site-main">
+        
+  <article class="post">
+    <header>
+  <div class="title">
+    
+      <h2><a href="/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/">Conditional formatting based on field content for Anki flashcards</a></h2>
+    
+    
+      <p>Change card styling and text based on the content of your note fields, not just whether they&#39;re empty or not empty</p>
+    
+  </div>
+  <div class="meta">
+    <time datetime="2020-12-12 10:06:21 -0700 MST">December 12, 2020</time>
+    <p>Anxious Monoglot</p>
+    <p>5-Minute Read</p>
+  </div>
+</header>
+
+    <div id="socnet-share">
+      
+
+
+
+
+  
+    
+    <a href="//twitter.com/share?text=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards&amp;url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
+        <p>Twitter</p>
+      </a>
+  
+
+  
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
+        <p>Facebook</p>
+        </a>
+  
+
+  
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f&amp;title=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards" target="_blank" rel="noopener" class="nav share-btn reddit">
+          <p>Reddit</p>
+        </a>
+  
+
+  
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f&amp;title=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards" target="_blank" rel="noopener" class="nav share-btn linkedin">
+            <p>LinkedIn</p>
+          </a>
+  
+
+  
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f&amp;description=Conditional%20formatting%20based%20on%20field%20content%20for%20Anki%20flashcards" target="_blank" rel="noopener" class="nav share-btn pinterest">
+          <p>Pinterest</p>
+        </a>
+  
+
+  
+        <a href="mailto:?subject=Check%20out%20this%20post%20by Anxious%20Monoglot&amp;body=https%3a%2f%2fsuspicious-galileo-91919d.netlify.app%2fblog%2fconditional-formatting-based-on-field-content-for-anki-flashcards%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
+          <p>Email</p>
+        </a>
+  
+
+
+    </div>
+    <div class="content">
+      <a href="/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/" class="image">
+    <img src="https://suspicious-galileo-91919d.netlify.app/img/2020/12/conditional-formatting-banner.jpg" alt="conditionally formatted german flashcards for cat and dog">
+  </a>
+      <p>Anki allows conditoinal formatting based on whether or not fields are  empty, but you’ll need to use a bit of code to change your cards based on field <em>content.</em> Luckily, it’s not that hard, and using this trick you can conditionally display text as well. I use it to color-code my German flashcards by noun gender without having to do everything by hand.</p>
+<p>Out-of-the-box, Anki supports &ldquo;<a href="https://docs.ankiweb.net/#/templates/generation?id=conditional-replacement">conditional replacement</a>,&rdquo; which changes what gets rendered on a card is based on whether or not fields are empty. This is how it works:</p>
+<pre><code>Shown always
+
+{{#Field}}
+Shown only if Field is not empty
+{{/Field}}
+
+{{^Field}}
+Shown only if Field is empty
+{{/Field}}
+
+Shown always
+</code></pre><p>That&rsquo;s useful, but it has limitations.</p>
+<p>If I wanted to use conditional replacement to color-code my German cards by gender, I would have needed to create different fields for the masculine, feminine, and neuter<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> definite articles and be careful to only fill in one of those 3 fields as I made my cards. And that&rsquo;s maybe even more of a pain in the butt than going through and color-coding everything by hand.</p>
+<p>Luckily, there&rsquo;s a way to pull off content-based conditional formatting even if it isn&rsquo;t baked into Anki.  The solution involves a bit of CSS and Javascript, but trust me, it&rsquo;s not too painful (definitely less painful than hand-formatting everything) and you can mostly copy-and-paste the templates below.</p>
+<p><em>Credit where credit is due: I didn&rsquo;t come up with this myself. Look hard enough on Anki forums and you&rsquo;ll find the answer (I found it <a href="https://anki.tenderapp.com/discussions/ankidesktop/21132-conditional-formatting-based-on-deck#comment_41634514">here</a>). But I wanted to save other code-illiterates the hours it took me to figure out how to make this work by going into a bit more detail and providing a concrete example.</em></p>
+<h2 id="changing-css-styles-and-displaying-different-text-based-on-field-content">Changing CSS styles and displaying different text based on field content</h2>
+<p>The way this works is by using Javascript to change the CSS styling of some part of your card based on field content. You can also change what text gets displayed based on field contents as well. This card template shows how to do both:</p>
+<p><strong>Card Template (front and/or back):</strong></p>
+<pre><code>Normal content
+
+&lt;span id = 'conditional_style'&gt;
+    Conditionally styled content
+&lt;/span&gt;
+
+&lt;!-- conditional text--&gt;
+&lt;span id = 'conditional_text'&gt;&lt;/span&gt;
+
+&lt;script&gt;
+&lt;!-- conditional style--&gt;	
+    if ('{{Field}}' == 'condition'){
+      document.getElementByID('conditional_style').classList.add('condition')
+    };
+
+&lt;!-- conditional text--&gt;
+    if('{{Field}}' == 'condition'){
+      document.getElementById('conditional_text').innerHTML = 'conditional text'
+    };
+&lt;/script&gt;
+</code></pre><p><strong>Styling (shared between cards):</strong></p>
+<pre><code>.card{
+/* card style */
+}
+
+.condition{
+   /* condition1 style */
+}
+</code></pre><p>Let&rsquo;s break this down:</p>
+<p>The condition this card checks for is whether the text in field &ldquo;Field&rdquo; (creative name, right?) is exactly the word &ldquo;condition.&rdquo;  If the condition is met, the <code>conditional style</code> span is styled by the CSS class <code>condition</code> (defined in the Styling box) and the <code>conditional_text</code> span is replaced by &ldquo;conditional text.&rdquo; If the condition isn&rsquo;t met, then everything is styled by the <code>card</code> CSS class and no conditional text is shown.</p>
+<p>If you&rsquo;re confused about how the JavaScript between the <code>&lt;script&gt;</code> tags works, check out <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals">this page on conditionals in JavaScript</a> and these on <a href="https://www.w3schools.com/jsref/met_document_getelementbyid.asp">finding elements by their id</a>, <a href="https://www.w3schools.com/jsref/prop_element_classlist.asp">changing their CSS class</a>, and <a href="https://www.w3schools.com/js/js_htmldom_html.asp">replacing their internal HTML</a>. The nice thing is that once you get how this works, it&rsquo;s easy to adapt the basic idea to do whatever specific task you might have in mind. For instance, it&rsquo;d be easy to condition your cards on other true-false conditions, like <a href="https://www.w3schools.com/jsref/jsref_includes.asp">whether a field includes a certain word</a> (rather than precisely equalling it).</p>
+<p>You can also embed conditional text within a conditionally styled span. Which is exactly how my German noun flashcards work.</p>
+<h2 id="example-color-colding-german-articles-by-gender">Example: color-colding German articles by gender</h2>
+<p>That&rsquo;s all pretty abstract, so instead of ending there I wanted to quickly go through how my German flashcards work. I&rsquo;ve only shown the template for the front of the German-to-English card since the code works the same wherever you paste it and this post is getting long enough already. <a href="https://ankiweb.net/shared/info/1877324510">You can download my deck from Ankiweb</a> if you want to take a look at the card templates more closely (but it&rsquo;s a work in progress and the templates are messier than the cleaned-up version I show here. You&rsquo;ve been warned!).</p>
+<p><strong>Fields<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>:</strong> German, Gender, Plural, English, Example, Images</p>
+<p>In the Gender field, I use &ldquo;m&rdquo; for masculine, &ldquo;f&rdquo; for feminine, and &ldquo;n&rdquo; for neuter nouns. I also sometimes use &ldquo;p,&rdquo; which stands for &ldquo;plural-only&rdquo; to distinguish feminine from plural nouns when there&rsquo;s no singular form.</p>
+<p><strong>Card Front:</strong></p>
+<pre><code>&lt;big&gt;
+    &lt;span id=&quot;gender_color&quot;&gt;
+        &lt;span id=&quot;article&quot;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    {{German}}
+&lt;/big&gt;
+
+&lt;small&gt;{{Plural}}&lt;/small&gt;
+
+&lt;br&gt;
+{{Example}}
+&lt;br&gt;
+{{Images}}
+
+&lt;script&gt;
+    if (&quot;{{gender/plural 1}}&quot; == &quot;m&quot;) {
+        document.getElementById(&quot;gender&quot;).classList.add('m')
+        document.getElementById(&quot;article&quot;).innerHTML= 'der'
+    }
+    
+    else if (&quot;{{gender/plural 1}}&quot; == &quot;f&quot;) {
+        document.getElementById(&quot;gender&quot;).classList.add('f')
+        document.getElementById(&quot;article&quot;).innerHTML = 'die'
+    }
+
+    else if (&quot;{{gender/plural 1}}&quot; == &quot;n&quot;) {
+        document.getElementById(&quot;gender&quot;).classList.add('n')
+        document.getElementById(&quot;article&quot;).innerHTML = 'das'
+    }
+
+    else if (&quot;{{gender/plural 1}}&quot; == &quot;p&quot;) {
+        document.getElementById(&quot;gender&quot;).classList.add('p')
+        document.getElementById(&quot;article&quot;).innerHTML = 'die'
+    };
+&lt;/script&gt;
+</code></pre><p><strong>Styling (shared between cards):</strong></p>
+<pre><code>.card {
+ font-family: arial;
+ font-size: 40px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.m {
+color: royalblue;
+}
+
+.f {
+color: palevioletred;
+}
+
+.n{
+color: goldenrod
+}
+
+.p{
+color: black
+}
+</code></pre><p>The result? Some nicely color-coded cards that I didn&rsquo;t need to color-code myself. And the best part is that this will automatically color code any new cards of this note type as well, which is great for me since I tend to mass-import cards from spreadsheets of vocabulary.</p>
+<p><img src="/img/2020/12/conditional-formatting-example-cards.png" alt="Image"></p>
+<p>For anyone wondering, yes those are my cats. Their names are Hubble and Chandra. The dog (Jule) is my boyfriend&rsquo;s.</p>
+<p>Happy flashcarding!</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>I&rsquo;d also need a field for plural nouns. Some German nouns only ever take the plural definite article &ldquo;die,&rdquo; which is identical in the nominative case to the feminine article. I color-code plural nouns differently as well, and this overlap of &ldquo;die&rdquo; is one of the main reasons I don&rsquo;t conditionally format on an article field containing one of &ldquo;der&rdquo; &ldquo;die&rdquo; or &ldquo;das&rdquo; but rather on a gender/plural field containing one of &ldquo;m&rdquo; &ldquo;n&rdquo; &ldquo;f&rdquo; and &ldquo;p&rdquo;. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>These aren&rsquo;t exactly the names of the fields I use, since I store more than one definition for each word on my cards. I simplified things for clarity. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+    </div>
+    <footer>
+      <div class="stats">
+  
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/anki/">Anki</a></li>
+        
+      
+    </ul>
+  
+  
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/anki/">anki</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/german-anki-flashcards/">german anki flashcards</a></li>
+        
+      
+    </ul>
+  
+</div>
+
+    </footer>
+  </article>
+  
+    
+  <article class="post">
+    
+    <div>
+      <h2 id="say-something">Leave a comment</h2>
+      Your comment will appear a few minutes after submission.
+        <form id="comment-form" class="new-comment" method="POST">
+          
+          <h3 class='reply-notice hidden'>
+            <span class='reply-name'></span>
+          </h3>
+
+          
+          <input type="hidden" name="options[entryId]" value="07d86415825163d630721cf65eac0a7c">
+          <input type='hidden' name='fields[replyThread]' value=''>
+          <input type='hidden' name='fields[replyID]' value=''>
+          <input type='hidden' name='fields[replyName]' value=''>
+
+          
+          <input required name='fields[name]' type='text' placeholder='Your Name'>
+          <input name='fields[email]' type='email' placeholder='Your Email'>
+          <textarea required name='fields[body]' placeholder='Your Message' rows='10'></textarea>
+
+          
+          
+          
+            <input hidden name="options[reCaptcha][siteKey]" value="6LdUnecZAAAAAEbntlBHUXiR1kEmbooLh66KuEB2">
+            <input hidden name="options[reCaptcha][secret]" value="6LdUnecZAAAAAAzp4pj2AWGyCxU6HiJ0k9a5J6FC">
+            <div class="g-recaptcha" data-sitekey="6LdUnecZAAAAAEbntlBHUXiR1kEmbooLh66KuEB2"></div>
+          
+          
+
+          
+          <div class='submit-notice'>
+            <strong class='submit-notice-text submit-success hidden'>Thanks for your comment! It will be shown on the site once it has been approved.</strong>
+            <strong class='submit-notice-text submit-failed hidden'>Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again.</strong>
+          </div>
+
+          
+          <input type='submit' value='Submit' class='button'>
+          <input type='submit' value='Submitted' class='hidden button' disabled>
+          <input type='reset' value='Reset' class='button'>
+        </form>
+    </div>
+
+    
+    <div>
+      <h2>Comments</h2>
+    </div>
+  </article>
+
+
+  
+  <div class="pagination">
+    
+    
+      <a href="/blog/is-duolingo-bad-maybe-but-its-still-worth-downloading/" class="button right"><span>Is Duolingo bad? Maybe, but it&#39;s still worth downloading</span></a>
+    
+  </div>
+
+      </main>
+      <section id="site-sidebar">
+  
+    <section id="recent-posts">
+      <header>
+        <h1>Recent Posts</h1>
+      </header>
+      
+      <article class="mini-post">
+          <a href="/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/" class="image">
+    <img src="https://suspicious-galileo-91919d.netlify.app/img/2020/12/conditional-formatting-banner.jpg" alt="conditionally formatted german flashcards for cat and dog">
+  </a>
+        <header>
+          <h2><a href="/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/">Conditional formatting based on field content for Anki flashcards</a></h2>
+          <time class="published" datetime="2020-12-12 10:06:21 -0700 MST">December 12, 2020</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          <a href="/blog/is-duolingo-bad-maybe-but-its-still-worth-downloading/" class="image" style="--bg-image: url('https://suspicious-galileo-91919d.netlify.app/img/2020/12/duolingo-german-owl.jpg');">
+    <img src="https://suspicious-galileo-91919d.netlify.app/img/2020/12/duolingo-german-owl.jpg" alt="">
+  </a>
+        <header>
+          <h2><a href="/blog/is-duolingo-bad-maybe-but-its-still-worth-downloading/">Is Duolingo bad? Maybe, but it&#39;s still worth downloading</a></h2>
+          <time class="published" datetime="2020-12-08 18:18:52 -0700 MST">December 8, 2020</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+          
+        <header>
+          <h2><a href="/blog/fehler-files-1-german-dative-plural/">Fehler Files: German Dative Plural</a></h2>
+          <time class="published" datetime="2020-12-02 00:00:00 &#43;0000 UTC">December 2, 2020</time>
+        </header>
+      </article>
+      
+      
+    </section>
+  
+
+  
+    
+
+      <section id="categories">
+        <header>
+          <h1><a href="/categories">Categories</a></h1>
+        </header>
+        <ul>
+          
+          
+          <li>
+              <a href="/categories/german/">german<span class="count">2</span></a>
+          
+          <li>
+              <a href="/categories/anki/">anki<span class="count">1</span></a>
+          
+          <li>
+              <a href="/categories/fehler-files/">fehler-files<span class="count">1</span></a>
+          
+          <li>
+              <a href="/categories/language-learning/">language-learning<span class="count">1</span></a>
+          
+          </li>
+        </ul>
+      </section>
+    
+  
+
+  
+    <section id="mini-bio">
+      <header>
+        <h1>About</h1>
+      </header>
+      <p>Monoglot Anxiety is a blog about language and language learning that doesn't take itself too seriously. German-focused, with new Anki decks and vocab lists biweekly. </p>
+      <footer>
+        <a href="/about" class="button">Learn More</a>
+      </footer>
+    </section>
+  
+</section>
+
+      <footer id="site-footer">
+  
+      <ul class="socnet-icons">
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="mailto:hello@monoglotanxiety.com" target="_blank" title="Email" class="far fa-envelope"></a></li>
+
+      </ul>
+  
+  <p class="copyright">
+    © 2020 Monoglot Anxiety
+      <br>
+    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.78.2' target='_blank' rel='noopener'>Hugo</a>
+  </p>
+</footer>
+<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
+
+      <script src="/js/highlight.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.ef37d1d86ad6730c88f5ff4a3482de4f66d174e15015817998493b44e4727e87.js" integrity="sha256-7zfR2GrWcwyI9f9KNILeT2bRdOFQFYF5mEk7RORyfoc="></script>
+    <script src="/js/add-on.js"></script>
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-172705638-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    </div>
+  </body>
+</html>
