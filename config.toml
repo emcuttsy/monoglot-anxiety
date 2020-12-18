@@ -9,6 +9,7 @@ disqusShortname         = ""
 googleAnalytics         = "UA-172705638-2"
 pluralizeListTitles     = false
 disableLanguages        = ['fr','pl','pt','de','es','zh-cn','zh-tw','ja','nl']
+enableEmoji             = true
 
 [markup.goldmark.renderer]
   unsafe                = true
