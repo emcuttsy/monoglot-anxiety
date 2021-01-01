@@ -1,9 +1,9 @@
 +++
 title = "Contact"
 layout = "contact"
-netlify = false
+netlify = true
 emailservice = "formspree.io/me@elisecutts.com"
-contactanswertime = '24'
+contactanswertime = 24
 
 +++
 
