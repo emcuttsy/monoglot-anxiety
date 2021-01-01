@@ -36,8 +36,6 @@ enableEmoji             = true
   removeBlur            = false
   socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
   hideEmptyStats        = false
-  netlify               = true
-  emailService          = ''
 
   [params.meta]
     description         = "A blog about language and language learning that doesn't take itself too seriously"

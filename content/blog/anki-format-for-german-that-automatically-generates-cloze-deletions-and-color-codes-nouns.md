@@ -1,7 +1,7 @@
 ---
 title: "Anki template for German that automatically generates cloze deletions and color-codes nouns"
-description: "Using the magic of German grammar, this anki template automatically color-codes nouns by gender and generates cloze deletions without extra clicks or note types—just enter the word and an example sentence."
-author: "Anxious Monoglot"
+description: "Using the magic of German grammar, this Anki template automatically color-codes nouns by gender and generates cloze deletions without extra clicks or note types—just enter the word and an example sentence."
+author: ""
 draft: false
 date: 2020-12-31T15:20:02-07:00
 tags: [anki card template, german anki template, anki, language learning]
