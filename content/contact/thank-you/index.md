@@ -1,6 +1,7 @@
 +++
 title = "Thanks!"
 layout = "about"
+description = ""
 
 +++
 
