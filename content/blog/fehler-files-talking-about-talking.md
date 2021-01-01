@@ -4,8 +4,8 @@ description: "I tell 'dir' but ask 'dich.' Why? A quick review of the cases take
 author: "Anxious Monoglot"
 draft: false
 date: 2020-12-16T18:31:32-07:00
-tags: ["german grammar", "german case", "dative case", "accusative case", "language mistakes"]
-categories: ["Fehler Files", "German"]
+tags: ["german grammar", "german case", "dative case", "accusative case", "language mistakes", "grammar mistakes"]
+categories: ["Fehler Files: Grammar Mistakes", "German", "Grammar"]
 comments: true
 removeBlur: false
 enableEmoji: true
@@ -67,5 +67,5 @@ And in case you're still wondering why I wrote that practice story about someone
 
 *There are a lot of words for 'drunk' in German. Find as many as you can, and then write a story in which the main character is drunk.*
 
-All those words for "drunk" are coming up in the next post. Cheers! :beers:
+All those words for "drunk" are coming up in another post. Cheers! :beers:
 

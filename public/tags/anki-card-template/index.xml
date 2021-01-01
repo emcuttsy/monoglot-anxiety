@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anki card template on Monoglot Anxiety</title>
+    <link>https://suspicious-galileo-91919d.netlify.app/tags/anki-card-template/</link>
+    <description>Recent content in anki card template on Monoglot Anxiety</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Dec 2020 15:20:02 -0700</lastBuildDate><atom:link href="https://suspicious-galileo-91919d.netlify.app/tags/anki-card-template/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anki template for German that automatically generates cloze deletions and color-codes nouns</title>
+      <link>https://suspicious-galileo-91919d.netlify.app/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</link>
+      <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
+      
+      <guid>https://suspicious-galileo-91919d.netlify.app/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</guid>
+      <description>One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don&amp;rsquo;t play nice with basic card types. And while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance. So instead of spending an extra 30sec/card, I did the lazy thing and spent an extra week figuring out how to get basic cards to automatically make cloze deletions based on example sentences.</description>
+    </item>
+    
+  </channel>
+</rss>

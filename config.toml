@@ -4,12 +4,18 @@ baseurl                 = "https://suspicious-galileo-91919d.netlify.app/"
 DefaultContentLanguage  = "en"
 title                   = "Monoglot Anxiety"
 theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
+paginate                = 6
 disqusShortname         = ""
 googleAnalytics         = "UA-172705638-2"
 pluralizeListTitles     = false
 disableLanguages        = ['fr','pl','pt','de','es','zh-cn','zh-tw','ja','nl']
 enableEmoji             = true
+
+[taxonomies]
+    category = "categories"
+    ankideck = "ankidecks"
+    tag = "tags"
+
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -65,6 +71,7 @@ enableEmoji             = true
     about               = "Monoglot Anxiety is a blog about language and language learning that doesn't take itself too seriously. German-focused, with new Anki decks and vocab lists biweekly. "
     postAmount          = 5
     categories          = true
+    tags                = true
     categoriesByCount   = true
 
   [params.footer]
@@ -97,21 +104,28 @@ enableEmoji             = true
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
+    weight            = 5
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
+    weight            = 4
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Anki Decks"
+    identifier        = "ankidecks"
+    url               = "/ankidecks/"
+    pre               = "<i class='fas fa-star'></i>"
+    weight            = 2
 
   [[menu.main]]
     name              = "Contact"
