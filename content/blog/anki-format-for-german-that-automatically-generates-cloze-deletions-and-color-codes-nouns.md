@@ -95,7 +95,7 @@ Hopefully the uses for the fields are intuitive. But there are a few things to k
 
 **Field 3: Translation**: A translation of the German word into a language you already know
 
-**Field 4: Example sentence**: An example sentence in German containing the word in Field 1. And here's the magic bit: <u>your word can appear in an inflected form, and auto-cloze will still work!</u> (*Ich sehe <u>die Maus*</u> :white_check_mark:, *Ich sehe <u>die Mäuse*</u> :white_check_mark: ). Do *not* treat this field like a cloze field (*Ich sehe die Maus* :white_check_mark:, *Ich sehe {{c1:die Maus}}* :x: ). This 
+**Field 4: Example sentence**: An example sentence in German containing the word in Field 1. And here's the magic bit: <u>your word can appear in an inflected form, and auto-cloze will still work!</u> (*Ich sehe <u>die Maus*</u> :white_check_mark:, *Ich sehe <u>die Mäuse*</u> :white_check_mark: ). Do *not* treat this field like a cloze field (*Ich sehe die Maus* :white_check_mark:, *Ich sehe {{c1:die Maus}}* :x: ). The cloze is done automatically by a script in the card template.
 
 **Field 5: Image [optional]**: An image (or multiple images) that relates to the word in Field 1.
 
