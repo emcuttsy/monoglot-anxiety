@@ -1,7 +1,7 @@
 ---
 title: "Is Duolingo bad? Maybe, but it's still worth downloading"
 description: "Any language-learning tool that can compete against social media and mobile games for our attention is worth giving a shot"
-author: "Anxious Monoglot"
+author: ""
 draft: false
 date: 2020-12-08T18:18:52-07:00
 tags: ["language apps", "language learning"]

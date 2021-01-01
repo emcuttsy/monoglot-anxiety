@@ -16,6 +16,9 @@ enableEmoji             = true
     ankideck = "ankidecks"
     tag = "tags"
 
+[author]
+    name = 'Monoglot Anxiety'
+
 
 [markup.goldmark.renderer]
   unsafe                = true

@@ -1,7 +1,7 @@
 ---
 title: "Fehler Files: German Dative Plural"
 description: "Don't forget to add your -ns."
-author: "Anxious Monoglot"
+author: ""
 date: "2020-12-02"
 tags: ["German grammar", "dative case", "german case", "language mistakes", "grammar mistakes"]
 categories: ["Fehler Files: Grammar Mistakes",  "German", "Grammar"]

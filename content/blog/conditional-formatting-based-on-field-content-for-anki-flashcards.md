@@ -1,7 +1,7 @@
 ---
 title: "Conditional formatting based on field content for Anki flashcards"
 description: "Change card styling and text based on the content of your note fields, not just whether they're empty or not empty"
-author: "Anxious Monoglot"
+author: ""
 draft: false
 date: 2020-12-12T10:06:21-07:00
 tags: ["anki", "german anki flashcards"]

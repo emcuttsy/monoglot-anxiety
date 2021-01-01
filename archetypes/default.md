@@ -1,7 +1,7 @@
 ---
 title: ""
 description: ""
-author: ""
+author: {{.Params.meta.author}}
 draft: false
 date: {{ .Date }}
 tags: []

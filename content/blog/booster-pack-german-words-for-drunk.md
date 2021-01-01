@@ -1,9 +1,9 @@
 ---
 title: "Vocabulary booster pack: German words for 'drunk'"
 description: "True to stereotypical form, the German language arms its speakers with an ample arsenal of words describing intoxication"
-author: "Anxious Monoglot"
-draft: true
-date: 2020-12-24T19:07:59-07:00
+author: ""
+draft: false
+
 tags: [german vocabulary, german anki flashcards, fun german vocabulary]
 categories: [German, Anki]
 ankidecks: [German, Booster Packs]
