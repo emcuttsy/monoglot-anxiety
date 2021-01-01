@@ -20,7 +20,7 @@ One of my major frustrations with Anki is the stiffness of cloze-formatted cards
 
 Finally, an aspect of Anki that is willing to accomodate my laziness!
 
-You can [download my Anki template for German for pay-what-you-want](https://gum.co/monoglotanxiety-autocloze-nouns-etc) (so probably free) or from [Ankiweb](https://ankiweb.net/shared/info/1483890412). One thing—thanks to German's *fun* grammar, the auto-cloze feature doesn't work for verbs (yet, [see my note at the bottom](#no-verbs-yet-but-stay-tuned)). 
+**You can [download my Anki template for German for pay-what-you-want](https://gum.co/monoglotanxiety-autocloze-nouns-etc) (so probably free) or from [Ankiweb](https://ankiweb.net/shared/info/1483890412).** One thing—thanks to German's *fun* grammar, the auto-cloze feature doesn't work for verbs (yet, [see my note at the bottom](#no-verbs-yet-but-stay-tuned)). 
 
 If you do test out the format, I'd love to hear from you—especially if something went wrong. I'm happy and eager to fix any bugs you might find. Happy Anki-ing
 
