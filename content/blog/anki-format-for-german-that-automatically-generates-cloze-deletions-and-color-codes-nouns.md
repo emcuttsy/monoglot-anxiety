@@ -52,6 +52,7 @@ I really wanted to keep things intuitive for these cards. **The order of fields 
 
 <center>
 
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/TOguD" target="_blank">Get the template for free! (or pay what you want)</a>
 
@@ -112,3 +113,15 @@ Even for regular German verbs, the grammatical rules governing conjugation are m
 I have a working auto-cloze template for verbs now that can also detect and highlight irregular verbs when the traditional 3-tense conjugation is provided (i.e. denkt, dachte, hat gedacht). However, I want to test it a bit more before making it available since its possible there are bugs I haven't caught. And since getting verbs to work has been a *lot* of work, I'll probably end up asking for a few bucks in exchange for the auto-cloze-everything-and-automatically-highlight-irregular-verbs card format.
 
 Thanks for reading, and let me know how the template works for you!
+
+<br>
+
+<center>
+
+<script src="https://gumroad.com/js/gumroad.js"></script>
+
+<a class="gumroad-button" href="https://gum.co/TOguD" target="_blank">Get the template for free! (or pay what you want)</a>
+
+You can also [download the template from AnkiWeb](https://ankiweb.net/shared/info/1483890412).
+
+</center>
