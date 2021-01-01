@@ -36,10 +36,11 @@ enableEmoji             = true
   removeBlur            = false
   socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
   hideEmptyStats        = false
+  netlify               = true
 
   [params.meta]
     description         = "A blog about language and language learning that doesn't take itself too seriously"
-    author              = "Monoglot Anxiety"
+    author              = "Anxious Monoglot"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
