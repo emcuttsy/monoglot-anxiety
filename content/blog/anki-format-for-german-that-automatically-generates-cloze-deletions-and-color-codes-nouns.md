@@ -18,7 +18,9 @@ images:
 
 One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don't play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance.  So instead of spending an extra 30sec/card, I did the *clearly* easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences. 
 
-Finally, an aspect of Anki that is willing to accomodate my laziness!
+*Clearly* easier.
+
+Anyways, since I did it already you don't have to. I've made a template that automatically generates cloze deletions based on example sentences in basic card. And to top things off, it automatically color-codes nouns by gender. This is about as painless as making thousands of flashcards by hand gets.
 
 **You can [download my Anki template for German for pay-what-you-want](https://gum.co/monoglotanxiety-autocloze-nouns-etc) (so probably free) or from [Ankiweb](https://ankiweb.net/shared/info/1483890412).** One thing—thanks to German's *fun* grammar, the auto-cloze feature doesn't work for verbs (yet, [see my note at the bottom](#no-verbs-yet-but-stay-tuned)). 
 
