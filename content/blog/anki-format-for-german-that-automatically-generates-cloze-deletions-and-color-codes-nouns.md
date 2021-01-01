@@ -16,7 +16,7 @@ images:
   - stretch: ""
 ---
 
-One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don't play nice with basic card types. And while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance.  So instead of spending an extra 30sec/card, I did the lazy thing and spent an extra week figuring out how to get basic cards to automatically make cloze deletions based on example sentences. They also color-code nouns!
+One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don't play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance.  So instead of spending an extra 30sec/card, I did the *clearly* easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences. 
 
 Finally, an aspect of Anki that is willing to accomodate my laziness!
 
