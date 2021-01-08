@@ -6,20 +6,38 @@
     <description>Recent content in Categories on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Dec 2020 15:20:02 -0700</lastBuildDate><atom:link href="https://suspicious-galileo-91919d.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 20:30:24 -0700</lastBuildDate><atom:link href="https://suspicious-galileo-91919d.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anki</title>
       <link>https://suspicious-galileo-91919d.netlify.app/categories/anki/</link>
-      <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
+      <pubDate>Tue, 05 Jan 2021 20:30:24 -0700</pubDate>
       
       <guid>https://suspicious-galileo-91919d.netlify.app/categories/anki/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Anki Decks</title>
+      <link>https://suspicious-galileo-91919d.netlify.app/categories/anki-decks/</link>
+      <pubDate>Tue, 05 Jan 2021 20:30:24 -0700</pubDate>
+      
+      <guid>https://suspicious-galileo-91919d.netlify.app/categories/anki-decks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammar</title>
+      <link>https://suspicious-galileo-91919d.netlify.app/categories/grammar/</link>
+      <pubDate>Tue, 05 Jan 2021 20:30:24 -0700</pubDate>
+      
+      <guid>https://suspicious-galileo-91919d.netlify.app/categories/grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>German</title>
       <link>https://suspicious-galileo-91919d.netlify.app/categories/german/</link>
-      <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
+      <pubDate>Mon, 04 Jan 2021 19:17:30 -0700</pubDate>
       
       <guid>https://suspicious-galileo-91919d.netlify.app/categories/german/</guid>
       <description></description>
@@ -40,15 +58,6 @@
       <pubDate>Wed, 16 Dec 2020 18:31:32 -0700</pubDate>
       
       <guid>https://suspicious-galileo-91919d.netlify.app/categories/fehler-files-grammar-mistakes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grammar</title>
-      <link>https://suspicious-galileo-91919d.netlify.app/categories/grammar/</link>
-      <pubDate>Wed, 16 Dec 2020 18:31:32 -0700</pubDate>
-      
-      <guid>https://suspicious-galileo-91919d.netlify.app/categories/grammar/</guid>
       <description></description>
     </item>
     
