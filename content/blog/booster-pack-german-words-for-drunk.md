@@ -33,7 +33,7 @@ While all of these words mean "drunk," they aren't all equivalent. Just like "ti
 
 Because drunkness is apparently pretty nuanced in German, I recruited my boyfriend to use his native speaker's ear to sort these from least-drunk to most-drunk. He was sweet enough to help out, and provided some notes on connotation as well. But be warned: he's Austrian, and Austrian German (or "cool German" as Clemens says) can be very different from German-German. So blame him if you raise a few eyebrows after whipping out one of these words in German company. The "*super* Austrian" words are marked with a little flag. :austria:
 
-**Words are listed from least to most drunk, from *angeheitert* to *hinüber*** (which can literally mean dead). Clemens' notes on usage are in parentheses. If you want to have a shot at remembering these in an appropriate context, check out the **free Anki deck**. I've also made a **premium version with cloze deletions, color coding for nouns and irregular verb forms, and images** that you can pick up for $2 or pay-what-you-want.
+**Words are listed from least to most drunk, from *angeheitert* to *hinüber*** (which can literally mean dead). Clemens' notes on usage are in parentheses. If you want to have a shot at remembering these in an appropriate context, check out the [**free Anki deck**](https://ankiweb.net/shared/info/1289381375). I've also made a [**premium version with cloze deletions, color coding for nouns and irregular verb forms, and images**](https://gum.co/ZsrPr) that you can pick up for $2 or pay-what-you-want.
 
 <center>
 
@@ -101,9 +101,7 @@ A very cute hangover
 
 ## Get the free Anki deck of German words for "drunk"
 
-That's it for this booster pack. Don't forget to check out the Anki decks if that's your thing. 
-
-Next time I'll be sharing a set of hiking-specific words to lend some linguistic authenticity any pandemic daydreams of alpine hiking vacations that you might be nursing. I plan to post a booster pack on the first friday of every month. [You can find a list of all of my booster packs and other Anki decks here](/ankidecks/).
+That's it for this booster pack. Don't forget to check out the Anki decks if that's your thing. Next time I'll be sharing a set of hiking-specific words to lend some linguistic authenticity any pandemic daydreams of alpine hiking vacations that you might be nursing. I plan to post a booster pack on the first friday of every month. [You can find a list of all of my booster packs and other Anki decks here](/ankidecks/).
 
 Thanks for reading and leave me a comment below if you liked it or have feedback!
 
@@ -111,9 +109,11 @@ Thanks for reading and leave me a comment below if you liked it or have feedback
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-<a class="gumroad-button" href="https://gum.co/ZsrPr">Get the Anki deck!</a>
+<a class="gumroad-button" href="https://gum.co/ZsrPr">Get the Anki deck!</a>
 
 </center>
+
+[Get the free version from AnkiWeb.](https://ankiweb.net/shared/info/1289381375)
 
 <hr>
 
