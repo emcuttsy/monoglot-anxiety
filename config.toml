@@ -41,7 +41,7 @@ enableEmoji             = true
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A blog about language and language learning that doesn't take itself too seriously"
+    description         = "A blog about language and language learning that doesn't take itself too seriously."
     author              = "Anxious Monoglot"
     favicon             = false
     svg                 = true
@@ -58,7 +58,7 @@ enableEmoji             = true
 
   [params.intro]
     header                = "Monoglot Anxiety"
-    paragraph             = "A blog about language and language learning that doesn't take itself too seriously"
+    paragraph             = " Anki resources for German, with free vocabulary 'booster packs' on the first friday of every month."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -71,7 +71,7 @@ enableEmoji             = true
       alt                 = "Monoglot Anxiety"
 
   [params.sidebar]
-    about               = "Monoglot Anxiety is a blog about language and language learning that doesn't take itself too seriously. German-focused, with new Anki decks and vocab lists biweekly. "
+    about               = " Anki resources for German, with free vocabulary 'booster packs' on the first friday of every month."
     postAmount          = 5
     categories          = true
     tags                = true
