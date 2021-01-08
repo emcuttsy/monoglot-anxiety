@@ -2,7 +2,7 @@
 title: "Booster pack: German hiking vocabulary"
 description: "And: why you should book your Alps trip to Austria or Switzerland, not Germany"
 author: ""
-draft: false
+draft: true
 date: 2021-01-04T19:17:30-07:00
 tags: [german anki flashcards, german vocabulary, fun german vocabulary]
 categories: [German, Anki]
