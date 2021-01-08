@@ -58,7 +58,7 @@ enableEmoji             = true
 
   [params.intro]
     header                = "Monoglot Anxiety"
-    paragraph             = " Anki resources for German, with free vocabulary 'booster packs' on the first friday of every month."
+    paragraph             = "A blog about language and language learning that doesn't take itself too seriously. Anki resources for German, with free vocabulary 'booster packs' on the first friday of every month."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -71,7 +71,7 @@ enableEmoji             = true
       alt                 = "Monoglot Anxiety"
 
   [params.sidebar]
-    about               = " Anki resources for German, with free vocabulary 'booster packs' on the first friday of every month."
+    about               = "A blog about language and language learning that doesn't take itself too seriously. Anki resources for German, with free vocabulary 'booster packs' on the first friday of every month."
     postAmount          = 5
     categories          = true
     tags                = true
