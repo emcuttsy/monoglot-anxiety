@@ -1,10 +1,10 @@
 ---
-title: "Fehler Files: German Dative Plural"
+title: "Fehler Files: the German Dative Plural"
 description: "Don't forget to add your -ns."
 author: ""
 date: "2020-12-02"
 tags: ["German grammar", "dative case", "german case", "language mistakes", "grammar mistakes"]
-categories: ["Fehler Files: Grammar Mistakes",  "German", "Grammar"]
+categories: ["German Mistakes",  "German", "Grammar"]
 comments: true
 removeBlur: false
 ---
@@ -17,7 +17,7 @@ Despite having studied the language for 2 years, I could barely understand him a
 
 Screwing up is fine. It's maybe even necessary. There's nothing it when it comes to learning. I can almost feel my brain tying neurons together in a frenzy of embarrased desparation every time I'm corrected.
 
-That's the idea behind "Fehler Files," a new series I'm kicking off in this post. I'll be sharing real ways I've screwed up speaking German in short posts so you can experience that feeling embarrased desparation vicariously (though I won't say it's a substitute for the real deal. Go find your own person to point out all your flaws—grammatical and otherwise—for you, there's nothing better). It will hopefully add up to something like a collection of bite-sized grammar reviews of topics that are both tricky and common enough to give a B1/B2-level speaker trouble. 
+That's the idea behind "Fehler Files," a little series I'm kicking off in this post. I'll be sharing real ways I've screwed up speaking German in short posts so you can experience that feeling embarrased desparation vicariously (though I won't say it's a substitute for the real deal. Go find your own person to point out all your flaws—grammatical and otherwise—for you, there's nothing better). It will hopefully add up to something like a collection of bite-sized grammar reviews of topics that are both tricky and common enough to give a B1/B2-level speaker trouble. 
 
 To start things off, let's talk about how I've butchered the **German dative plural.**
 
@@ -72,8 +72,4 @@ There are also some more specific uses that show up regularly but that I don't s
 * indicating possession of body parts, articles of clothing, prized possessions, and close relatives (ex. *<u>Den Waisenkindern</u> sind gerade die Eltern gestorben*)
 * with adjectives, especially adjectives with *zu* or *genug* (ex. *Diese Uhren sind <u>den Kunden</u> zu teuer.*)
 
-I won't go into these here now, since I plan on coming back to the dative case later and breaking each of these down in more detail in regular posts. 
-
----
-
-I hope this first Fehler Files post was useful for you. Let me know what you think in the comments, and don't forget your dative plurals!
+I won't go into these here now, since I plan on coming back to the dative case later and breaking each of these down in more detail in regular posts. Anyhow, let me know what you think in the comments, and don't forget your dative plurals!

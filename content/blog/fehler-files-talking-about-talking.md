@@ -1,11 +1,11 @@
 ---
-title: "Fehler Files: Talking about talking"
+title: "Fehler Files: Talking about talking in German"
 description: "I tell 'dir' but ask 'dich.' Why? A quick review of the cases taken by verbs describing speech like sagen, fragen, and erzählen"
 author: ""
 draft: false
 date: 2020-12-16T18:31:32-07:00
 tags: ["german grammar", "german case", "dative case", "accusative case", "language mistakes", "grammar mistakes"]
-categories: ["Fehler Files: Grammar Mistakes", "German", "Grammar"]
+categories: ["German Mistakes", "German", "Grammar"]
 comments: true
 removeBlur: false
 enableEmoji: true
