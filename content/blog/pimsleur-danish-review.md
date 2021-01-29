@@ -90,7 +90,7 @@ It wasn't part of Danish 1 but in German 5, there was a lesson that taught vocab
 
 This focus on cars strikes me as another businessman-bias, since a businessman is just about the only person I could imagine ever renting a car in Denmark (I'll forgive the assumption in car-happy Germany). Pimsleur is *really* into cars. It taught me how to say "I have a big German car" before I learned to say where I live, and never touched on planes, trains, bicycles, or busses. 
 
-And as one final example of both the sexist tilt and business-class bias, one of the very first things you learn is to ask people back to your place for dinner. I mean, maybe that makes sense if you're a business-class businessman doing a business dinner in your Copenhagen business apartment. But for everyone else… it's just weird. And worse, for a language course with a $150 price tag, it's useless.
+And as one final example of both the sexist tilt and business-class bias, one of the very first things you learn is to ask people back to your place for dinner. I mean, maybe that makes sense if you're a business-class businessman doing a business dinner in your Copenhagen business apartment. But for everyone else… it's just weird. And worse, for a language course with a $120 price tag, it's useless.
 
  Call me a buzzkill, but I think you should at least learn how to ask someone's name before you start hitting on them in a language you can't speak. 
 
