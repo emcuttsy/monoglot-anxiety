@@ -7,19 +7,21 @@ layout = "about"
 
 +++
 
-Being the good cornfed American girl that I am, I didn't learn a second language growing up, and I ended up develop a nasty case of I now affectionately call *monoglot anxiety*: a sort of wallowing, often jealous panic surrounding having never learned to speak a second language, and fear of inevitably screwing up all the time if I *did* try to learn one. 
+Monoglot Anxiety is a blog about language and language learning with a focus on German and Danish.
 
-For years, it held me back, but eventually, it drove me bonkers enough to grind to the end of Duolingo German. 
+I'm not an expert—more an enthusiastic fan. I speak German at between a B2 and C1 level and Danish at… -A1. I can't humble-brag on the 15 languages I've taught myself like all those internet polyglots who run language sites. So instead of basing my posts on expertise, I base them on mistakes, trial-and-error, chance discoveries, and a good dose of self-deprecating humor. 
 
-Anxiety is, for the record, never the best reason to do anything (and Duolingo is, for the record, not necessarily the best way to start learning a language). But in the absence of other motivators, anxiety sometimes gets the job done. 
+Most posts fall into one of three categories:
 
-Anyways, one thing led to another and now I have a language blog.
+1. Explanations of grammar and usage inspired by the real mistakes I make while speaking
+2. Reviews of and guides to language-learning resources 
+3. Anki decks, card formats, and tricks for language learning (especially for German and Danish)
 
-I'm not an expert—more an enthusiastic fan. I can't humble-brag on the 15 languages I've taught myself like all those internet polyglots who run language sites. So you won't find promises of fluency in X amount of time here, nor any #inspiration. You *will* find what I hope is **an entertaining take on language and language learning, written by someone who's in this for fun, not perfection.** 
+If you don't know where to start, check out [my Anki format for German flashcards](/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/), [my review of Pimsleur Danish](/blog/pimsleur-danish-review/), or, if you fancy a laugh, [my flashcard deck made exclusively of German words for drunk](/blog/booster-pack-german-words-for-drunk/) complete with "cultural" notes generously provided by an Austrian native-speaker. 
 
-*Aside: humble-bragging is totally justified if you've taught yourself 15 languages... But just because you've earned it doesn't mean I have to like it!*
+And if you liked that last deck, be sure to check back on the first Friday of each month when I release a new "booster pack" of unnecessary but delightful German vocabulary you can add to your own Anki deck for free. 
 
----
+Thanks for visiting, vielen Dank, and tusind tak.
 
-I write about all sort of language topics, but this blog definitely has a specific focus on German. I share a lot of **German-specific tips and resources**, including **new Anki cards and vocabulary lists every month.**
+*A quick aside: humble-bragging is totally justified if you've taught yourself 15 languages... But just because you've earned it doesn't mean I have to like it!*
 
