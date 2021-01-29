@@ -4,7 +4,7 @@ description: "The listening-based approach is good for phonetically-tricky Danis
 author: ""
 draft: false
 date: 2021-01-25T20:03:24-07:00
-tags: [danish, language learning, language apps, danish resources, reviews]
+tags: [danish, language learning, language apps, danish resources, reviewscd]
 categories: [Reviews, Language Learning, Danish]
 comments: true
 removeBlur: true
@@ -127,5 +127,15 @@ Second, Pimsleur teaches listening and pronunciation. **If you're not going to c
 Third, **spaced repetition works, and even if you won't learn very much vocabulary with Pimsleur you're likely to remember the vocabulary you do learn**. It's a good foundation for building upon, and getting those first few words and "conversations" out of the way builds confidence. **Spaced repetition also contributes to making Pimsleur a positive, motivating experience**—it feels great to feel like you have answers to simpel questions on the tip of your tongue, and that's what spaced repetition gives you in Pimsleur (although the responses are more rehearsed than spontaneous… which is why I see this as more of a motivation helper than a good language-learning strategy)
 
 So yes, there are reasons the Pimsleur courses have stood the test of time and remain so popular despite their flaws. 
+
+## Pimsleur costs too much, but there are (100% legal) ways to get around that problem
+
+If you think Pimsleur is the course for you, **please, *please* don't do what I did and pay $120 for 15 hours of audio lessons**. I could have booked 8 lessons with my Danish iTalki tutor for that much. For what Pimsleur is, the price is too high. A lot of the price is definitely the brand.
+
+Luckily, there are some (legal, put away your pirate flags) options out there for getting around the price tag.
+
+First, Pimsleur offers a subscription version of its courses for $14.99/month. You get access to all of the material for a given language for as long as you're subscribed—you just don't get to keep the course afterwards. Since Danish has only one 30-day course, **you'd only need to pay \$15 to do the whole course over one month with the subscription model**. And I think that's a totally fair price for what Pimsleur is. Almost 10x the price just to keep the recordings (which you should not listen to more than once anyways) isn't worth it any way you slice it.
+
+**Another alternative is to check your library**—thanks to Pimsleur's fame and long-time popularity, it's a common item in library catalogues in the US. My library didn't have all 5 German courses, but it had the first 3 and Danish as well. 
 
 What do you think? Have you tried out Pimsleur Danish yourself, or are you thinking of giving it a shot? Let me know in the comments below, and thanks for reading!
