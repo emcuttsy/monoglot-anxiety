@@ -1,5 +1,5 @@
 ---
-title: "Voabulary booster pack: German words that mean 'drunk'"
+title: "Voabulary booster pack: German words for drunk"
 description: "Words to make sure you're prepared for your next trip to a Biergarten, with an Anki deck and a funny song to help you remember them—even after a few drinks"
 author: ""
 draft: false
@@ -17,7 +17,7 @@ images:
 
 ---
 
-Depending on your stereotypes of German speakers, you may or may not be surprised to learn that **there are a *lot* of words that mean "drunk" in German.** This post walks through 18 of them as well as words for discussing the aftermath of a night out. I've also put them together as a neat set of [**Anki cards**](https://gum.co/booster-pack-drunk) so you might have a shot at remembering them when the time comes.
+Depending on your stereotypes of German speakers, you may or may not be surprised to learn that **there are a *lot* of German words for drunk.** This post walks through 18 of them as well as words for discussing the aftermath of a night out. I've also put them together as a neat set of [**Anki cards**](https://gum.co/booster-pack-drunk) so you might have a shot at remembering them when the time comes.
 
 Given that Oktoberfest is the largest festival in the world and regularly sees over 6 million tourist annually, its no surprise that typical German stereotypes are usually steeped in beer—so much so that at least one tourist had to ask on the Fodor's Travel forum: [can a non-beer drinker visit Germany?"](https://www.fodors.com/community/europe/can-a-non-beer-drinker-visit-germany-207858/) Is it even *possible*? 
 
@@ -99,7 +99,7 @@ A very cute hangover
 
 </center>
 
-## Get the free Anki deck of German words for "drunk"
+## Get the free Anki deck of German words for drunk
 
 That's it for this booster pack. Don't forget to check out the Anki decks if that's your thing. Next time I'll be sharing a set of hiking-specific words to lend some linguistic authenticity any pandemic daydreams of alpine hiking vacations that you might be nursing. I plan to post a booster pack on the first friday of every month. [You can find a list of all of my booster packs and other Anki decks here](/ankidecks/).
 
