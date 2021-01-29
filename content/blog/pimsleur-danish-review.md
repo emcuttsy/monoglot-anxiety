@@ -1,6 +1,6 @@
 ---
 title: "A candid review of Pimsleur Danish"
-description: "The listening-based approach is good for phonetically-tricky Danish, but the dialogue is weirdly irrelevant unless your primary motivation for learning Danish is to pick up girls abroad."
+description: "The listening-based approach is good for phonetically-tricky Danish, but the dialogue is weirdly irrelevant unless your primary motivation for learning Danish is picking up girls abroad."
 author: ""
 draft: false
 date: 2021-01-25T20:03:24-07:00
@@ -22,6 +22,8 @@ I received a lot of reccomendations of the Pimsleur language programs from famil
 ## Overview: Pimsleur Danish
 
 #### Rating: &#9733;&#9733;&#9733;&#9734;&#9734; 
+
+#### Price: \$119.99 for 30 days/15 hrs of audio lessons s $14.99/month with the subscription model
 
 **Positives**
 
@@ -48,7 +50,7 @@ And for the record, I reccomended Pimsleur to my mom, who is trying to learn Por
 
 ## The basics: how it works and what you'll learn
 
-As for other Pimsleur courses, each lesson Pimsleur Danish consists of a ~30 min audio recording in which you are queued to respond in Danish both to random prompts (i.e. how do you say 56 in Danish?) and in conversational scenarios. Most prompts are given in English. Words are introduced and revisited later, often in slightly new contexts—this is is the spaced repetition method that made Pimsleur famous. When words are introduced, you are asked to repeat after one of the two Danish native speakers (one female, one male) and then you hear the native pronuciation again afterwards. Long words are broken down and introduced from end to beginning, which I found very helpful. 
+As with other Pimsleur courses, each lesson of Pimsleur Danish consists of a ~30 min audio recording in which you are queued to respond in Danish both to random prompts (i.e. how do you say 56 in Danish?) and in conversational scenarios. Most prompts are given in English. Words are introduced and revisited later, often in slightly new contexts—this is is the spaced repetition method that made Pimsleur famous. When words are introduced, you are asked to repeat after one of the two Danish native speakers (one female, one male) and then you hear the native pronuciation again afterwards. Long words are broken down and introduced from end to beginning, which I found very helpful. 
 
 Most of the lesson involves responding to prompts. You usually aren't given a lot of time to think before one of the speakers says the answer and you're given a chance to repeat it. That's a good thing in my book—it reminds me a lot of how language teachers correct speech by repeating back an incorrect sentence or pronunciation correctly, modeling the correct version of whatever the student was originally trying to say.
 
