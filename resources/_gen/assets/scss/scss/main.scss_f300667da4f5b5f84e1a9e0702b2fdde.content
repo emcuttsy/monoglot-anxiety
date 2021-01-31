@@ -857,6 +857,15 @@ figcaption {
       opacity: 0.6;
       border: none; }
 
+.content a {
+  border-bottom: 1px dotted rgba(161, 161, 161, 0.7);
+  color: indianred;
+  text-decoration: none;
+  transition: border-bottom-color 0.2s ease-in-out, color 0.2s ease-in-out; }
+  .content a:hover {
+    border-bottom-color: transparent;
+    color: #2eb8ac; }
+
 /* ==========================================================================
    IDs and Grid
    ========================================================================== */

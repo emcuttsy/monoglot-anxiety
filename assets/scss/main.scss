@@ -28,6 +28,7 @@ $fa-brands-font: "Font Awesome 5 Brands";
 $header-color: 	hsl(0, 1%, 23%);
 $accent-color: 	hsl(175, 60%, 45%);
 $accent-hover: hsla(175, 60%, 45%, 0.25);
+$body-link: hsl(0, 53.05%, 58.24%);
 $warning-color: hsl(332, 60%, 45%);
 $warning-hover: hsla(332, 60%, 45%, 0.25);
 $utility-gray: hsl(0, 0%, 67%);
@@ -762,6 +763,7 @@ figcaption {
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
+
       }
     }
   }
@@ -1103,6 +1105,19 @@ figcaption {
     a {
       opacity: 0.6;
       border: none;
+    }
+  }
+}
+
+.content {
+  a {
+    border-bottom: $secondary-border;
+    color: $body-link;
+    text-decoration: none;
+    transition: border-bottom-color $hover, color $hover;
+    &:hover {
+      border-bottom-color: transparent;
+      color: $accent-color;
     }
   }
 }

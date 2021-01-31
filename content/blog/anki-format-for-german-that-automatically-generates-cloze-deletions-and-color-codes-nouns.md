@@ -5,7 +5,7 @@ author: ""
 draft: false
 date: 2020-12-31T15:20:02-07:00
 tags: [anki card template, german anki template, anki, language learning]
-categories: [German, Anki, Language Learning]
+categories: [German, Anki, Language Learning, Resources]
 ankidecks: [Card Templates]
 comments: true
 removeBlur: false

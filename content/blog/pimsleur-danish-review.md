@@ -17,9 +17,9 @@ images:
 
 I received a lot of reccomendations of the Pimsleur language programs from family members back when I was preparing to head to Denmark in 2019. So naturally, I picked up Pimsleur Danish 1, never finished it, and forgot about it until about a month ago when I found the little blue Pimsleur logo lurking in my app drawer. I had been focusing on German exclusively until then, but given what I'd paid for Pimsleur (too much, see below), my stinginess demanded that I give Danish another shot.
 
-**This is my honest review of Pimsleur Danish after following the course for 30 days.** And since I'm a nerd, I also worked through German 5 simultaneously to get a sense of how far Pimsleur could take my Danish if I stuck with it. So while this review is about Pimlsuer Danish, it draws on what I learned about Pimsleur generally by skipping ahead in langauge I speak at a higher level than Pimsleur teaches. 
+**This is my honest Pimsleur Danish review after following the course for 30 days.** And since I'm a nerd, I also worked through German 5 simultaneously to get a sense of how far Pimsleur could take my Danish if I stuck with it. So while this review is about Pimlsuer Danish, it draws on what I learned about Pimsleur generally by skipping ahead in langauge I speak at a higher level than Pimsleur teaches. 
 
-## Overview: Pimsleur Danish
+## Pimsleur Danish
 
 #### Rating: &#9733;&#9733;&#9733;&#9734;&#9734; 
 
@@ -140,4 +140,4 @@ First, Pimsleur offers a subscription version of its courses for $14.99/month. Y
 
 **Another alternative is to check your library**—thanks to Pimsleur's fame and long-time popularity, it's a common item in library catalogues in the US. My library didn't have all 5 German courses, but it had the first 3 and Danish as well. 
 
-What do you think? Have you tried out Pimsleur Danish yourself, or are you thinking of giving it a shot? Let me know in the comments below, and thanks for reading!
+What do you think? Was this Pimsleur Danish review helpful? Have you tried out Pimsleur Danish yourself, or are you thinking of giving it a shot? Let me know in the comments below, and thanks for reading!

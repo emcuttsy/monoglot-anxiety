@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Monoglot Anxiety</title>
+    <link>https://suspicious-galileo-91919d.netlify.app/categories/resources/</link>
+    <description>Recent content in Resources on Monoglot Anxiety</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jan 2021 17:49:13 -0700</lastBuildDate><atom:link href="https://suspicious-galileo-91919d.netlify.app/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11 ways to practice writing in a foreign language</title>
+      <link>https://suspicious-galileo-91919d.netlify.app/blog/11-ways-to-practice-writing-in-a-foreign-language/</link>
+      <pubDate>Sat, 30 Jan 2021 17:49:13 -0700</pubDate>
+      
+      <guid>https://suspicious-galileo-91919d.netlify.app/blog/11-ways-to-practice-writing-in-a-foreign-language/</guid>
+      <description>Learning to write in a new laguage can be intimidating, especially if you&amp;rsquo;re learning alone. Like speaking, writing is a productive skill which makes it impossible to learn passively. Reading will improve your writing, to be sure. But if you want to write, you need to write!
+But what to write?
+Figuring that out is the tough bit. And given that writers block can easily strike even when writing in our native languages, sitting down in front of a blank page to scribble something down in a new language can feel downright impossible.</description>
+    </item>
+    
+    <item>
+      <title>Anki template for German that automatically generates cloze deletions and color-codes nouns</title>
+      <link>https://suspicious-galileo-91919d.netlify.app/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</link>
+      <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
+      
+      <guid>https://suspicious-galileo-91919d.netlify.app/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</guid>
+      <description>One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don&amp;rsquo;t play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance. So instead of spending an extra 30sec/card, I did the clearly easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences.</description>
+    </item>
+    
+  </channel>
+</rss>
