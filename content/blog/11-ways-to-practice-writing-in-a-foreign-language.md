@@ -106,7 +106,7 @@ The free spaced-repetition flashcard program I use, **Anki, has an easy-to-use c
 
 [Get the card format for pay-what-you-want ($0+).](https://gum.co/monoglotanxiety-autocloze-nouns-etc)
 
-#### 11. Contribute to wikipedia pages in your target language
+### 11. Contribute to wikipedia pages in your target language
 
 I saved the nerdiest suggestion for last. You're almost certainly familiar with Wikipedia already—but have you ever checked out Wikipedia in your target language? Chances are, there's plenty of content just waiting to be translated from your native language into your target language. **You can get writing practice while simultaneously contributing to making knowledge accessible for free to people around the world.** 
 
