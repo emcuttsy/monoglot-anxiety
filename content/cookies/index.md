@@ -13,7 +13,7 @@ That said, I'm not a lawyer or a web developer, so it is possible I've made a mi
 
 The services I've chosen to use with this site are: Netlify (web hosting), Comment.io (comments), Google Analytics (analytics), Gumroad (web store), and Youtube (embedded youtube videos). These services require cookies. **No marketing cookies are necessary for this site/improve the site experience.** Please disable them! They are collected by entities that aren't in my control (i.e. Google and Facebook's targeted ads). 
 
-Statistics cookies help me out a lot by allowing me to see how many visitors I get to the site each day using Google Analytics. **So if you want to help me out, please allow statistics cookies.** However keep in mind that Gumroad also keeps statistics cookies for their own analytics. This is one reason why I am looking for an alternative to Gumroad for the near future. 
+Statistics cookies allow me to see how many visitors I get to the site each day using Google Analytics. **So if you want to help me out, please allow statistics cookies.** However keep in mind that Gumroad also keeps statistics cookies for their own analytics. This is one reason why I am looking for an alternative to Gumroad for the near future. 
 
 ### You can <u>always</u> edit your cookie preferences from this page
 
