@@ -2,7 +2,7 @@
 title: "Booster pack: German hiking vocabulary"
 description: "And: why you should book your Alps trip to Austria or Switzerland, not Germany"
 author: ""
-draft: false
+draft: true
 date: 2021-02-04T19:17:30-07:00
 tags: [german anki flashcards, german vocabulary, fun german vocabulary]
 categories: [German, Anki]
@@ -16,9 +16,11 @@ images:
   - stretch: "stretchH"
 ---
 
-Given covid-19 related travel restrictions, not too many people who don't already live near the Alps are going to be visiting anytime soon. But at least this month's booster pack will upgrade your pandemic daydreams with a dose of linguistic authenticity!
+Hiking has been an escape for me since the beginning of the pandemic, and I like to imagine where I might go hiking once all this is over. I suppose we're at the "sanguine tourism fantasies" stage of covid-19. All that daydreaming inspired this week's booster pack of German hiking vocabulary—even though travel restrictions mean that few of us will be flying off to hike in the Alps anytime soon, we can at least upgrade our pandemic daydreams with a dose of linguistic authenticity!
 
-Hiking is a popular tourist activity in Germany, and there are a few well-known routes like the Mittelweg that are definitely on my bucket list. But interestingly, despite its [famous hilltop Disney castles](https://en.wikipedia.org/wiki/Neuschwanstein_Castle) and [alpine waterfalls so instagrammable they are *literally* to die for](https://www.youtube.com/watch?v=_gHJyHCAJ-0), Germany is mostly not a mountain country.
+You can download the free version of this deck of 33 words from AnkiWeb. A complete version with noun plurals, verb forms, cloze deletions, and a picture and example sentence for each word is available on my webstore for $2+ pay-what-you-want. The complete cards use my secret-sauce German Anki flashcard template to do things like automatically generate cloze deletions, color-code nouns by gender, and highlight irregular verb forms, and you can re-use the template for your own Anki cards! That's why I charge a bit of coffee change for the complete version—a lot of love and time (and anxiety) went into teaching that Anki template how German grammar works…
+
+Hiking is a popular tourist activity in Germany, and there are a few well-known routes like the Mittelweg that are definitely on my bucket list. But interestingly, despite its [famous hilltop Disney castles](https://en.wikipedia.org/wiki/Neuschwanstein_Castle) and [alpine waterfalls so instagrammable they are *literally* to die for](https://www.youtube.com/watch?v=_gHJyHCAJ-0), Germ any is mostly not a mountain country.
 
 Germany's topography is about a 50/50 split between flat, lowlying country to the north and higher hills and plateus to the south (this is interestingly also where the High/Low German division in linguistics comes from: High German dialects were literally higher in altitude than Low German dialects). Most people live in the flat lowlands in the north. 
 
@@ -36,9 +38,41 @@ Still, I used to think of Germany as a mountain country. All my stereotypes gene
 
 This misconception reminds me of how everyone thinks Denmark will look like Scandinavia when in reality it looks like the Netherlands. More flat, idyllic countryside and painted cottages than dramatic fjords, snow-capped mountains, and forests haunted by the ghosts of long-dead Vikings. A German friend of mine actually showed up for her study abroad in Denmark with skis… needless to say, the skis ended up going home to Munich within a few months.
 
+A quick Anki note: there's a good deal of overlap in hiking vocabulary and vocabulary related to nature generally and outdoor sports, and that means  of these words might show up in multiple decks I post here. Anki doesn't like duplicate cards, so if you do end up downloading a second copy of a card, I reccomend that you consolidate the duplicates. I'll write a post soon about how to handle this. 
 
+So, with that out of the way: German hiking vocabulary! I hope you enjoy, and let me know in the comments if you liked this deck, if I missed anything, or if you have suggestions for booster packs in the future. 
 
 ## German hiking vocabulary
 
-das GPS
-
+* **wandern** (wandert/wanderte/ist gewandert) - to hike
+* **gehen** (geht/ging/ist gegangen) - to walk, to go
+* **sich verlaufen** (verläuft sich/verlief sich /hat sich verlaufen) - to get lost on foot
+* **die Wanderung** (-en) - hike
+* **der Wanderweg** (-e) - hiking trail
+* **der Treck** (-s) - trek
+* **der Pfad** (-e) - path
+* **der Aussichtspunkt** (-e) - scenic point
+* **der Wegweiser** (-) - trail marker, signpost
+* **die Ausschilderung** - signage
+* **die Genehmigung** (-en) - permit, approval
+* **die Karte** (-n) - map
+* **die Höhe** - altitude
+* **die Navigationsgerät** (-e) - GPS device
+* **das GPS** - GPS (technology, can also mean GPS device)
+* **die Ausrüstung** (-en) - gear, equiptment
+* **der Wanderschuh** (-e) - hiking boots
+* **das Wanderstock** (ö -e) - hiking pole, walking stick
+* **die Wasserflasche** (-n) - water bottle
+* **der Wanderrucksack** (ä -e) - hiking backpack
+* **der Trinkrucksack** (ä -e) - hydration pack
+* **der Kompass** (-e) - compass
+* **das Lagerfeuer** (-) - campfire
+* **das Zelt** (-e) - tent
+* **der Schlafsack** (ä -e) - sleeping bag
+* **der Rucksack** (ä -e) - backpack
+* **die Natur** - nature, the outdoors
+* **der Naturpark** (-s) - nature park (plurals in -e and -en also seen)
+* **der See** (-n) - lake
+* **der Berg** (-e) - mountain
+* **das Gebirge** - mountainous region
+* **der Wald** (ä -e) - forest
