@@ -5,7 +5,7 @@ author: ""
 draft: false
 date: 2021-01-05T20:30:24-07:00
 tags: [german anki deck, fun german vocabulary, german vocabulary]
-categories: [Grammar, Anki, Anki Decks]
+categories: [Grammar, Anki]
 ankidecks: [Booster Packs]
 comments: true
 removeBlur: false
