@@ -7,6 +7,7 @@ date: {{ .Date }}
 tags: []
 categories: []
 comments: true
+weight: 1
 removeBlur: false
 enableEmoji: false
 images:

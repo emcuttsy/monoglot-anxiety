@@ -7,6 +7,7 @@ date: 2021-01-30T17:49:13-07:00
 tags: [language learning, how to learn a language]
 categories: [Language Learning, Resources]
 comments: true
+weight: 1
 removeBlur: false
 enableEmoji: true
 images:

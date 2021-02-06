@@ -8,6 +8,7 @@ tags: [anki card template, german anki template, anki, language learning]
 categories: [German, Anki, Language Learning, Resources]
 ankidecks: [Card Templates]
 comments: true
+weight: 3
 removeBlur: false
 enableEmoji: true
 images:
