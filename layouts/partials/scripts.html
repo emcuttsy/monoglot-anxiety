@@ -51,15 +51,4 @@
 {{ if and .Site.Params.staticman.recaptcha.siteKey .Site.Params.staticman.recaptcha.encryptedKey }}
   <script src='https://www.google.com/recaptcha/api.js'></script>
 {{- end -}}
-<script data-cookieconsent="ignore">
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag("consent", "default", {
-        ad_storage: "denied",
-        analytics_storage: "denied",
-        wait_for_up
-    gtag("set", "ads_data_redaction", true);
-</script>
 {{- template "_internal/google_analytics_async.html" . -}}

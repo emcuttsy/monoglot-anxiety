@@ -100,3 +100,7 @@ Ah, and a quick Anki note: there's a good deal of overlap in hiking vocabulary a
 * **der Berg** (-e) - mountain
 * **das Gebirge** - mountainous region
 * **der Wald** (ä -e) - forest
+
+## Want more booster packs of German vocabulary?
+
+I write a new booster pack of German vocabulary related to some specific
