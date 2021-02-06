@@ -302,7 +302,7 @@
 <h3 id="hear-some-of-these-words-in-action-in-this-very-austrian-song--">Hear some of these words in action in this very Austrian song 🇦🇹 🍻</h3>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/JXv8jITG-OQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/JXv8jITG-OQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <p>Did you get any of that? Don&rsquo;t worry if you didn&rsquo;t. Österreichisch can sometimes sound like a completely different language from Standard German—and there isn&rsquo;t just <em>one</em> Österreichisch, either since there are lots of dialects just like in the rest of the German-speaking world. Still, listen to this stuff long enough and it starts to sound more like German. <a href="https://www.songtexte.com/songtext/wolfgang-ambros/heut-bin-i-wieder-fett-wie-ein-radierer-3b99a8cc.html">Looking at the lyrics</a> while listening along can help a lot.</p>
@@ -587,11 +587,12 @@
     gtag("set", "ads_data_redaction", true);
 </script>
 <script type="application/javascript">
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 	ga('create', 'UA-172705638-2', 'auto');
-	
+	ga('set', 'anonymizeIp', true);
 	ga('send', 'pageview');
 }
 </script>

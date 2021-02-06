@@ -28,7 +28,7 @@ You can [download the free version](https://ankiweb.net/shared/info/687879107) o
 
 
 
-Unlike my last booster pack, which consisted entirely of different German words for drunk, this deck contains vocabulary whose use I can actually endorese. 
+Unlike [my last booster pack, which consisted entirely of different German words for drunk](/blog/booster-pack-german-words-for-drunk/), this deck contains vocabulary whose use I can actually endorese. 
 
 ## Most hikes in Germany aren't as alpine as you imagine
 
@@ -48,7 +48,7 @@ There are of course mountains in Germany, namely a few ranges in the interior of
 
 I learned all this while living in Denmark, an even more mountain-less country where people expect even more mountains. Denmark looks more like the Netherlands than it does Scandinavia—more flat, idyllic countryside and painted cottages than dramatic fjords, snow-capped mountains, and forests haunted by the ghosts of long-dead Vikings. A German friend of mine actually showed up for her study abroad in Denmark with skis… needless to say, the skis ended up going home to Munich within a few months.
 
-Similarly, my stereotypes of Germany generally went something along the lines of beer, lederhosen, little hats with feathers, and *mountains*. As I have now been helpfully informed by my boyfriend (who is Austrian and provided the Austrian usage notes for the "drunk" booster pack), that is actually a mostly *Austrian* stereotype. So I guess… Germany just pulled off a really good marketing campaign when it comes to alpine tourism, successfully convincing foreign tourists that mostly Austrian and Swiss mountain imagery is quintessentially German.
+Similarly, my stereotypes of Germany generally went something along the lines of beer, lederhosen, little hats with feathers, and *mountains*. As I have now been helpfully informed by my boyfriend (who is Austrian and provided the Austrian usage notes for [the "drunk" booster pack](booster-pack-german-words-for-drunk/)), that is actually a mostly *Austrian* stereotype. So I guess… Germany just pulled off a really good marketing campaign when it comes to alpine tourism, successfully convincing foreign tourists that mostly Austrian and Swiss mountain imagery is quintessentially German.
 
 …Or at least so my *completely* unbiased source would have me believe. Really, sometimes I feel like he's a bit like Chekov from those old Star Trek episodes claiming everything good in the universe was invented in Russia, except with him it's Austria.
 
