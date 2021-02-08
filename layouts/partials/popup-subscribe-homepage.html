@@ -1,0 +1,32 @@
+<script src="js/vex.combined.min.js"></script>
+<link rel="stylesheet" href="css/vex.css" />
+<link rel="stylesheet" href="css/vex-theme-default.css" />
+
+<script>
+  function session() {
+    if (document.cookie.indexOf("visited") >= 0) {
+    } else {
+        document.cookie = "visited";
+        vex.defaultOptions.className = 'vex-theme-default';     // specifies the css theme
+        vex.open({
+          unsafeContent: ["<div>", "<h3 style='text-transform:none'>Want free Anki decks, tips, and more resources\
+             for German or Danish?</h3>",
+          '<p>Subscribe to the Monoglot Anxiety newsletter so you won&#39;t miss a beat.\
+             One a month, no spam, only the good stuff.</p>',
+          '<form target="popupwindow" action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"\
+            method="post" onsubmit="', "window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')",'">',
+            '<label for="bd-email">Enter your email</label>\
+            <input type="email" name="email" id="bd-email" />\
+            <input type="hidden" value="1" name="embed" />\
+            <input type="submit" value="I&#39;m in!" />\
+          </form>', '<p style="line-height: 1"><small>Submitting this form adds you to the Monoglot Anxiety mailing list.\
+             Check out the privacy policy for more on how Monoglot Anxiety handles your data.</p></div>'].join(''),
+             callback: function() {
+                 $(".vex").hide(); // This will hide the whole vex component
+                 window.location = "./";
+             }
+        });
+    }
+}
+  session()
+</script>

@@ -555,17 +555,7 @@
     
     <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.ef37d1d86ad6730c88f5ff4a3482de4f66d174e15015817998493b44e4727e87.js" integrity="sha256-7zfR2GrWcwyI9f9KNILeT2bRdOFQFYF5mEk7RORyfoc="></script>
     <script src="/js/add-on.js"></script>
-  <script src='https://www.google.com/recaptcha/api.js'></script><script data-cookieconsent="ignore">
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag("consent", "default", {
-        ad_storage: "denied",
-        analytics_storage: "denied",
-        wait_for_up
-    gtag("set", "ads_data_redaction", true);
-</script>
+  <script src='https://www.google.com/recaptcha/api.js'></script>
 <script type="application/javascript">
 var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
 var doNotTrack = (dnt == "1" || dnt == "yes");
@@ -577,6 +567,39 @@ if (!doNotTrack) {
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
+<script src="js/vex.combined.min.js"></script>
+<link rel="stylesheet" href="css/vex.css" />
+<link rel="stylesheet" href="css/vex-theme-default.css" />
+
+<script>
+  function session() {
+    if (document.cookie.indexOf("visited") >= 0) {
+    } else {
+        document.cookie = "visited";
+        vex.defaultOptions.className = 'vex-theme-default';     
+        vex.open({
+          unsafeContent: ["<div>", "<h3 style='text-transform:none'>Want free Anki decks, tips, and more resources\
+             for German or Danish?</h3>",
+          '<p>Subscribe to the Monoglot Anxiety newsletter so you won&#39;t miss a beat.\
+             One a month, no spam, only the good stuff.</p>',
+          '<form target="popupwindow" action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"\
+            method="post" onsubmit="', "window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')",'">',
+            '<label for="bd-email">Enter your email</label>\
+            <input type="email" name="email" id="bd-email" />\
+            <input type="hidden" value="1" name="embed" />\
+            <input type="submit" value="I&#39;m in!" />\
+          </form>', '<p style="line-height: 1"><small>Submitting this form adds you to the Monoglot Anxiety mailing list.\
+             Check out the privacy policy for more on how Monoglot Anxiety handles your data.</p></div>'].join(''),
+             callback: function() {
+                 $(".vex").hide(); 
+                 window.location = "./";
+             }
+        });
+    }
+}
+  session()
+</script>
+
 
     </div>
   </body>
