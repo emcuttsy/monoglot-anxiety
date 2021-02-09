@@ -47,7 +47,7 @@ If you don't like my color choices, you can change the colors of the `masculine`
 
 In my early days of exploring the wonders of custom Anki formats, I made the mistake of adding so many specific fields to my cards. One format I used for German had more than 8 fields at one point, with separate places to input noun articles, gender, plural forms, verb conjugations, and and and. It basically made the format unusable since I'd always make mistakes inputting information into all those fields. A lot of that is because Anki's built in conditional replacement function only works based on field presence/absence. But 8 months later I have [a solution to that problem](/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/) and now the field bloat is finally over. 
 
-I really wanted to keep things intuitive for these cards. **The order of fields and expected format for input aligns with how German vocabulary is usually shared in list—i.e. article + noun, plural, translation**. And conditional formatting behind the scenes allows the same fields to be re-used for different kinds of words without causing any trouble. No separate fields for nouns and non-nouns or anything like that!
+I really wanted to keep things intuitive for these cards. **The order of fields and expected format for input aligns with how German vocabulary is usually shared in lists—i.e. article + noun, plural, translation**. And conditional formatting behind the scenes allows the same fields to be re-used for different kinds of words without causing any trouble. No separate fields for nouns and non-nouns or anything like that!
 
 <br>
 

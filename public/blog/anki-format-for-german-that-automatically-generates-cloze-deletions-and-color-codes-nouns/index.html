@@ -3,6 +3,18 @@
   <head>
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="fda5a853-be3f-4e85-9fe6-e457d48d3404" data-blockingmode="auto" type="text/javascript"></script>
 
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172705638-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-172705638-2');
+  alert(document.cookie)
+</script>
+
+
   <meta charset="utf-8">
 <title>Anki template for German that automatically generates cloze deletions and color-codes nouns - Monoglot Anxiety</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -278,7 +290,7 @@
 <p>If you don&rsquo;t like my color choices, you can change the colors of the <code>masculine</code>, <code>feminine</code>, <code>neuter</code>, and <code>plural-only</code>  CSS classes in the &ldquo;Styling (shared between cards)&rdquo; in the card template window.</p>
 <h3 id="intuitive-input-format">Intuitive input format</h3>
 <p>In my early days of exploring the wonders of custom Anki formats, I made the mistake of adding so many specific fields to my cards. One format I used for German had more than 8 fields at one point, with separate places to input noun articles, gender, plural forms, verb conjugations, and and and. It basically made the format unusable since I&rsquo;d always make mistakes inputting information into all those fields. A lot of that is because Anki&rsquo;s built in conditional replacement function only works based on field presence/absence. But 8 months later I have <a href="/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/">a solution to that problem</a> and now the field bloat is finally over.</p>
-<p>I really wanted to keep things intuitive for these cards. <strong>The order of fields and expected format for input aligns with how German vocabulary is usually shared in list—i.e. article + noun, plural, translation</strong>. And conditional formatting behind the scenes allows the same fields to be re-used for different kinds of words without causing any trouble. No separate fields for nouns and non-nouns or anything like that!</p>
+<p>I really wanted to keep things intuitive for these cards. <strong>The order of fields and expected format for input aligns with how German vocabulary is usually shared in lists—i.e. article + noun, plural, translation</strong>. And conditional formatting behind the scenes allows the same fields to be re-used for different kinds of words without causing any trouble. No separate fields for nouns and non-nouns or anything like that!</p>
 <br>
 <center>
 <script src="https://gumroad.com/js/gumroad.js"></script>
