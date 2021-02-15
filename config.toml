@@ -82,7 +82,7 @@ enableEmoji             = true
 
   [params.intro]
     header                = "Monoglot Anxiety"
-    paragraph             = "A blog about language and language learning that doesn't take itself too seriously. German and Danish. Free German Anki resources and a new vocabulary 'booster pack' every month."
+    paragraph             = "A language learning blog that doesn't take itself too seriously. German and Danish. Free German Anki resources and a new vocabulary 'booster pack' every month."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -95,7 +95,7 @@ enableEmoji             = true
       alt                 = "Monoglot Anxiety"
 
   [params.sidebar]
-    about               = "A blog about language and language learning that doesn't take itself too seriously. German and Danish. Free German Anki resources and a new vocabulary 'booster pack' every month."
+    about               = "A language learning blog that doesn't take itself too seriously. German and Danish. Free German Anki resources and a new vocabulary 'booster pack' every month."
     postAmount          = 5
     categories          = true
     tags                = true

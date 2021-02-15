@@ -4,8 +4,8 @@ description: "The listening-based approach is good for phonetically-tricky Danis
 author: ""
 draft: false
 date: 2021-01-25T20:03:24-07:00
-tags: [danish, language learning, language apps, danish resources, reviews]
-categories: [Reviews, Language Learning, Danish]
+tags: [learn danish, language learning, language apps]
+categories: [Reviews, Danish]
 comments: true
 removeBlur: true
 enableEmoji: true

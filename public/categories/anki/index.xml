@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>Voabulary booster pack: German words for drunk</title>
+      <title>Booster Pack: German words for drunk</title>
       <link>https://www.monoglotanxiety.com/blog/booster-pack-german-words-for-drunk/</link>
       <pubDate>Tue, 05 Jan 2021 20:30:24 -0700</pubDate>
       
@@ -40,7 +40,7 @@
       <pubDate>Sat, 12 Dec 2020 10:06:21 -0700</pubDate>
       
       <guid>https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/</guid>
-      <description>Anki allows conditoinal formatting based on whether or not fields are empty, but you’ll need to use a bit of code to change your cards based on field content. Luckily, it’s not that hard, and using this trick you can conditionally display text as well. I use it to color-code my German flashcards by noun gender without having to do everything by hand.
+      <description>Anki allows conditoinal formatting based on whether or not fields are empty, but you’ll need to use a bit of code for conditional formatting in Anki based on field content. Luckily, it’s not that hard, and using this trick you can conditionally display text as well. I use it to color-code my German flashcards by noun gender without having to do everything by hand.
 Out-of-the-box, Anki supports &amp;ldquo;conditional replacement,&amp;rdquo; which changes what gets rendered on a card is based on whether or not fields are empty.</description>
     </item>
     

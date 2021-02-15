@@ -1,12 +1,12 @@
 ---
-title: "Voabulary booster pack: German words for drunk"
+title: "Booster Pack: German words for drunk"
 description: "Words to make sure you're prepared for your next trip to a Biergarten, with an Anki deck and a funny song to help you remember them—even after a few drinks"
 author: ""
 draft: false
 date: 2021-01-05T20:30:24-07:00
-tags: [german anki deck, fun german vocabulary, german vocabulary]
-categories: [Grammar, Anki]
-ankidecks: [Booster Packs]
+tags: [german anki deck, german flashcards, german anki flashcards, fun german vocabulary, german vocabulary, german culture]
+categories: [German, Anki]
+ankidecks: [German Booster Packs]
 comments: true
 removeBlur: false
 enableEmoji: true

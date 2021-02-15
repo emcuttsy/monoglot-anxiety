@@ -6,16 +6,7 @@
     <description>Recent content in anki on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Dec 2020 15:20:02 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/tags/anki/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Anki template for German that automatically generates cloze deletions and color-codes nouns</title>
-      <link>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</link>
-      <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
-      
-      <guid>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</guid>
-      <description>One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don&amp;rsquo;t play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance. So instead of spending an extra 30sec/card, I did the clearly easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 12 Dec 2020 10:06:21 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/tags/anki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conditional formatting based on field content for Anki flashcards</title>
       <link>https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/</link>

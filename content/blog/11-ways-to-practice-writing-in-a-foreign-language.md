@@ -4,23 +4,24 @@ description: "There are more ways to learn to write in a new language than promp
 author: ""
 draft: false
 date: 2021-01-30T17:49:13-07:00
-tags: [language learning, how to learn a language]
-categories: [Language Learning, Resources]
+tags: [how to learn a language, how to practice a language]
+categories: [Language Learning Tips]
+description: hello this is a description.
 comments: true
 weight: 1
 removeBlur: false
 enableEmoji: true
 images:
   - src: "img/2021/1/writing.jpg"
-  - alt: "Duolingo German golden owl trophy with a crack"
+  - alt: "How to practice writing in a foreign language"
   - stretch: ""
 ---
 
 Learning to write in a new laguage can be intimidating, especially if you're learning alone. Like speaking, writing is a productive skill which makes it impossible to learn passively. Reading will improve your writing, to be sure. But if you want to write, you need to write!
 
-But what to write? 
+But what to write?
 
-Figuring that out is the tough bit. And given that writers block can easily strike even when writing in our native languages, sitting down in front of a blank page to scribble something down in a new language can feel downright impossible. But even if you're not a writer, I'm willing to bet you write a *lot* in your native language—it's just not writing of the "sit down and fill a page" variety. We're constantly shooting off texts, commenting, writing posts, emailing, making to-do-lists, and filling up planners. Why not squeeze some language practice out of those activities? 
+Figuring that out is the tough bit. And given that writers block can easily strike even when writing in our native languages, sitting down in front of a blank page to scribble something down in a new language can feel downright impossible. But even if you're not a writer, I'm willing to bet you write a *lot* in your native language—it's just not writing of the "sit down and fill a page" variety. We're constantly shooting off texts, commenting, writing posts, emailing, making to-do-lists, and filling up planners. Why not squeeze some language practice out of those activities?
 
 This list of my favorite 11 ways to practice writing in a foreign language hits on more traditional methods for improving long-form writing. But I also did my best to make suggestions for ways to weave writing practice into everyday life and get practice writing the short-form, informal texts that fill our inboxes, calendars, and notifications. My hope is that, **whether you're a writing enthusiast or the kind of person who only reluctantly picks up a pen, there will be at least one thing this list that will feel approachable to you.**
 
@@ -28,7 +29,7 @@ But first, there's an important point to keep in mind no matter how you choose t
 
 ## The golden rule of writing practice: get feedback from native speakers
 
-**Making mistakes helps us learn, and getting corrected ensures that you won't practice being wrong.** So when practicing writing in a foreign language, try to focus on writing things that are either public by nature (ex. comments, forum posts) or that you're willing to have corrected by a tutor or on a platform like LangCorrect. Make mistakes out in the open, where someone can notice them and correct you. Usually they'll be nice about it. And if they aren't, you can revel in the knowledge that they unknowingly provided you with free language corrections by trying to be a jerk. If you're nervous, remember that tutors are paid to be nice to you. 
+**Making mistakes helps us learn, and getting corrected ensures that you won't practice being wrong.** So when practicing writing in a foreign language, try to focus on writing things that are either public by nature (ex. comments, forum posts) or that you're willing to have corrected by a tutor or on a platform like LangCorrect. Make mistakes out in the open, where someone can notice them and correct you. Usually they'll be nice about it. And if they aren't, you can revel in the knowledge that they unknowingly provided you with free language corrections by trying to be a jerk. If you're nervous, remember that tutors are paid to be nice to you.
 
 ### Ways to get your writing corrected by native speakers:
 
@@ -51,11 +52,11 @@ Happy writing!
 
 ### 1. Write an online journal on a language-exchange site
 
-There are a number of places online where **you can write online journal entries and get them corrected by native speakers for free**. Just be nice and correct a few entries in your native language in return. [Lang-8](https://lang-8.com/), [iTalki's](https://www.italki.com/) community section, and [LangCorrect](https://langcorrect.com/) all offer exactly that. You could also check out the corrections board on the [Polyglot Club](https://polyglotclub.com/). 
+There are a number of places online where **you can write online journal entries and get them corrected by native speakers for free**. Just be nice and correct a few entries in your native language in return. [Lang-8](https://lang-8.com/), [iTalki's](https://www.italki.com/) community section, and [LangCorrect](https://langcorrect.com/) all offer exactly that. You could also check out the corrections board on the [Polyglot Club](https://polyglotclub.com/).
 
 **I personally favor LangCorrect** because I feel like I get corrections back quickly and it's obvious that the developers are working hard to steadily improve the site. Also, they seem more interested in making a good experience for people than making money, which is sweet. Unfortunately, Lang-8 isn't taking new users at the time of writing. Also unfortunately, the iTalki community features are currently only fully available on mobile… and I hate typing things on my phone. That seems set to change soon, though.
 
-And as a last note: **you can use these sites for more than just journaling. Pretty much anything, even just single sentences, is fair game.** 
+And as a last note: **you can use these sites for more than just journaling. Pretty much anything, even just single sentences, is fair game.**
 
 ### 2. Find a pen pal
 
@@ -67,19 +68,19 @@ Don't want to write out long letters, or **would you rather practice writing the
 
 ### 4. Respond to writing prompts
 
-There are tons of websites out there with extensive lists of free writing prompts. Search for one in your target language, or just use any of the plentiful English resources out there. 
+There are tons of websites out there with extensive lists of free writing prompts. Search for one in your target language, or just use any of the plentiful English resources out there.
 
 **For beginners, prompts for kids are fantastic.** [This prompt generator from My Cup Runs Over](https://mycuprunsover.ca/writing-prompt-generator-kids/) is amazing, with options to set your prompt level to elementary, middle, or high-school level. The [prompt generator at Langauge is a Virus](http://www.languageisavirus.com/writing_prompts.php) has plenty of beginner-friendly prompts, too. LangCorrect also has a large list of user-generated prompts, including plenty that are beginner friendly.
 
-**For intermediate and advanced learners, [the New York Times maintains an amazing collection of writing prompts](https://www.nytimes.com/spotlight/learning-writing-prompts) that's available for free** without a subscription. The Times also provides [list of prompts for students organized by general theme](https://www.nytimes.com/2018/04/12/learning/over-1000-writing-prompts-for-students.html). Resources for writers are also a great place to look for prompts if you have a good command of your target language and are into creative writing. [Seventh Sanctum](https://www.seventhsanctum.com/index.php) is a classic, and I like [The Story Shack's prompt generator](https://thestoryshack.com/tools/writing-prompt-generator/) a lot too since it provides very clear assignments. 
+**For intermediate and advanced learners, [the New York Times maintains an amazing collection of writing prompts](https://www.nytimes.com/spotlight/learning-writing-prompts) that's available for free** without a subscription. The Times also provides [list of prompts for students organized by general theme](https://www.nytimes.com/2018/04/12/learning/over-1000-writing-prompts-for-students.html). Resources for writers are also a great place to look for prompts if you have a good command of your target language and are into creative writing. [Seventh Sanctum](https://www.seventhsanctum.com/index.php) is a classic, and I like [The Story Shack's prompt generator](https://thestoryshack.com/tools/writing-prompt-generator/) a lot too since it provides very clear assignments.
 
 ### 5. Do the writing exercises in textbooks, practice grammars, and practice exams
 
-—you know, those exercises that you skip because you don't have a piece of blank paper on hand? Do them. And then have them corrected by a native speaker. 
+—you know, those exercises that you skip because you don't have a piece of blank paper on hand? Do them. And then have them corrected by a native speaker.
 
 ### 6. Keep a bullet journal, planner, or calendar in your target language
 
-If you're already writing daily in a planner or bullet journal, switching into your target language—even if not for all of your entries—is a great way to squeeze some extra practice out of an activity you'd be doing anyways. **Practicing this way has the added benefit of ensuring that you'll learn vocabulary relevant to your life, since that's what goes into a planner or journal.** 
+If you're already writing daily in a planner or bullet journal, switching into your target language—even if not for all of your entries—is a great way to squeeze some extra practice out of an activity you'd be doing anyways. **Practicing this way has the added benefit of ensuring that you'll learn vocabulary relevant to your life, since that's what goes into a planner or journal.**
 
 Bullet journals are a fad worldwide at this point, so you should be able to find a blogger writing about them in your target language and appropriate vocabulary from their posts for things like "weekly spread" and "to-do list."
 
@@ -95,7 +96,7 @@ Reddit can be a bit intimidating, but if you can get past the old-school layout 
 
 ### 9. Leave comments on youtube videos, blogs, and other online content in your target language
 
-Like posting on Reddit, commenting on your favorite videos, blog posts, and other content in your target langauge is a great way to practice expressing an opininon in your target language and—thanks to the public nature of comments—to get some free corrections. People love pointing out how people are wrong in comments sections, and that extends to grammar. For best results, maybe don't start out by leaping into a heated debate. Some communities are more positive and likely to provide \*kind\* corrections than others. 
+Like posting on Reddit, commenting on your favorite videos, blog posts, and other content in your target langauge is a great way to practice expressing an opininon in your target language and—thanks to the public nature of comments—to get some free corrections. People love pointing out how people are wrong in comments sections, and that extends to grammar. For best results, maybe don't start out by leaping into a heated debate. Some communities are more positive and likely to provide \*kind\* corrections than others.
 
 I once got more than 600 likes on a comment I left on a video from a German Late-Night Comedy show, so I'm basically famous.
 
@@ -109,11 +110,11 @@ The free spaced-repetition flashcard program I use, **Anki, has an easy-to-use c
 
 ### 11. Contribute to wikipedia pages in your target language
 
-I saved the nerdiest suggestion for last. You're almost certainly familiar with Wikipedia already—but have you ever checked out Wikipedia in your target language? Chances are, there's plenty of content just waiting to be translated from your native language into your target language. **You can get writing practice while simultaneously contributing to making knowledge accessible for free to people around the world.** 
+I saved the nerdiest suggestion for last. You're almost certainly familiar with Wikipedia already—but have you ever checked out Wikipedia in your target language? Chances are, there's plenty of content just waiting to be translated from your native language into your target language. **You can get writing practice while simultaneously contributing to making knowledge accessible for free to people around the world.**
 
-To start with, **it's easiest to translate content directly out of your native language into your target language.** To find pages to edit or create, keep an eye on the sidebar on the left: languages in which a page on the current topic exists are listed. If your target language isn't listed, that means that nobody has made a page in that language yet. And even if there is a page, there's no guarantees that it will contain all the same information as the page in your native language. Browse through, look for places where you could add in a fact by translating, and then make your edits. And don't worry about making a mistake here or there: if you do make a mistake, someone else can easily fix it later. 
+To start with, **it's easiest to translate content directly out of your native language into your target language.** To find pages to edit or create, keep an eye on the sidebar on the left: languages in which a page on the current topic exists are listed. If your target language isn't listed, that means that nobody has made a page in that language yet. And even if there is a page, there's no guarantees that it will contain all the same information as the page in your native language. Browse through, look for places where you could add in a fact by translating, and then make your edits. And don't worry about making a mistake here or there: if you do make a mistake, someone else can easily fix it later.
 
-**You can also do this in reverse, translating from your target language into your native language.** I've had a lot of fun translating pages and facts from German Wikipedia into English—[like this one on an Austrian satirical political party](https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)) that advocates for replacing a famous fountian in Vienna with a beer fountain, among other things. 
+**You can also do this in reverse, translating from your target language into your native language.** I've had a lot of fun translating pages and facts from German Wikipedia into English—[like this one on an Austrian satirical political party](https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)) that advocates for replacing a famous fountian in Vienna with a beer fountain, among other things.
 
 ---
 

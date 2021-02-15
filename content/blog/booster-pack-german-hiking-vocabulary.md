@@ -4,9 +4,9 @@ description: "Upgrade your pandemic daydreams of alpine tourism with this Anki d
 author: ""
 draft: false
 date: 2021-02-04T19:17:30-07:00
-tags: [german anki flashcards, german vocabulary, fun german vocabulary]
+tags: [german anki deck, german flashcards, german anki flashcards, fun german vocabulary, german vocabulary]
 categories: [German, Anki]
-ankidecks: [Booster Packs]
+ankidecks: [German Booster Packs]
 comments: true
 weight: 1
 removeBlur: false

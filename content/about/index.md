@@ -1,13 +1,13 @@
 +++
 title = "About"
-description = "A blog about language and language learning that doesn't take itself too seriously"
+description = "A language learning blog that doesn't take itself too seriously"
 author = ""
 date = "2020-11-14"
 layout = "about"
 
 +++
 
-Monoglot Anxiety is a blog about language and language learning with a focus on German and Danish.
+**Monoglot Anxiety is a blog about language learning with a focus on German and Danish.** You might also be forgiven for thinking that it's a blog about Anki, since I post a lot about Anki flashcards and make a lot of free Anki decks and templates.
 
 I'm not an expert—more an enthusiastic fan. I speak German at between a B2 and C1 level and Danish at… -A1. I can't humble-brag on the 15 languages I've taught myself like all those internet polyglots who run language sites. So instead of basing my posts on expertise, I base them on mistakes, trial-and-error, chance discoveries, and a good dose of self-deprecating humor. 
 

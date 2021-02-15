@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class='post'>
+  <header>
+    <div class="title">
+      <h1><a href="{{ .RelPermalink }}">{{ i18n .Data.Plural }}</a></h1>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    </div>
+  </header>
+  <div id="content" class ="content">
+    {{ .Content }}
+    {{ range .Data.Terms.ByCount }}
+    <h2> <a href="{{ .Page.Permalink }}">{{ .Page.Title }}<span style="float:right;">{{ .Count }}</span></a> </h2>
+    <ul>
+      {{ range .Pages.ByTitle }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+    {{ end }}
+      </ul>
+    {{ end }}
+  {{ $.Scratch.Set "showCategories" false }}
+</div>
+</article>
+{{ end }}

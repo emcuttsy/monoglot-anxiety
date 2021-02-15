@@ -4,8 +4,8 @@ description: "Using the magic of German grammar, this Anki template automaticall
 author: ""
 draft: false
 date: 2020-12-31T15:20:02-07:00
-tags: [anki card template, german anki template, anki, language learning]
-categories: [German, Anki, Language Learning, Resources]
+tags: [anki template, german flashcards, german anki deck, german anki flashcards, language learning]
+categories: [German, Anki]
 ankidecks: [Card Templates]
 comments: true
 weight: 3
@@ -13,7 +13,7 @@ removeBlur: false
 enableEmoji: true
 images:
   - src: "img/2020/12/card3.jpg"
-  - alt: "Duolingo German golden owl trophy with a crack"
+  - alt: "Anki template for German that automatically generates cloze deletions and color-codes nouns"
   - stretch: ""
 ---
 

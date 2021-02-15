@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anki tips on Monoglot Anxiety</title>
+    <link>https://www.monoglotanxiety.com/tags/anki-tips/</link>
+    <description>Recent content in anki tips on Monoglot Anxiety</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Dec 2020 10:06:21 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/tags/anki-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conditional formatting based on field content for Anki flashcards</title>
+      <link>https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/</link>
+      <pubDate>Sat, 12 Dec 2020 10:06:21 -0700</pubDate>
+      
+      <guid>https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/</guid>
+      <description>Anki allows conditoinal formatting based on whether or not fields are empty, but you’ll need to use a bit of code for conditional formatting in Anki based on field content. Luckily, it’s not that hard, and using this trick you can conditionally display text as well. I use it to color-code my German flashcards by noun gender without having to do everything by hand.
+Out-of-the-box, Anki supports &amp;ldquo;conditional replacement,&amp;rdquo; which changes what gets rendered on a card is based on whether or not fields are empty.</description>
+    </item>
+    
+  </channel>
+</rss>
