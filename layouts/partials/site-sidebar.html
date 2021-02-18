@@ -1,0 +1,78 @@
+<section id="site-sidebar">
+  {{ if gt .Site.Params.sidebar.postAmount 0 }}
+    <section id="recent-posts">
+      <header>
+        <h1>{{ i18n "recent_posts" }}</h1>
+      </header>
+      {{ range first (.Site.Params.sidebar.postAmount | default 5) (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+      <article class="mini-post">
+          {{ .Render "featured" }}
+        <header>
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <time class="published" datetime="{{ .Date }}">{{ .Render "date" }}</time>
+        </header>
+      </article>
+      {{ end }}
+      {{ if ge (len (where site.RegularPages "Type" "in" site.Params.mainSections)) (.Site.Params.sidebar.postAmount | default 5) }}
+        <footer>
+          <a href="{{ ( .Site.Params.viewMorePostsLink | default "blog") | relLangURL }}" class="button">{{ i18n "see_more" }}</a>
+        </footer>
+      {{ end }}
+    </section>
+  {{ end }}
+
+
+  {{ if .Site.Params.sidebar.categories }}
+    {{ if ne ($.Scratch.Get "showCategories") false }}
+
+      <section id="categories">
+        <header>
+          <h1><a href="{{ "categories" | relLangURL }}">{{ i18n "categories" (len .Site.Taxonomies.categories) }}</a></h1>
+        </header>
+        <ul>
+          {{ $.Scratch.Set "categories" (cond .Site.Params.sidebar.categoriesByCount .Site.Taxonomies.categories.ByCount .Site.Taxonomies.categories.Alphabetical) }}
+          {{ range $key, $value := $.Scratch.Get "categories" }}
+          <li>
+              <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ $value.Name }}<span class="count">{{ $value.Count }}</span></a>
+          {{ end }}
+          </li>
+        </ul>
+      </section>
+    {{ end }}
+  {{ end }}
+
+  <section id="mini-bio">
+    <header>
+      <h1>Get the newsletter</h1>
+    </header>
+    <p>Immerse yourself in new reccomendations for great German music, movies,
+      and more each week. You'll also get exclusive tips and resources at the end of each month. 100% free!</p>
+      <form
+      action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')"
+      class="embeddable-buttondown-form"
+    >
+      <label for="bd-email">Enter your email</label>
+      <input type="email" name="email" id="bd-email" />
+      <input type="hidden" value="1" name="embed" />
+      <input type="submit" value="Subscribe" />
+      <p style='line-height: 0.8'>
+      <small>I  do my best to keep your email between us. Read my privacy policy for more on how I handle your data.</small>
+      </p>
+    </form>
+  </section>
+
+  {{ if .Site.Params.sidebar.about }}
+    <section id="mini-bio">
+      <header>
+        <h1>{{ i18n "about" }}</h1>
+      </header>
+      <p>{{ .Site.Params.sidebar.about | safeHTML }}</p>
+      <footer>
+        <a href="{{ "about" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
+      </footer>
+    </section>
+  {{ end }}
+</section>

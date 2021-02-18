@@ -1,12 +1,11 @@
 ---
 title: "11 ways to practice writing in a foreign language"
-description: "There are more ways to learn to write in a new language than prompts and journals"
+description: "There are more ways to learn to write a new language than just responding to prompts!"
 author: ""
 draft: false
 date: 2021-01-30T17:49:13-07:00
 tags: [how to learn a language, how to practice a language]
 categories: [Language Learning Tips]
-description: hello this is a description.
 comments: true
 weight: 1
 removeBlur: false

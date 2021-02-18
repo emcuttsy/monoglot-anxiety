@@ -50,9 +50,12 @@
       <meta property="og:image:alt" content="">
     
   
-  <link rel="stylesheet" href="/css/bundle.min.513e5407f7c2181c16a2736e75b019148005b294c005ca9c0617aa94af68d4ad.css" integrity="sha256-UT5UB/fCGBwWonNudbAZFIAFspTABcqcBheqlK9o1K0="><link rel="stylesheet" href="/css/add-on.css">
+  <link rel="stylesheet" href="/css/bundle.min.1cc896b97e058b29af251caa30b1b66612a6de8fe522ac1e8c87bc0c4cd397f0.css" integrity="sha256-HMiWuX4FiymvJRyqMLG2ZhKm3o/lIqwejIe8DEzTl/A="><link rel="stylesheet" href="/css/add-on.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="/js/vex.combined.min.js"></script>
+  <link rel="stylesheet" href="/css/vex.css" />
+  <link rel="stylesheet" href="/css/vex-theme-default.css" />
 </head>
 
   <body>
@@ -165,7 +168,7 @@
     <h1>Monoglot Anxiety</h1>
   </header>
   <main>
-    <p>A language learning blog that doesn't take itself too seriously. German and Danish. Free German Anki resources and a new vocabulary 'booster pack' every month.</p>
+    <p>Learn German and conquer Anki with the language blog that doesn't take itself too seriously.</p>
   </main>
   
     <footer>
@@ -416,6 +419,7 @@
     </section>
   
 
+
   
     
 
@@ -450,12 +454,35 @@
     
   
 
+  <section id="mini-bio">
+    <header>
+      <h1>Get the newsletter</h1>
+    </header>
+    <p>Immerse yourself in new reccomendations for great German music, movies,
+      and more each week. You'll also get exclusive tips and resources at the end of each month. 100% free!</p>
+      <form
+      action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')"
+      class="embeddable-buttondown-form"
+    >
+      <label for="bd-email">Enter your email</label>
+      <input type="email" name="email" id="bd-email" />
+      <input type="hidden" value="1" name="embed" />
+      <input type="submit" value="Subscribe" />
+      <p style='line-height: 0.8'>
+      <small>I  do my best to keep your email between us. Read my privacy policy for more on how I handle your data.</small>
+      </p>
+    </form>
+  </section>
+
   
     <section id="mini-bio">
       <header>
         <h1>About</h1>
       </header>
-      <p>A language learning blog that doesn't take itself too seriously. German and Danish. Free German Anki resources and a new vocabulary 'booster pack' every month.</p>
+      <p>A language learning blog that doesn't take itself too seriously. Free German Anki resources and a new vocabulary 'booster pack' every month.</p>
       <footer>
         <a href="/about" class="button">Learn More</a>
       </footer>
@@ -528,39 +555,34 @@
     
     <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.ef37d1d86ad6730c88f5ff4a3482de4f66d174e15015817998493b44e4727e87.js" integrity="sha256-7zfR2GrWcwyI9f9KNILeT2bRdOFQFYF5mEk7RORyfoc="></script>
     <script src="/js/add-on.js"></script>
-  <script src='https://www.google.com/recaptcha/api.js'></script><script src="js/vex.combined.min.js"></script>
-<link rel="stylesheet" href="css/vex.css" />
-<link rel="stylesheet" href="css/vex-theme-default.css" />
-
-<script>
-  function session() {
-    if (document.cookie.indexOf("visited") >= 0) {
-    } else {
-        document.cookie = "visited";
-        vex.defaultOptions.className = 'vex-theme-default';     
-        vex.open({
-          unsafeContent: ["<div>", "<h3 style='text-transform:none'>Want free Anki decks, tips, and more resources\
-             for German or Danish?</h3>",
-          '<p>Subscribe to the Monoglot Anxiety newsletter so you won&#39;t miss a beat.\
-             Emails about once a month, no spam, only the good stuff.</p>',
-          '<form target="popupwindow" action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"\
-            method="post" onsubmit="', "window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')",'">',
-            '<label for="bd-email">Enter your email</label>\
-            <input type="email" name="email" id="bd-email" />\
-            <input type="hidden" value="1" name="embed" />\
-            <input type="submit" value="I&#39;m in!" />\
-          </form>', '<p style="line-height: 1"><small>Submitting this form adds you to the Monoglot Anxiety mailing list.\
-             Check out the privacy policy for more on how Monoglot Anxiety handles your data.</p></div>'].join(''),
-             callback: function() {
-                 $(".vex").hide(); 
-                 window.location = "./";
-             }
-        });
-    }
-}
-  session()
-</script>
-
+  <script src='https://www.google.com/recaptcha/api.js'></script><script>
+  vex.defaultOptions.className = 'vex-theme-default'
+  cookiename = 'visited'
+  if (document.cookie.indexOf(cookiename) >= 0) {
+  } else {
+      document.cookie=cookiename + ';path=/';
+      vex.defaultOptions.className = 'vex-theme-default';     
+      vex.open({
+        unsafeContent: ["<div>", "<h3 style='text-transform:none'>Immerse yourself in great German media</h3>",
+            '<p>Discover new reccomendations for great German music, movies, and more each week. You&#39;ll\
+             also get exclusive German-learning tips and resources at the end of each month. 100% free!</p>',
+        '<form target="popupwindow" action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"\
+          method="post" onsubmit="', "window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')",'">',
+          '<label for="bd-email">Enter your email</label>\
+          <input type="email" name="email" id="bd-email" />\
+          <input type="hidden" value="1" name="embed" />\
+          <input type="submit" value="I&#39;m in!" />\
+          <input type="hidden" name="tag" value="anki" />\
+        </form>', '<p style="line-height: 1"><small>Submitting this form adds you to the Monoglot Anxiety mailing list.\
+           Check out the privacy policy for more on how Monoglot Anxiety handles your data.</p></div>'].join(''),
+           callback: function() {
+               $(".vex").hide(); 
+               window.location = "./";
+           }
+      });
+  }
+  </script>
+  
 
     </div>
   </body>
