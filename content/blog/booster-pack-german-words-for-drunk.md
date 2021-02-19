@@ -45,8 +45,7 @@ Because drunkenness is apparently pretty nuanced in German, I recruited my boyfr
 
 <center>
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/ZsrPr">Get the Anki deck!</a>
+<script src="https://gumroad.com/js/gumroad.js"></script> <a class="gumroad-button" href="https://gum.co/ZsrPr">Get the free Anki deck!</a>
 
 </center>
 
@@ -115,11 +114,9 @@ Thanks for reading and leave me a comment below if you liked it or have feedback
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-<a class="gumroad-button" href="https://gum.co/ZsrPr">Get the Anki deck!</a>
+<a class="gumroad-button" href="https://gum.co/ZsrPr">Get the free Anki deck!</a>
 
 </center>
-
-[Get the free version from AnkiWeb.](https://ankiweb.net/shared/info/1289381375)
 
 <hr>
 
