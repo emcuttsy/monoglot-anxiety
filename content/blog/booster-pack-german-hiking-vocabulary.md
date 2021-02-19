@@ -1,7 +1,7 @@
 ---
 title: 'Booster pack: German hiking vocabulary'
-description: Upgrade your pandemic daydreams of alpine tourism with this Anki deck
-  of 33 German words related to hiking
+description: Upgrade your pandemic daydreams of alpine tourism with this free Anki
+  deck of 33 German words related to hiking
 author: ''
 date: 2021-02-04T19:17:30.000-07:00
 tags:
@@ -25,9 +25,9 @@ images:
 - stretch: stretchH
 
 ---
-Hiking has been an escape for me throughout the pandemic, and I like to imagine where I might go hiking once this is over. I suppose we're at the "sanguine tourism fantasies" stage of covid-19…  Anyways, all that daydreaming inspired this f[ree Anki deck of German hiking vocabulary](https://gum.co/gZoYc). Even though travel restrictions mean most of us won't be flying off to hike in the Alps anytime soon, we can at least upgrade our pandemic daydreams with a dose of linguistic authenticity!
+Hiking has been an escape for me throughout the pandemic, and I like to imagine where I might go hiking once this is over. I suppose we're at the "sanguine tourism fantasies" stage of covid-19…  Anyways, all that daydreaming inspired this [free Anki deck of German hiking vocabulary](https://gum.co/gZoYc). Even though travel restrictions mean most of us won't be flying off to hike in the Alps anytime soon, we can at least upgrade our pandemic daydreams with a dose of linguistic authenticity!
 
-The deck uses my secret-sauce German Anki flashcard template to do things like automatically generate cloze deletions, color-code nouns by gender, and highlight irregular verb forms, and you can re-use the template for your own Anki cards! So I guess it's not such secret secret-sauce after all... Anyways. If you like the decks, you can throw me a bit of coffee change and pay-what-you-want. Otherwise just take the deck. I won't judge. 
+The deck uses my secret-sauce German Anki flashcard template to do things like automatically generate cloze deletions, color-code nouns by gender, and highlight irregular verb forms, and you can re-use the template for your own Anki cards! So I guess it's not such secret secret-sauce after all... Anyways. If you like the decks, you can throw me a bit of coffee change and pay-what-you-want. Otherwise just take the deck. I won't judge.
 
 <center> <script src="https://gumroad.com/js/gumroad.js"></script> <a class="gumroad-button" href="https://gum.co/gZoYc">Get the free Anki deck</a> </center>
 
