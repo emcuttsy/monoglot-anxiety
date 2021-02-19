@@ -34,10 +34,10 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: static/uploads
-public_path: "/uploads"
-front_matter_path: ''
-use_front_matter_path: false
+upload_dir: ''
+public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
+front_matter_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
