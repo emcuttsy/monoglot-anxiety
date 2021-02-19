@@ -2,7 +2,7 @@
 title: "German 1000-Word Core Vocabulary: the best German Anki deck ever. Probably."
 description: "1000 words. Images and audio. Color-coded nouns, highlighted irregular verbs, cloze deletions based on example sentences, and an Anki card template that you can re-use to do all that color-coding, highlighting, and cloze-deleting for your own cards automatically. It's the best German Anki deck ever. Probably."
 author: ""
-draft: false
+draft: true
 date: 2021-02-18T19:53:11-07:00
 tags: []
 categories: []
