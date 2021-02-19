@@ -1,7 +1,8 @@
 ---
 title: 'Booster Pack: German words for drunk'
 description: Words to make sure you're prepared for your next trip to a Biergarten,
-  with an Anki deck and a funny song to help you remember them—even after a few drinks
+  with a free Anki deck and a funny song to help you remember them—even after a few
+  drinks
 author: ''
 date: 2021-01-05T20:30:24.000-07:00
 tags:
