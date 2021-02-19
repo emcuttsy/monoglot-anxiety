@@ -128,8 +128,6 @@ _Learning vocabulary isn't so different. You can get by with just the necessary 
 
 _The idea behind these vocabulary booster packs is to compile words that you wouldn't usually find in vocabulary list but that are fun, important in certain specific contexts, or actually useful but too charged or taboo for a typical German course to cover—think words like "tampon" or "hiking pole."_
 
-_I make these booster packs into free Anki decks. There's also a pay-what-you-want premium version of each deck with images,  example sentences, plural forms, verb conjugations with highlighted irregular forms, and cloze deletions for each word. The premium versions use a special card format that automatically generates clozes and color-codes based on example sentences (_[_a bit like this one except it works for verbs, too_](http://localhost:1313/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/)_) that can be reused for your own cards as well!_
+_I make these booster packs into free Anki decks with images, example sentences, plural forms, verb conjugations with highlighted irregular forms, and cloze deletions for each word. They use a special card format that automatically generates clozes and color-codes based on example sentences (_[_a bit like this one except it works for verbs, too_](http://localhost:1313/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/)_) that can be reused for your own cards as well!_
 
 **_A new booster pack appears on the first friday of every month._**
-
-<center><button  onclick ="https://gumroad.com/monoglotanxiety">Check out all the Anki decks!<br> (pay-what-you-want)</button></center>
