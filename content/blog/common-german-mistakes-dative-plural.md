@@ -1,15 +1,25 @@
 ---
-title: "Fehler Files: the German dative plural"
-description: "Knowing how to use the dative case is hard, but forming the German dative plural is easy... but I still screwed it up. Here's how not to."
-author: ""
-slug: "common-german-mistakes-dative-plural"
-date: "2020-12-02"
-tags: ["german mistakes", "german case", "german grammar"]
-categories: ["German", "Common German Mistakes"]
+title: 'Fehler Files: the German dative plural'
+description: Knowing how to use the dative case is hard, but forming the German dative
+  plural is easy... but I still screwed it up. Here's how not to.
+author: ''
+slug: common-german-mistakes-dative-plural
+date: 2020-12-02
+tags:
+- german mistakes
+- german case
+- german grammar
+categories:
+- German
+- Common German Mistakes
 comments: true
 removeBlur: false
----
+images: []
+ankidecks: []
+weight: 
+enableEmoji: false
 
+---
 In Fehler Files, I break down common German mistakes that I make in real conversations so you don't have to make similar mistakes yourself. Think of it like a series of self-deprecating mini-guides to German grammar and vocabulary.
 
 Anyways, this time we're going through a way I keep butchering the **German dative plural.**
@@ -68,4 +78,3 @@ There are also some more specific uses that show up regularly but that I don't s
 Of course, there's more to the "how do I use the dative case" story than that. But that's a topic for another post.
 
 So, did you find this autopsy of my attempt to use the dative plural helpful? Do you find it hard to remember the German cases, or would you never make a mistake like this? In any case, thanks for reading, vielen Dank, and tusind tak!
-
