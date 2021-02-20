@@ -1,22 +1,27 @@
 ---
-title: "Fehler Files: Talking about talking in German"
-description: "I tell 'dir' but ask 'dich.' Why? A quick review of some common German mistakes made with verbs describing speech like sagen, fragen, and erzählen"
-author: ""
-draft: false
-slug: "common-german-mistakes-describing-speech"
-date: 2020-12-16T18:31:32-07:00
-tags: ["german grammar", "german case", "german mistakes", "german verbs"]
-categories: ["Common German Mistakes", "German"]
+title: 'Fehler Files: Talking about talking in German'
+description: I tell 'dir' but ask 'dich.' Why? A quick review of some common German
+  mistakes made with verbs describing speech like sagen, fragen, and erzählen
+author: ''
+slug: common-german-mistakes-describing-speech
+date: 2020-12-16T18:31:32.000-07:00
+tags:
+- german grammar
+- german case
+- german mistakes
+- german verbs
+categories:
+- Common German Mistakes
+- German
 comments: true
 removeBlur: false
 enableEmoji: true
-featured: "2020/12/talking-about-talking-banner.jpg"
-featured_alt: "This post explains common German mistakes made with verbs describing speech"
+featured: img/2020/12/talking-about-talking-banner.jpg
+featured_alt: This post explains common German mistakes made with verbs describing
+  speech
 featuredStretch: 
 
-
 ---
-
 In Fehler Files, I break down common German mistakes that I make in real conversations so you don't have to make similar mistakes yourself. Think of it like a series of self-deprecating mini-guides to German grammar and vocabulary. This time around, it's about using **German verbs describing speech**, such as erzählen and fragen.
 
 **A common mistake with verbs that describe speech is to use the wrong case for the person being addressed**, so I break down which verbs are dative verbs and which are accusative, and how to remember the difference.
@@ -115,4 +120,3 @@ All those words for "drunk" are coming up in another post. Cheers! :beers:
 Keywords:
 common German mistake
 verbs describing speech
-
