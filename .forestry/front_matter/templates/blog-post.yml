@@ -48,4 +48,5 @@ fields:
       required: false
     label: alt text
 pages:
+- content/blog/is-duolingo-bad.md
 - content/blog/the-best-german-anki-deck-ever-probably.md
