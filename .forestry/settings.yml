@@ -36,7 +36,7 @@ sections:
   match: "*"
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
-front_matter_path: https://monoglotanxiety.com
+front_matter_path: ''
 use_front_matter_path: true
 file_template: ":year:/:month:/:day:/:filename:"
 build:
