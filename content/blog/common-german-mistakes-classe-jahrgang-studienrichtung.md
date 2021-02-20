@@ -1,20 +1,27 @@
 ---
-title: "Are your classmates in your Klasse, Jahrgang, or Studienrichtung?"
-description: "Don't be fooled by false friends like Klasse! Translating concepts like class, graduation year, and major to German is a bit complicated." 
-author: ""
-draft: false
-date: 2021-01-16T20:28:37-07:00
-tags: [german mistakes, german vocabulary, german culture]
-categories: [Common German Mistakes, German]
+title: Are your classmates in your Klasse, Jahrgang, or Studienrichtung?
+description: Don't be fooled by false friends like Klasse! Translating concepts like
+  class, graduation year, and major to German is a bit complicated.
+author: ''
+date: 2021-01-16T20:28:37.000-07:00
+tags:
+- german mistakes
+- german vocabulary
+- german culture
+categories:
+- Common German Mistakes
+- German
 comments: true
 removeBlur: false
 enableEmoji: false
 images:
-  - src: "img/2021/1/graduation.jpg"
-  - alt: "How to say class in German? It's more complicated than you might think."
-  - stretch: ""
----
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/1/graduation.jpg
+  alt: Graduating students. What's the German translation of class, as in class of
+    2020?
+ankidecks: []
+weight: 
 
+---
 How do you say "class of 2020" in German? TLDR: you might get away with *Jahrgang 2016*, but that translation might not carry all the meaning you expect it to—especially if you're from the US.
 
 I can't speak to the situation in other English-speaking countries, but at least in the US it is very common for students to think of themselves as belonging to a "class," or cohort of students who began their studies in the same year. It's such a basic concept in the US education system that I didn't realize how odd it can sometimes be until I had to explain it to my tutor earlier this week.
