@@ -858,13 +858,7 @@ figcaption {
       border: none; }
 
 .content a {
-  border-bottom: 1px dotted rgba(161, 161, 161, 0.7);
-  color: indianred;
-  text-decoration: none;
-  transition: border-bottom-color 0.2s ease-in-out, color 0.2s ease-in-out; }
-  .content a:hover {
-    border-bottom-color: transparent;
-    color: #2eb8ac; }
+  color: indianred; }
 
 .content h1 a,
 .content h2 a,
@@ -875,8 +869,8 @@ figcaption {
   color: inherit;
   border-bottom: 0; }
 
-.content li a {
-  color: indianred; }
+.content button a {
+  color: "Source Sans Pro", Helvetica, sans-serif; }
 
 /* ==========================================================================
    IDs and Grid

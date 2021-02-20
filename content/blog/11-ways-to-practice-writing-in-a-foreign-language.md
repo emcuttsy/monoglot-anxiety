@@ -107,9 +107,14 @@ I once got more than 600 likes on a comment I left on a video from a German Late
 
 Being a flashcard junkie, I of course had to throw a flashcard tip into the ring here. One, admittedly nerdy way to get some writing practice is to **create example sentences for your flashcards**. Example sentences are great on their own, but they're even better when used to create cloze deletions, or cards where the word(s) you're trying to learn are removed from a sentence and replaced with a blank. Clozes are a great way to learn words in context. Just be sure to get the sentences corrected by a native speaker so that you don't practice something incorrect.
 
-The free spaced-repetition flashcard program I use, **Anki, has an easy-to-use cloze deletion format you can use if you just want to create flash cards based no example sentences.** Unfortunately, it isn't so straightforward to add cloze deletions to your existing cards if they're not already cloze-format. But if you're learning German, I've got you covered! I poured weeks into developing a [German Anki flashcard format](blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/) that can figure out where the relevant words are in your example sentences to automatically generates cloze deletions. It color-codes nouns by gender, too. Currently it doesn't work for nouns, but I have a version with support for verbs coming out soon!
+The free spaced-repetition flashcard program I use, **Anki, has an easy-to-use cloze deletion format you can use if you just want to create flash cards based no example sentences.** Unfortunately, it isn't so straightforward to add cloze deletions to your existing cards if they're not already cloze-format. But if you're learning German, I made a [German Anki flashcard format](blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/) that can figure out where the relevant words are in your example sentences to automatically generates cloze deletions. It color-codes nouns by gender, too. Currently it doesn't work for nouns, but I have a version with support for verbs coming out soon!
 
-[Get the card format for pay-what-you-want ($0+).](https://gum.co/monoglotanxiety-autocloze-nouns-etc)
+<center>
+
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/monoglotanxiety-autocloze-nouns-etc">Get the free template</a>
+
+</center>
 
 ### 11. Contribute to wikipedia pages in your target language
 
@@ -121,4 +126,4 @@ To start with, **it's easiest to translate content directly out of your native l
 
 ---
 
-I hope you enjoyed this list of ways to practice writing in a foreign language. What are your favorite ways to practice writing? Have you tried any of the ways I've suggested? And did I miss anything? Let me know in the comments below. Thanks for reading, vielen Dank, and tusind tak!
+I hope you enjoyed this list of ways to practice writing in a foreign language. What are your favorite ways to practice writing? Have you tried any of the ways I've suggested? And did I miss anything? Let me know in the comments below or shoot an email to hello@monoglotanxiety.com. Thanks for reading. Vielen Dank!

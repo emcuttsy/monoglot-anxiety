@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "Learn German and conquer Anki with the language blog that doesn't take itself too seriously."
+description = "Learn German for free with the language blog that doesn't take itself too seriously. Written by an enthusiastic German learner with an Anki addiction."
 author = ""
 date = "2020-11-14"
 layout = "about"
@@ -39,9 +39,7 @@ You're in the right place if you'd like to…
 
 Sounds good, right? Of course, I sometimes post about other things, too. Often "other things" means Anki. But I dabble in [Danish](/categories/danish/) as well. 
 
-And unlike a lot of sites out there, **I won't abandon you once you graduate from beginner-dom**. Oh no. One might even say that this blog is best for intermediate and advanced learners. I'm not here to hand-hold you through A1 and teach you the days of the week. I'm here to give you strategies that you can use to bridge the gap between basic proficiency and real fluency.
-
-… but if you *do* want to be hand-held through A1, I guess I can point you to the best resources for that, too.
+**Everything I make is free.** Learning German is hard enough without having to pay for stuff. No upgrades or paid exclusives or anything like that. But I wouldn't say no to a [coffee](https://www.buymeacoffee.com/monoglotanxiety), if you want to say thanks :coffee:
 
 Questions, comments, suggestions, or hate mail? Send it to hello@monoglotanxiety.com. Otherwise, thanks for visiting. I hope this blog helps you learn German faster (and with more hairs left unpulled).
 
@@ -53,7 +51,7 @@ Elise from Monoglot Anxiety
 
 ## Immerse yourself in weekly reccomendations for great German music, movies, podcasts, and more—100% free!
 
-Want to discover great German media that you'll actually want to consume? If so, I write a little email newsletter that serves up a new reccomendation for a German song, video, pocast, etc. each week. Subscribers also get exclusive German-learning tips and resources at the end of each month.
+Want to discover great German media that you'll actually want to consume? If so, I write a little email newsletter that serves up a new reccomendation for a German song, video, pocast, etc. each week. Subscribers also get exclusive German-learning tips and resources at the end of each month. Free forever. 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"
@@ -68,4 +66,12 @@ Want to discover great German media that you'll actually want to consume? If so,
   <input type="submit" value="Send me great German media!" />
   <p style="line-height:1;"><small>Filling out this form subscribes you to the Monoglot Anxiety newsletter. You can unsubscribe any time. I take data privacy seriously, and do my best to keep your email between us. Read my privacy policy for more on how I handle your data.</small></p>
 </form>
+<br><hr>
 
+Everything on this site is free, because I think German is hard enough without having to pay to learn it. But if you do want to throw money at me for some reason, I wouldn't say no to a coffee.
+
+<center>
+
+<a href="https://www.buymeacoffee.com/monoglotanxiety" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+</center>

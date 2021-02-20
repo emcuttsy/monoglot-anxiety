@@ -1111,14 +1111,7 @@ figcaption {
 
 .content {
   a {
-    border-bottom: $secondary-border;
     color: $body-link;
-    text-decoration: none;
-    transition: border-bottom-color $hover, color $hover;
-    &:hover {
-      border-bottom-color: transparent;
-      color: $accent-color;
-    }
   }
   h1,
   h2,
@@ -1131,12 +1124,14 @@ figcaption {
       border-bottom: 0;
     }
   }
-  li {
-    a {
-      color: $body-link;
+  button{
+    a{
+      color: $body-font;
     }
   }
 }
+
+
 
 /* ==========================================================================
    IDs and Grid

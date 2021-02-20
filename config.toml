@@ -65,7 +65,7 @@ enableEmoji             = true
   netlify               = true
 
   [params.meta]
-    description         = "Learn German and conquer Anki with the language blog that doesn't take itself too seriously."
+    description         = "Learn German for free with the language blog that doesn't take itself too seriously. Written by an enthusiastic German learner with a flashcard addiction. Free Anki decks every month."
     author              = "Anxious Monoglot"
     favicon             = false
     svg                 = true
@@ -82,7 +82,7 @@ enableEmoji             = true
 
   [params.intro]
     header                = "Monoglot Anxiety"
-    paragraph             = "Learn German and conquer Anki with the language blog that doesn't take itself too seriously."
+    paragraph             = "Learn German for free with the language blog that doesn't take itself too seriously. Written by an enthusiastic German learner with a flashcard addiction. Free Anki decks every month."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -95,7 +95,7 @@ enableEmoji             = true
       alt                 = "Monoglot Anxiety"
 
   [params.sidebar]
-    about               = "A language learning blog that doesn't take itself too seriously. Free German Anki resources and a new vocabulary 'booster pack' every month."
+    about               = "true"
     postAmount          = 5
     categories          = true
     tags                = true

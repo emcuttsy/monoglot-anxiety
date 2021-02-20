@@ -2,7 +2,7 @@
 <article class='post'>
   <header>
     <div class="title">
-      <h1><a href="{{ .RelPermalink }}">{{ i18n .Data.Plural }}</a></h1>
+      <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
       {{ with .Description }}<p>{{ . }}</p>{{ end }}
     </div>
   </header>

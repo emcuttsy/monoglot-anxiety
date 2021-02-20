@@ -21,6 +21,20 @@
     </section>
   {{ end }}
 
+  {{ if .Site.Params.sidebar.about }}
+    {{ if ne ($.Scratch.Get "showAbout") false }}
+    <section id="mini-bio">
+      <header>
+        <h1>{{ i18n "about" }}</h1>
+      </header>
+      <p>{{ partial "partials/about-text.html" | safeHTML }}</p>
+      <footer>
+      <br>
+      <a href="https://www.buymeacoffee.com/monoglotanxiety" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+      </footer>
+    </section>
+    {{end}}
+  {{ end }}
 
   {{ if .Site.Params.sidebar.categories }}
     {{ if ne ($.Scratch.Get "showCategories") false }}
@@ -38,6 +52,8 @@
           </li>
         </ul>
       </section>
+      <footer>
+      </footer>
     {{ end }}
   {{ end }}
 
@@ -64,15 +80,4 @@
     </form>
   </section>
 
-  {{ if .Site.Params.sidebar.about }}
-    <section id="mini-bio">
-      <header>
-        <h1>{{ i18n "about" }}</h1>
-      </header>
-      <p>{{ .Site.Params.sidebar.about | safeHTML }}</p>
-      <footer>
-        <a href="{{ "about" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
-      </footer>
-    </section>
-  {{ end }}
 </section>
