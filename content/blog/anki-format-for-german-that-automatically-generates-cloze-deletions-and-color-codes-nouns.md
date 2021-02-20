@@ -1,22 +1,30 @@
 ---
-title: "Anki template for German that automatically generates cloze deletions and color-codes nouns"
-description: "Using the magic of German grammar, this Anki template automatically color-codes nouns by gender and generates cloze deletions without extra clicks or note types—just enter the word and an example sentence."
-author: ""
-draft: false
-date: 2020-12-31T15:20:02-07:00
-tags: [anki template, german flashcards, german anki deck, german anki flashcards, language learning]
-categories: [German, Anki]
-ankidecks: [Card Templates]
+title: Anki template for German that automatically generates cloze deletions and color-codes
+  nouns
+description: Using the magic of German grammar, this Anki template automatically color-codes
+  nouns by gender and generates cloze deletions without extra clicks or note types—just
+  enter the word and an example sentence.
+author: ''
+date: 2020-12-31T15:20:02.000-07:00
+tags:
+- anki template
+- german flashcards
+- german anki deck
+- german anki flashcards
+- language learning
+categories:
+- German
+- Anki
+ankidecks:
+- Card Templates
 comments: true
-weight: 3
+weight: "3"
 removeBlur: false
 enableEmoji: true
 images:
-  - src: "img/2020/12/card3.jpg"
-  - alt: "Anki template for German that automatically generates cloze deletions and color-codes nouns"
-  - stretch: ""
----
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/img/2020/12/card3.jpg
 
+---
 One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don't play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance.  So instead of spending an extra 30sec/card, I did the *clearly* easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences. 
 
 *Clearly* easier.
