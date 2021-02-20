@@ -16,13 +16,13 @@ categories:
 ankidecks:
 - German Booster Packs
 comments: true
-weight: "1"
+weight: 1
 removeBlur: false
 enableEmoji: true
 images:
-- src: img/2021/1/hikingsplash.jpg
-- alt: A hiker walks along a path through a mountain valley in Sweden
-- stretch: stretchH
+- alt: A hiker walks along a path through a mountain valley in Sweden. This free flashcard
+    deck contains German hiking vocabulary.
+  src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/1/hikingsplash.jpg
 
 ---
 Hiking has been an escape for me throughout the pandemic, and I like to imagine where I might go hiking once this is over. I suppose we're at the "sanguine tourism fantasies" stage of covid-19…  Anyways, all that daydreaming inspired this [free Anki deck of German hiking vocabulary](https://gum.co/gZoYc). Even though travel restrictions mean most of us won't be flying off to hike in the Alps anytime soon, we can at least upgrade our pandemic daydreams with a dose of linguistic authenticity!
