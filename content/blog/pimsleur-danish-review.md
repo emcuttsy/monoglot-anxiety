@@ -1,20 +1,28 @@
 ---
-title: "A candid review of Pimsleur Danish"
-description: "The listening-based approach is good for phonetically-tricky Danish, but the dialogue is weirdly irrelevant unless your primary motivation for learning Danish is picking up girls abroad."
-author: ""
-draft: false
-date: 2021-01-25T20:03:24-07:00
-tags: [learn danish, language learning, language apps]
-categories: [Reviews, Danish]
+title: A candid review of Pimsleur Danish
+description: The listening-based approach is good for phonetically-tricky Danish,
+  but the dialogue is weirdly irrelevant unless your primary motivation for learning
+  Danish is picking up girls abroad.
+author: ''
+date: 2021-01-25T20:03:24.000-07:00
+tags:
+- learn danish
+- language learning
+- language apps
+categories:
+- Reviews
+- Danish
 comments: true
 removeBlur: true
 enableEmoji: true
 images:
-  - src: "img/2021/1/headphones.jpg"
-  - alt: "A pair of headphones and a Danish flag. The Pimsleur Danish program is an audio course."
-  - stretch: ""
----
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/1/headphones.jpg
+  alt: Headphones and a danish flag. Pimsleur Danish is a decent way to get a start
+    with Danish, but it has its flaws.
+ankidecks: []
+weight: 
 
+---
 I received a lot of reccomendations of the Pimsleur language programs from family members back when I was preparing to head to Denmark in 2019. So naturally, I picked up Pimsleur Danish 1, never finished it, and forgot about it until about a month ago when I found the little blue Pimsleur logo lurking in my app drawer. I had been focusing on German exclusively until then, but given what I'd paid for Pimsleur (too much, see below), my stinginess demanded that I give Danish another shot.
 
 **This is my honest Pimsleur Danish review after following the course for 30 days.** And since I'm a nerd, I also worked through German 5 simultaneously to get a sense of how far Pimsleur could take my Danish if I stuck with it. So while this review is about Pimlsuer Danish, it draws on what I learned about Pimsleur generally by skipping ahead in langauge I speak at a higher level than Pimsleur teaches. 
