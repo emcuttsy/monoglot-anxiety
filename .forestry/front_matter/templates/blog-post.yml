@@ -42,3 +42,8 @@ fields:
   - type: file
     name: src
     label: src
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: alt text
