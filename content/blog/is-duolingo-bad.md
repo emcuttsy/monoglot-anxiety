@@ -16,8 +16,7 @@ categories:
 comments: true
 removeBlur: false
 images:
-- stretch: ''
-  src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/img/2020/12/duolingo-german-owl.jpg
+- src: img/2020/12/duolingo-german-owl.jpg
 
 ---
 Is Duolingo bad? You've probably heard a lot of criticisms of this popular app if you've been hanging around language learning communities online. Duolingo gets a lot of flack, and there's good reason for that. Nobody is going to reach fluency in a foreign language just by using a game app, and a lot of Duolingo users seem to think they can. Still, I think many critics miss an important point: Duolingo scratches the phone itch. And that's no small thing.
