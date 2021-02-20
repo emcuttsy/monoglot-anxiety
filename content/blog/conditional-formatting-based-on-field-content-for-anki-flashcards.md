@@ -1,19 +1,31 @@
 ---
-title: "Conditional formatting based on field content for Anki flashcards"
-description: "Change card styling and text in Anki based on the content of your note fields, not just whether they're empty or not empty"
-author: ""
-draft: false
-date: 2020-12-12T10:06:21-07:00
-tags: [german anki flashcards, german flashcards, anki template, anki tips, anki for language learning]
-categories: ["Anki"]
+title: Conditional formatting based on field content for Anki flashcards
+description: Change card styling and text in Anki based on the content of your note
+  fields, not just whether they're empty or not empty
+author: ''
+date: 2020-12-12T10:06:21.000-07:00
+tags:
+- german anki flashcards
+- german flashcards
+- anki template
+- anki tips
+- anki for language learning
+categories:
+- Anki
 comments: true
 removeBlur: true
-featured: "2020/12/conditional-formatting-banner.jpg"
-featuredalt: "Conditionally format Anki cards based on field content"
-featuredstretch: ""
+featured: 2020/12/conditional-formatting-banner.jpg
+featuredalt: Conditionally format Anki cards based on field content
+featuredstretch: ''
+images:
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/conditional-formatting-banner.jpg
+  alt: 'Conditional formatting based on field content in Anki can be used to automatically
+    color-code German flashcards by gender '
+ankidecks: []
+weight: 
+enableEmoji: false
 
 ---
-
 Anki allows conditoinal formatting based on whether or not fields are empty, but you’ll need to use a bit of code for conditional formatting in Anki based on field content. Luckily, it’s not that hard, and using this trick you can conditionally display text as well. I use it to color-code my German flashcards by noun gender without having to do everything by hand.
 
 Out-of-the-box, Anki supports "[conditional replacement](https://docs.ankiweb.net/#/templates/generation?id=conditional-replacement)," which changes what gets rendered on a card is based on whether or not fields are empty. This is how it works:
