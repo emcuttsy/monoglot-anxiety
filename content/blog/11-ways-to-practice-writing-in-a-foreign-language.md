@@ -1,21 +1,25 @@
 ---
-title: "11 ways to practice writing in a foreign language"
-description: "There are more ways to learn to write a new language than just responding to prompts!"
-author: ""
-draft: false
-date: 2021-01-30T17:49:13-07:00
-tags: [how to learn a language, how to practice a language]
-categories: [Language Learning Tips]
+title: 11 ways to practice writing in a foreign language
+description: There are more ways to learn to write a new language than just responding
+  to prompts!
+author: ''
+date: 2021-01-30T17:49:13.000-07:00
+tags:
+- how to learn a language
+- how to practice a language
+categories:
+- Language Learning Tips
 comments: true
 weight: 1
 removeBlur: false
 enableEmoji: true
 images:
-  - src: "img/2021/1/writing.jpg"
-  - alt: "How to practice writing in a foreign language"
-  - stretch: ""
----
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/1/writing.jpg
+  alt: A notebook and computer. This post goes through 11 ways to practice writing
+    in a foreign language.
+ankidecks: []
 
+---
 Learning to write in a new laguage can be intimidating, especially if you're learning alone. Like speaking, writing is a productive skill which makes it impossible to learn passively. Reading will improve your writing, to be sure. But if you want to write, you need to write!
 
 But what to write?
