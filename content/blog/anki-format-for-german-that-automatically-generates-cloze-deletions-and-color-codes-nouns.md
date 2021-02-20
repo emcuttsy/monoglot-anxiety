@@ -18,11 +18,12 @@ categories:
 ankidecks:
 - Card Templates
 comments: true
-weight: "3"
+weight: 3
 removeBlur: false
 enableEmoji: true
 images:
-- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/img/2020/12/card3.jpg
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/card3.jpg
+  alt: A German flashcard with automatically-generated cloze deletion.
 
 ---
 One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don't play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance.  So instead of spending an extra 30sec/card, I did the *clearly* easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences. 

@@ -49,6 +49,7 @@ fields:
     label: alt text
 pages:
 - content/blog/11-ways-to-practice-writing-in-a-foreign-language.md
+- content/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns.md
 - content/blog/common-german-mistakes-dative-plural.md
 - content/blog/common-german-mistakes-verbs-describing-speech.md
 - content/blog/conditional-formatting-based-on-field-content-for-anki-flashcards.md
