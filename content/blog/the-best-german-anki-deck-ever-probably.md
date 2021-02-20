@@ -15,7 +15,7 @@ weight: "1"
 removeBlur: false
 enableEmoji: false
 images:
-- src: img/2019/03/pic03.jpg
+- src: "/2021/02/20/FreebieAnki.png"
 draft: true
 
 ---
