@@ -11,11 +11,12 @@ categories: []
 ankidecks:
 - German Core Vocabulary
 comments: true
-weight: "1"
+weight: 1
 removeBlur: false
 enableEmoji: false
 images:
-- src: 2021/02/20/FreebieAnki.png
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/20/FreebieAnki.png
+  alt: test atklasdlkfha skdjfh asd fasdf
 draft: true
 
 ---
