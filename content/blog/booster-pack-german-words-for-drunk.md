@@ -21,9 +21,9 @@ comments: true
 removeBlur: false
 enableEmoji: true
 images:
-- src: img/2020/12/beer2.jpg
 - alt: Beer bubbles deliciously in a cool glass
-- stretch: ''
+  src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/beer2.jpg
+weight: 
 
 ---
 Depending on your stereotypes of German speakers, you may or may not be surprised to learn that **there are a _lot_ of German words for drunk.** This post walks through 18 of them as well as words for discussing the aftermath of a night out. I've also put them together as a neat set of [**free Anki cards**](https://gum.co/booster-pack-drunk) so you might have a shot at remembering them when the time comes.
