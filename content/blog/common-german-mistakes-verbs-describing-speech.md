@@ -16,10 +16,16 @@ categories:
 comments: true
 removeBlur: false
 enableEmoji: true
-featured: "/img/2020/12/talking-about-talking-banner.jpg"
+featured: "/2020/12/talking-about-talking-banner.jpg"
 featured_alt: This post explains common German mistakes made with verbs describing
   speech
 featuredStretch: 
+images:
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/talking-about-talking-banner.jpg
+  alt: People speaking German. It can be hard to remember which case to use with verbs
+    like sagen und fragen, which describe speech.
+ankidecks: []
+weight: 
 
 ---
 In Fehler Files, I break down common German mistakes that I make in real conversations so you don't have to make similar mistakes yourself. Think of it like a series of self-deprecating mini-guides to German grammar and vocabulary. This time around, it's about using **German verbs describing speech**, such as erzählen and fragen.
