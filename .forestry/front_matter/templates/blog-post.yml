@@ -1,0 +1,44 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: ankidecks
+  label: ankidecks
+- type: boolean
+  name: comments
+  label: comments
+- type: number
+  name: weight
+  label: weight
+- type: boolean
+  name: removeBlur
+  label: removeBlur
+- type: boolean
+  name: enableEmoji
+  label: enableEmoji
+- type: field_group_list
+  name: images
+  label: images
+  fields:
+  - type: file
+    name: src
+    label: src
