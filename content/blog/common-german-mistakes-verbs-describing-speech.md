@@ -16,7 +16,7 @@ categories:
 comments: true
 removeBlur: false
 enableEmoji: true
-featured: img/2020/12/talking-about-talking-banner.jpg
+featured: "/img/2020/12/talking-about-talking-banner.jpg"
 featured_alt: This post explains common German mistakes made with verbs describing
   speech
 featuredStretch: 
