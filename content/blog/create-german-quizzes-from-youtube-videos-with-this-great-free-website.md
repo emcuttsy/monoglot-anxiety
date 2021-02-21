@@ -1,5 +1,5 @@
 ---
-title: Create German quizzes from YouTube videos with this great free website
+title: Create German quizzes from YouTube videos with a free website
 description: Interpolly is a free website that was built by a software developer who
   used YouTube to learn German. It allows you to create vocabulary quizzes from YouTube
   videos, 100% for free!
