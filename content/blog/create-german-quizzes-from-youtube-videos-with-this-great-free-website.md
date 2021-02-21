@@ -14,14 +14,14 @@ categories:
 - German
 - Reviews
 - Free German Resources
-- Best of Reddit
 comments: true
-weight: "1"
+weight: 1
 removeBlur: false
 enableEmoji: false
 images:
-- src: ''
-- src: ''
+- src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/21/banner-interpolly.jpg
+  alt: Interpolly lets you turn YouTube videos into vocabulary quizzes
+ankidecks: []
 draft: true
 
 ---
@@ -29,17 +29,17 @@ Scrolling through Reddit today, I came across a great new website for German lea
 
 ## Turn videos into German vocabulary quizzes with Interpolly
 
-You can either choose to browse Interpolly's library of videos or provide a URL for a YouTube video to watch instead. Once the video starts, you'll see a transcript show up like subtitles underneath the video. You can click words as they go by to add them to your words list and see a translation. 
+You can either choose to browse Interpolly's library of videos or provide a URL for a YouTube video to watch instead. Once the video starts, you'll see a transcript show up like subtitles underneath the video. You can click words as they go by to add them to your words list and see a translation.
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/21/interpolly-example-kurzgesagt.png)
+![A screenshot of Interpolly. You can use the website to turn youtube videos into German vocabulary lists and quizzes](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/21/interpolly-example-kurzgesagt.png)
 
 Once you've added words to your list, you can turn them into a flashcard-like quiz that asks you to translate the German word to English. It seems like the suggested translations are drawn from other words in your list and from the video you used to make your list, which I think is a clever choice. It means that the various options all make about equal sense given the context of the video, so you actually need to know what the word means to get the answer right.
 
-For instance, here's a question from a dummy quiz I made based on a Kurzgesagt video about alien civilizations. Two of the words are related to the video, and one is another word in the list. 
+For instance, here's a question from a dummy quiz I made based on a Kurzgesagt video about alien civilizations. Two of the words are related to the video, and one is another word in the list.
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/21/interpolly-example-milchstrasse.png)
+![A screenshot of an Interpolly vocabulary quiz.](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/21/interpolly-example-milchstrasse.png)
 
-There are a few bugs, mainly with the translation of especially complicated words and a few verb forms. Still, I really enjoyed Interpolly, and would have really benefitted from this kind of site when I was first starting to learn. 
+There are a few bugs, mainly with the translation of especially complicated words and a few verb forms. Still, I really enjoyed Interpolly, and would have really benefitted from this kind of site when I was first starting to learn.
 
 At this point though, I understand most words in YouTube videos and I'm pretty attached to Anki when it comes to learning vocabulary, so I probably won't be using it too much. But if the Interpolly developers ever add the option to export words to CSVs or spreadsheets that I can import to Anki flashcards, you can bet that I'll be using it alllll the time.
 
