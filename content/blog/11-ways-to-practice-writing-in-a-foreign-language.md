@@ -10,7 +10,7 @@ tags:
 categories:
 - Language Learning Tips
 comments: true
-weight: 1
+weight: 
 removeBlur: false
 enableEmoji: true
 images:
