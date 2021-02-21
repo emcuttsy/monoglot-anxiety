@@ -45,11 +45,11 @@ html {
 * Customize the background color to match your design.
 */
 ::-moz-selection {
-  background: #2eb8ac;
+  background: #5789ff;
   text-shadow: none; }
 
 ::selection {
-  background: #2eb8ac;
+  background: #5789ff;
   text-shadow: none; }
 
 /*
@@ -121,17 +121,18 @@ input,
 select,
 textarea {
   color: #333333;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "Noto Sans JP", Helvetica, sans-serif;
   line-height: 1.75em; }
 
 a {
-  border-bottom: 1px dotted rgba(161, 161, 161, 0.7);
+  border-bottom: 2px solid #5789ff;
+  border-bottom-color: transparent;
   color: inherit;
   text-decoration: none;
   transition: border-bottom-color 0.2s ease-in-out, color 0.2s ease-in-out; }
   a:hover {
-    border-bottom-color: transparent;
-    color: #2eb8ac; }
+    border-bottom-color: #5789ff;
+    color: #5789ff; }
 
 h1,
 h2,
@@ -140,8 +141,8 @@ h4,
 h5,
 h6 {
   color: #3b3a3a;
-  font-family: "Montserrat", serif;
-  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  text-transform: none;
   line-height: 1.65; }
   h1 a,
   h2 a,
@@ -203,7 +204,7 @@ input[type="button"],
   color: #3b3a3a;
   cursor: pointer;
   display: inline-block;
-  font-family: "Montserrat", serif;
+  font-family: "Roboto", sans-serif;
   font-size: 0.8em;
   font-weight: 800;
   height: 4.8125em;
@@ -219,8 +220,8 @@ input[type="button"],
   input[type="reset"]:hover,
   input[type="button"]:hover,
   .button:hover {
-    border: 1px solid #2eb8ac;
-    color: #2eb8ac !important; }
+    border: 1px solid #5789ff;
+    color: #5789ff !important; }
     input[type="submit"]:hover:active,
     input[type="reset"]:hover:active,
     input[type="button"]:hover:active,
@@ -246,13 +247,13 @@ textarea {
   input:hover,
   select:hover,
   textarea:hover {
-    border-color: #2eb8ac; }
+    border-color: #5789ff; }
   input:focus, input:active,
   select:focus,
   select:active,
   textarea:focus,
   textarea:active {
-    border: 1px solid #2eb8ac; }
+    border: 1px solid #5789ff; }
 
 input,
 select {
@@ -478,7 +479,7 @@ figcaption {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  font-family: "Montserrat", serif;
+  font-family: "Roboto", sans-serif;
   font-size: 0.8em;
   letter-spacing: 0.1em;
   text-transform: none;
@@ -491,7 +492,7 @@ figcaption {
       text-align: right;
       width: 25%; } }
   .meta time {
-    font-family: "Montserrat", serif;
+    font-family: "Roboto", sans-serif;
     font-size: 1em;
     font-weight: 800;
     line-height: 1rem;
@@ -538,7 +539,7 @@ figcaption {
           height: fit-content;
           text-align: center; } }
     .stats ul li {
-      font-family: "Montserrat", serif;
+      font-family: "Roboto", sans-serif;
       font-size: 0.7em;
       font-weight: 400;
       letter-spacing: 0.1em;
@@ -636,13 +637,13 @@ figcaption {
 .nav {
   border: 0;
   border-left: 1px solid rgba(161, 161, 161, 0.3);
-  font-family: "Montserrat", serif;
-  font-size: 0.7em;
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8em;
   font-weight: 400;
   letter-spacing: 0.1em;
   margin: 0;
   padding: 0 1.5em;
-  text-transform: uppercase; }
+  text-transform: none; }
 
 .flyout-menu {
   background-color: white;
@@ -664,12 +665,12 @@ figcaption {
     font-size: 1em; }
 
 .link {
-  border-bottom: 1px dotted rgba(161, 161, 161, 0.7);
+  border-bottom: 2px solid #5789ff;
   display: block;
   flex-basis: 100%;
   order: 2; }
   .link:hover {
-    border-bottom: 1px dotted rgba(161, 161, 161, 0.7); }
+    border-bottom: 2px solid #5789ff; }
   @media (min-width: 1024px) {
     .link {
       border-bottom: none;
@@ -689,7 +690,7 @@ figcaption {
   margin: 0; }
   .nav-title a {
     border: 0;
-    font-size: 0.35em;
+    font-size: .4em;
     font-weight: 800;
     margin-left: 1.5em;
     opacity: 1;
@@ -822,7 +823,7 @@ figcaption {
     .mini-post header h2 {
       font-size: 1em; }
     .mini-post header time {
-      font-family: "Montserrat", serif;
+      font-family: "Roboto", sans-serif;
       font-size: 0.7em;
       letter-spacing: 0.1em;
       text-transform: uppercase; }
@@ -834,7 +835,7 @@ figcaption {
 
 .copyright {
   color: #ababab;
-  font-family: "Montserrat", serif;
+  font-family: "Roboto", sans-serif;
   font-size: 0.75em;
   font-weight: 400;
   letter-spacing: 0.1em;
@@ -858,7 +859,10 @@ figcaption {
       border: none; }
 
 .content a {
-  color: indianred; }
+  color: #5789ff; }
+  .content a:hover {
+    border-bottom-color: solid;
+    color: #5789ff; }
 
 .content h1 a,
 .content h2 a,
@@ -869,8 +873,31 @@ figcaption {
   color: inherit;
   border-bottom: 0; }
 
-.content button a {
-  color: "Source Sans Pro", Helvetica, sans-serif; }
+.contentbutton {
+  background-color: transparent;
+  border: 1px solid rgba(161, 161, 161, 0.3);
+  color: #3b3a3a;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8em;
+  font-weight: 800;
+  height: 4.8125em;
+  letter-spacing: 0.1em;
+  line-height: 4.8125em;
+  margin: auto;
+  padding: 0 2em;
+  transition: background-color 0.2s ease-in-out, border 0.2s ease-in-out, color 0.2s ease-in-out;
+  text-align: center;
+  text-transform: uppercase;
+  width: fit-content; }
+  .contentbutton:hover {
+    border: 1px solid #5789ff;
+    color: #5789ff !important; }
+    .contentbutton:hover:active {
+      background-color: rgba(46, 184, 172, 0.05); }
+  .contentbutton a {
+    color: "Noto Sans JP", Helvetica, sans-serif \;; }
 
 /* ==========================================================================
    IDs and Grid
@@ -946,7 +973,7 @@ figcaption {
   #lang-menu.flyout-menu a {
     border-left: 0; }
   #lang-menu.flyout-menu .link {
-    border-bottom: 1px dotted rgba(161, 161, 161, 0.7);
+    border-bottom: 2px solid #5789ff;
     display: block; }
   #lang-menu.flyout-menu .no-lang {
     cursor: not-allowed;
@@ -1020,7 +1047,7 @@ figcaption {
     #site-sidebar > *:first-child {
       margin-top: 0; } }
   #site-sidebar ul {
-    font-family: "Montserrat", serif;
+    font-family: "Roboto", sans-serif;
     font-size: 0.9em;
     letter-spacing: 0.1em;
     line-height: 1.65;
@@ -1030,6 +1057,10 @@ figcaption {
   #site-sidebar footer {
     margin: auto;
     width: max-content; }
+
+#categories a:hover {
+  border-bottom-color: inherit;
+  color: inherit; }
 
 #recent-posts {
   display: -webkit-box;
@@ -1048,6 +1079,10 @@ figcaption {
   opacity: 0.65;
   font-size: 1em;
   padding: 0; }
+
+#mini-bio a:hover {
+  border-bottom-color: inherit;
+  color: inherit; }
 
 #site-main {
   grid-area: main; }
@@ -1074,7 +1109,7 @@ figcaption {
   border: 0;
   transition: color 0.2s ease-in-out, transform 0.2s ease-in-out; }
   #back-to-top:hover {
-    color: #2eb8ac !important;
+    color: #5789ff !important;
     transform: translateY(-10px); }
 
 #socnet-share {
@@ -1161,7 +1196,7 @@ figcaption {
     width: 20px; }
 
 .submit-success {
-  border: 1px solid #2eb8ac;
+  border: 1px solid #5789ff;
   background: rgba(46, 184, 172, 0.25); }
 
 .submit-failed {

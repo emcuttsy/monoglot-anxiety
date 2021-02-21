@@ -20,20 +20,21 @@
    Variables
 /* Font */
 
-$header-font: 'Montserrat', serif;
-$body-font: "Source Sans Pro", Helvetica, sans-serif;
+$header-font: 'Roboto', sans-serif;
+$body-font: "Noto Sans JP", Helvetica, sans-serif;
 $code-font: "Courier New", monospace;
 $fa-free-font: "Font Awesome 5 Free";
 $fa-brands-font: "Font Awesome 5 Brands";
 $header-color: 	hsl(0, 1%, 23%);
-$accent-color: 	hsl(175, 60%, 45%);
+$accent-color: 	hsl(222, 100%, 67%);
 $accent-hover: hsla(175, 60%, 45%, 0.25);
-$body-link: hsl(0, 53.05%, 58.24%);
+$body-link: hsl(222, 100%, 67%);
 $warning-color: hsl(332, 60%, 45%);
 $warning-hover: hsla(332, 60%, 45%, 0.25);
 $utility-gray: hsl(0, 0%, 67%);
 $utility-gray-2: 	hsl(210, 13%, 50%);
 $utility-white: hsl(0, 0%, 96%);
+$sidebar-link-color:hsl(52, 100%, 50%);
 
 /* Background & Border */
 
@@ -43,7 +44,7 @@ $border-color: hsla(0, 0%, 63%, 0.3);
 $input-color: hsla(0, 0%, 63%, 0.07);
 $active-color: hsla(175, 60%, 45%, 0.05);
 $primary-border: 1px solid $border-color;
-$secondary-border: 1px dotted hsla(0, 0%, 63%, 0.7);
+$secondary-border: 2px solid $body-link;
 $cellborder-color: hsl(0, 0%, 88%);
 $headerbg-color: hsl(0, 0%, 93%);
 
@@ -302,11 +303,12 @@ textarea {
 
 a {
   border-bottom: $secondary-border;
+  border-bottom-color: transparent;
   color: inherit;
   text-decoration: none;
   transition: border-bottom-color $hover, color $hover;
   &:hover {
-    border-bottom-color: transparent;
+    border-bottom-color: $accent-color;
     color: $accent-color;
   }
 }
@@ -319,7 +321,7 @@ h5,
 h6 {
   color: $header-color;
   font-family: $header-font;
-  text-transform: uppercase;
+  text-transform: none;
   line-height: 1.65;
   a {
     border-bottom: 0;
@@ -863,12 +865,12 @@ figcaption {
   border: 0;
   border-left: $primary-border;
   font-family: $header-font;
-  font-size: 0.7em;
+  font-size: 0.8em;
   font-weight: 400;
   letter-spacing: 0.1em;
   margin: 0;
   padding: 0 1.5em;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .flyout-menu {
@@ -922,7 +924,7 @@ figcaption {
   margin: 0;
   a {
     border: 0;
-    font-size: 0.35em;
+    font-size: .4em;
     font-weight: 800;
     margin-left: 1.5em;
     opacity: 1;
@@ -1112,6 +1114,10 @@ figcaption {
 .content {
   a {
     color: $body-link;
+    &:hover {
+      border-bottom-color: solid;
+      color: $accent-color;
+    }
   }
   h1,
   h2,
@@ -1124,10 +1130,36 @@ figcaption {
       border-bottom: 0;
     }
   }
-  button{
-    a{
-      color: $body-font;
+}
+
+.contentbutton {
+  background-color: transparent;
+  border: $primary-border;
+  color: $header-color;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $header-font;
+  font-size: 0.8em;
+  font-weight: 800;
+  height: 4.8125em;
+  letter-spacing: 0.1em;
+  line-height: 4.8125em;
+  margin: auto;
+  padding: 0 2em;
+  transition: background-color $hover, border $hover, color $hover;
+  text-align: center;
+  text-transform: uppercase;
+  width: fit-content;
+  &:hover {
+    border: 1px solid $accent-color;
+    color: $accent-color !important;
+    &:active {
+      background-color: $active-color;
     }
+  }
+  a {
+    color: $body-font
+    \;
   }
 }
 
@@ -1324,6 +1356,12 @@ figcaption {
 }
 
 #categories {
+  a {
+    &:hover {
+      border-bottom-color: inherit;
+      color: inherit;
+    }
+  }
 }
 
 #recent-posts {
@@ -1341,6 +1379,12 @@ figcaption {
     opacity: 0.65;
     font-size: 1em;
     padding: 0;
+  }
+  a {
+    &:hover {
+      border-bottom-color: inherit;
+      color: inherit;
+    }
   }
 }
 

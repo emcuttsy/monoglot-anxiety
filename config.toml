@@ -89,7 +89,7 @@ enableEmoji             = true
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "logo.png"
+      src                 = "new-logo.png"
       shape               = ""
       width               = "170rem"
       alt                 = "Monoglot Anxiety"
