@@ -25,7 +25,11 @@ ankidecks: []
 draft: true
 
 ---
-Scrolling through Reddit today, I came across a great new website for German learners made by an r/German user. The site is called [Interpolly](https://www.interpolly.com/), and it allows you to easily create German vocabulary quizzes from YouTube videos.
+Scrolling through Reddit today, I came across a great new website for German learners made by an r/German user. The site is called [Interpolly](https://www.interpolly.com/), and it allows you to easily create German vocabulary quizzes from YouTube videos. I checked it out and really liked the site, so I thought I'd write up a little review as a way of saying thanks to the developer for making this free tool for German learners. 
+
+Interpolly works for Spanish, French, and a few other languages too. But the idea was inspired by the developer's experience learning German by watching YouTube videos, which I think is super heartwarming.
+
+If you haven't already checked it out yourself, German-learning Reddit tend to be really wholesome. At least, that's been my experience, and the existence of free projects like Interpolly backs that up. People often post amazing free learning aides like this one and other resources that they make to help out other learners, and subs like r/German are some of my favorite places to look for new German-learning resources and tips. Interpolly was made by [u/marcellki](https://www.reddit.com/user/marcellki/). Read their post introducing it to r/German [here](https://www.reddit.com/r/German/comments/lo6wsp/i_created_a_free_tool_to_turn_youtube_videos_into/).
 
 ## Turn videos into German vocabulary quizzes with Interpolly
 
@@ -45,11 +49,7 @@ At this point though, I understand most words in YouTube videos and I'm pretty a
 
 Overall, this is a really awesome, free tool. Just one more reason to love the online German-learning community.
 
-If you haven't already checked them out yourself, German-learning subreddits tend to be really wholesome. At least, that's been my experience. People often post amazing free learning aides like this one and other resources that they make to help out other learners, and subs like r/German are some of my favorite places to look for new German-learning resources and tips. Interpolly was made by [u/marcellki](https://www.reddit.com/user/marcellki/). Read their post introducing it to r/German [here](https://www.reddit.com/r/German/comments/lo6wsp/i_created_a_free_tool_to_turn_youtube_videos_into/).
-
-Interpolly is still under development, and the developers would really appreciate your feedback. So the best way to support this awesome free project would be to just go and use it! There's a form on the Interpolly site where you can leave feedback.
-
-Here's to another awesome, free tool for German learners!
+Based on the developer's Reddit post, it seems like Interpolly is still under development and that the developers are looking for feedback. There's a form on the Interpolly site where you can leave feedback.
 
 ***
 
