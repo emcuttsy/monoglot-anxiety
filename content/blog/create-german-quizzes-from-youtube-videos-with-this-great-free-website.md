@@ -16,7 +16,7 @@ categories:
 - Free German Resources
 comments: true
 weight: 1
-removeBlur: false
+removeBlur: true
 enableEmoji: false
 images:
 - src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/21/banner-interpolly.jpg
