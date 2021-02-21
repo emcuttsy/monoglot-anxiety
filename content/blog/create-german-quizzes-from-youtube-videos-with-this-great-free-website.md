@@ -21,8 +21,7 @@ removeBlur: false
 enableEmoji: false
 images:
 - src: ''
-- alt: ''
-- stretch: ''
+- src: ''
 draft: true
 
 ---
