@@ -13,7 +13,6 @@ tags:
 categories:
 - German
 - Reviews
-- Free German Resources
 comments: true
 weight: 1
 removeBlur: true
@@ -22,7 +21,6 @@ images:
 - src: https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/21/banner-interpolly.jpg
   alt: Interpolly lets you turn YouTube videos into vocabulary quizzes
 ankidecks: []
-draft: true
 
 ---
 Scrolling through Reddit today, I came across a great new website for German learners made by an r/German user. The site is called [Interpolly](https://www.interpolly.com/), and it allows you to easily create German vocabulary quizzes from YouTube videos. I checked it out and really liked the site, so I thought I'd write up a little review as a way of saying thanks to the developer for making this free tool for German learners. 
