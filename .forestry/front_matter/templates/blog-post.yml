@@ -14,13 +14,13 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: list
+- type: tag_list
   name: tags
   label: tags
-- type: list
+- type: tag_list
   name: categories
   label: categories
-- type: list
+- type: tag_list
   name: ankidecks
   label: ankidecks
 - type: boolean
