@@ -12,7 +12,9 @@ tags = ["german anki flashcards", "german flashcards", "german anki deck", "germ
 title = "Booster pack: German tree vocabulary"
 weight = -4
 [[images]]
-alt = "A picture of trees from above"
-src = "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/27/trees.jpg"
+alt = "A scientific drawing of the Scotch Pine, a common tree in Germany."
+src = "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/27/trees-banner.jpg"
 
 +++
+
+"Flora von Deutschland, Österreich, und der Schweiz" is a book of hundreds of beautiful, hand-drawn botanical illustration of the plants of the German-speaking realm. The book was compiled in 1885 and is now in the public domain, so it's free to peruse [online](). 
