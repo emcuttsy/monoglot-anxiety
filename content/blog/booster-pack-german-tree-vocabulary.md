@@ -16,6 +16,17 @@ alt = "A scientific drawing of the Scotch Pine, a common tree in Germany."
 src = "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/27/trees-banner.jpg"
 
 +++
+
+My 
+
+The images I used in this post all come from Otto Wilhelm Thome's 1885 book ["Flora von Deutschland, Österreich, und der Schweiz,"](http://www.biolib.de/thome/) a compilation of hundreds of  beautiful, hand-drawn botanical illustration of the plants of the German-speaking realm, complete with German-language annotations in old-timey gothic lettering. It's a real treat for anyone who likes plants or just looking at pretty things generally. And if you're interested in learning tree names to an even more granular level, the book contains plenty of examples of specific species like the common beech and Scotts pine.
+
+## German tree vocabulary
+
+### Names of trees in German
+
+### Parts of trees in German
+
 ## Booster packs now have audio for every word and example sentence
 
 Starting with this booster pack, all of my future decks will come with audio files demonstrating the pronunciation of every word and example sentence. Audio files were never something I personally cared a lot about having on my cards, but I realize that hearing pronunciation is very important to some folks and I want to make the decks as useful as possible for people with different learning styles.
@@ -33,5 +44,3 @@ I'm currently working on getting the last two booster packs updated to include a
 </center>
 
 ## A book of beautiful scientific illustrations of German trees and other plants
-
-The images I used in this post all come from Otto Wilhelm Thome's 1885 book ["Flora von Deutschland, Österreich, und der Schweiz,"](http://www.biolib.de/thome/) a compilation of hundreds of  beautiful, hand-drawn botanical illustration of the plants of the German-speaking realm, complete with German-language annotations in old-timey gothic lettering. It's a real treat for anyone who likes plants or just looking at pretty things generally. And if you're interested in learning tree names to an even more granular level, the book contains plenty of examples of specific species like the common beech and Scotts pine. 
