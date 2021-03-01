@@ -310,7 +310,7 @@ table {
             display: none; } }
       table > tbody > tr > td:first-child {
         background-color: #ededed;
-        font-weight: bold;
+        font-weight: normal;
         text-align: left; }
         @media (min-width: 768px) {
           table > tbody > tr > td:first-child {
@@ -1602,3 +1602,33 @@ figcaption {
   h2,
   h3 {
     page-break-after: avoid; } }
+
+.admonition {
+  border-left: 0.5em solid transparent; }
+
+.admonition .title {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: .75em;
+  border: 2px solid;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.15em;
+  font-weight: bold;
+  background-color: rgba(255, 221, 0, 0.15);
+  border-style: hidden hidden hidden; }
+
+.note {
+  border-color: #ffdd00;
+  background-color: rgba(255, 221, 0, 0.15); }
+
+.note .title {
+  color: #3b3a3a;
+  border-color: #3b3a3a; }
+
+.note .content {
+  margin-top: -.75em;
+  padding-left: .75em;
+  padding-bottom: 0.5em; }
+  .note .content p {
+    margin-bottom: 0em; }

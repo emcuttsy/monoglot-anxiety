@@ -16,7 +16,7 @@ categories:
 ankidecks:
 - German Booster Packs
 comments: true
-weight: 1
+weight: 
 removeBlur: false
 enableEmoji: true
 images:

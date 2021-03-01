@@ -11,7 +11,7 @@
     {{ range .Data.Terms.ByCount }}
     <h2> <a href="{{ .Page.Permalink }}">{{ .Page.Title }}<span style="float:right;">{{ .Count }}</span></a> </h2>
     <ul>
-      {{ range .Pages.ByTitle }}
+      {{ range .Pages.ByDate.Reverse }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>

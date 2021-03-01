@@ -6,11 +6,20 @@
     <description>Recent content in Categories on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Feb 2021 18:54:02 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 15:05:45 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anki</title>
+      <link>https://www.monoglotanxiety.com/categories/anki/</link>
+      <pubDate>Sun, 28 Feb 2021 15:05:45 -0700</pubDate>
+      
+      <guid>https://www.monoglotanxiety.com/categories/anki/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>German</title>
       <link>https://www.monoglotanxiety.com/categories/german/</link>
-      <pubDate>Sat, 20 Feb 2021 18:54:02 -0700</pubDate>
+      <pubDate>Sun, 28 Feb 2021 15:05:45 -0700</pubDate>
       
       <guid>https://www.monoglotanxiety.com/categories/german/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Sat, 20 Feb 2021 18:54:02 -0700</pubDate>
       
       <guid>https://www.monoglotanxiety.com/categories/reviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anki</title>
-      <link>https://www.monoglotanxiety.com/categories/anki/</link>
-      <pubDate>Thu, 04 Feb 2021 19:17:30 -0700</pubDate>
-      
-      <guid>https://www.monoglotanxiety.com/categories/anki/</guid>
       <description></description>
     </item>
     

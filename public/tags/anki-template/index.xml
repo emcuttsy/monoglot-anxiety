@@ -6,7 +6,18 @@
     <description>Recent content in anki template on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Dec 2020 15:20:02 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/tags/anki-template/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 15:05:45 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/tags/anki-template/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The best German Anki template. Probably. Automatic color-coding and cloze deletions</title>
+      <link>https://www.monoglotanxiety.com/blog/the-best-german-anki-template/</link>
+      <pubDate>Sun, 28 Feb 2021 15:05:45 -0700</pubDate>
+      
+      <guid>https://www.monoglotanxiety.com/blog/the-best-german-anki-template/</guid>
+      <description>After almost a year of experimentation, I&amp;rsquo;m finally satisfied enough with my German Anki template to dare to think it might be useful for others. So in the spirit of Mads Mikkelsen advertising a pretty mediocre Danish beer as &amp;ldquo;probably the best beer in the world,&amp;rdquo; I&amp;rsquo;ll say that this is &amp;ldquo;probably the best German Anki template on the internet.&amp;rdquo; You can download it for free.
+Emphasis on probably.
+This template automatically generates cloze-deletions from example sentences, determines the gender of nouns and color-codes accordingly, and recognizes and highlights irregular verbs.</description>
+    </item>
+    
     <item>
       <title>Anki template for German that automatically generates cloze deletions and color-codes nouns</title>
       <link>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</link>

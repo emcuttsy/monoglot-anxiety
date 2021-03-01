@@ -35,7 +35,8 @@ $utility-gray: hsl(0, 0%, 67%);
 $utility-gray-2: 	hsl(210, 13%, 50%);
 $utility-white: hsl(0, 0%, 96%);
 $sidebar-link-color:hsl(52, 100%, 50%);
-
+$note-background-color: hsla(52, 100%, 50%, 0.15);
+$note-title-color: hsla(52, 100%, 50%, 0.1);
 /* Background & Border */
 
 $white: hsl(0, 0%, 100%);
@@ -501,7 +502,7 @@ table {
         }
         &:first-child {
           background-color: $headerbg-color;
-          font-weight: bold;
+          font-weight: normal;
           text-align: left;
           @include for-laptop-up {
             background-color: unset;
@@ -1862,5 +1863,40 @@ figcaption {
   h2,
   h3 {
     page-break-after: avoid;
+  }
+}
+
+.admonition {
+  border-left: 0.5em solid transparent;
+}
+
+.admonition .title {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: .75em;
+  border: 2px solid;
+  width: 100%;
+  font-family: $header-font;
+  font-size: 1.15em;
+  font-weight: bold;
+  background-color: $note-background-color;
+  border-style: hidden hidden hidden;
+}
+.note {
+  border-color: $sidebar-link-color;
+  background-color: $note-background-color;
+}
+
+.note .title {
+  color: $header-color;
+  border-color: $header-color;
+}
+
+.note .content {
+  margin-top: -.75em;
+  padding-left: .75em;
+  padding-bottom: 0.5em;
+  p {
+    margin-bottom: 0em;
   }
 }

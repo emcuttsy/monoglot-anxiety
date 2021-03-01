@@ -6,7 +6,18 @@
     <description>Recent content in German on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Feb 2021 18:54:02 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/categories/german/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 15:05:45 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/categories/german/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The best German Anki template. Probably. Automatic color-coding and cloze deletions</title>
+      <link>https://www.monoglotanxiety.com/blog/the-best-german-anki-template/</link>
+      <pubDate>Sun, 28 Feb 2021 15:05:45 -0700</pubDate>
+      
+      <guid>https://www.monoglotanxiety.com/blog/the-best-german-anki-template/</guid>
+      <description>After almost a year of experimentation, I&amp;rsquo;m finally satisfied enough with my German Anki template to dare to think it might be useful for others. So in the spirit of Mads Mikkelsen advertising a pretty mediocre Danish beer as &amp;ldquo;probably the best beer in the world,&amp;rdquo; I&amp;rsquo;ll say that this is &amp;ldquo;probably the best German Anki template on the internet.&amp;rdquo; You can download it for free.
+Emphasis on probably.
+This template automatically generates cloze-deletions from example sentences, determines the gender of nouns and color-codes accordingly, and recognizes and highlights irregular verbs.</description>
+    </item>
+    
     <item>
       <title>Create German quizzes from YouTube videos with this free website</title>
       <link>https://www.monoglotanxiety.com/blog/create-german-quizzes-from-youtube-videos-with-this-great-free-website/</link>
@@ -17,21 +28,21 @@
     </item>
     
     <item>
-      <title>Booster pack: German hiking vocabulary</title>
-      <link>https://www.monoglotanxiety.com/blog/booster-pack-german-hiking-vocabulary/</link>
-      <pubDate>Thu, 04 Feb 2021 19:17:30 -0700</pubDate>
-      
-      <guid>https://www.monoglotanxiety.com/blog/booster-pack-german-hiking-vocabulary/</guid>
-      <description>Hiking has been an escape for me throughout the pandemic, and I like to imagine where I might go hiking once this is over. I suppose we&amp;rsquo;re at the &amp;ldquo;sanguine tourism fantasies&amp;rdquo; stage of covid-19… Anyways, all that daydreaming inspired this free Anki deck of German hiking vocabulary. Even though travel restrictions mean most of us won&amp;rsquo;t be flying off to hike in the Alps anytime soon, we can at least upgrade our pandemic daydreams with a dose of linguistic authenticity!</description>
-    </item>
-    
-    <item>
       <title>Anki template for German that automatically generates cloze deletions and color-codes nouns</title>
       <link>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</link>
       <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
       
       <guid>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</guid>
       <description>One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don&amp;rsquo;t play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance. So instead of spending an extra 30sec/card, I did the clearly easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences.</description>
+    </item>
+    
+    <item>
+      <title>Booster pack: German hiking vocabulary</title>
+      <link>https://www.monoglotanxiety.com/blog/booster-pack-german-hiking-vocabulary/</link>
+      <pubDate>Thu, 04 Feb 2021 19:17:30 -0700</pubDate>
+      
+      <guid>https://www.monoglotanxiety.com/blog/booster-pack-german-hiking-vocabulary/</guid>
+      <description>Hiking has been an escape for me throughout the pandemic, and I like to imagine where I might go hiking once this is over. I suppose we&amp;rsquo;re at the &amp;ldquo;sanguine tourism fantasies&amp;rdquo; stage of covid-19… Anyways, all that daydreaming inspired this free Anki deck of German hiking vocabulary. Even though travel restrictions mean most of us won&amp;rsquo;t be flying off to hike in the Alps anytime soon, we can at least upgrade our pandemic daydreams with a dose of linguistic authenticity!</description>
     </item>
     
     <item>
