@@ -33,7 +33,7 @@ Pay-what-you-want if you like, but otherwise just enjoy.
 
 <center>
     <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/saHJaW">Get the free deck</a>
+<a class="button gumroad-button" href="https://gum.co/saHJaW">Get the free deck</a>
 </center>
 
 <br>
@@ -106,6 +106,15 @@ Tell me if you find more or if you come up with a fix! Email hello@monoglotanxie
   * Work-around: use a different example sentence. 
 * Certain adjectives that change stem aren't recognized by auto-cloze. Example: teuer –> teuren is not recognized correctly because the e and r switch places.
   * Work-around: use example sentences that take the base form of these adjectives.
+
+<br>
+
+<center>
+    <script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="button gumroad-button" href="https://gum.co/saHJaW">Get the free deck</a>
+</center>
+
+<br>
 
 ---
 
