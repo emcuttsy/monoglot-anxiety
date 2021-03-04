@@ -2,8 +2,9 @@
 title: "Booster Pack: German tree vocabulary"
 description: "An Anki deck of 45 free German flashcards all about trees. Images, example sentences, color-coding, and cloze deletions for every word—and now audio, too."
 author: ""
-draft: true
-date: 2021-02-27T19:49:39-07:00
+draft: false
+date: 2021-03-05T11:30:00-05:00
+publishDate: 2021-03-05T11:30:00-05:00
 tags: [german anki flashcards, german flashcards, german anki deck, german vocabulary, fun german vocabulary]
 categories: [German, Anki]
 ankidecks: ["German Booster Packs"]

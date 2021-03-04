@@ -18,7 +18,7 @@ categories:
 ankidecks:
 - Card Templates
 comments: true
-weight: 3
+weight: 
 removeBlur: false
 enableEmoji: true
 images:
