@@ -56,11 +56,106 @@
   <script src="/js/vex.combined.min.js"></script>
   <link rel="stylesheet" href="/css/vex.css" />
   <link rel="stylesheet" href="/css/vex-theme-default.css" />
+  
+  <script>
+    
 
-  <link rel="preconnect" href="https://app.snipcart.com">
-  <link rel="preconnect" href="https://cdn.snipcart.com">
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.css" />
+  
+    function labnolIframe(div) {
+      var iframe = document.createElement('iframe');
+      iframe.setAttribute(
+        'src',
+        'https://www.youtube.com/embed/' + div.dataset.id + '?autoplay=1&rel=0'
+      );
+      iframe.setAttribute('frameborder', '0');
+      iframe.setAttribute('allowfullscreen', '1');
+      iframe.setAttribute(
+        'allow',
+        'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
+      );
+      div.parentNode.replaceChild(iframe, div);
+    }
+  
+    function initYouTubeVideos() {
+      var playerElements = document.getElementsByClassName('youtube-player');
+      for (var n = 0; n < playerElements.length; n++) {
+        var videoId = playerElements[n].dataset.id;
+        var div = document.createElement('div');
+        div.setAttribute('data-id', videoId);
+        var thumbNode = document.createElement('img');
+        thumbNode.src = '//i.ytimg.com/vi/ID/hqdefault.jpg'.replace(
+          'ID',
+          videoId
+        );
+        div.appendChild(thumbNode);
+        var playButton = document.createElement('div');
+        playButton.setAttribute('class', 'play');
+        div.appendChild(playButton);
+        div.onclick = function () {
+          labnolIframe(this);
+        };
+        playerElements[n].appendChild(div);
+      }
+    }
+  
+    document.addEventListener('DOMContentLoaded', initYouTubeVideos);
+  </script>
+  <style>
+  .youtube-player {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+    margin: 5px;
+  }
 
+  .youtube-player iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background: transparent;
+  }
+
+  .youtube-player img {
+    object-fit: cover;
+    display: block;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    height: auto;
+    cursor: pointer;
+    -webkit-transition: 0.4s all;
+    -moz-transition: 0.4s all;
+    transition: 0.4s all;
+  }
+
+  .youtube-player img:hover {
+    -webkit-filter: brightness(75%);
+  }
+
+  .youtube-player .play {
+    height: 72px;
+    width: 72px;
+    left: 50%;
+    top: 50%;
+    margin-left: -36px;
+    margin-top: -36px;
+    position: absolute;
+    background: url('//i.imgur.com/TxzC70f.png') no-repeat;
+    cursor: pointer;
+  }
+</style>
 </head>
 
   <body>
@@ -331,11 +426,7 @@
 <li><strong>hinüber</strong> - incredibly wasted (&ldquo;also means dead, Austrians would say <em>hinig</em>&quot;)</li>
 </ul>
 <h3 id="hear-some-of-these-words-in-action-in-this-very-austrian-song--">Hear some of these words in action in this very Austrian song 🇦🇹 🍻</h3>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube-nocookie.com/embed/JXv8jITG-OQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
+<div class="youtube-player" data-id="JXv8jITG-OQ"></div>
 <p>Did you get any of that? Don&rsquo;t worry if you didn&rsquo;t. Österreichisch can sometimes sound like a completely different language from Standard German—and there isn&rsquo;t just <em>one</em> Österreichisch, either since there are lots of dialects just like in the rest of the German-speaking world. Still, listen to this stuff long enough and it starts to sound more like German. <a href="https://www.songtexte.com/songtext/wolfgang-ambros/heut-bin-i-wieder-fett-wie-ein-radierer-3b99a8cc.html">Looking at the lyrics</a> while listening along can help a lot.</p>
 <p>The song is pretty funny and worth deciphering. To get you started, the title in Standard German would be &ldquo;heute bin ich wieder fett wie ein Radierer.&rdquo; Not to give away the joke, but the song is roughly about how  &ldquo;drunk goggles&rdquo; can sometimes have rose-colored lenses.</p>
 <p>And even if you don&rsquo;t understand or like the song, check out the comments section for a laugh. The comments sections on old Austrian songs are like some kind of bizzare oasis in the filth ocean of youtube comments sections—they&rsquo;re always super wholesome. Everyone just seems to want to wave little mini Austrian flags along to the beat and share sentimental childhood memories. And they&rsquo;re a good place to see how native speakers write online, which isn&rsquo;t something you&rsquo;ll find in a textbook.</p>
@@ -418,7 +509,7 @@
       <a href="/blog/common-german-mistakes-classe-jahrgang-studienrichtung/" class="button left"><span>Are your classmates in your Klasse, Jahrgang, or Studienrichtung?</span></a>
     
     
-      <a href="/blog/common-german-mistakes-describing-speech/" class="button right"><span>Fehler Files: Talking about talking in German</span></a>
+      <a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/" class="button right"><span>Anki template for German that automatically generates cloze deletions and color-codes nouns</span></a>
     
   </div>
 
@@ -429,6 +520,16 @@
       <header>
         <h1>Recent Posts</h1>
       </header>
+      
+      <article class="mini-post">
+          <a href="/blog/booster-pack-german-tree-vocabulary/" class="image" style="--bg-image: url('https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/27/trees-banner.jpg');">
+    <img src="https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/27/trees-banner.jpg" alt="">
+  </a>
+        <header>
+          <h2><a href="/blog/booster-pack-german-tree-vocabulary/">Booster Pack: German tree vocabulary</a></h2>
+          <time class="published" datetime="2021-03-05 11:30:00 -0500 -0500">March 5, 2021</time>
+        </header>
+      </article>
       
       <article class="mini-post">
           <a href="/blog/the-best-german-anki-template/" class="image">
@@ -447,16 +548,6 @@
         <header>
           <h2><a href="/blog/create-german-quizzes-from-youtube-videos-with-this-great-free-website/">Create German quizzes from YouTube videos with this free website</a></h2>
           <time class="published" datetime="2021-02-20 18:54:02 -0700 MST">February 20, 2021</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          <a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/" class="image" style="--bg-image: url('https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/card3.jpg');">
-    <img src="https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/card3.jpg" alt="A German flashcard with automatically-generated cloze deletion.">
-  </a>
-        <header>
-          <h2><a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/">Anki template for German that automatically generates cloze deletions and color-codes nouns</a></h2>
-          <time class="published" datetime="2020-12-31 15:20:02 -0700 MST">December 31, 2020</time>
         </header>
       </article>
       
@@ -523,10 +614,10 @@ to a coffee or two. Vielen Dank!</p>
           
           
           <li>
-              <a href="/categories/german/">german<span class="count">8</span></a>
+              <a href="/categories/german/">german<span class="count">9</span></a>
           
           <li>
-              <a href="/categories/anki/">anki<span class="count">5</span></a>
+              <a href="/categories/anki/">anki<span class="count">6</span></a>
           
           <li>
               <a href="/categories/common-german-mistakes/">common-german-mistakes<span class="count">3</span></a>

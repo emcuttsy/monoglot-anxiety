@@ -53,11 +53,106 @@
   <script src="/js/vex.combined.min.js"></script>
   <link rel="stylesheet" href="/css/vex.css" />
   <link rel="stylesheet" href="/css/vex-theme-default.css" />
+  
+  <script>
+    
 
-  <link rel="preconnect" href="https://app.snipcart.com">
-  <link rel="preconnect" href="https://cdn.snipcart.com">
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.css" />
+  
+    function labnolIframe(div) {
+      var iframe = document.createElement('iframe');
+      iframe.setAttribute(
+        'src',
+        'https://www.youtube.com/embed/' + div.dataset.id + '?autoplay=1&rel=0'
+      );
+      iframe.setAttribute('frameborder', '0');
+      iframe.setAttribute('allowfullscreen', '1');
+      iframe.setAttribute(
+        'allow',
+        'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
+      );
+      div.parentNode.replaceChild(iframe, div);
+    }
+  
+    function initYouTubeVideos() {
+      var playerElements = document.getElementsByClassName('youtube-player');
+      for (var n = 0; n < playerElements.length; n++) {
+        var videoId = playerElements[n].dataset.id;
+        var div = document.createElement('div');
+        div.setAttribute('data-id', videoId);
+        var thumbNode = document.createElement('img');
+        thumbNode.src = '//i.ytimg.com/vi/ID/hqdefault.jpg'.replace(
+          'ID',
+          videoId
+        );
+        div.appendChild(thumbNode);
+        var playButton = document.createElement('div');
+        playButton.setAttribute('class', 'play');
+        div.appendChild(playButton);
+        div.onclick = function () {
+          labnolIframe(this);
+        };
+        playerElements[n].appendChild(div);
+      }
+    }
+  
+    document.addEventListener('DOMContentLoaded', initYouTubeVideos);
+  </script>
+  <style>
+  .youtube-player {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+    margin: 5px;
+  }
 
+  .youtube-player iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background: transparent;
+  }
+
+  .youtube-player img {
+    object-fit: cover;
+    display: block;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    height: auto;
+    cursor: pointer;
+    -webkit-transition: 0.4s all;
+    -moz-transition: 0.4s all;
+    transition: 0.4s all;
+  }
+
+  .youtube-player img:hover {
+    -webkit-filter: brightness(75%);
+  }
+
+  .youtube-player .play {
+    height: 72px;
+    width: 72px;
+    left: 50%;
+    top: 50%;
+    margin-left: -36px;
+    margin-top: -36px;
+    position: absolute;
+    background: url('//i.imgur.com/TxzC70f.png') no-repeat;
+    cursor: pointer;
+  }
+</style>
 </head>
 
   <body>
@@ -354,6 +449,67 @@
   <header>
   <div class="title">
     
+      <h2><a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/">Anki template for German that automatically generates cloze deletions and color-codes nouns</a></h2>
+    
+    
+      <p>Using the magic of German grammar, this Anki template automatically color-codes nouns by gender and generates cloze deletions without extra clicks or note types—just enter the word and an example sentence.</p>
+    
+  </div>
+  <div class="meta">
+    <time datetime="2020-12-31 15:20:02 -0700 MST">December 31, 2020</time>
+    <p>Monoglot Anxiety</p>
+    <p>6-Minute Read</p>
+  </div>
+</header>
+
+  <div class="content">
+    <a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/" class="image" style="--bg-image: url('https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/card3.jpg');">
+    <img src="https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/card3.jpg" alt="A German flashcard with automatically-generated cloze deletion.">
+  </a>
+    
+    <p>One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don&rsquo;t play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance.  So instead of spending an extra 30sec/card, I did the <em>clearly</em> easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences.</p>
+  </div>
+  <footer>
+    <a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/" class="button big">Read More</a>
+    <div class="stats">
+  
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/german/">German</a></li>
+        
+          <li><a class="article-terms-link" href="/categories/anki/">Anki</a></li>
+        
+      
+    </ul>
+  
+  
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/anki-template/">anki template</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/german-flashcards/">german flashcards</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/german-anki-deck/">german anki deck</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/german-anki-flashcards/">german anki flashcards</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/language-learning/">language learning</a></li>
+        
+      
+    </ul>
+  
+</div>
+
+  </footer>
+</article>
+
+  
+    <article class="post">
+  <header>
+  <div class="title">
+    
       <h2><a href="/blog/common-german-mistakes-describing-speech/">Fehler Files: Talking about talking in German</a></h2>
     
     
@@ -531,65 +687,12 @@
 </article>
 
   
-    <article class="post">
-  <header>
-  <div class="title">
-    
-      <h2><a href="/blog/common-german-mistakes-dative-plural/">Fehler Files: the German dative plural</a></h2>
-    
-    
-      <p>Knowing how to use the dative case is hard, but forming the German dative plural is easy... but I still screwed it up. Here&#39;s how not to.</p>
-    
-  </div>
-  <div class="meta">
-    <time datetime="2020-12-02 00:00:00 &#43;0000 UTC">December 2, 2020</time>
-    <p>Monoglot Anxiety</p>
-    <p>3-Minute Read</p>
-  </div>
-</header>
-
-  <div class="content">
-    
-    
-    <p>In Fehler Files, I break down common German mistakes that I make in real conversations so you don&rsquo;t have to make similar mistakes yourself. Think of it like a series of self-deprecating mini-guides to German grammar and vocabulary.</p>
-  </div>
-  <footer>
-    <a href="/blog/common-german-mistakes-dative-plural/" class="button big">Read More</a>
-    <div class="stats">
-  
-    <ul class="categories">
-      
-        
-          <li><a class="article-terms-link" href="/categories/german/">German</a></li>
-        
-          <li><a class="article-terms-link" href="/categories/common-german-mistakes/">Common German Mistakes</a></li>
-        
-      
-    </ul>
-  
-  
-    <ul class="tags">
-      
-        
-          <li><a class="article-terms-link" href="/tags/german-mistakes/">german mistakes</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/german-case/">german case</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/german-grammar/">german grammar</a></li>
-        
-      
-    </ul>
-  
-</div>
-
-  </footer>
-</article>
-
-  
   <div class="pagination">
     
       <a href="/" class="button left"><span>Previous Page</span></a>
     
+    
+      <a href="/page/3/" class="button right"><span>Next Page</span></a>
     
   </div>
 
@@ -600,6 +703,16 @@
       <header>
         <h1>Recent Posts</h1>
       </header>
+      
+      <article class="mini-post">
+          <a href="/blog/booster-pack-german-tree-vocabulary/" class="image" style="--bg-image: url('https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/27/trees-banner.jpg');">
+    <img src="https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/02/27/trees-banner.jpg" alt="">
+  </a>
+        <header>
+          <h2><a href="/blog/booster-pack-german-tree-vocabulary/">Booster Pack: German tree vocabulary</a></h2>
+          <time class="published" datetime="2021-03-05 11:30:00 -0500 -0500">March 5, 2021</time>
+        </header>
+      </article>
       
       <article class="mini-post">
           <a href="/blog/the-best-german-anki-template/" class="image">
@@ -618,16 +731,6 @@
         <header>
           <h2><a href="/blog/create-german-quizzes-from-youtube-videos-with-this-great-free-website/">Create German quizzes from YouTube videos with this free website</a></h2>
           <time class="published" datetime="2021-02-20 18:54:02 -0700 MST">February 20, 2021</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          <a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/" class="image" style="--bg-image: url('https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/card3.jpg');">
-    <img src="https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/card3.jpg" alt="A German flashcard with automatically-generated cloze deletion.">
-  </a>
-        <header>
-          <h2><a href="/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/">Anki template for German that automatically generates cloze deletions and color-codes nouns</a></h2>
-          <time class="published" datetime="2020-12-31 15:20:02 -0700 MST">December 31, 2020</time>
         </header>
       </article>
       
@@ -694,10 +797,10 @@ to a coffee or two. Vielen Dank!</p>
           
           
           <li>
-              <a href="/categories/german/">german<span class="count">8</span></a>
+              <a href="/categories/german/">german<span class="count">9</span></a>
           
           <li>
-              <a href="/categories/anki/">anki<span class="count">5</span></a>
+              <a href="/categories/anki/">anki<span class="count">6</span></a>
           
           <li>
               <a href="/categories/common-german-mistakes/">common-german-mistakes<span class="count">3</span></a>

@@ -6,7 +6,17 @@
     <description>Recent content in Blog on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Feb 2021 15:05:45 -0700</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 11:30:00 -0500</lastBuildDate><atom:link href="https://www.monoglotanxiety.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Booster Pack: German tree vocabulary</title>
+      <link>https://www.monoglotanxiety.com/blog/booster-pack-german-tree-vocabulary/</link>
+      <pubDate>Fri, 05 Mar 2021 11:30:00 -0500</pubDate>
+      
+      <guid>https://www.monoglotanxiety.com/blog/booster-pack-german-tree-vocabulary/</guid>
+      <description>When we learn a new language, we focus on learning the words we actually need to communicate. But eventually, you might want to be able to get across points like &amp;ldquo;pine tree&amp;rdquo; without having to say things like &amp;ldquo;der Baum, der Nadeln statt Blätter hat.&amp;rdquo;
+This week&amp;rsquo;s booster pack is a deck full of eventually words involving trees—both the German names for specific types of trees and the German words for parts of trees like roots and branches.</description>
+    </item>
+    
     <item>
       <title>The best German Anki template. Probably. Automatic color-coding and cloze deletions</title>
       <link>https://www.monoglotanxiety.com/blog/the-best-german-anki-template/</link>
@@ -25,15 +35,6 @@ This template automatically generates cloze-deletions from example sentences, de
       
       <guid>https://www.monoglotanxiety.com/blog/create-german-quizzes-from-youtube-videos-with-this-great-free-website/</guid>
       <description>Scrolling through Reddit today, I came across a great new website for German learners made by an r/German user. The site is called Interpolly, and it allows you to easily create German vocabulary quizzes from YouTube videos. I checked it out and really liked the site, so I thought I&amp;rsquo;d write up a little review as a way of saying thanks to the developer for making this free tool for German learners.</description>
-    </item>
-    
-    <item>
-      <title>Anki template for German that automatically generates cloze deletions and color-codes nouns</title>
-      <link>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</link>
-      <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
-      
-      <guid>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</guid>
-      <description>One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don&amp;rsquo;t play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance. So instead of spending an extra 30sec/card, I did the clearly easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences.</description>
     </item>
     
     <item>
@@ -82,6 +83,15 @@ I can&amp;rsquo;t speak to the situation in other English-speaking countries, bu
       
       <guid>https://www.monoglotanxiety.com/blog/booster-pack-german-words-for-drunk/</guid>
       <description>Depending on your stereotypes of German speakers, you may or may not be surprised to learn that there are a lot of German words for drunk. This post walks through 18 of them as well as words for discussing the aftermath of a night out. I&amp;rsquo;ve also put them together as a neat set of free Anki cards so you might have a shot at remembering them when the time comes.</description>
+    </item>
+    
+    <item>
+      <title>Anki template for German that automatically generates cloze deletions and color-codes nouns</title>
+      <link>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</link>
+      <pubDate>Thu, 31 Dec 2020 15:20:02 -0700</pubDate>
+      
+      <guid>https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/</guid>
+      <description>One of my major frustrations with Anki is the stiffness of cloze-formatted cards. They just don&amp;rsquo;t play nice with basic card types. So while I often want to incorperate cloze deletions into my decks, making seperate notes for clozes of my example sentences is simply beyond my effort tolerance. So instead of spending an extra 30sec/card, I did the clearly easier thing and spent a week figuring out how to get basic cards to automatically make cloze deletions based on example sentences.</description>
     </item>
     
     <item>

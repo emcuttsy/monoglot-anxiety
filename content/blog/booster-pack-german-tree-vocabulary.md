@@ -55,7 +55,7 @@ I've made sure to include every type of tree mentioned in "Das Sägewerk Bad Seg
 
 Quick note: there isn't actually a sawmill in the real German town of Bad Segeberg. But there is a forestry school, and they made a [pretty hilarious music video](https://www.youtube.com/watch?v=1AeXsYED25I) of their own based on the original. 
 
-{{< youtube jVkN2WNOnuc >}}
+{{< yt jVkN2WNOnuc >}}
 
 ## 45 words of German tree vocabulary
 

@@ -77,7 +77,7 @@ Anyways, with all that said: _Prost!_
 
 ### Hear some of these words in action in this very Austrian song :austria: :beers:
 
-{{<youtube JXv8jITG-OQ>}}
+{{<yt JXv8jITG-OQ>}}
 
 Did you get any of that? Don't worry if you didn't. Österreichisch can sometimes sound like a completely different language from Standard German—and there isn't just _one_ Österreichisch, either since there are lots of dialects just like in the rest of the German-speaking world. Still, listen to this stuff long enough and it starts to sound more like German. [Looking at the lyrics](https://www.songtexte.com/songtext/wolfgang-ambros/heut-bin-i-wieder-fett-wie-ein-radierer-3b99a8cc.html) while listening along can help a lot.
 
