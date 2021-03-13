@@ -12,7 +12,7 @@ removeBlur: false
 enableEmoji: false
 images:
   - src: "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/03/12/sciencesplash.jpg"
-  - alt: ""
+  - alt: "a space station over the Earth with the YouTube logo, except the red box is a German flag"
   - stretch: ""
 ---
 
