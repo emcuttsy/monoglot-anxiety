@@ -12,7 +12,7 @@ tags:
 - german media
 categories:
 - German
-- Reviews
+- Reviews & Recommendations
 comments: true
 weight: 1
 removeBlur: true

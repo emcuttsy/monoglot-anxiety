@@ -12,7 +12,7 @@ tags:
 - language learning tips
 categories:
 - Language Learning Tips
-- Reviews
+- Reviews & Recommendations
 comments: true
 removeBlur: false
 images:

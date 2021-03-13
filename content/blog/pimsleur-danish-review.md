@@ -10,7 +10,7 @@ tags:
 - language learning
 - language apps
 categories:
-- Reviews
+- Reviews & Recommendations
 - Danish
 comments: true
 removeBlur: true

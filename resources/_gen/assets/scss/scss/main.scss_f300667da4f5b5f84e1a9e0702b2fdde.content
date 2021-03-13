@@ -1628,7 +1628,41 @@ figcaption {
 
 .note .content {
   margin-top: -.75em;
+  margin-right: 0.75em;
   padding-left: .75em;
   padding-bottom: 0.5em; }
   .note .content p {
     margin-bottom: 0em; }
+  .note .content input {
+    background-color: #f5f5f5;
+    border: 1px solid black; }
+  .note .content input[type="submit"],
+  .note .content input[type="reset"],
+  .note .content input[type="button"],
+  .note .content .button {
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.8em;
+    font-weight: 800;
+    height: 4.8125em;
+    letter-spacing: 0.1em;
+    line-height: 4.8125em;
+    padding: 0 2em;
+    transition: background-color 0.2s ease-in-out, border 0.2s ease-in-out, color 0.2s ease-in-out;
+    text-align: center;
+    text-transform: uppercase; }
+    .note .content input[type="submit"]:hover,
+    .note .content input[type="reset"]:hover,
+    .note .content input[type="button"]:hover,
+    .note .content .button:hover {
+      background-color: white;
+      border: 1px solid #5789ff;
+      color: #5789ff !important; }
+      .note .content input[type="submit"]:hover:active,
+      .note .content input[type="reset"]:hover:active,
+      .note .content input[type="button"]:hover:active,
+      .note .content .button:hover:active {
+        background-color: rgba(46, 184, 172, 0.05); }
