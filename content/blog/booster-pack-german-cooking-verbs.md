@@ -86,7 +86,10 @@ This one on goulash is full of illegality. And deliciousness.
 | flambieren   | flambiert, flambierte, hat flambiert        | to flambé                           | Ein wenig Brandy hinzufügen und flambieren.                  |
 | panieren     | paniert, panierte, hat paniert              | to bread, to coat in breadcrumbs    | Das Schnitzel mit Semmelbröseln panieren und danach ausbacken. |
 
-
+<center><br>
+    <script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/eZobm">Get the free deck!</a>
+</center><br>
 
 ---
 
