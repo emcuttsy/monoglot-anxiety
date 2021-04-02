@@ -35,7 +35,7 @@ Like all of my booster packs, this deck is based on my [custom German Anki templ
 
 ## See your cooking vocabulary in action with Kein Stress Kochen, a great German-language cooking YouTube channel
 
-Since we're on the subject of cooking, I can't end here without squeezing in a pitch for my favorite German-language cooking channel: Kein Stress Kochen. I say German-language and not "German" since the host is very, very Austrian. But don't worry. While he definitely speaks in dialect, it's nowhere near incomprehensible and there are hand-made German-German subtitles (with some funny gags sprinkled in) for those of you who aren't down with ~~funny~~Austrian German​.​ :austria:
+Since we're on the subject of cooking, I can't end here without squeezing in a pitch for **my favorite German-language cooking channel: [Kein Stress Kochen](https://www.youtube.com/channel/UCn_hpOysFGIz3S7RLErWO3w)**. I say German-language and not "German" since the host is very, very Austrian. But don't worry. While he definitely speaks in dialect, it's nowhere near incomprehensible and there are hand-made German-German subtitles (with some funny gags sprinkled in) for those of you who aren't down with ~~funny~~Austrian German​.​ :austria:
 
 Watch a few episodes and you'll see that the channel was aptly named. The host shares helpful recipes, but rarely measures anything except in pinches, spoonfuls, and bunches and encourages plenty of experimentation with "illegal" variants on classic recipes. He is also clearly more commited to making something tasty and easy than he is to recipe purity, and often shares tricks for avoiding the hard to aquire or expensive ingredients in dishes like ramen without sacrificing flavor. 
 
