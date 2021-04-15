@@ -13,19 +13,23 @@
   <meta property="og:url" content="{{ .RelPermalink | absURL }}">
   <meta property="og:type" content="{{ cond .IsHome "website" "article" }}">
 
+  <meta property="og:image" content="{{ .Site.Params.intro.pic.src | absURL }}">
+    <!--
   {{ if .Params.images }}
     {{ with or (.Params.openGraph) (.Params.images) }}
       {{ range . }}
-        <meta property="og:image" content="{{ .Site.Params.intro.pic.src | absURL }}">
-        <!--
+        <meta property="og:image" content="{{ .Site.Params.intro.pic.src }}">
+        
+    
         <meta property="og:image" content="{{ .src | absURL }}">
         <meta property="og:image:alt" content="{{ .alt }}">
-        -->
+  
       {{ end }}
   {{ end }}
   {{ else }}
     <meta property="og:image" content="{{ .Site.Params.intro.pic.src | absURL }}">
   {{ end }}
+        -->
 
   {{ with .Site.Params.Social.twitter}}
   <meta property="hello" content="hi">
