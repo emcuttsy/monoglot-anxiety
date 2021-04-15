@@ -17,13 +17,19 @@
     {{ with or (.Params.openGraph) (.Params.images) }}
       {{ range . }}
         <meta property="og:image" content="{{ .src | absURL }}">
+        <!--
         <meta property="og:image:alt" content="{{ .alt }}">
+        -->
       {{ end }}
   {{ end }}
   {{ else }}
     <meta property="og:image" content="{{ .Site.Params.intro.pic.src | absURL }}">
   {{ end }}
-  {{ with .Site.Params.Social.twitter}}<meta property="twitter:site" content="{{ . }}">{{ end }}
+
+  {{ with .Site.Params.Social.twitter}}
+  <meta property="hello" content="hi">
+  <meta property="twitter:site" content="{{ . }}">
+  {{ end }}
 
   {{- if .Site.Params.enableCDN -}}
     {{- if .Site.Params.highlightjs -}}<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/{{ .Site.Params.highlightjsTheme | default "default" }}.min.css">{{- end -}}
