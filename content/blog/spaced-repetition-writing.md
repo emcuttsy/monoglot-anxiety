@@ -3,7 +3,7 @@ title: "How to  make better language flashcards by combining writing practice wi
 description: "Write, get your writing corrected by native speakers, and turn your mistakes into flashcards"
 author: ""
 draft: false
-date: 2021-04-15T18:33:47+02:00
+date: 2021-04-15T9:33:47+02:00
 tags: [anki, anki for language learning, language learning, how to learn a language, how to practice a language, spaced repetition]
 categories: [Anki, Language Learning Tips]
 comments: true
@@ -26,7 +26,7 @@ By integrating an SRS into your writing practice, you can learn and remember the
 
 Spaced repetition is a well-studied learning method, and a large body of evidence backs up the claims of the many language bloggers and internet polyglots who tout its benefits. Most modern language learning tools are based on a spaced repetition system (SRS) under the hood, so if you're using Duolingo or Memrise study a language, you've already have gotten a taste of what spaced repetition is about.
 
-I use Anki for all of my language flashcards because it is free and very flexible—it works just as well for med students cramming for the MCAT as it does for me as a German learner. This flexibility extends to templating and allows for fun things like automatic color-coding if you hate yourself enough to write out the JavaScript. Check out my Anki templates and decks if you're interested. They're all free.
+I use Anki for all of my language flashcards because it is free and very flexible—it works just as well for med students cramming for the MCAT as it does for me as a German learner. This flexibility extends to templating and allows for fun things like automatic color-coding if you hate yourself enough to write out the JavaScript. [Check out my Anki templates and decks](/ankidecks/) if you're interested. They're all free.
 
 When used well, an SRS like Anki can be incredibly helpful because it helps you to move concepts from short-term into long-term memory very efficiently, which is exactly what serious language learners need. But using an SRS doesn't mean that you can abandon other study methods. I've had the most success using Anki when I combine it with other study methods—especially writing.
 
