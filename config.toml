@@ -65,7 +65,7 @@ enableEmoji             = true
   netlify               = true
 
   [params.meta]
-    description         = "Learn German for free with the language blog that doesn't take itself too seriously. Written by an enthusiastic German learner with a flashcard addiction. Free Anki decks every month."
+    description         = "Learn to learn languages with me, your neurotic companion in self-taught language learning. Free tried and tested language learning tips and resources for German, Italian, and Danish."
     author              = "Anxious Monoglot"
     favicon             = false
     svg                 = true
@@ -82,7 +82,7 @@ enableEmoji             = true
 
   [params.intro]
     header                = "Monoglot Anxiety"
-    paragraph             = "Learn German for free with the language blog that doesn't take itself too seriously. Written by an enthusiastic German learner with a flashcard addiction. Free Anki decks every month."
+    paragraph             = "Learn to learn languages with me, your neurotic companion in self-taught language learning"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false

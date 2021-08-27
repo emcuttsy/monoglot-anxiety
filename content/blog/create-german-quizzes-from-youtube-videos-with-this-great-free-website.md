@@ -48,13 +48,3 @@ At this point though, I understand most words in YouTube videos and I'm pretty a
 Overall, this is a really awesome, free tool. Just one more reason to love the online German-learning community.
 
 Based on the developer's Reddit post, it seems like Interpolly is still under development and that the developers are looking for feedback. There's a form on the Interpolly site where you can leave feedback.
-
-***
-
-Everything on this is site is free. German is hard enough without having to pay to learn it. But if you do want to throw money at me for some reason, I wouldn't say no to a coffee. Thanks for visiting!
-
-<center>
-
-<a href="https://www.buymeacoffee.com/monoglotanxiety" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</center>

@@ -114,11 +114,3 @@ Rounding out the Terra X trio and this list of German science YouTube channels i
 
 Maybe you're already a fan of some of these channels—one even has a popular English counterpart. Or, maybe I missed oned you would have included. Are there any other subjects you'd like me to list out some great German YouTube channels about? Do you just want to shame me for writing a listicle? Whatever the case, just drop a comment below if you want to say something. I'd love to hear from you (even if it's just to ring the shame bell).
 
----
-
-Everything on this is site is free. German is hard enough without having to pay to learn it. But if you do want to throw money at me for some reason, I wouldn't say no to a coffee. Thanks for visiting! 
-
-<center>
-<a href="https://www.buymeacoffee.com/monoglotanxiety" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</center>

@@ -122,7 +122,3 @@ And in case you're still wondering why I wrote that practice story about someone
 *There are a lot of words for 'drunk' in German. Find as many as you can, and then write a story in which the main character is drunk.*
 
 All those words for "drunk" are coming up in another post. Cheers! :beers:
-
-Keywords:
-common German mistake
-verbs describing speech

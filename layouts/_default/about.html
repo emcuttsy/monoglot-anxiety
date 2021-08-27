@@ -8,6 +8,7 @@
     </header>
     <div id="content" class='content'>
       {{ .Content }}
+      {{ partial "post-end-coffee" .}}
     </div>
   </article>
   {{ $.Scratch.Set "showAbout" false }}
