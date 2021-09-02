@@ -3,7 +3,7 @@ title: "The Lazy Italian Self-Study Experiment: Month 0"
 description: "My goals and strategy for my first month of teaching myself Italian without lots of time"
 author: ""
 draft: false
-date: 2021-09-01T22:50:26-04:00
+date: 2021-09-01T22:10:26-04:00
 tags: 
   - how to learn a language
   - language learning
