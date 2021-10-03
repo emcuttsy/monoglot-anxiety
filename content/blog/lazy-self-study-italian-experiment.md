@@ -1,9 +1,9 @@
 ---
-title: "The Lazy Italian Self-Study Experiment: Month 0"
-description: "My goals and strategy for my first month of teaching myself Italian without lots of time"
+title: "The Lazy Italian Self-Study Experiment: Month 1"
+description: "Or: putting German on hold was harder than I thought it would be"
 author: ""
 draft: false
-date: 2021-09-01T22:10:26-04:00
+date: 2021-10-02T20:00:26-04:00
 tags: 
   - how to learn a language
   - language learning
@@ -23,71 +23,56 @@ images:
   alt: "Banner for the lazy Italian self-study experiment: a sleepy cat hugging a book with a speech bubble containing an Italian flag"
 ---
 
-There are lots of language learning strategies and programs out there for beginners, and I think that most of them probably work—if only because they involve spending lots of time with your new language. But I'm lazy. And maybe you are, too. So if you're wondering if it's possible to learn a new language with no real plan and close to 0 focused study, you're in the right place. Welcome to my silly experiment.
+The 1st month of the Lazy Italian Experiment is over... and it was definitely a bit more "lazy" than "Italian." Thanks to a last-minute vacation with my boyfriend's germanophone family, I got very very excited about German again and pretty much let Italian fall away for 2 weeks. 
 
-**For the next 4 months, I'll be learning Italian to test the limits of low-effort language learning**—no courses, no textbooks, (almost) no budget for resources, no Anki, and absolutely no organized programs or strategies. 
+If it weren't for this challenge, I'd probably have abandoned Italian altogether to focus on German. So I guess it's good I publicly committed. The threat of public shame is a really great motivator.
 
-Basically, I want to know if it's possible to build a foundation in a completely new language armed only with Duolingo, Netflix, and dreams. 
+## Status update
 
-## Can you teach yourself a language without lots of time to study?
-
-I think the answer is yes, and that's because I did it before with German.
-
-I got from "Hallo" to about B1 in the thick of a depression, at time when I didn't do much other than sit on the floor and mope while watching *Dark* over and over. I definitely didn't take a class or make vocabulary lists or otherwise stick to any kind of plan to devote focused hours to language-learning. 
-
-The tricky thing is, I can't really remember what I *did* do. The way I remember it, it's as if one day I couldn't speak German at all and then one day I was watching [*ZDF Magazin Royal*](https://www.youtube.com/c/ZDFMAGAZINROYALE) and holding hour-long conversations. But that's almost certainly not how it actually played out. What was I doing back then that worked?
-
-The point of this experiment is to figure out if I'm right in suspecting that the answer is "not much, actually." My bet is that Duolingo, podcasts, and lots of Italian media (plus a spoonful of that language-learning secret sauce: genuine interest in the cultures associated with the target language) I'll be able to get to somewhere around A2, at least for comprehension, by the new year. 
-
-But of course, like any good scientist*, I'm prepared to be proven wrong.
-
-## Lazy Italian self-study experimental design
-
-Here's how this will work: At the beginning of each month, I'll write a post summing up my progress and outlining a broad-strokes "strategy" for the next month's language-learning. I'll also point out any ways my strategy went off the tracks outlined in the previous month's post.
-
-Throughout the experiment, I'll be following a set of rules intended to keep things lazy (see below). I'm also not allowed to spend money on language-learning for the most part.
-
-To track my progress, I'll report the most complicated piece of Italian media I could understand reasonably well (i.e., well enough to enjoy without translations). And at the end of the experiment, I'll take an A2 practice test.
-
-I'll also post short updates and stream-of-consciousness mini posts related to learning Italian on my [Buy Me A Coffee](https://www.buymeacoffee.com/monoglotanxiety) page. So if you want to follow along, head over there. In general, that's the best place to keep up with what I'm up to.
-
-*Note: As an actual scientist, I'm obligated to inform you that this is horrible experimental design. But good experimental design is boring and hard, so you'll have to settle for well-documented anectodtal evidence.*
+- **Time learning:** 1 month
+- **Level estimate:** lol sub-A1
+- **Motivation:** low (because motivation for German is high)
+- **Most complicated comprehensible media:** Example dialogues in Coffee Break Italian.
+-  **Most complicated enjoyable media:** *The Dragon Prince* (dubbed in Italian)
+- **Duolingo crowns:** 51
+- **Ability summary:** Thanks to tons of cognates in English (and a good awareness of what English words came in through romance languages thanks to the contrast with German), I can understand far more than I feel I have any right to at this stage. Watching TV, I can usually figure out the *things people are talking about, though not usually *what they're saying* about those things. The most complicated thing I've started watching is *Luna Nera* on Netflix, which is a show about witches. Fun stuff. I can construct some basic phrases to introcuce myself, count, or order a limited number of food items and drinks—so, pizza or pasta, anyone?. I still hate rolling my Rs (German R, I miss you!)
 
 {{<note title="The Lazy Italian Self-Study Experiment Rules">}}
 1. **No traditional resources**: No textbooks, grammar books, or traditional courses allowed
 2. **No sit-down study time**: Quickly looking up grammar questions is ok, but there will be no workbook pages, no vocab drills, and definitely no reading textbooks. Meeting with tutors is ok.
 3. **No Anki:** This is about being lazy, not making 1000 flashcards.
 4. **Limited, cheap tutors:** I can meet with an online tutor 1/wk for an hour, but the tutor must cost below $20/hr and <u>I can only start meeting with a tutor after I can understand most of what I hear on kids TV</u>.
-5. **Limited Duolingo:** Since Duolingo will be my primary mode of exposure to new vocabulary and grammar, I don't want to let myself burn through it and ruin the "laziness" experiment. So I'll limit myself to a maximum of 200 experience per day (which I almost certainly won't reach most days). 
-6. **Only free resources:** The rule says it all. Exception for tutors under the $20/hr limit.
+5. **Only free resources:** The rule says it all. Exception for tutors under the $20/hr limit.
 {{</note>}}
 
 
-## The initial strategy
+## Strategy assessment
 
-While my beginner days as a German learner are a bit of a blur, I do know some things about my early "strategy," if it can be called that.
+I'm making three adjustments to my strategy for this month: **cutting my Duolingo xp limit**, **allowing all Italian TV shows** instead of only childrens shows, and **(almost) completly banning German**. 
 
-I that know I didn't take any formal classes. I know that I did use lots of Duolingo, and that I watched a *lot* of TV and listened to a lot of German music. I also know that the only other resources I used at first were Olly Richard and Alex Rawling's [*Short Stories in German*](https://www.amazon.com/Short-Stories-German-Beginners-Yourself/dp/1473683378) and the free versions of the podcasts [*Coffee Break German*](https://coffeebreaklanguages.com/coffeebreakgerman/) and *[News in Slow German](https://www.newsinslowgerman.com)*. 
+The Duolingo xp limit needs to go because Duolingo xp is annoying and inconsistent. If I get an xp boost randomly, then I can meet my 200 xp limit in far fewer than 20 lessons. I don't see a reason to limit Duolingo—I'm not using it enough to qualify as "non-lazy" anyways. If I start going bonkers and doing 20+ lessons a day consistently then it might be time to talk about some kind of handicap. But I'm lazy enough on my own for now.
 
-So, drawing on that "data" and consdidering the challenge rules, here's my strategy for month 1:
+I'm also opening up my "kids shows" plan to include shows for adults since I'm finding that I can understand enough of what's happening in normal TV shows to follow along, and I just don't enjoy kids shows that much. And while dubs are great, I'm interested in watching Italian-made content because I want to build that feeling of connection to and affinity for Italian things—that's ultimately what will keep me motivated to keep studying.
 
-1. **Use Duolingo every day for exposure to new vocabulary and grammar.** I'll mainly be doing this during in-between moments like while resting between attempts at the bouldering gym or sitting on the subway. Binging is allowed, but only up to 200 xp per day (see above). My daily goal is 50 xp.
-2. **Watch a kids show I'm familiar with in Italian with Italian subtitles every night—even if I don't understand much.** I'm starting with *The Dragon Prince* on Netflix, which I've watched in English and German already. This is how I'll learn to map spelling to sounds, get an ear for pronunciation, and hopefully it'll somehow feed the unknowable language machine in my brain and get it to start understanding Italian. I tend to repeat after sentences I hear on TV, too. This sounds silly (especially the not understanding much bit), but worked for me with German. 
+### Juggling two languages at once hurt motivation
+
+The most important change for next month is making a real commitment to "connecting" with Italian—which for me means learning about the culture and really investing in finding media that I enjoy. Looking back, one of the reasons I had so much fun with German at the beginning was discovering that a weird niche genre of music I enjoy (neo-medieval folk, anyone?) is relatively popular in Germany. Looking for new German-language music became something like a game, and it really got me "attached" to the language. The TV show "Dark" did something similar. It showed me that there was content out there that I really did want to consume in German.
+
+Lagging motivation for Italian was my biggest struggle this month. ATo get that motivation, I need to find similar ways to build a personal interest in and affinity for the language. And unfortunately, German is getting in the way. I just keep defaulting to my German favorites, and spending a week speaking German with my boyfriend's family in Austria did not help motivate me for Italian. I need to make space in my media diet—and a hunger for—for Italian content. So for this month, I'm instituting a new rule:
+
+**No German!!!***
+
+**Ok, not **no** German. But I'm only allowed to do 15 min of flashcards and read/watch the news since I want news and I'm not ready to understand it well in Italian.*
+
+## Month 2 strategy
+
+1. **Use Duolingo every day for exposure to new vocabulary and grammar.** I'll mainly be doing this during in-between moments like while resting between attempts at the bouldering gym or sitting on the subway. Binging is allowed. My daily goal is about 5 lessons.
+2. **Watch TV in Italian with Italian subtitles every night—even if I don't understand much.** Thanks to tons of cognates, it's possible to kinda-almost follow many shows, even shows for adults, as a very low-level Italian learner. TV is how I'll learn to map spelling to sounds, get an ear for pronunciation, and hopefully it'll somehow feed the unknowable language machine in my brain and get it to start understanding Italian. I tend to repeat after sentences I hear on TV, too. This sounds silly (especially the not understanding much bit), but worked for me with German. 
 3. **Don't meet with tutors yet.** I want to be able to speak a little before I spend money on a tutor.
 4. **Listen to Coffee Break Italian while doing chores, commuting, or other boring tasks that require hands.** I like this series a lot for its grammar explanations and as a way to train my ear. I do find the content boring and travel-focused, like most beginner stuff. But it's so easy to access that the low activation energy barrier overwhelms my distaste for resources like this.
-5. **Start falling in love with Italian stuff.** This is a biggie for me. It means finding Italian music I like, reading about the canon of Italian literature, classical music, art, food, and culture there is for me to discover if I get better, crawling around on Italian subreddits, and reading about Italy. I need to have a reason to care.
-6. **Find and listen to as much Italian music as possible.** Sometimes you just don't want to listen to *Coffee Break Italian.* Luckily, I'm very excited to discover Italo-disco... 
+5. **More aggressively try to fall in love with Italian stuff** I need to find Italian music I like, read about the canon of Italian literature, classical music, art, food, and culture there is for me to discover if I get better, crawl around on Italian subreddits, and read about Italy. I need to have a reason to care. And I've been slacking on this! Making a playlist of Italian music is one way I plan to come at this issue.
+6. **German ban.** I just like German too much... and it's taking attention and media-consumption bandwidth away from Italian. To motivate myself to find more Italian media, I am banning German. I'm allowed to do 15 minutes of flashcards and watch/read the news for maintenence, but that's it.
 
-This strategy will almost certainly change as I learn more Italian. That's part of the experiment, too. In my monthly updates, I'll also epxlain the changes I plan to make to my langauge strategy (and any changes I made on the fly) for the next month.
-
-
-## Define beginner
-
-While I have never studied Italian, I do have a few advantages going in that might make it a bit disingenous to call myself a complete beginner.
-
-For one, this isn't my first rodeo. Learning languages is a skill in itself (a metaskill?) and I've succesfully taught myself a language before. German isn't exactly Italian's twin brother, but they're both Indo-European languages and I anticipate that studying German's arguably more complex grammar might give me a leg up when it comes to intuiting the rules of Italian.
-
-Second, I took Spanish classes in a past life. Granted, that past life was high school and high school was almost 10 years ago now (yikes), but it's still worth mentioning since I was, apparently, reasonably good at Spanish. Italian and Spanish are very similar languages and my exposure to Spanish will almost certainly make things a tad easier. But while I might have been good enough to pass the IB higher level spanish exam with a rather good score, I was apparently not good enough to remember any Spanish at all 10 years later. My German is better after 2 years of chaotic self-study than my Spanish ever was even after 4 years of high school classes. 
 
 ## How to follow the experiment
 
@@ -96,6 +81,3 @@ New posts related to the challenge will appear here at the beginning of each mon
 You can also leave a comment or, as always, email me at hello@monoglotanxiety.com. 
 
 Ciao for now!
-
----
-*I actually am a scientist, it's my day job. This is my night not-job.
