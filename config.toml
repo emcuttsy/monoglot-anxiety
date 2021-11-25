@@ -65,7 +65,7 @@ enableEmoji             = true
   netlify               = true
 
   [params.meta]
-    description         = "Learn to learn languages with me, your neurotic companion in self-taught language learning. Free tried and tested language learning tips and resources for German, Italian, and Danish."
+    description         = "Learn to learn languages with me, your neurotic companion in self-taught language learning."
     author              = "Anxious Monoglot"
     favicon             = false
     svg                 = true
