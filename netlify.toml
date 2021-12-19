@@ -1,5 +1,5 @@
 [build]
-  publish = "exampleSite/public"
+  publish = "/public"
   command = "cd hugo --minify --gc --themesDir ../.."
   
 [build.environment]
