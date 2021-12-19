@@ -16,5 +16,6 @@ tags: [""]
 type: "featured" # available type (regular or featured)
 draft: true
 sidebar: right
+enableComments: true
 ---
 

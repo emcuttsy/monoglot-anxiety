@@ -17,6 +17,7 @@ tags: ["language learning tips", "language resources", "learn danish"]
 type: "regular" # available type (regular or featured)
 draft: false
 sidebar: right
+enableComments: true
 ---
 
 I received a lot of reccomendations of the Pimsleur language programs from family members back when I was preparing to head to Denmark in 2019. So naturally, I picked up Pimsleur Danish 1, never finished it, and forgot about it until about a month ago when I found the little blue Pimsleur logo lurking in my app drawer. I had been focusing on German exclusively until then, but given what I'd paid for Pimsleur (too much, see below), my stinginess demanded that I give Danish another shot.

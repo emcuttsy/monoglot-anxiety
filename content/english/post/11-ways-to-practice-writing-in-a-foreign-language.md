@@ -16,6 +16,7 @@ tags: ["language learning tips"]
 type: "featured" # available type (regular or featured)
 draft: false
 sidebar: right
+enableComments: true
 ---
 
 Learning to write in a new laguage can be intimidating, especially if you're learning alone. Like speaking, writing is a productive skill which makes it impossible to learn passively. Reading will improve your writing, to be sure. But if you want to write, you need to write!

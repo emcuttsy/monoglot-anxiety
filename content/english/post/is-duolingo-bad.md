@@ -15,6 +15,7 @@ tags: ["language resources","language learning tips", "language apps"]
 type: "regular" # available type (regular or featured)
 draft: false
 sidebar: right
+enableComments: true
 ---
 Is Duolingo bad? You've probably heard a lot of criticisms of this popular app if you've been hanging around language learning communities online. Duolingo gets a lot of flack, and there's good reason for that. Nobody is going to reach fluency in a foreign language just by using a game app, and a lot of Duolingo users seem to think they can. Still, I think many critics miss an important point: Duolingo scratches the phone itch. And that's no small thing.
 

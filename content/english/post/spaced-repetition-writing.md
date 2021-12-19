@@ -15,6 +15,7 @@ tags: ["anki","language learning tips"]
 type: "featured" # available type (regular or featured)
 draft: false
 sidebar: right
+enableComments: true
 ---
 
 Writing is one of my favorite ways to actively study German. It is great for vocabulary building and grammar practice, and in the absence of speaking opportunities, it is the only way to get practice with production skills. But beyond simply being a great way to practice on its own, writing is a key component of how I use flashcards and spaced repetition to learn German. In this post, I break down how to use writing practice to get more out of spaced repetition systems like Anki.

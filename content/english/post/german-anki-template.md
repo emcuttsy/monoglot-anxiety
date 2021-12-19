@@ -15,6 +15,7 @@ tags: ["learn german","anki"]
 type: "featured" # available type (regular or featured)
 draft: false
 sidebar: right
+enableComments: true
 ---
 
 After almost a year of experimentation, I'm finally satisfied enough with my German Anki template to dare to think it might be useful for others. So in the spirit of Mads Mikkelsen advertising a [pretty mediocre Danish beer](https://www.youtube.com/watch?v=jEKLwFdntPs) as "probably the best beer in the world," I'll say that this is "probably the best German Anki template on the internet." **You can [download it for free](https://gum.co/saHJaW).**
