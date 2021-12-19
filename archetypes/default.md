@@ -1,19 +1,20 @@
 ---
-title: ""
-description: ""
-author: ""
-draft: false
+
+title: "{{ replace .Name "-" " " | title }}"
+subtitle: ""
 date: {{ .Date }}
-tags: []
-categories: []
-comments: true
-weight: 1
-removeBlur: false
-enableEmoji: false
+# post thumb
 images:
-- src:  https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/04/15/writingsplash.png
-  alt: "Picture of a woman's hand writing "
+  - ""
+#author
+author: "Elise Cutts"
+# description
+description: ""
+# Taxonomies
+categories: [""]
+tags: [""]
+type: "featured" # available type (regular or featured)
+draft: true
+sidebar: right
 ---
-
-
 

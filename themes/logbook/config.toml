@@ -1,0 +1,50 @@
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/fontawesome.min.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/brands.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/solid.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/webfont-loader/webfont-loader-2.min.js"
+
+
+# site variables
+[params.variables]
+primary_color = "#ce8460"
+body_color = "#fff"
+text_color = "#696c6d"
+text_color_dark = "#1c1d1f"
+text_color_light = "#888c8e"
+border_color = "#ddd"
+black = "#000"
+white = "#fff"
+light = "#f0f0f0"
+
+# font variable
+# Give your font name from google font. and add font weight using comma, ex: "Roboto:400,500,900"
+primary_font = "Open Sans:wght@400"
+primary_font_type = "sans-serif" # [serif/sans-serif]
+secondary_font = "Montserrat:wght@400"
+secondary_font_type = "sans-serif" # [serif/sans-serif]
+icon_font = "Font Awesome 5 Free"

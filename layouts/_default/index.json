@@ -1,0 +1,22 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range (where site.RegularPages "Section" "in" site.Params.mainSections) -}}
+
+  {{ with .Params.images }}
+  {{ range first 1 . }}
+  {{ if (fileExists (add `assets/` .)) }}
+  {{ $image:= resources.Get . }}
+  {{ $imageFallback:= $image.Fill "460x200" }}
+  {{ $imageSM:= $image.Fill "460x200 webp" }}
+  {{ $.Scratch.Set "image" $imageSM.RelPermalink }}
+  {{ else }}
+  {{ $.Scratch.Set "image" "{{ . }}" }}
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  {{ $image:= $.Scratch.Get "image" }}
+
+  {{ $date:= .PublishDate.Format "January 2, 2006"}}
+  {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "image" $image "categories" .Params.categories "contents" .Plain "permalink" .RelPermalink "date" $date ) -}}
+
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

@@ -1,0 +1,34 @@
+{{ "<!-- about me -->" | safeHTML }}
+<div class="widget widget-about">
+  {{ with site.GetPage "/about" }}
+  <h5 class="widget-title"><span>{{ .Params.Title }}</span></h5>
+  <div class="d-flex">
+
+    {{ if .Params.image }}
+    {{ $imagePath:= .Params.image }}
+    {{ if (fileExists (add "assets/" $imagePath)) }}
+    {{ $image:= resources.Get $imagePath }}
+    {{ $imageXS:= $image.Fill "200x154 webp Center" }}
+    {{ .Scratch.Set "image" $imageXS.RelPermalink }}
+    {{ else }}
+    {{ .Scratch.Set "image" ($imagePath | absURL) }}
+    {{ end }}
+    <img class="img-fluid widget-about-image" loading="lazy" src="{{.Scratch.Get `image`}}" alt="">
+    {{else if .Params.Email}}
+    <img class="img-fluid widget-about-image" loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon" alt="{{site.Params.author}}">
+    {{ end }}
+
+    <div class="mt-2 mb-2">
+      <span class="d-block">{{ .Plain | markdownify | truncate 80 }}</span>
+      
+      <ul class="list-inline social-icons mb-1 mt-2">
+        {{ range .Params.social }}
+        <li class="list-inline-item"><a href="{{.link | safeURL }}"><i class="{{.icon}}"></i></a></li>
+        {{ end }}
+      </ul>
+      <a href="{{`about/` | relLangURL }}" class="btn btn-sm btn-primary p-1 px-3 rounded mt-2">{{ i18n "about_me" }}</a>
+    </div>
+  </div>
+  
+  {{ end }}
+</div>

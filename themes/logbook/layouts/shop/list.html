@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<section class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="title-bordered mb-5 d-flex align-items-center">
+					<h1 class="h4">{{ .Title }}</h1>
+				</div>
+			</div>
+			{{ range .Data.Pages.ByDate }}
+			<div class="col-lg-3 col-sm-6 mb-4">
+				<div class="card">
+					<a href="{{.Permalink}}">
+						{{ with .Params.images }}
+						{{ range first 1 . }}
+						{{ $img:= resources.Get . }}
+						{{ $img:= $img.Resize "360x360 webp" }}
+						<img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="product image">
+						{{ end }}
+						{{ end }}
+					</a>
+					<div class="card-body text-center">
+						<h3 class="h5 card-title"><a href="{{.Permalink}}" class="post-title">{{.Title }}</a></h3>
+						<div class="price">
+							{{if .Params.discount_price}}<span>{{site.Params.snipcart.currency}}{{.Params.discount_price}}</span><s
+								class="ml-2">{{site.Params.snipcart.currency}}{{.Params.price}}</s>
+							{{else}}<span>{{site.Params.snipcart.currency}}{{.Params.price}}</span>{{end}}
+						</div>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+		</div>
+	</div>
+</section>
+
+{{ end }}

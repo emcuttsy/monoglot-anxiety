@@ -1,0 +1,29 @@
+{{ "<!-- latest post -->" | safeHTML }}
+<div class="widget">
+  <h5 class="widget-title"><span>{{ i18n "latest_article" }}</span></h5>
+  {{ "<!-- post-item -->" | safeHTML }}
+  <ul class="list-unstyled widget-list mb-0">
+  {{ range first 3 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
+    <li class="media widget-post align-items-center">
+      <a href="{{ .Permalink }}">        
+        {{with .Params.images}}
+        {{ range first 1 .}}
+        {{ if (fileExists (add `assets/` .)) }}
+        {{ $image:= resources.Get . }}
+        {{ $imageFallback:= $image.Resize "60x60" }}
+        {{ $imageSM:= $image.Resize "60x60 webp" }}
+        <img loading="lazy" class="mr-3" src="{{$imageSM.Permalink}}" alt="post-thumb">
+        {{ else }}
+        <img loading="lazy" class="mr-3" src="{{ $imageFallback.RelPermalink }}" alt="post-thumb">
+        {{ end }}
+        {{ end }}
+        {{end}}
+      </a>
+      <div class="media-body">
+        <h5 class="h6 mb-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+        <small>{{ .PublishDate.Format "January 2, 2006" }}</small>
+      </div>
+    </li>
+  {{ end }}
+  </ul>
+</div>

@@ -1,0 +1,14 @@
+{{ "<!-- Search -->" | safeHTML }}
+{{ if site.Params.subscription.enable }}
+{{ with site.Params.subscription }}
+<div class="widget">
+  <h5 class="widget-title"><span>{{ i18n "subscribe" }}</span></h5>
+  <form action="{{ .form_action }}" method="post" name="embedded-subscribe-form" target="popupwindow" onsubmit="window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')"
+    class="widget-search">
+    <input class="mb-3" id="search-query" name="email" type="email" placeholder="{{ i18n `email`}}">
+    <i class="ti-email"></i>
+    <button type="submit" class="btn btn-primary" name="subscribe" aria-label="Subscribe"><i class="fas fa-paper-plane"></i></button>
+  </form>
+</div>
+{{ end }}
+{{ end }}

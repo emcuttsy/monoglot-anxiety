@@ -1,167 +1,205 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://example.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/categories/"
-                />
+    <loc>https://monoglotanxiety.com/post/admit-you-need-self-compassion/</loc>
+    <lastmod>2021-12-07T19:02:04-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/post/</loc>
+    <lastmod>2021-12-07T19:02:04-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://example.com/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://example.com/nl/categories/"
+                href="https://monoglotanxiety.com/de/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://monoglotanxiety.com/post/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/"
-                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/</loc>
+    <lastmod>2021-12-07T19:02:04-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://example.com/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://example.com/nl/"
+                href="https://monoglotanxiety.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://monoglotanxiety.com/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/tags/"
-                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/mindfulness-self-compassion/</loc>
+    <lastmod>2021-12-07T19:02:04-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/</loc>
+    <lastmod>2021-12-07T19:02:04-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://example.com/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://example.com/nl/tags/"
+                href="https://monoglotanxiety.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://monoglotanxiety.com/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/personal-growth/</loc>
+    <lastmod>2021-12-07T19:02:04-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/</loc>
+    <lastmod>2021-12-07T19:02:04-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/tags/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/anki/</loc>
+    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/post/spaced-repetition-writing/</loc>
+    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/language-learning/</loc>
+    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/language-learning-tips/</loc>
+    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/post/german-science-youtube-channels/</loc>
+    <lastmod>2021-03-13T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/german/</loc>
+    <lastmod>2021-03-13T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/german/</loc>
+    <lastmod>2021-03-13T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/recommendations/</loc>
+    <lastmod>2021-03-13T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/post/german-anki-template/</loc>
+    <lastmod>2021-02-28T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/post/11-ways-to-practice-writing-in-a-foreign-language/</loc>
+    <lastmod>2021-01-30T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/post/pimsleur-danish-review/</loc>
+    <lastmod>2021-01-25T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/danish/</loc>
+    <lastmod>2021-01-25T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/danish/</loc>
+    <lastmod>2021-01-25T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/language-resource-reviews/</loc>
+    <lastmod>2021-01-25T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/reviews/</loc>
+    <lastmod>2021-01-25T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/post/is-duolingo-bad/</loc>
+    <lastmod>2020-12-08T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/language-apps/</loc>
+    <lastmod>2020-12-08T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/about/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/author/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/contact/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/author/john-doe.fr/</loc>
+  </url><url>
+    <loc>https://monoglotanxiety.com/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/author/john-doe/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/404/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/404/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/404/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/terms-conditions/</loc>
+  </url><url>
+    <loc>https://monoglotanxiety.com/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/privacy-policy/"
+                />
+  </url><url>
+    <loc>https://monoglotanxiety.com/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://monoglotanxiety.com/de/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monoglotanxiety.com/search/"
                 />
   </url>
-  
 </urlset>

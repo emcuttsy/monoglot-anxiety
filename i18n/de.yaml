@@ -1,0 +1,62 @@
+- id: continue_reading
+  translation: Weiterlesen
+
+- id: search_placeholder
+  translation: Suche nach...
+
+- id: latest_article
+  translation: Neueste Artikel
+
+- id: categories
+  translation: Kategorien
+
+- id: tags
+  translation: Tags
+
+- id: search
+  translation: Suchen
+
+- id: date
+  translation: Datum
+
+- id: posted_by
+  translation: Von diesem Autor gespostet
+
+- id: send
+  translation: Jetzt schicken
+
+- id: name
+  translation: Name
+
+- id: email 
+  translation: Email-Adresse
+
+- id: message
+  translation: Nachricht
+
+- id: subscribe
+  translation: Abbonieren
+
+- id: write_email
+  translation: Hasst du Formen? Schreib mir dann per Email
+
+- id: subscribe_newsletter
+  translation: Meinen Newsletter bekommen
+
+- id: quick_links
+  translation: Schnelllinks
+
+- id: social
+  translation: auf dem Laufenden bleiben 
+
+- id: back_to_home
+  translation: Back To Home
+
+- id: about_me
+  translation: Über mich
+
+- id: page_not_found
+  translation: Ups! Seite nicht gefunden
+
+- id: search_results_for
+  translation: "Suchergebnisse für "

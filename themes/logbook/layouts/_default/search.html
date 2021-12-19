@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-5">
+        <div class="title-bordered">
+          <h1 class="h4">{{i18n `search_results_for`}}
+            <span class="text-primary">
+            <script>
+              var keyword = (window.location.search).substr(3);
+              var result = keyword.replaceAll("+", " ");
+              document.write(result);
+            </script>
+            </span>
+          </h1>
+        </div>
+      </div>
+      <div class="col-12">
+        <div id="search-results"></div>
+        <script id="search-result-template" type="text/x-js-template">
+          <article class="row mb-5" id="summary-${key}">
+            <div class="col-md-4 mb-4 mb-md-0">
+              ${ isset image }<img loading="lazy" class="img-fluid rounded-lg" src="${image}" alt="${title}">${end}
+            </div>
+            <div class="col-md-8">
+              <h3 class="h5"><a class="post-title" href="${link}">${title}</a></h3>
+              <ul class="list-inline post-meta mb-2">
+                <li class="list-inline-item">{{ i18n "date" }} : ${date}</li>
+                ${ isset categories }<li class="list-inline-item">{{ i18n "categories" }} : ${categories}</li>${ end }
+                ${ isset tags }<li class="list-inline-item">{{i18n "tags"}} : ${tags}</li>${ end }
+              </ul>
+              <p>${snippet}</p>
+              <a href="${link}" class="btn btn-outline-primary">{{ i18n "continue_reading"}}</a>
+            </div>
+          </article>
+        </script>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Search index -->
+<script>var indexURL = {{"index.json" | absLangURL}}</script>
+
+{{ end }}

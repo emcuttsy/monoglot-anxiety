@@ -1,113 +1,78 @@
-<head>
-  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="fda5a853-be3f-4e85-9fe6-e457d48d3404" data-blockingmode="auto" type="text/javascript"></script>
+<meta charset="utf-8">
+<title>{{.Title | default site.Title}}</title>
 
-  {{ template "shortcodes/GoogleAnalytics.html"}}
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 
-  {{ partial "meta" . }}
-  {{- hugo.Generator -}}
+<!-- base url -->
+{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://examplesite.com/")}}{{else}}
+<base href="{{ site.BaseURL }}">
+{{ end }}
 
-  {{ with .Site.Title }}<meta property="og:site_name" content="{{ . }}">{{ end }}
-  {{ with .Title }}<meta property="og:title" content="{{ . }}">{{ end }}
-  <meta property="og:description" content="{{ .Description | default .Site.Params.meta.description }}">
-  <meta property="description" content="{{ .Description | default .Site.Params.meta.description }}">
-  <meta property="og:url" content="{{ .RelPermalink | absURL }}">
-  <meta property="og:type" content="{{ cond .IsHome "website" "article" }}">
+<!-- multilingual SEO optimizations -->
+{{ if .IsTranslated }}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
+{{ end }}
 
-  <meta property="og:image" content="{{ .Site.Params.intro.pic.src | absURL }}">
-    <!--
-  {{ if .Params.images }}
-    {{ with or (.Params.openGraph) (.Params.images) }}
-      {{ range . }}
-        <meta property="og:image" content="{{ .Site.Params.intro.pic.src }}">
-        
-    
-        <meta property="og:image" content="{{ .src | absURL }}">
-        <meta property="og:image:alt" content="{{ .alt }}">
-  
-      {{ end }}
-  {{ end }}
-  {{ else }}
-    <meta property="og:image" content="{{ .Site.Params.intro.pic.src | absURL }}">
-  {{ end }}
-        -->
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="description" content="{{ .Params.Description | default site.Params.description }}">
+{{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ hugo.Generator }}
 
-  {{ with .Site.Params.Social.twitter}}
-  <meta property="hello" content="hi">
-  <meta property="twitter:site" content="{{ . }}">
-  {{ end }}
+<!-- favicon -->
+{{ $favicon:= site.Params.favicon }}
+{{ if fileExists (add `assets/` $favicon) }}
+{{ $favicon:= resources.Get $favicon }}
+{{ $favicon_16:= $favicon.Resize "16x png"}}
+{{ $favicon_32:= $favicon.Resize "32x png"}}
+{{ $favicon_180:= $favicon.Resize "180x png"}}
+<link rel="shortcut icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
+<link rel="icon" href="{{$favicon_32.RelPermalink}}" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="16x16" href="{{$favicon_16.RelPermalink}}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{$favicon_32.RelPermalink}}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{$favicon_180.RelPermalink}}">
+{{ end }}
+<link rel="manifest" href="{{`index.webmanifest` | relURL }}">
+<meta name="msapplication-TileColor" content="{{site.Params.variables.primary_color | default `#da532c`}}">
+<meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
 
-  {{- if .Site.Params.enableCDN -}}
-    {{- if .Site.Params.highlightjs -}}<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/{{ .Site.Params.highlightjsTheme | default "default" }}.min.css">{{- end -}}
-    {{- range .Site.Params.cssFiles -}}
-      {{- if eq . "default" -}}
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,800,900|Source+Sans+Pro:400,700">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
-        <script src="https://kit.fontawesome.com/be54eb011a.js" crossorigin="anonymous"></script>
-        {{- $mainCSSOptions := (dict "targetPath" "css/main.min.css" "outputStyle" "compressed") -}}
-        {{- $main := resources.Get "scss/main.scss" | resources.ToCSS $mainCSSOptions | resources.Fingerprint -}}
-        <link rel="stylesheet" href="{{ $main.RelPermalink }}" integrity="{{ $main.Data.Integrity }}">
-        {{- if eq (i18n "letter_direction") "RTL" -}}
-          {{- $rtl := resources.Get "css/rtl.css" | minify -}}
-          <link rel="stylesheet" href="{{ $rtl.RelPermalink }}">
-        {{- end -}}
-        <link rel="stylesheet" href="{{ "css/add-on.css" | relURL }}">
-      {{- else }}
-        <link rel="stylesheet" href="{{ . | relURL }}">
-      {{- end -}}
-    {{- end -}}
-  {{- else -}}
-    {{- range .Site.Params.cssFiles -}}
-      {{- if eq . "default" -}}
-        {{- $cssSlice := slice -}}
-        {{- if $.Site.Params.highlightjs -}}
-          {{ with $.Site.Params.highlightjsTheme }}
-            <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/{{ . }}.min.css">
-          {{ else }}
-            {{- $cssSlice = $cssSlice | append (resources.Get "css/default.css") -}}
-          {{ end }}
-        {{- end -}}
-        {{- $assets := resources.Get "assets.json" | unmarshal -}}
-        {{- range $assets.styles -}}
-          {{- $cssSlice = $cssSlice | append (resources.Get . ) -}}
-        {{- end -}}
-        {{- $cssSlice = $cssSlice | append (resources.Get "scss/main.scss" | toCSS) -}}
-        {{- $css := $cssSlice | resources.Concat "css/bundle.css" | minify | fingerprint -}}
-        <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
-        {{- if eq (i18n "letter_direction") "RTL" -}}
-          {{- $rtl := resources.Get "css/rtl.css" | minify -}}
-          <link rel="stylesheet" href="{{ $rtl.RelPermalink }}">
-        {{- end -}}
-        <link rel="stylesheet" href="{{ "css/add-on.css" | relURL }}">
-      {{- else }}
-        <link rel="stylesheet" href="{{ . | relURL }}">
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-  {{- .Scratch.Set "Permalink" .Permalink -}}
-  {{- .Scratch.Set "Title" .Title -}}
-  {{- if .Params.Author -}}
-    {{- .Scratch.Set "Author" .Params.Author -}}
-  {{- else -}}
-    {{- .Scratch.Set "Author" .Author -}}
-  {{ end }}
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-  <script src="/js/vex.combined.min.js"></script>
-  <link rel="stylesheet" href="/css/vex.css" />
-  <link rel="stylesheet" href="/css/vex-theme-default.css" />
-  <!--
-  <link rel="preconnect" href="https://app.snipcart.com">
-  <link rel="preconnect" href="https://cdn.snipcart.com">
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.css" />
-  -->
-  {{ partial "partials/yt-script.html"}}
-  {{ partial "partials/yt-style.html"}}
-</head>
+{{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
+{{ $image_path := .Params.image | default site.Params.image -}}
+{{ $image_path_local :=  printf "static/%s" $image_path -}}
+{{ $image_ext := trim (path.Ext $image_path | lower) "." -}}
+{{ if fileExists $image_path_local -}}
+  <meta property="og:image" content="{{ $image_path | absURL }}" />
+  {{/* If not SVG, read image aspect ratio and define Twitter Card and Open Graph width and height  */ -}}
+  {{ if ne $image_ext "svg" -}}
+    {{ with (imageConfig $image_path_local) -}}
+    {{ if (and (gt .Width 144) (gt .Height 144)) -}}
+      <meta name="twitter:image" content="{{ $image_path | absURL }}"/>
+      <meta name="twitter:card" content="summary{{ if (and (gt .Width 300) (gt .Height 157) (not (eq .Width .Height))) }}_large_image{{ end }}">
+    {{ end -}}
+    <meta property="og:image:width" content="{{ .Width }}">
+    <meta property="og:image:height" content="{{ .Height }}">
+    {{ end -}}
+  {{ end -}}
+  <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
+{{ end -}}
+<meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+{{ with site.Social.twitter -}}<meta name="twitter:site" content="@{{ . }}"/>{{ end -}}
+{{ range site.Authors }}
+  {{ with .twitter -}}<meta name="twitter:creator" content="@{{ . }}"/>{{ end -}}
+{{ end -}}
+
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
+<!-- google analytics -->
+{{ template "_internal/google_analytics.html" . }}
+
+{{ template "partials/buymeacoffee.html" . }}

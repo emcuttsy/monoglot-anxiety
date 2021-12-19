@@ -1,0 +1,28 @@
+<!-- 
+
+PROJECT: Logbook Hugo
+VERSION: 1.4.0
+AUTHOR: Gethugothemes
+AUTHOR WEBSITE: https://gethugothemes.com
+
+-->
+
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default `en-US` }}">
+
+<head>
+	{{ partial "head.html" . }}
+	{{ partialCached "style.html" . }}
+</head>
+
+<body>
+	{{ partialCached "preloader.html" . }}
+	{{ partial "header.html" . }}
+	<main>
+		{{ block "main" . }}{{ end }}
+	</main>
+	{{ partialCached "footer.html" . }}
+	{{ partialCached "script.html" . }}
+</body>
+
+</html>

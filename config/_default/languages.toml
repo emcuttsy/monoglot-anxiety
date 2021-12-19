@@ -1,0 +1,41 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "I'm just a nerd with a blog, here to help you teach yourself a language and learn to rein inperfectionism while you're at it."
+# copyright
+copyright = "Monoglot Anxiety | Copyright Elise Cutts 2021"
+
+# promotion    
+    [en.promotion]
+        title = "Want to immerse in great German media?"
+        content = "Sign up for my free newsletter to discover new German music, television, film, podcasts, and more from your inbox every week."
+        image = "images/promotion.jpg"
+        button_label = "Get the Newsletter"
+        external_link = true
+        button_link = "https://buttondown.email/monoglotanxiety"
+
+################################### German language #####################################
+[de]
+languageName = "De"
+languageCode = "de"
+contentDir = "content/deutsch"
+weight = 2
+home = "Start"
+# footer content
+footer_content = "Bin ja nur ein Nerd mit einem Blog. Ich schreibe um Sprachenlernen, das Leben als US-Amerikanerin im Ausland, "
+# copyright
+copyright = "Monoglot Anxiety | Urheberrechte Elise Cutts 2021"
+
+# promotion    
+    [de.promotion]
+        title = "Möchtest du Deutsch mit Medien lernen?"
+        content = "Sign up for my free newsletter to discover new German music, television, film, podcasts, and more from your inbox every week."
+        image = "images/promotion.jpg"
+        button_label = "Get Started"
+        external_link = true
+        button_link = "https://buttondown.email/monoglotanxiety"

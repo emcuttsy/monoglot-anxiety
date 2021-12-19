@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="title-bordered mb-5 d-flex align-items-center">
+          <h1 class="h4">{{ .Title }}</h1>
+          <ul class="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
+            {{ range .Params.social }}
+            <li class="list-inline-item"><a href="{{ .link }}"><i class="{{.icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+        
+        {{with .Params.Image}}
+        <div class="post-slider">
+          {{ range .}}
+          {{ if (fileExists (add `assets/` .)) }}
+          {{ $image:= resources.Get . }}
+          <img loading="lazy" class="img-fluid" src="{{ $image.RelPermalink }}" alt="post-thumb">
+          {{ end }}
+          {{ end }}
+        </div>
+
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

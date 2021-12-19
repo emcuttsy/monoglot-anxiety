@@ -1,0 +1,16 @@
+{{ $imagePath:= (.Get "src") }}
+{{ if findRE `^http` $imagePath }}
+{{ .Scratch.Set "image" $imagePath }}
+{{ else }}
+{{ if fileExists (add `assets/` $imagePath) }}
+{{ $img:= resources.Get $imagePath }}
+
+{{ $image_ext := path.Ext $img }}
+{{ $image_width := $img.Width }}
+
+
+{{ .Scratch.Set "image" $img.RelPermalink }}
+
+{{ end }}
+{{ end }}
+<img loading="lazy" decoding="async" class="w-100 d-block mb-4" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}">

@@ -1,0 +1,50 @@
+<footer class="section-sm pb-0 border-top border-default">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-md-3 mb-4">
+        <a class="footer-title mb-4 d-block"  href="{{ site.BaseURL | relLangURL }}">
+         {{site.Params.logo_text | markdownify}}</a>
+        </a>
+        <p>{{ site.Params.footer_content }}</p>
+      </div>
+      <div class="col-lg-2 col-md-3 col-6 mb-4">
+        <h6 class="mb-4">{{i18n "quick_links"}}</h6>
+        <ul class="list-unstyled footer-list">
+          {{ range site.Menus.footer }}
+          <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-3 col-6 mb-4">
+        <h6 class="mb-4">{{i18n "social"}}</h6>
+        <ul class="list-unstyled footer-list">
+          {{ range site.Params.social }}
+          <li><a class="text-capitalize" href="{{ .link | safeURL }}">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ if site.Params.subscription.enable }}
+      <div class="col-md-3 mb-4">
+        <h6 class="mb-4">{{i18n "subscribe_newsletter"}}</h6>
+        {{ with site.Params.subscription }}
+        <form class="subscription" action="{{ .form_action }}" method="post" name="mc-embedded-subscribe-form"
+          target="_blank">
+          <div class="position-relative">
+            <i class="fas fa-envelope email-icon"></i>
+            <input type="email" name="email" class="form-control" placeholder="{{ i18n `email`}}">
+          </div>
+          <button class="btn btn-primary btn-block rounded" type="submit"
+            name="subscribe">{{ i18n "subscribe"}}</button>
+        </form>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    <div class="scroll-top">
+      <a href="javascript:void(0);" id="scrollTop"><i class="fas fa-angle-up"></i></a>
+    </div>
+    <div class="text-center">
+      <p class="content">{{ site.Params.copyright | markdownify }}</p>
+    </div>
+  </div>
+</footer>

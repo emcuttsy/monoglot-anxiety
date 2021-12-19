@@ -1,0 +1,11 @@
+{{ if site.Params.preloader.enable }}
+{{ "<!-- preloader start -->" | safeHTML }}
+<div class="preloader">
+  {{ with site.Params.preloader.preloader }}
+  {{$img:= resources.Get (.) }}
+  {{$img:= $img.Resize "75x webp"}}
+  <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="preloader">
+  {{ end }}
+</div>
+{{ "<!-- preloader end -->" | safeHTML }}
+{{ end }}

@@ -1,0 +1,51 @@
+<section class="section-sm pb-0">
+  <div class="container">
+    <div class="featured-post-slider rounded-lg overflow-hidden">
+      {{ range (where site.RegularPages "Type" "featured") }}
+      <div class="featured-post">
+
+        {{ with .Params.images }}
+        {{ range first 1 .}}
+        {{ if (fileExists (add `assets/` .)) }}
+        {{ $image:= resources.Get . }}
+        {{ $imageFallback:= $image.Resize "1110x" }}
+        {{ $imageXL:= $image.Resize "1110x webp" }}
+        {{ $imageLG:= $image.Resize "650x webp" }}
+        {{ $imageMD:= $image.Resize "600x webp" }}
+        {{ $imageSM:= $image.Resize "545x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
+          <source srcset="{{ $imageXL.RelPermalink }}" media="(max-width: 1200px)">
+          <source srcset="{{ $imageXL.RelPermalink }}">
+          <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{$imageXL.RelPermalink}}" alt="post image" width="{{$image.Width}}" height="{{$image.Height}}">
+        </picture>
+        {{ else }}
+        <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{ $imageFallback.RelPermalink }}" alt="post image" width="{{$image.Width}}" height="{{$image.Height}}">
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
+        <div class="featured-post-overlay">
+          <div class="featured-post-content">
+            <h2 class="mb-3"><a href="{{.RelPermalink}}" class="post-title">{{.Title | markdownify }}</a></h2>
+            <ul class="list-inline post-meta mb-5">
+              <li class="list-inline-item"><i class="fas fa-user mr-2"></i><a
+                  href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></li>
+              <li class="list-inline-item">{{ i18n "date" }} : {{ .PublishDate.Format "January 2, 2006" }}</li>
+              <li class="list-inline-item">{{ i18n "categories" }} :
+                {{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
+                  href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a>
+                {{end}}</li>
+              <li class="list-inline-item">{{i18n "tags"}} : {{ range $i,$p:= .Params.Tags }}{{if ne $i 0}},{{end}}<a
+                  href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a> {{end}}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

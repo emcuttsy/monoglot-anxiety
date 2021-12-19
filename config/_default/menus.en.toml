@@ -1,0 +1,59 @@
+############### English navigation ################
+
+[[main]]
+weight = 1
+name = "Language Learning"
+hasChildren = false
+url = "categories/language-learning"
+
+
+[[main]]
+url = "categories/reviews"
+weight = 2
+name = "Reviews"
+
+
+
+[[main]]
+weight = 3
+name = "Languages"
+hasChildren = true
+
+    [[main]]
+    parent = "Languages"
+    url= "categories/german"
+    weight=  2
+    name = "German"
+
+    [[main]]
+    parent = "Languages"
+    url = "categories/danish"
+    weight = 3
+    name = "Danish"
+
+
+[[main]]
+name = "About"
+url = "about"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "contact"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 3

@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect Slim</title>
-    <link>https://example.com/de/</link>
-    <description>Recent content on Hugo Future Imperfect Slim</description>
+    <title>Monoglot Anxiety</title>
+    <link>https://monoglotanxiety.com/de/</link>
+    <description>Recent content on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="https://example.com/de/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language>
+    <copyright>Monoglot Anxiety | Urheberrechte Elise Cutts 2021</copyright>
+    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://monoglotanxiety.com/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Éléments que vous pouvez utiliser pour créer une nouvelle publication sur ce modèle.</title>
+      <link>https://monoglotanxiety.com/de/post/elements/</link>
+      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/post/elements/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>Joyeux Couple Amoureux Boulangers Boire Du Café</title>
+      <link>https://monoglotanxiety.com/de/post/post-1/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/post/post-1/</guid>
+      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
+    </item>
+    
+    <item>
+      <title>Joyeux Couple Amoureux Boulangers Boire Du Café</title>
+      <link>https://monoglotanxiety.com/de/post/post-2/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/post/post-2/</guid>
+      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
+    </item>
+    
+    <item>
+      <title>Joyeux Couple Amoureux Boulangers Boire Du Café</title>
+      <link>https://monoglotanxiety.com/de/post/post-3/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/post/post-3/</guid>
+      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
+    </item>
+    
+    <item>
+      <title>Joyeux Couple Amoureux Boulangers Boire Du Café</title>
+      <link>https://monoglotanxiety.com/de/post/post-4/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/post/post-4/</guid>
+      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
+    </item>
+    
+    <item>
+      <title>Joyeux Couple Amoureux Boulangers Boire Du Café</title>
+      <link>https://monoglotanxiety.com/de/post/post-5/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/post/post-5/</guid>
+      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
+    </item>
+    
+    <item>
+      <title>Joyeux Couple Amoureux Boulangers Boire Du Café</title>
+      <link>https://monoglotanxiety.com/de/post/post-6/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/post/post-6/</guid>
+      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>https://monoglotanxiety.com/de/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/privacy-policy/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.</description>
+    </item>
+    
+    <item>
+      <title>Hallo, ich bin Elise</title>
+      <link>https://monoglotanxiety.com/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://monoglotanxiety.com/de/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://monoglotanxiety.com/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/contact/</guid>
+      <description>Fragen? Kommentare? Beleidigungen? Was immer du mir sagen möchtest, kannst du den linken Kontaktformular dafür verwenden oder mir einfach per Email schreiben. Ich antworte so bald wie möglich.</description>
+    </item>
+    
+    <item>
+      <title>Nicht gefunden</title>
+      <link>https://monoglotanxiety.com/de/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://monoglotanxiety.com/de/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monoglotanxiety.com/de/search/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,15 +1,33 @@
 {{ define "main" }}
-  <article class="post">
-    <header>
-      <div class="title">
-        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-3">
+        <div class="title-bordered mb-5 d-flex align-items-center">
+          <h1 class="h4">{{ .Title }}</h1>
+          <ul class="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
+            {{ range .Params.social }}
+            <li class="list-inline-item"><a href="{{ .link }}"><i class="{{.icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+        
+        {{with .Params.Image}}
+        {{ if (fileExists (add `assets/` .)) }}
+        {{ $image:= resources.Get . }}
+        <img loading="lazy" class="img-fluid w-100 mb-4 rounded-lg" src="{{ $image.RelPermalink }}" alt="author">
+        {{ end }}
+        {{ end }}
+
+        <div class="col-lg-10 mt-2 mx-auto">
+        <div class="content">
+          {{.Content}}
+        </div>
       </div>
-    </header>
-    <div id="content" class='content'>
-      {{ .Content }}
-      {{ partial "post-end-coffee" .}}
+      </div>
     </div>
-  </article>
-  {{ $.Scratch.Set "showAbout" false }}
+  </div>
+</section>
+
 {{ end }}

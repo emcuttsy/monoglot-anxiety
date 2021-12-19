@@ -1,0 +1,34 @@
+############### German navigation ################
+
+# Dropdown menu
+[[main]]
+weight = 1
+name = "Start"
+url = "/"
+
+[[main]]
+name = "Über mich"
+url = "about"
+weight = 2
+
+[[main]]
+name = "Kontakt"
+url = "contact"
+weight = 3
+
+
+# footer menu
+[[footer]]
+name = "Über mich"
+url = "about"
+weight = 1
+
+[[footer]]
+name = "Kontakt"
+url = "contact"
+weight = 2
+
+[[footer]]
+name = "Datenschutz"
+url = "privacy-policy"
+weight = 3

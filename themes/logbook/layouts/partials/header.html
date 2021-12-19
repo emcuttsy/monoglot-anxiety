@@ -1,0 +1,83 @@
+{{ "<!-- navigation -->" | safeHTML }}
+<header class="sticky-top bg-white border-bottom border-default">
+  <div class="container">
+    <!-- navbar -->
+    <nav class="navbar navbar-expand-lg navbar-white">
+      <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
+        {{ $logo:= site.Params.logo }}
+        {{ if fileExists (add `assets/` $logo) }}
+        {{ $logo:= resources.Get $logo }}
+        {{ $option := add (string site.Params.logo_width) " webp" }}
+        {{ $logo:= $logo.Resize site.Params.logo_width }}
+        {{ $logo_webp:= $logo.Resize $option }}
+        <img loading="prelaod" decoding="async" class="img-fluid" width="{{$logo.Width}}" height="{{$logo.Height}}" src="{{$logo_webp.RelPermalink}}" alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{$logo.RelPermalink}}'">
+        {{ else }}
+        {{site.Params.logo_text | markdownify}}
+        {{ end }}
+      </a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="fas fa-bars"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <ul class="navbar-nav ml-auto">
+          {{ range site.Menus.main }}
+          {{ if .HasChildren }}
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              {{ .Name }} <i class="fas fa-angle-down ml-1"></i>
+            </a>
+            <div class="dropdown-menu">
+              {{ range .Children }}
+              <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+              {{ end }}
+            </div>
+          </li>
+          {{ else }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+
+        <!-- Language List -->
+        {{ if .IsTranslated }}
+        <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+          {{ $siteLanguages := site.Languages}}
+          {{ $pageLang := .Page.Lang}}
+          {{ range .Page.AllTranslations }}
+          {{ $translation := .}}
+          {{ range $siteLanguages }}
+          {{ if eq $translation.Lang .Lang }}
+          {{ $selected := false }}
+          {{ if eq $pageLang .Lang}}
+          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
+          </option>
+          {{ else }}
+          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+          {{ end }}
+        </select>
+        {{ end }}
+
+        {{ if site.Params.search }}
+        {{ "<!-- search -->" | safeHTML }}
+        <div class="search pl-0 mt-3 mt-lg-0 pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="fas fa-search"></i></button>
+          <div class="search-wrapper">
+            <form action="{{ `search`| relLangURL }}" class="h-100">
+              <input class="search-box pl-4" id="search-query" name="s" type="search" placeholder="{{ i18n `search_placeholder`}}">
+            </form>
+            <button id="searchClose" class="search-close"><i class="fas fa-times text-dark"></i></button>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </nav>
+  </div>
+</header>
+{{ "<!-- /navigation -->" | safeHTML }}

@@ -1,0 +1,91 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `x` with logo_width, example: "100x"
+logo_width = "150x"
+# logo text will only show when logo is missing.
+logo_text = "Boilerplate"
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Themefisher"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+page_not_found_image = "images/404.png" # 404 error page image
+# email address
+email = "georgia.young@example.com"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# search
+search = true
+# main sections
+mainSections = ["post"]
+# featured post
+featured_post = true
+# layout
+post_layout = "grid" # layout value (full, grid or list)
+# Sidebar
+sidebar = "right" # sidebar value (left, right or false)
+# custom script on header
+custom_script= ""
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Subscription
+[subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# snipcart for shop
+[snipcart]
+enable = true
+# snipcart public api key
+snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+currency = "$"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# promotion
+[promotion]
+title = "Create Stunning Website!!"
+content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
+image = "images/promotion.jpg"
+button_label = "Get Started"
+button_link = "https://themefisher.com/"
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["search", "about-me", "promotion", "subscription", "categories", "recent-post", "tags", "social"]
+# available widget : search,about-me,categories,tags,recent-post,social,promotion,subscription
+
+
+############################# social site ########################
+[[social]]
+name = "facebook"
+icon = "fab fa-facebook" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
+
+[[social]]
+name = "twitter"
+icon = "fab fa-twitter" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
+
+[[social]]
+name = "linkedin"
+icon = "fab fa-linkedin-in" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"
+
+[[social]]
+name = "github"
+icon = "fab fa-github" # fontawesome icons: https://fontawesome.com/icons/
+link = "#"

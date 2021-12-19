@@ -1,0 +1,34 @@
+######################## default configuration ####################
+baseURL = "https://monoglotanxiety.com"
+title = "Monoglot Anxiety"
+theme = "logbook"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "50"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disqus short name
+# disable language
+disableLanguages = ["de"] # desable language from here
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+
+[markup]
+[markup.goldmark.renderer]
+unsafe= true
+
+[mediaTypes]
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+
+[outputFormats]
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"

@@ -1,0 +1,62 @@
+- id: continue_reading
+  translation: Continue Reading
+
+- id: search_placeholder
+  translation: Search for...
+
+- id: latest_article
+  translation: Latest Article
+
+- id: categories
+  translation: Categories
+
+- id: tags
+  translation: Tags
+
+- id: search
+  translation: Search
+
+- id: date
+  translation: Date
+
+- id: posted_by
+  translation: Posted by this author
+
+- id: send
+  translation: Send now
+
+- id: name
+  translation:  Name
+
+- id: email 
+  translation: Email address
+
+- id: message
+  translation: Message
+
+- id: subscribe
+  translation: Subscribe now
+
+- id: write_email
+  translation: Hate forms? Here's my email
+
+- id: subscribe_newsletter
+  translation: Get the Newsletter
+
+- id: quick_links
+  translation: Quick links
+
+- id: social
+  translation: Stay in the loop
+
+- id: back_to_home
+  translation: Back To Home
+
+- id: about_me
+  translation: About Me
+
+- id: page_not_found
+  translation: Ooops! This Page Is Not Available
+
+- id: search_results_for
+  translation: "Search results for "
