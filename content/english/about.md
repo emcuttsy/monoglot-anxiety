@@ -29,7 +29,7 @@ Learning a new language is the ultimate antidote to perfectionism. It forces you
 
 That's clearly an absurd question. And that's exactly the point.
 
-## Learn a language, live a bit more intentionally, and rein in perfectionism
+## Learn a language, rein in perfectionism, and live a bit more intentionally,
 
 This blog will help you **learn a language, especially if you're self-taught.** 
 
