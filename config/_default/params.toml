@@ -8,7 +8,7 @@ logo_width = "50x"
 # logo text will only show when logo is missing.
 logo_text = "Monoglot Anxiety"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Learn a new language, rein in perfectionism, and live a bit better"
 author = "Elise Cutts"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 page_not_found_image = "images/404.png" # 404 error page image
