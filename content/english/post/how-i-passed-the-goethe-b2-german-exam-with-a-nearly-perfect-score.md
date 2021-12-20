@@ -133,7 +133,7 @@ That was a mistake. I still did well, but my 93% in listening was my lowest scor
 
 ### I practiced using the formal-you (_Sie_)
 
-So, I never _siezen_ anybody. I'm self-taught and only ever speak to my boyfriend's family, speaking partners, and tutors around my age. So going into the test, I knew that remembering to use _Sie_ would potentially trip me up on the exam.
+So, I never _siezen_ (use the formal-you for) anybody. I'm self-taught and only ever speak to my boyfriend's family, speaking partners, and tutors around my age. So going into the test, I knew that remembering to use _Sie_ would potentially trip me up on the exam.
 
 To practice, I chatted a bit with my boyfriend and my German tutor using _Sie_ in the week before the test.
 
