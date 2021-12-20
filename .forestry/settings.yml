@@ -5,23 +5,25 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/deutsch/about.md
-  label: German About
-  match: "**/*"
-- type: document
   path: content/english/about.md
   label: English About
   match: "**/*"
   read_only: false
 - type: directory
+  path: content/english/post
+  label: English Posts
+  create: all
+  match: "**/*"
+- type: heading
+  label: German
+- type: directory
   path: content/deutsch/post
   label: German Posts
   create: all
   match: "**/*"
-- type: directory
-  path: content/english/post
-  label: English Posts
-  create: all
+- type: document
+  path: content/deutsch/about.md
+  label: German About
   match: "**/*"
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
