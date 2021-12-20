@@ -38,15 +38,15 @@ Comprehensible input is anything that you can understand in your target language
 
 Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _Dark_ on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
 
-For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
-
-I almost never formally studied grammar rules. I am a bit of a nerd and know a lot of English grammar already, which obviously helps. But you really can learn grammar purely through comprehensible input.
-
 <center>
 
     {{< tweet 1470412755303682051 >}}
 
 </center>
+
+For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
+
+I almost never formally studied grammar rules. I am a bit of a nerd and know a lot of English grammar already, which obviously helps. But you really can learn grammar purely through comprehensible input.
 
 ### Find penpals and speaking partners once you can communicate a bit
 
