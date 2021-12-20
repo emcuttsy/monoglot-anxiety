@@ -20,27 +20,29 @@ draft: true
 ---
 Last week on Monday I officially went from monoglot to... duo-glot? Bilingual sounds wrong. I didn't grow up speaking two languages.
 
-Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I *didn't* prep for the test. I've seen a lot of advice out there for test-takers that I fundamentally disagree with. As always, it seems the consensus is that you need to execute some kind of hard-core pre-test bootcamp cramming plan to do well on the B2 Goethe exam.
+Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I _didn't_ prep for the test. I've seen a lot of advice out there for test-takers that I fundamentally disagree with. As always, it seems the consensus is that you need to execute some kind of hard-core pre-test bootcamp cramming plan to do well on the B2 Goethe exam.
 
 And that's really just a big load of crap, because I barely "studied" and still earned a nearly perfect score.
 
 Cramming isn't the way. Period. If you're actually a B2 German speaker, you shouldn't need to cram. And you can become a B2 German speaker without doing anything much more compilcated than watching a bunch of TV and talking to people once in a while.
 
-## I self-studied mostly using comprehensible input for 2 years 
+## I self-studied mostly using comprehensible input for 2 years
 
- 99.9999% of all of the work that goes into your exam grade should come before you ever even sign up for the exam. No amount of cramming can make you B2 in a month. For me, it took 2 years of self-study to reach B2. And it's those 2 years—not the 2 weeks of prep I did for the exam—that earned me great scores. 
+99\.9999% of all of the work that goes into your exam grade should come before you ever even sign up for the exam. No amount of cramming can make you B2 in a month. For me, it took 2 years of self-study to reach B2. And it's those 2 years—not the 2 weeks of prep I did for the exam—that earned me great scores.
 
 ### Netflix, Spotify, and Duolingo will get you pretty far
 
 I overwhelmingly relied on **comprehensible input** to learn German. This sounds fancy, but in practice it meant watching loads of TV and listening to an unholy number of podcasts. Shout out to my mom for letting me leech off of her Netflix account all these years. You rock, Teri.
 
-Comprehensible input is anything that you can understand in your target language. If *n* is your level, the best comprehensible input is *n+1*. 
+Comprehensible input is anything that you can understand in your target language. If _n_ is your level, the best comprehensible input is _n+1_.
 
-Now, I jumped into German watching a lot of *n+1000* content (looking at you, *Dark* on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
+Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _Dark_ on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
 
-For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German. 
+For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
 
-I almost never formally studied grammar rules. I am a bit of a nerd and know a lot of English grammar already, which obviously helps. But you really can learn grammar purely through comprehensible input. 
+I almost never formally studied grammar rules. I am a bit of a nerd and know a lot of English grammar already, which obviously helps. But you really can learn grammar purely through comprehensible input.
+
+    {{< tweet monoglotanxiety/status/1470412755303682051 >}}
 
 ### Find penpals and speaking partners once you can communicate a bit
 
@@ -54,33 +56,33 @@ I use [**HelloTalk**](https://hellotalk.com) and [**MyLanguageExchange.com**](ht
 
 Take the exam at your real level, not your reach level. If you're testing at the right level, you won't need to prep that much.
 
-I leafed through a C1 practice test after taking B2, and I'm pretty sure that I could have passed C1—with some serious prep. But why force it? I'm not a C1 speaker yet, even if I could fake it for an exam. I'll pass C1 when I'm at C1. Right now, I'm at B2. 
+I leafed through a C1 practice test after taking B2, and I'm pretty sure that I could have passed C1—with some serious prep. But why force it? I'm not a C1 speaker yet, even if I could fake it for an exam. I'll pass C1 when I'm at C1. Right now, I'm at B2.
 
-And seriously, even if you do *need* the B2 certificate for something—like studying at a German university—but aren't a B2 speaker yet, maybe ask yourself if you're really ready for whatever you need that certificate for. 
+And seriously, even if you do _need_ the B2 certificate for something—like studying at a German university—but aren't a B2 speaker yet, maybe ask yourself if you're really ready for whatever you need that certificate for.
 
 ## I DIDN'T cram
 
 Seriously, chill out. You do not need some kind of crazy 2-month study plan to prep for this test.
 
-**I got a perfect score in speaking and writing, a 97% in reading, and a 93% in listening after a few weeks of relaxed exam prep**. And I mean *relaxed.* I didn't spend more than 8 hours prepping over 2 weeks.
+**I got a perfect score in speaking and writing, a 97% in reading, and a 93% in listening after a few weeks of relaxed exam prep**. And I mean _relaxed._ I didn't spend more than 8 hours prepping over 2 weeks.
 
-One of the girls taking the test with me told me a bit about the pre-exam study routines of YouTubers she followed and I just sat there blinking, nonplussed. People seriously do a practice exam a day for a month? Drill conjugations and vocabulary every day for two months? If that's what it'll take to pass, why are you even taking the exam? 
+One of the girls taking the test with me told me a bit about the pre-exam study routines of YouTubers she followed and I just sat there blinking, nonplussed. People seriously do a practice exam a day for a month? Drill conjugations and vocabulary every day for two months? If that's what it'll take to pass, why are you even taking the exam?
 
 Don't fake it, make it. Take the exam you're ready for and you won't need to cram. Cramming doesn't teach you anything long-term, it just inflates your level short-term.
 
 ## I spent a few weeks learning how to take the test
 
-Those 8 hours of prep were not devoted to learning new vocabulary, drilling grammar, or memorizing stock phrases. They were devoted entirely to learning how to take the test. The B2 Goethe exam is *in* B2 German, but it doesn't test you *on* B2 German. It tests how well you can take the test. So don't prep your German, prep your test-taking.
+Those 8 hours of prep were not devoted to learning new vocabulary, drilling grammar, or memorizing stock phrases. They were devoted entirely to learning how to take the test. The B2 Goethe exam is _in_ B2 German, but it doesn't test you _on_ B2 German. It tests how well you can take the test. So don't prep your German, prep your test-taking.
 
 Like other standardized tests (e.g., the SAT, ACT, and GRE), the Goethe exam is much easier when you know what you're walking into. Your ability to do well on tests like these often have a lot less to do with your mastery of the subject material than with your mastery of the test-taking format. Especially for the speaking and writing sections, knowing what the graders will evaluate you on is critical. You could speak perfectly fluently and flunk just because your speech didn't include a clear "beginning, middle, and end" as required.
 
-> The B2 Goethe exam is *in* B2 German, but it doesn't test you *on* B2 German. It tests how well you can take the test. So don't prep your German, prep your test-taking.
+> The B2 Goethe exam is _in_ B2 German, but it doesn't test you _on_ B2 German. It tests how well you can take the test. So don't prep your German, prep your test-taking.
 
 The good news is, you don't need much time to learn the tasks the test will ask you to complete. A week or two is more than enough.
 
 ### I practiced the reading module once
 
-I know that I know how to read in German, so I only practiced the reading module one time. The point wasn't to practice reading, the point was to get familiar with the kinds of questions the test asks. 
+I know that I know how to read in German, so I only practiced the reading module one time. The point wasn't to practice reading, the point was to get familiar with the kinds of questions the test asks.
 
 Some of the reading questions on the Goethe B2 exam are really confusing. If you haven't seen a practice test before you'll need to waste time reading the directions. Waste that time before the exam and safe yourself some stress.
 
@@ -88,7 +90,7 @@ If you can read the news in German (which you should be able to do if you're tak
 
 ### I practiced the writing module a few times
 
-You'll need to write two ~250 word writing samples for the Goethe B2 exam: a "forum post" that can be written in informal language and a formal email. For both tasks, you'll need to structure formal arguments á la high school 5-paragraph essay. 
+You'll need to write two \~250 word writing samples for the Goethe B2 exam: a "forum post" that can be written in informal language and a formal email. For both tasks, you'll need to structure formal arguments á la high school 5-paragraph essay.
 
 I recommend practicing these unnatural exercises a few times so they don't trip you up. And remember to write by hand. When is the last time you wrote hundreds of words by hand? On paper? In ink?
 
@@ -106,19 +108,19 @@ So, see, I didn't actually practice the listening module at all. I consider list
 
 That was a mistake. I still did well, but my 93% in listening was my lowest score. The listening exercises were really unnatural for me since I'm used to listening to full conversations and not 1-3 contextless sentences floating in the void.  Don't be like me — download that audio file and do the listening module once to get used to it, just like the reading module. {{</notice>}}
 
-### I practiced using the formal form (*seizen*)
+### I practiced using the formal form (_seizen_)
 
-So, I never *siezen* anybody. I'm self-taught and only ever speak to my boyfriend's family, speaking partners, and tutors around my age. So going into the test, I knew that remembering to use *Sie* would potentially trip me up on the exam.
+So, I never _siezen_ anybody. I'm self-taught and only ever speak to my boyfriend's family, speaking partners, and tutors around my age. So going into the test, I knew that remembering to use _Sie_ would potentially trip me up on the exam.
 
-To practice, I chatted a bit with my boyfriend and my German tutor using *Sie* in the week before the test.
+To practice, I chatted a bit with my boyfriend and my German tutor using _Sie_ in the week before the test.
 
 Of course, I still messed this up on my exam. But the test proctors didn't seem to mind — I scored 100% in speaking. Which brings me to my next point...
 
 ## Perfection isn't needed for a perfect score
 
-Surprised? I was too. But I looked at the grading rubrics for the exam and realized that a 60% was enough to pass each module. Keeping that in mind helped me keep calm — and keep paralyzing perfectionism at bay. 
+Surprised? I was too. But I looked at the grading rubrics for the exam and realized that a 60% was enough to pass each module. Keeping that in mind helped me keep calm — and keep paralyzing perfectionism at bay.
 
-For the speaking and writing modules, the best possible score you can achieve still allows for occasional mistakes that don't interfere with understanding. For the 30-question multiple-choice reading and listening sections, you can miss *10 questions* and still pass. 
+For the speaking and writing modules, the best possible score you can achieve still allows for occasional mistakes that don't interfere with understanding. For the 30-question multiple-choice reading and listening sections, you can miss _10 questions_ and still pass.
 
 That's a lot of leeway. Don't freak out if you don't know an answer, it's fine. Mistakes are allowed, even for perfect scores. Check out the grading rubric to see for yourself.
 
@@ -126,16 +128,16 @@ That's a lot of leeway. Don't freak out if you don't know an answer, it's fine. 
 
 And on a related note—if you screw up speaking, your mistake can actually be a chance to guide the conversation towards topics you're more confident speaking about.
 
-My speaking partner was high school student, so I went into the conversation 100% expecting to *duzen* her. But she spoke first and addressed me with *Sie*, so it would have technically be impolite for me to *duzen* her back. Needless to say, I slipped up and *duzen*-ed her multiple times.
+My speaking partner was high school student, so I went into the conversation 100% expecting to _duzen_ her. But she spoke first and addressed me with _Sie_, so it would have technically be impolite for me to _duzen_ her back. Needless to say, I slipped up and _duzen_-ed her multiple times.
 
-After my first slip-up, I stopped in my tracks and turned to the proctors to explain that I've rarely had to *siezen* anyone since I mostly speak German with my boyfriend's family, and that I especially wasn't used to *siezen*-ing folks my age since I'm self-taught. 
+After my first slip-up, I stopped in my tracks and turned to the proctors to explain that I've rarely had to _siezen_ anyone since I mostly speak German with my boyfriend's family, and that I especially wasn't used to _siezen_-ing folks my age since I'm self-taught.
 
-**Explaining my mistake was a chance to speak fluently about something I was used to talking about**—in my case, my boyfriend's family and teaching myself German. 
+**Explaining my mistake was a chance to speak fluently about something I was used to talking about**—in my case, my boyfriend's family and teaching myself German.
 
-So, prepare a few stock explanations for mistakes you're likely to make. Screw up a word's gender? Explain that you heard it in a YouTube video and never learned its gender. Don't know the translation of "House of Representatives?" Sorry, you mostly listen to German podcasts about science or art, not US politics. The topic selection was unlucky. *Siezen* where you should *duzen?* Whoops, you were just trying to be polite. 
+So, prepare a few stock explanations for mistakes you're likely to make. Screw up a word's gender? Explain that you heard it in a YouTube video and never learned its gender. Don't know the translation of "House of Representatives?" Sorry, you mostly listen to German podcasts about science or art, not US politics. The topic selection was unlucky. _Siezen_ where you should _duzen?_ Whoops, you were just trying to be polite.
 
 ## The takeaway: you don't need to study hard to pass the B2 German exam
 
-If you read my blog or follow me on Twitter, you know what's coming next: you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test. A few years of comprehensible input supplemented with a bit of speaking and writing practice and a week or two of prepping for the exam itself before the test will get you there. 
+If you read my blog or follow me on Twitter, you know what's coming next: you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test. A few years of comprehensible input supplemented with a bit of speaking and writing practice and a week or two of prepping for the exam itself before the test will get you there.
 
-So don't stress. Just head over to Netflix and watch another episode of *Dark*. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
+So don't stress. Just head over to Netflix and watch another episode of _Dark_. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
