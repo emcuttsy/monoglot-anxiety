@@ -8,6 +8,7 @@ author: Elise Cutts
 description: Two years of informal self study can get you to B2 in German
 categories:
 - German
+- Language learning
 tags:
 - German exam
 - Language learning tips
