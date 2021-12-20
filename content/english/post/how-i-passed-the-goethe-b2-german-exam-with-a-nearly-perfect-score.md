@@ -42,7 +42,7 @@ For the first year, I relied exclusively on Duolingo (to learn basic vocabulary)
 
 I almost never formally studied grammar rules. I am a bit of a nerd and know a lot of English grammar already, which obviously helps. But you really can learn grammar purely through comprehensible input.
 
-    {{< tweet 877500564405444608 >}}
+    {{< tweet 1470412755303682051 >}}
 
 ### Find penpals and speaking partners once you can communicate a bit
 
