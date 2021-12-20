@@ -39,9 +39,13 @@ I overwhelmingly relied on **comprehensible input** to learn German. This sounds
 Comprehensible input is anything that you can understand in your target language. If _n_ is your level, the best comprehensible input is _n+1_.
 
 Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _Dark_ on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
+
+
 <center>
 {{< tweet 1470412755303682051 >}}
 </center>
+
+
 For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
 
 ### Find penpals and speaking partners once you can communicate a bit
