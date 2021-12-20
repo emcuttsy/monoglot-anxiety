@@ -7,25 +7,27 @@ sections:
 - type: heading
   label: English
 - type: document
+  path: content/english/contact.md
+  label: Contact
+  match: "**/*"
+- type: document
   path: content/english/about.md
-  label: English About
+  label: About
   match: "**/*"
   read_only: false
 - type: directory
   path: content/english/post
-  label: English Posts
+  label: Posts
   create: all
-  match: "**/*"
 - type: heading
   label: German
 - type: directory
   path: content/deutsch/post
-  label: German Posts
-  create: all
-  match: "**/*"
+  label: Posts
+  create: none
 - type: document
   path: content/deutsch/about.md
-  label: German About
+  label: About
   match: "**/*"
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
