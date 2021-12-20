@@ -166,4 +166,6 @@ So, prepare a few stock explanations for mistakes you're likely to make. Screw u
 
 If you read my blog or follow me on Twitter, you know what's coming next: you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test. A few years of comprehensible input supplemented with a bit of speaking and writing practice and a week or two of prepping for the exam itself before the test will get you there.
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/Untitled-2.jpg)So don't stress. Just head over to Netflix and watch another episode of _Dark_. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
+So don't stress. Just head over to Netflix and watch another episode of _Dark_. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/Untitled-2.jpg)
