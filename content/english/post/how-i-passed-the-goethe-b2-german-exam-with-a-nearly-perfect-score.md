@@ -110,7 +110,9 @@ _Ich möchte über ... sprechen_ (I'd like to speak about ... )
 
 _Zum einen ... zum anderen ..._ (On the one hand ..., on the other ... )
 
-Zum Abschluss ... (In conclusion ... )
+_Zum Abschluss_ ... (In conclusion ... )
+
+_Danke für Ihre Aufmerksamkeit_ (Thank you for your attention)
 
 And don't forget the address (_Sehr verehrte Frau/Herr Lastname)_ and salutation (_Mit herzlichen Grüßen_) for formal emails!
 
