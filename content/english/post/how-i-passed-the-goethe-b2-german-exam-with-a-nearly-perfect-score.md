@@ -96,7 +96,7 @@ You'll need to write two \~250 word writing samples for the Goethe B2 exam: an i
 
 {{<notice tip "High school essay transitions: the only phrases worth memorizing">}}
 
-I'm against memorization. But you can easily be B2 and not know the stilted transition phrases that exam graders like to see writing samples and speeches (gotta have that sweet, sweet "structure"). Having a few of these in your back pocket before the test will take off a bit of stress:
+I'm against memorization. But you can easily be B2 and not know the stilted transition phrases that exam graders like to see in writing samples and speeches (gotta have that sweet, sweet "structure"). Having a few of these in your back pocket before the test will take off a bit of stress:
 
 _Meiner Meinung nach..._ (in my opinion ... )
 
