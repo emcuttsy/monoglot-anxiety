@@ -8,6 +8,7 @@ sections:
   path: content/english/about.md
   label: English About
   match: "**/*"
+  read_only: false
 - type: directory
   path: content/german/post
   label: German Posts
