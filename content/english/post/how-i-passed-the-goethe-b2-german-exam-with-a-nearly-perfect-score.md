@@ -114,7 +114,7 @@ _Zum Abschluss_ ... (In conclusion ... )
 
 _Danke für Ihre Aufmerksamkeit_ (Thank you for your attention)
 
-And don't forget the address (_Sehr verehrte Frau/Herr Lastname)_ and salutation (_Mit herzlichen Grüßen_) for formal emails!
+And don't forget the address (_Sehr verehrte Frau/Herr Lastname)_ and sign-off (_Mit herzlichen Grüßen_) for formal emails!
 
 {{</notice>}}
 
@@ -145,6 +145,8 @@ Of course, I still messed this up on my exam. But the test proctors didn't seem 
 ## Perfection isn't needed for a perfect score
 
 Surprised? I was too. But I looked at the grading rubrics for the exam and realized that a 60% was enough to pass each module. Keeping that in mind helped me keep calm — and keep paralyzing perfectionism at bay.
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/certifiate.jpg)
 
 For the speaking and writing modules, the best possible score you can achieve still allows for occasional mistakes that don't interfere with understanding. For the 30-question multiple-choice reading and listening sections, you can miss _10 questions_ and still pass.
 
