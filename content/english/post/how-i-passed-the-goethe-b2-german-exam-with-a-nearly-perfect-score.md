@@ -20,15 +20,17 @@ draft: true
 ---
 Last week on Monday I officially went from monoglot to... duo-glot? Bilingual sounds wrong. I didn't grow up speaking two languages.
 
-Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I _didn't_ prep for the test. I've seen a lot of advice out there for test-takers that I fundamentally disagree with. As always, it seems the consensus is that you need to execute some kind of hard-core pre-test bootcamp cramming plan to do well on the B2 Goethe exam.
+Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I _didn't_ prep for the test. 
+
+I've seen a lot of advice out there for test-takers that I fundamentally disagree with. As always, it seems the consensus is that you need to execute some kind of hardcore bootcamp to do well on the B2 Goethe exam.
 
 And that's really just a big load of crap, because I barely "studied" and still earned a nearly perfect score.
 
-Cramming isn't the way. Period. If you're actually a B2 German speaker, you shouldn't need to cram. And you can become a B2 German speaker without doing anything much more compilcated than watching a bunch of TV and talking to people once in a while.
+Cramming isn't the way. Period. If you're actually a B2 German speaker, you shouldn't need to cram. And you can become a B2 German speaker without doing anything much more complicated than watching a bunch of TV and talking to people once in a while.
 
 ## I self-studied mostly using comprehensible input for 2 years
 
-99\.9999% of all of the work that goes into your exam grade should come before you ever even sign up for the exam. No amount of cramming can make you B2 in a month. For me, it took 2 years of self-study to reach B2. And it's those 2 years—not the 2 weeks of prep I did for the exam—that earned me great scores.
+99\.9999% of all of the work that goes into your exam grade should come before you even sign up for the exam. No amount of cramming can make you B2 in a month. For me, it took 2 years of self-study to reach B2. And it's those 2 years—not the 2 weeks of prep I did for the exam—that earned me great scores.
 
 ### Netflix, Spotify, and Duolingo will get you pretty far
 
@@ -42,8 +44,6 @@ Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _D
 </center>
 For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
 
-I almost never formally studied grammar rules. I am a bit of a nerd and know a lot of English grammar already, which obviously helps. But you really can learn grammar purely through comprehensible input.
-
 ### Find penpals and speaking partners once you can communicate a bit
 
 About a year in, when I hit something around a B1 level, I started trying to communicate with people. In practice, this meant chatting with an iTalki tutor about once every two weeks and writing to penpals. More recently, I found speaking partners to chat with occasionally via text and Skype.
@@ -54,9 +54,9 @@ I use [**HelloTalk**](https://hellotalk.com) and [**MyLanguageExchange.com**](ht
 
 ## I tested at my real level, not my reach level
 
-Take the exam at your real level, not your reach level. If you're testing at the right level, you won't need to prep that much.
+Take the exam at your real level, not your reach level. If you're testing at the right level, you won't need to prep much.
 
-I leafed through a C1 practice test after taking B2, and I'm pretty sure that I could have passed C1—with some serious prep. But why force it? I'm not a C1 speaker yet, even if I could fake it for an exam. I'll pass C1 when I'm at C1. Right now, I'm at B2.
+I leafed through a C1 practice test, and I'm pretty sure that I could have passed C1—with some serious prep. But why force it? I'm not a C1 speaker yet, even if I could fake it for an exam. I'll pass C1 when I'm at C1. 
 
 And seriously, even if you do _need_ the B2 certificate for something—like studying at a German university—but aren't a B2 speaker yet, maybe ask yourself if you're really ready for whatever you need that certificate for.
 
@@ -72,9 +72,11 @@ Don't fake it, make it. Take the exam you're ready for and you won't need to cra
 
 ## I spent a few weeks learning how to take the test
 
-Those 8 hours of prep were not devoted to learning new vocabulary, drilling grammar, or memorizing stock phrases. They were devoted entirely to learning how to take the test. The B2 Goethe exam is _in_ B2 German, but it doesn't test you _on_ B2 German. It tests how well you can take the test. So don't prep your German, prep your test-taking.
+Those 8 hours of prep were not devoted to learning new vocabulary or drilling grammar. I used them to learn how to take the test. The B2 Goethe exam is _in_ B2 German, but it doesn't test you _on_ B2 German. It tests how well you can take the Goethe B2 German exam. So don't prep your German, prep your test-taking.
 
-Like other standardized tests (e.g., the SAT, ACT, and GRE), the Goethe exam is much easier when you know what you're walking into. Your ability to do well on tests like these often have a lot less to do with your mastery of the subject material than with your mastery of the test-taking format. Especially for the speaking and writing sections, knowing what the graders will evaluate you on is critical. You could speak perfectly fluently and flunk just because your speech didn't include a clear "beginning, middle, and end" as required.
+Like other standardized tests (e.g., the SAT, ACT, and GRE), the Goethe exam is much easier when you know what you're walking into. Your ability to do well on tests like these often have a lot less to do with your mastery of the subject material than with your mastery of the test-taking format. 
+
+Especially for the speaking and writing sections, knowing what the graders will evaluate you on is critical. You could speak perfectly fluently and flunk just because your speech didn't include a clear "beginning, middle, and end" as required.
 
 > The B2 Goethe exam is _in_ B2 German, but it doesn't test you _on_ B2 German. It tests how well you can take the test. So don't prep your German, prep your test-taking.
 
@@ -82,17 +84,35 @@ The good news is, you don't need much time to learn the tasks the test will ask 
 
 ### I practiced the reading module once
 
-I know that I know how to read in German, so I only practiced the reading module one time. The point wasn't to practice reading, the point was to get familiar with the kinds of questions the test asks.
+I know that I know how to read in German, so I only practiced the reading module one time. The point wasn't to practice reading, the point was to get familiar with the kinds of questions the test asks. Basically: waste time reading the reading module instructions before the exam, not during the exam.
 
-Some of the reading questions on the Goethe B2 exam are really confusing. If you haven't seen a practice test before you'll need to waste time reading the directions. Waste that time before the exam and safe yourself some stress.
-
-If you can read the news in German (which you should be able to do if you're taking the B2 exam), one practice test to get familiar with exam format is more than enough prep for the reading module.
+If you can read the news in German (which you should be able to do if you're B2), one practice test to get familiar with exam format is more than enough prep for the reading module.
 
 ### I practiced the writing module a few times
 
-You'll need to write two \~250 word writing samples for the Goethe B2 exam: a "forum post" that can be written in informal language and a formal email. For both tasks, you'll need to structure formal arguments á la high school 5-paragraph essay.
+You'll need to write two \~250 word writing samples for the Goethe B2 exam: an informal "forum post" and a formal email. For both tasks, you'll need to structure formal arguments á la high school 5-paragraph essay.
 
-I recommend practicing these unnatural exercises a few times so they don't trip you up. And remember to write by hand. When is the last time you wrote hundreds of words by hand? On paper? In ink?
+{{<notice tip "High school essay transitions: the only phrases worth memorizing">}}
+
+I'm against memorization. But you can easily be B2 and not know the stilted transition phrases that graders like to see in formal essays. Having a few of these in your back pocket before the test will take off a bit of stress:
+
+_Meiner Meinung nach..._ (in my opinion ... )
+
+_Ich stimme ... nicht zu, da/weil ..._ (I disagree with ... , because ...)
+
+_Ich bin anderer Meinung_ (I have a different opinion)
+
+_Ich möchte über ... sprechen_ (I'd like to speak about ... )
+
+_Zum einen ... zum anderen ..._ (On the one hand ..., on the other ... )
+
+Zum Abschluss ... (In conclusion ... )
+
+And don't forget the address (_Sehr verehrte Frau/Herr Lastname)_ and salutation (_Mit herzlichen Grüßen_) for formal emails!
+
+{{</notice>}}
+
+I recommend practicing these unnatural exercises a few times so they don't trip you up. And remember to write by hand. When is the last time you wrote hundreds of words by hand? On paper? In ink? Do you even know what a 100-word chunk of your own handwriting looks like?
 
 ### I practiced the speaking module a few times
 
