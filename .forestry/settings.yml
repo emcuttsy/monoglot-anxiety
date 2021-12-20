@@ -16,7 +16,7 @@ sections:
   match: "**/*"
 - type: document
   path: content/english/contact.md
-  label: Posts
+  label: Contact
   match: "**/*"
 - type: heading
   label: German
@@ -28,6 +28,10 @@ sections:
 - type: document
   path: content/deutsch/about.md
   label: About
+  match: "**/*"
+- type: document
+  path: content/deutsch/contact.md
+  label: Contact
   match: "**/*"
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
