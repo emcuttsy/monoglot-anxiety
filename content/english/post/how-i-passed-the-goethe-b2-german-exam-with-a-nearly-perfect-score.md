@@ -19,7 +19,7 @@ enableComments: true
 ---
 Last week on Monday I officially went from monoglot to... duo-glot? Bilingual sounds wrong. I didn't grow up speaking two languages.
 
-Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I _didn't_ prep for the test. 
+Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I _didn't_ prep for the test.
 
 I've seen a lot of advice out there for test-takers that I fundamentally disagree with. As always, it seems the consensus is that you need to execute some kind of hardcore bootcamp to do well on the B2 Goethe exam.
 
@@ -39,11 +39,9 @@ Comprehensible input is anything that you can understand in your target language
 
 Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _Dark_ on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
 
-
 <center>
 {{< tweet 1470412755303682051 >}}
 </center>
-
 
 For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
 
@@ -59,7 +57,7 @@ I use [**HelloTalk**](https://hellotalk.com) and [**MyLanguageExchange.com**](ht
 
 Take the exam at your real level, not your reach level. If you're testing at the right level, you won't need to prep much.
 
-I leafed through a C1 practice test, and I'm pretty sure that I could have passed C1—with some serious prep. But why force it? I'm not a C1 speaker yet, even if I could fake it for an exam. I'll pass C1 when I'm at C1. 
+I leafed through a C1 practice test, and I'm pretty sure that I could have passed C1—with some serious prep. But why force it? I'm not a C1 speaker yet, even if I could fake it for an exam. I'll pass C1 when I'm at C1.
 
 And seriously, even if you do _need_ the B2 certificate for something—like studying at a German university—but aren't a B2 speaker yet, maybe ask yourself if you're really ready for whatever you need that certificate for.
 
@@ -77,7 +75,7 @@ Don't fake it, make it. Take the exam you're ready for and you won't need to cra
 
 Those 8 hours of prep were not devoted to learning new vocabulary or drilling grammar. I used them to learn how to take the test. The B2 Goethe exam is _in_ B2 German, but it doesn't test you _on_ B2 German. It tests how well you can take the Goethe B2 German exam. So don't prep your German, prep your test-taking.
 
-Like other standardized tests (e.g., the SAT, ACT, and GRE), the Goethe exam is much easier when you know what you're walking into. Your ability to do well on tests like these often have a lot less to do with your mastery of the subject material than with your mastery of the test-taking format. 
+Like other standardized tests (e.g., the SAT, ACT, and GRE), the Goethe exam is much easier when you know what you're walking into. Your ability to do well on tests like these often have a lot less to do with your mastery of the subject material than with your mastery of the test-taking format.
 
 Especially for the speaking and writing sections, knowing what the graders will evaluate you on is critical. You could speak perfectly fluently and flunk just because your speech didn't include a clear "beginning, middle, and end" as required.
 
@@ -133,7 +131,7 @@ So, see, I didn't actually practice the listening module at all. I consider list
 
 That was a mistake. I still did well, but my 93% in listening was my lowest score. The listening exercises were really unnatural for me since I'm used to listening to full conversations and not 1-3 contextless sentences floating in the void.  Don't be like me — download that audio file and do the listening module once to get used to it, just like the reading module. {{</notice>}}
 
-### I practiced using the formal form (_seizen_)
+### I practiced using the formal-you (_Sie_)
 
 So, I never _siezen_ anybody. I'm self-taught and only ever speak to my boyfriend's family, speaking partners, and tutors around my age. So going into the test, I knew that remembering to use _Sie_ would potentially trip me up on the exam.
 
