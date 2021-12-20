@@ -142,7 +142,7 @@ To practice, I chatted a bit with my boyfriend and my German tutor using _Sie_ i
 
 Of course, I still messed this up on my exam. But the test proctors didn't seem to mind — I scored 100% in speaking. Which brings me to my next point...
 
-## You don't need to be perfect to pass the B2 exam
+## You don't need to be perfect to do well on the B2 German exam
 
 Surprised? I was too. But I looked at the grading rubrics for the exam and realized that a 60% was enough to pass each module. Keeping that in mind helped me keep calm — and keep paralyzing perfectionism at bay.
 
