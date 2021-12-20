@@ -10,6 +10,7 @@ sections:
   path: content/english/post
   label: Posts
   create: all
+  match: "**/*"
 - type: directory
   path: content/english/author
   label: Authors
@@ -21,7 +22,6 @@ sections:
 - type: document
   path: content/english/contact.md
   label: Contact
-  match: "**/*"
 - type: heading
   label: German
 - type: directory
@@ -32,7 +32,6 @@ sections:
 - type: document
   path: content/deutsch/about.md
   label: About
-  match: "**/*"
 - type: directory
   path: content/deutsch/author
   label: Authors
@@ -41,7 +40,6 @@ sections:
 - type: document
   path: content/deutsch/contact.md
   label: Contact
-  match: "**/*"
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
 front_matter_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
