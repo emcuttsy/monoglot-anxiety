@@ -1,23 +1,24 @@
 ---
-title: "How to  make better language flashcards by combining writing practice with spaced repetition"
-subtitle: "Write, get your writing corrected by native speakers, and turn your mistakes into flashcards"
-date: 2021-04-15T15:40:24+06:00
-# post thumb
+title: How to  make better language flashcards by combining writing practice with
+  spaced repetition
+subtitle: Write, get your writing corrected by native speakers, and turn your mistakes
+  into flashcards
+date: 2021-04-15T15:40:24.000+06:00
 images:
-  - "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/04/15/writingsplash.png"
-#author
-author: "Elise Cutts"
-# description
-description: "How to  make better language flashcards by combining writing practice with spaced repetition"
-# Taxonomies
-categories: ["Language Learning"]
-tags: ["anki","language learning tips"]
-type: "featured" # available type (regular or featured)
-draft: false
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/04/15/writingsplash.png
+author: Elise Cutts
+description: How to  make better language flashcards by combining writing practice
+  with spaced repetition
+categories:
+- Language Learning
+tags:
+- anki
+- language learning tips
+type: regular
 sidebar: right
 enableComments: true
----
 
+---
 Writing is one of my favorite ways to actively study German. It is great for vocabulary building and grammar practice, and in the absence of speaking opportunities, it is the only way to get practice with production skills. But beyond simply being a great way to practice on its own, writing is a key component of how I use flashcards and spaced repetition to learn German. In this post, I break down how to use writing practice to get more out of spaced repetition systems like Anki.
 
 {{<notice note "TLDR: Combine Anki or another SRS  with writing practice for better flashcards">}}
@@ -108,5 +109,4 @@ In case you're interested in seeing a concrete implementation of this idea, here
 * Sometimes, I meet with a German tutor on [iTalki](https://www.italki.com/) during the week and we correct a written homework assignment, so I get writing corrections that way as well.
 * Once I get corrections back, I go through them and turn each correction into a flashcard. This is as simple as copy-pasting the corrected sentence into an Anki cloze card and clozing the bits I screwed up. If necessary, I add a hint or translation to the card, but usually the sentence provides enough context on its own.
 
-That's it. It's so simple that I wonder now how I managed to write this much about it. That's blogging for you. 
-
+That's it. It's so simple that I wonder now how I managed to write this much about it. That's blogging for you.
