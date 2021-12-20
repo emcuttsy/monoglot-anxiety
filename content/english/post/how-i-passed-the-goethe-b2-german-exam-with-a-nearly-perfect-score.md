@@ -1,6 +1,7 @@
 ---
 title: How I Passed the Goethe B2 German Exam With a Nearly Perfect Score
-subtitle: Two years of informal self study can get you to B2 in German
+subtitle: 'Hint: it did not involve cramming, rigorous study routines, or other such
+  nonsense'
 date: 2021-12-19T11:19:22.000-05:00
 images:
 - https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/B2.jpg
