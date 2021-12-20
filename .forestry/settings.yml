@@ -29,14 +29,14 @@ sections:
   label: Posts
   create: none
   match: "**/*"
+- type: document
+  path: content/deutsch/about.md
+  label: About
+  match: "**/*"
 - type: directory
   path: content/deutsch/author
   label: Authors
   create: all
-  match: "**/*"
-- type: document
-  path: content/deutsch/about.md
-  label: About
   match: "**/*"
 - type: document
   path: content/deutsch/contact.md
