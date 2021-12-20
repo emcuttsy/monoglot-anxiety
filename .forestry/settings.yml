@@ -6,25 +6,25 @@ webhook_url:
 sections:
 - type: heading
   label: English
-- type: document
-  path: content/english/contact.md
-  label: Contact
-  match: "**/*"
-- type: document
-  path: content/english/about.md
-  label: About
-  match: "**/*"
-  read_only: false
 - type: directory
   path: content/english/post
   label: Posts
   create: all
+- type: document
+  path: content/english/about.md
+  label: About
+  match: "**/*"
+- type: document
+  path: content/english/contact.md
+  label: Posts
+  match: "**/*"
 - type: heading
   label: German
 - type: directory
   path: content/deutsch/post
   label: Posts
   create: none
+  match: "**/*"
 - type: document
   path: content/deutsch/about.md
   label: About
