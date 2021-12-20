@@ -146,8 +146,6 @@ Of course, I still messed this up on my exam. But the test proctors didn't seem 
 
 Surprised? I was too. But I looked at the grading rubrics for the exam and realized that a 60% was enough to pass each module. Keeping that in mind helped me keep calm — and keep paralyzing perfectionism at bay.
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/certifiate.jpg)
-
 For the speaking and writing modules, the best possible score you can achieve still allows for occasional mistakes that don't interfere with understanding. For the 30-question multiple-choice reading and listening sections, you can miss _10 questions_ and still pass.
 
 That's a lot of leeway. Don't freak out if you don't know an answer, it's fine. Mistakes are allowed, even for perfect scores. Check out the grading rubric to see for yourself.
@@ -168,4 +166,4 @@ So, prepare a few stock explanations for mistakes you're likely to make. Screw u
 
 If you read my blog or follow me on Twitter, you know what's coming next: you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test. A few years of comprehensible input supplemented with a bit of speaking and writing practice and a week or two of prepping for the exam itself before the test will get you there.
 
-So don't stress. Just head over to Netflix and watch another episode of _Dark_. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/Untitled-2.jpg)So don't stress. Just head over to Netflix and watch another episode of _Dark_. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
