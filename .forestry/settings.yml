@@ -10,10 +10,14 @@ sections:
   path: content/english/post
   label: Posts
   create: all
+- type: directory
+  path: content/english/author
+  label: Authors
+  create: all
+  match: "**/*"
 - type: document
   path: content/english/about.md
   label: About
-  match: "**/*"
 - type: document
   path: content/english/contact.md
   label: Contact
@@ -24,6 +28,11 @@ sections:
   path: content/deutsch/post
   label: Posts
   create: none
+  match: "**/*"
+- type: directory
+  path: content/deutsch/author
+  label: Authors
+  create: all
   match: "**/*"
 - type: document
   path: content/deutsch/about.md
