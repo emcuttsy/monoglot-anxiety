@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/german/about.md
+  path: content/deutsch/about.md
   label: German About
   match: "**/*"
 - type: document
