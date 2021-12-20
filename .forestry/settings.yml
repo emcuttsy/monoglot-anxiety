@@ -4,36 +4,47 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: English
 - type: directory
-  path: content/blog
-  label: Blog
+  path: content/english/post
+  label: Posts
   create: all
   match: "**/*"
 - type: directory
-  path: content/about
+  path: content/english/author
+  label: Authors
+  create: all
+  match: "**/*"
+- type: document
+  path: content/english/about.md
   label: About
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ankidecks
-  label: Ankidecks
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contact
+- type: document
+  path: content/english/contact.md
   label: Contact
-  create: all
+- type: heading
+  label: German
+- type: directory
+  path: content/deutsch/post
+  label: Posts
+  create: none
   match: "**/*"
 - type: directory
-  path: content/cookies
-  label: Cookies
+  path: content/deutsch/author
+  label: Authors
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: document
+  path: content/deutsch/about.md
+  label: About
+- type: document
+  path: content/deutsch/contact.md
+  label: Contact
+- type: heading
+  label: Config
+- type: document
+  path: config/_default/languages.toml
+  label: Language config
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
 front_matter_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
