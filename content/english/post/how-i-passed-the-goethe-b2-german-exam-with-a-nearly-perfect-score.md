@@ -15,7 +15,7 @@ tags:
 type: regular
 sidebar: right
 enableComments: true
-draft: true
+draft: false
 
 ---
 Last week on Monday I officially went from monoglot to... duo-glot? Bilingual sounds wrong. I didn't grow up speaking two languages.
@@ -37,9 +37,9 @@ I overwhelmingly relied on **comprehensible input** to learn German. This sounds
 Comprehensible input is anything that you can understand in your target language. If _n_ is your level, the best comprehensible input is _n+1_.
 
 Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _Dark_ on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
-
-    {{< twitter user="monoglotanxiety" id ="1470412755303682051" >}}
-
+<center>
+{{< tweet 1470412755303682051 >}}
+</center>
 For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
 
 I almost never formally studied grammar rules. I am a bit of a nerd and know a lot of English grammar already, which obviously helps. But you really can learn grammar purely through comprehensible input.
