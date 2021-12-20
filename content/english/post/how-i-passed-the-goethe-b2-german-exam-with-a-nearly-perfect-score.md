@@ -1,24 +1,23 @@
 ---
-
-title: "How I Passed the Goethe B2 German Exam With a Nearly Perfect Score"
-subtitle: "Two years of informal self study can get you to B2 in German"
-date: 2021-12-19T11:19:22-05:00
-# post thumb
+title: How I Passed the Goethe B2 German Exam With a Nearly Perfect Score
+subtitle: Two years of informal self study can get you to B2 in German
+date: 2021-12-19T11:19:22.000-05:00
 images:
-  - "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/duolingo-german-owl.jpg"
-#author
-author: "Elise Cutts"
-# description
-description: "Two years of informal self study can get you to B2 in German"
-# Taxonomies
-categories: ["German"]
-tags: ["German exam", "Language learning tips", "Learn German"]
-type: "regular" # available type (regular or featured)
-draft: true
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/B2.jpg
+author: Elise Cutts
+description: Two years of informal self study can get you to B2 in German
+categories:
+- German
+tags:
+- German exam
+- Language learning tips
+- Learn German
+type: regular
 sidebar: right
 enableComments: true
----
+draft: true
 
+---
 Last week on Monday I officially went from monoglot to... duo-glot? Bilingual sounds wrong. I didn't grow up speaking two languages.
 
 Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I *didn't* prep for the test. I've seen a lot of advice out there for test-takers that I fundamentally disagree with. As always, it seems the consensus is that you need to execute some kind of hard-core pre-test bootcamp cramming plan to do well on the B2 Goethe exam.
