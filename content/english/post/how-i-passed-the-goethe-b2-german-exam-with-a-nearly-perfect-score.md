@@ -142,7 +142,7 @@ To practice, I chatted a bit with my boyfriend and my German tutor using _Sie_ i
 
 Of course, I still messed this up on my exam. But the test proctors didn't seem to mind — I scored 100% in speaking. Which brings me to my next point...
 
-## Perfection isn't needed for a perfect score
+## You don't need to be perfect to pass the B2 exam
 
 Surprised? I was too. But I looked at the grading rubrics for the exam and realized that a 60% was enough to pass each module. Keeping that in mind helped me keep calm — and keep paralyzing perfectionism at bay.
 
@@ -164,7 +164,7 @@ So, prepare a few stock explanations for mistakes you're likely to make. Screw u
 
 ## The takeaway: you don't need to study hard to pass the B2 German exam
 
-If you read my blog or follow me on Twitter, you know what's coming next: you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test. A few years of comprehensible input supplemented with a bit of speaking and writing practice and a week or two of prepping for the exam itself before the test will get you there.
+If you read my blog or follow me on Twitter, you know what's coming next: **you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test.** A few years of comprehensible input supplemented with a bit of speaking and writing practice and a week or two of prepping for the exam itself before the test will get you there.
 
 So don't stress. Just head over to Netflix and watch another episode of _Dark_. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
 
