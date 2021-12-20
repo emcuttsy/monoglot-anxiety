@@ -60,7 +60,7 @@ Take the exam at your real level, not your reach level. If you're testing at the
 
 I leafed through a C1 practice test, and I'm pretty sure that I could have passed C1—with some serious prep. But why force it? I'm not a C1 speaker yet, even if I could fake it for an exam. I'll pass C1 when I'm at C1.
 
-And seriously, even if you do _need_ the B2 certificate for something—like studying at a German university—but aren't a B2 speaker yet, maybe ask yourself if you're really ready for whatever you need that certificate for.
+And if aren't a B2 speaker yet but _need_ the B2 certificate for something—like studying at a German university—maybe ask yourself if you're really ready for whatever you need that certificate for. There's no shame in waiting until you're ready to go for B2.
 
 ## I DIDN'T cram
 
