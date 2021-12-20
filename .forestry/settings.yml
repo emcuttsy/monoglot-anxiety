@@ -5,35 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/blog
-  label: Blog
+  path: content/english/post
+  label: English Posts
   create: all
   match: "**/*"
-- type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/ankidecks
-  label: Ankidecks
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contact
-  label: Contact
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/cookies
-  label: Cookies
-  create: all
-  match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
 front_matter_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
