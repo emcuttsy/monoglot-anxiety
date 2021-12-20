@@ -14,7 +14,7 @@ sections:
   match: "**/*"
   read_only: false
 - type: directory
-  path: content/german/post
+  path: content/deutsch/post
   label: German Posts
   create: all
   match: "**/*"
