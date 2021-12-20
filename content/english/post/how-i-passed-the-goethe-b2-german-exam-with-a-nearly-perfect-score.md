@@ -1,6 +1,6 @@
 ---
 title: How I Passed the Goethe B2 German Exam With a Nearly Perfect Score
-subtitle: 2 years of comprehensible beats cramming
+subtitle: If you're cramming, you're doing it wrong
 date: 2021-12-19T11:19:22.000-05:00
 images:
 - https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/B2.jpg
