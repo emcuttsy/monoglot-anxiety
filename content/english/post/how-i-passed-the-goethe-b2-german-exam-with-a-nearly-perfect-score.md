@@ -48,6 +48,8 @@ Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _D
 
 For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
 
+s
+
 ### Find penpals and speaking partners once you can communicate a bit
 
 About a year in, when I hit something around a B1 level, I started trying to communicate with people. In practice, this meant chatting with an iTalki tutor about once every two weeks and writing to penpals. More recently, I found speaking partners to chat with occasionally via text and Skype.
