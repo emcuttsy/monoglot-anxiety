@@ -35,3 +35,5 @@ fields:
 - type: boolean
   name: enableComments
   label: enableComments
+pages:
+- content/english/post/book-review-the-language-secret.md
