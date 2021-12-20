@@ -19,7 +19,7 @@ So, what changed?
 
 Well, I learned German.
 
-Yeah, really. I learned German. And things started getting better from there. The progress wasn't quick, but it was real.
+Yeah, really. I learned German. There's still a lot I need to work on, but really did start getting better from there. The progress wasn't quick, but it was real.
 
 Learning a new language is the ultimate antidote to perfectionism. It forces you to screw up. It forces you to be awkward. It forces you to take the linguistic low ground and accept a temporary disadvantage when talking to native speakers. And here's the kicker: even if you study hard for the rest of your life, you'll still never be a native speaker. So why even bother learning a new language?
 
