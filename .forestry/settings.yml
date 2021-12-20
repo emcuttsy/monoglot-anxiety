@@ -47,9 +47,9 @@ sections:
   label: Language config
 upload_dir: ''
 public_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
-front_matter_path: https://monoglotanxiety.s3.us-east-2.amazonaws.com
-use_front_matter_path: true
-file_template: ":year:/:month:/:day:/:filename:"
+front_matter_path: ''
+use_front_matter_path: 
+file_template: ":year:/:month:/:filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
