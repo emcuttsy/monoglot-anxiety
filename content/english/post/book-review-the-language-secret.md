@@ -15,14 +15,29 @@ type = "featured"
 +++
 Noteeeeer
 
-{{<notice note "_The Language Secret_ by John Stedman">}}
+{{<notice note "The Language Secret by John Stedman">}}
 
-**Rating**: ★★★★☆ (lower for newbies)
+**Rating**: ★★★★☆ 
 
-**Price**: #
+**Price**: $9.99 (Kindle), $19.99 (Paperback), $29.99 (Hardcover)
 
 The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), this is the book for you. Experienced language learners and language lovers will find lots of "ah hah!" moments in Stedman's book, especially in the chapters about language families. However, with its main takeaways buried in rambling pop culture and history references and largely lacking clear, actionable instructions, _The Language Secret_ misses the mark with its purported target audience—anglophone monoglots learning their first foreign language. 
 
 **The good:**
+
+* Thoroughly anti-perfectionist
+* Lots of lightbulb moments for experienced learners
+* Sections on the Romance and Germanic languages useful for anglophones who want to learn multiple languages at once
+* Not afraid to admit that it was written with English-speakers in mind
+
+**The bad:**
+
+* Often lacks of clear, actionable instructions
+* Takeaways sometimes buried under references and quips
+* Recommended vocabulary learning technique requires a partner
+
+**The ugly:**
+
+* Rambling introductions drove me insane. But that's just me.
 
 {{</notice>}}
