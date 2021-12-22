@@ -17,8 +17,10 @@ Noteeeeer
 
 {{<notice note "High school essay transitions: the only phrases worth memorizing">}}
 
-Rating: ★★★★☆ (lower for newbies)
+**Rating**: ★★★★☆ (lower for newbies)
 
-Price: #
+**Price**: #
+
+**TLDR:** The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), this is the book for you. Experienced language learners and language lovers will find lots of "ah hah!" moments in Stedman's book, especially in the chapters about language families. However, with its main takeaways buried in rambling pop culture and history references and largely lacking clear, actionable instructions, _The Language Secret_ misses the mark with its purported target audience—anglophone monoglots learning their first foreign language. 
 
 {{</notice>}}
