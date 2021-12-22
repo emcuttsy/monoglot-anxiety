@@ -54,8 +54,9 @@ However, _The Language Secret_ misses the mark with its purported target audienc
 
 _The Language Secret_ is divided into 10 chapters, each with an (in my opinion) far-too-long name that buries the point. Here are my translations 
 
-**1. The 4 Language Skills: Speaking, Listening, Reading, and Writing   
-**("The Birmingham Screwdriver: In Which We Find Out How To Get Started and Use The Right Tools for the Job: What Is Involved in Learning a Language and How Long It Takes")
+1. **The 4 Core Language Skills: Speaking, Listening, Reading, and Writing   
+   **(_The Birmingham Screwdriver: In Which We Find Out How To Get Started and Use The Right Tools for the Job: What Is Involved in Learning a Language and How Long It Takes_)
+   1. Hi
 
 ## Use language families to learn multiple languages at once
 
