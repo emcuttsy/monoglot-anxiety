@@ -15,8 +15,10 @@ type = "featured"
 +++
 Noteeeee
 
-{{<notice tip "High school essay transitions: the only phrases worth memorizing">}}
+{{<notice tip "The Language Secret by John Stedman">}}
 
-Rating: ★★★☆☆
+Rating: ★★★★☆ (lower for newbies)
+
+Price: #
 
 {{</notice>}}
