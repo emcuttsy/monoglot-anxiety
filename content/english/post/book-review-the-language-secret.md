@@ -13,12 +13,12 @@ title = "Book Review: The Language Secret"
 type = "featured"
 
 +++
-Noteeeee
+Noteeeeer
 
-{{ <notice tip "The Language Secret by John Stedman"> }}
+{{<notice tip "High school essay transitions: the only phrases worth memorizing">}}
 
 Rating: ★★★★☆ (lower for newbies)
 
 Price: #
 
-{{ </notice> }}
+{{</notice>}}
