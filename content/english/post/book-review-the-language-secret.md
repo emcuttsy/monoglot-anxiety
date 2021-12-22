@@ -50,22 +50,103 @@ However, _The Language Secret_ misses the mark with its purported target audienc
 
 {{</notice>}}
 
+## What is "The Language Secret" anyways?
+
+I will admit, I didn't realize this the first time I read the book. The "Language Secret" itself is presented at the end of the introduction and in the final chapter. But I lost track of it through the book.
+
+## "Ah-hah" moments for experienced learners
+
+## Excessive verbosity buries the useful points
+
 ## Chapter breakdown
 
-_The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Each chapter has a title, a subtitle, and a sub-subtitle. Yes, a sub-subtitle.  Excessive verbosity is my main critique of The Language Secret, and these title names should give you a sense of what I mean by that. 
+_The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Below are quick breakdowns of each of the 10 chapters. 
 
-Below are the 10 chapters, fist my "translation" of the chapter name  
+A note: I've introduced each chapter under my own "translated" titles. The real chapter titles always consist of title, a subtitle, and a sub-subtitle. Yes, a _sub_-subtitle. Excessive verbosity is one of my biggest problems with _The Language Secret._ 
 
-1. The Birmingham Screwdriver: In Which We Find Out How To Get Started and Use The Right Tools for the Job: What Is Involved in Learning a Language and How Long It Takes
+### Chapter 1: The 4 Core Language Skills — Speaking, Listening, Reading, and Writing
 
-**_Read: The 4 Core Language Skills: Speaking, Listening, Reading, and Writing._**
+**Original Title:** "The Birmingham Screwdriver: In Which We Find Out How to Get Started and Use the Right Tools for the Job: What is Involved in Learning a Language and How Long It Takes"
 
-2. Caught in the Web of Words: In Which We Learn from a Scot Who Loved English: Active and Passive Vocabulary
+* Introduces the 4 core language skills — speaking, listening, reading, and writing
+* Argues that each skill needs to be learned using a different method (contrast with the [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis), which holds that all skills are learned by receiving comprehensible input alone)
+* Critiques perfectionism
+* Estimates that it would take \~45 hours over 6 months to learn to speak (but not write, read, or understand) a new language
 
-**Read: How to Learn Vocabulary**
+### Chapter 2: How to Learn Vocabulary
 
-**Chapter 3:** 
+**Original Title:** "Caught in the Web of Words: In Which We Learn from a Scot Who Loved English: Active and Passive Vocabulary"
 
-## Use language families to learn multiple languages at once
+* Guidance on learning enough vocabulary to speak
+* Techniques: mind maps, learning word formation patterns, using frequency lists, a partner flashcard technique
+* Introduces the basic grammatical categories of words
+* Highlights words in English that often don't work the same in other language
 
-## Why don't I recommend this book for 1st-time learners?
+### Chapter 3: Why we Need to Learn Grammar
+
+**Original Title:** "NABULIONE: In Which We Survey the Field of Battle as We Prepare to Vanquish a Foe: Morphology and Syntax. Do We Really Need to Learn Grammar?"
+
+* Adults cannot acquire languages purely through input like children can (again, contrast with the [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis))
+* Introduces basic grammatical terms
+* Highlights grammatical concepts to learn first for bare-bones communication 
+
+### Chapter 4: Accelerated Language Learning
+
+**Original Title:** "Paranoid Android: In Which a Bored Supercomputer Helps Us to Examine Your Brain: Muscle Memory and Accelerated Language Learning"
+
+* Mnemonics: gender-color association mostly
+* You do not need to be gifted to be multilingual
+* Spaced repetition (... but no mention of Anki & co.)
+* A weird (and nonscientific) suggestion for physical memory aides based on right-brain-left-brain division
+* Don't study when you're not focused, less time more frequently is better
+
+### Chapter 5: Introduction to Language Families
+
+**Original Title:** "The Tower of Babel: In Which We Examine an Ancient and Hitherto Unsolved Puzzle: The Concept of Language Families and its Practical Consequences for Language Learning"
+
+* What are language families?
+* Germanic and Romance languages are easiest for anglophones to learn
+* Dialects, language colonialism, and racism
+
+### Chapter 6: The Germanic Languages
+
+**Original Title:** "'Rapunzel, Rapunzel, Let Down Your Hair': In Which We Meet the Brothers Grimm. Or One of Them, at Least: An Introduction to the Germanic Languages"
+
+* Origins of the Germanic languages
+* Grimm's Law and comparing vocabulary between languages
+* Germanic pronunciation and grammar
+* Word-color mnemonic for noun gender
+
+### Chapter 7: The Romance Languages
+
+**Original Title:** "1066 and All That: In Which an Arrow in an Eye Changed Our Language Forever: An Introduction to the Romance Languages"
+
+* Norman French influence on English
+* English is a Germanic language with extensive Romance vocabulary
+* How to "cheat" on Romance grammar for rapid basic communication
+* Shortcuts for learning Romance vocabulary
+
+### Chapter 8: How to Improve your Accent
+
+**Original Title:** "Through the Looking Glass: In Which Humpty Dumpty Meets Inspector Clouseau and an English Chanteuse: How to Aquire an Authentic Accent"
+
+* Alphabets, scripts, and syllabaries
+* Use the IPA to learn pronunciation
+* Music and imitation of stereotypical accents for pronunciation
+
+### Chapter 9: Translation, Idiom, Register, and Metaphor
+
+**Original Title:** "Safari: In Which We Journey Through the Bantu Tongues to Help Us See the Beauty, Variety and Complexity of Language: Translation, Idiom, Register, and Metaphor"
+
+* Language reflects culture
+* How to use Google translate well
+* Tones and speech patterns, idiom, and metaphor
+* Speaking in the appropriate register (e.g., formal, informal) in a new language
+
+### Chapter 10: Summary — How to Learn A Language
+
+* Why language teaching in the Anglophone world fails
+* How to learn and teach languages
+* The Language Secret: To speak a foreign language well, you first need to speak it badly
+
+## Conclusion
