@@ -29,14 +29,13 @@ However, _The Language Secret_ misses the mark with its purported target audienc
 
 **Price**: $9.99 (Kindle), $19.99 (Paperback), $29.99 (Hardcover)
 
-**TLDR:** Great for #langtwt types trying to learn 200 languages, but I wouldn't give it to my monolingual mom who just wants to learn Italian
+**TLDR:** Fantastic for #langtwt types trying to learn 200 languages, but I wouldn't give it to my monolingual mom who just wants to learn Italian
 
 **The good:**
 
 * Thoroughly anti-perfectionist
 * Lots of lightbulb moments for experienced learners
 * Sections on the Romance and Germanic languages useful for anglophones who want to learn multiple languages at once
-* Not afraid to admit that it was written with English-speakers in mind
 
 **The bad:**
 
@@ -52,9 +51,41 @@ However, _The Language Secret_ misses the mark with its purported target audienc
 
 ## What is "The Language Secret" anyways?
 
-I will admit, I didn't realize this the first time I read the book. The "Language Secret" itself is presented at the end of the introduction and in the final chapter. But I lost track of it through the book.
+The eponymous "Language Secret" of _The Language Secret_ is this: to speak a language well, you first have to speak it badly.
+
+I think this is a good secret — an anti-perfectionism mantra I'm going to keep in my subconscious back-pocket for all future perfectionist meltdowns. If you're the kind of person who keeps perfectly calligraphed bullet journals and actually uses Toggl, I suspect this secret will be especially useful for you. If fear of making mistakes holds you back from trying to use your target language, this book will be worth it for you even if you take nothing else from it. 
+
+> The eponymous "language secret" of _The Language Secret_ is this: to speak a language well, you first have to speak it badly.
+
+The fact is, _most adult learners will never achieve native-like fluency_ ([Lightbown 2000](https://doi.org/10.1093/applin/21.4.431)). If you need to be able to achieve perfect mastery over something to find it fulfilling, language learning is not for you. Find a hobby you can master. Something simpler, like solving Rubik's cubes.
+
+And if it's unusual — read: vanishingly rare — for adult language learners to achieve native-like fluency in a new language, there is _no_ chance that you will speak well when you start out. Stedman's "language secret" is some of the best language learning advice you could ask for.
+
+### But... should you really _speak_ badly?
+
+With its call to "speak badly" and specific advice aimed at starting to speak as quickly as possible — including calls to knowingly ignore grammar and rely on easier-to-learn, but incorrect work-arounds — _The Language Secret_ falls firmly into the speak-from-day-one camp.
+
+I'm not convinced that very early speaking is helpful—or even that it isn't _harmful_. 
+
+I didn't start speaking German _badly_ — at least not in the way Stedman suggests, in a sort of "me, Tarzan" way.  After about a year of soaking in comprehensible input, I started _speaking_ at about a B1 level. I never had the chance to develop bad habits at A1 that could follow me to B1.
+
+Still, the existence of a true "silent period" in 2nd language acquisition by _children_ isn't even settled in the research yet, let alone in language-learning adults ([Roberts 2014](https://doi.org/10.1016/j.ecresq.2013.09.001)). And at the end of the day, Stedman is the polyglot, not I. Go forth and speak badly if that's what you want to do. 
 
 ## "Ah-hah" moments for experienced learners
+
+Beyond its refreshing anti-perfectionism, Stedman's book really shines as a soft intro to many of the more technical ideas underpinning language learning. For experienced learners who haven't already encountered these ideas, _The Language Secret_ will set off lightbulbs left and right.
+
+This is especially true if you're studying or have ever studied a Germanic or Romance language. The two chapters on these language families pull back the curtain on some interesting patterns that provide a "why" for many of the major patterns and quirks of these popular languages.
+
+But even if you're studying Russian or Thai, the sections on grammar, idiom, register, and language families in general will all offer helpful insights. Anglophones, in particular, will benefit from the chapter on grammar which points out many of the patterns in English that tend to break down in other languages. 
+
+### If you like learning a little bit of lots of languages, this book is for you
+
+I see a lot of people interested in many, many languages in the language learning corners of the internet. Look at people's Twitter bios and you'll see 15 different flags indicating their target languages. 
+
+And maybe that's you: Would you like to know a bit of German — and some Dutch, Danish, Swedish, Norwegian, and Icelandic? Maybe you're learning Spanish — and you'd also like get the basics of Portuguese, Italian, and French.
+
+If any of that sounds like you, _The Language Secret_ can probably help you achieve that rough understanding of many languages that you're aiming for. The chapters on language families are intended to show how you can acquire basic vocabulary and grammar in many sister languages at once. 
 
 ## Excessive verbosity buries the useful points
 
