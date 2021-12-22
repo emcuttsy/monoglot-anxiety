@@ -63,7 +63,7 @@ And if it's unusual — read: vanishingly rare — for adult language learners t
 
 ### But... should you really _speak_ badly?
 
-With its call to "speak badly" and specific advice aimed at starting to speak as quickly as possible — including calls to knowingly ignore grammar and rely on easier-to-learn, but incorrect work-arounds — _The Language Secret_ falls firmly into the speak-from-day-one camp.
+With its call to "speak badly" and specific advice aimed at starting to speak as quickly as possible — including knowingly ignoring grammar and relying on easier-to-learn, but incorrect work-arounds — _The Language Secret_ falls firmly into the speak-from-day-one camp.
 
 I'm not convinced that very early speaking is helpful—or even that it isn't _harmful_. 
 
@@ -87,21 +87,33 @@ And maybe that's you: Would you like to know a bit of German — and some Dutch,
 
 If any of that sounds like you, _The Language Secret_ can probably help you achieve that rough understanding of many languages that you're aiming for. The chapters on language families are intended to show how you can acquire basic vocabulary and grammar in many sister languages at once. 
 
-## Excessive verbosity buries the useful points
+## Not the best book for first-time learners
+
+### Excessive verbosity buries the important points under quips and references
+
+Unfortunately, _The Language Secret_ buries most of its helpful points under a heap of unnecessary verbiage and indulgent references to pop-culture and history. And instead of providing clear instructions or highlighting the main points succinctly, it waxes sarcastic to indulge in line upon line of what I can only describe as very British humor. 
+
+This, in my view, makes the book almost unusable for beginners. If you already have an idea of how to learn a language, the quips and random references might just be fun icing on information you can take and incorporate into your existing learning practices. But for total newbies, the book does not offer clear enough directions. 
+
+Each chapter begins with few (ebook) pages devoted to a story that is in most cases only tangentially related to the topics at hand. References to that story will then show up over, and over, and over again throughout the chapter — alongside new references to other things that you may or may not have ever heard of before or care about. 
+
+Perhaps it's my journalism experience ("Don't bury the lede!"), but I found the references and extremely quippy tone excessive. Especially since they get
+
+### Suggestions can be a tad out of touch
 
 ## Chapter breakdown
 
 _The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Below are quick breakdowns of each of the 10 chapters. 
 
-A note: I've introduced each chapter under my own "translated" titles. The real chapter titles always consist of title, a subtitle, and a sub-subtitle. Yes, a _sub_-subtitle. Excessive verbosity is one of my biggest problems with _The Language Secret._ 
+A note: I've introduced each chapter under my own "translated" titles. The real chapter titles always consist of title, a subtitle, and a sub-subtitle. Yes, a _sub_-subtitle. As mentioned above, over-writing like this is one of the biggest problems with _The Language Secret._ 
 
 ### Chapter 1: The 4 Core Language Skills — Speaking, Listening, Reading, and Writing
 
 **Original Title:** "The Birmingham Screwdriver: In Which We Find Out How to Get Started and Use the Right Tools for the Job: What is Involved in Learning a Language and How Long It Takes"
 
-* Introduces the 4 core language skills — speaking, listening, reading, and writing
-* Argues that each skill needs to be learned using a different method (contrast with the [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis), which holds that all skills are learned by receiving comprehensible input alone)
-* Critiques perfectionism
+* The 4 core language skills: speaking, listening, reading, and writing
+* Each skill needs to be learned using a different method (contrast with the [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis), which holds that all skills are learned by receiving comprehensible input alone)
+* The "language secret" — _don't be a perfectionist!_ 
 * Estimates that it would take \~45 hours over 6 months to learn to speak (but not write, read, or understand) a new language
 
 ### Chapter 2: How to Learn Vocabulary
