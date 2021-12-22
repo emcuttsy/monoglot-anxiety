@@ -15,10 +15,10 @@ type = "featured"
 +++
 Noteeeee
 
-{{<notice tip "The Language Secret by John Stedman">}}
+{{ <notice tip "The Language Secret by John Stedman"> }}
 
 Rating: ★★★★☆ (lower for newbies)
 
 Price: #
 
-{{</notice>}}
+{{ </notice> }}
