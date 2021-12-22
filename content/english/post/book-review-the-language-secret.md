@@ -65,9 +65,9 @@ And if it's unusual — read: vanishingly rare — for adult language learners t
 
 With its call to "speak badly" and specific advice aimed at starting to speak as quickly as possible — including knowingly ignoring grammar and relying on easier-to-learn, but incorrect work-arounds — _The Language Secret_ falls firmly into the speak-from-day-one camp.
 
-I'm not convinced that very early speaking is helpful—or even that it isn't _harmful_. 
+But I'm not convinced that very early speaking is helpful—or even that it isn't _harmful_. 
 
-I didn't start speaking German _badly_ — at least not in the way Stedman suggests, in a sort of "me, Tarzan" way.  After about a year of soaking in comprehensible input, I started _speaking_ at about a B1 level. I never had the chance to develop bad habits at A1 that could follow me to B1.
+I didn't start speaking German _badly_, at least not in the way Stedman suggests, in a sort of "me, Tarzan" way.  After about a year of soaking in comprehensible input, I started speaking at about a B1 level. I never had the chance to develop bad habits at A1 that could follow me to B1.
 
 Still, the existence of a true "silent period" in 2nd language acquisition by _children_ isn't even settled in the research yet, let alone in language-learning adults ([Roberts 2014](https://doi.org/10.1016/j.ecresq.2013.09.001)). And at the end of the day, Stedman is the polyglot, not I. Go forth and speak badly if that's what you want to do. 
 
@@ -89,17 +89,33 @@ If any of that sounds like you, _The Language Secret_ can probably help you achi
 
 ## Not the best book for first-time learners
 
+While I think experienced (and perhaps very motivated) learners can get a lot out of _The Language Secret_, I would _not_ recommend this book to beginners.
+
+The alternate title of the book is "How to speak 10 languages badly." If that's what you want, read the book. If you're a monoglot just trying to learn Spanish, I suspect you might leave Stedman's tome a bit more confused than you came into it. 
+
 ### Excessive verbosity buries the important points under quips and references
 
 Unfortunately, _The Language Secret_ buries most of its helpful points under a heap of unnecessary verbiage and indulgent references to pop-culture and history. And instead of providing clear instructions or highlighting the main points succinctly, it waxes sarcastic to indulge in line upon line of what I can only describe as very British humor. 
 
-This, in my view, makes the book almost unusable for beginners. If you already have an idea of how to learn a language, the quips and random references might just be fun icing on information you can take and incorporate into your existing learning practices. But for total newbies, the book does not offer clear enough directions. 
+This, in my view, makes the book almost unusable for beginners. 
+
+If you already have an idea of how to learn a language, the quips and random references might just be fun icing on information you can take and incorporate into your existing learning practices. But for total newbies, the book does not offer clear enough directions. Information is provided, but the "so what" is often missing. 
 
 Each chapter begins with few (ebook) pages devoted to a story that is in most cases only tangentially related to the topics at hand. References to that story will then show up over, and over, and over again throughout the chapter — alongside new references to other things that you may or may not have ever heard of before or care about. 
 
-Perhaps it's my journalism experience ("Don't bury the lede!"), but I found the references and extremely quippy tone excessive. Especially since they get
+Perhaps it's my journalism experience ("Don't bury the lede!"), but I found the references and extremely quippy tone excessive. And irritating. Especially because reference-laden quips take the place of bullet-points with the main takeaways at the end of each chapter.
 
-### Suggestions can be a tad out of touch
+### Suggested learning methods can be a tad out of touch
+
+My final bone to pick with _The Language Secret_ is that the few specific methods it does suggest are often a bit out of touch.
+
+The book doesn't seem to recognize that digital tools other than Google Translate and Duolingo exist. The section on spaced repetition doesn't even mention Anki, Memrise, or any of the other popular spaced repetition programs. 
+
+Instead of introducing Anki, _The Language Secret_ suggests that you make paper flashcards and have a friend (in practice, I assume, romantic partner) drill you on them. The method outlined wouldn't be possible to do on your own. You _need_ that friend to pronounce things for you. 
+
+For pronunciation, the book doesn't suggest shadowing or comprehensible input or even much listening — it suggests using the IPA. That's fine, but I can't remember the book specifying _how_ exactly one should use the IPA to learn pronunciation. 
+
+As a final point, one strategy suggested was learning vocabulary while squeezing a ball or doing some other task with your non-dominant hand. This was motivated by some left-brain-right-brain stuff and ultimately didn't make logical sense — not just because that whole left-brain-right-brain thing is kinda hokey, but also because it was predicated on the left side of the body being tied to the left side of the brain, which is is wrong. The right side of the body is controlled by the left side of the brain. 
 
 ## Chapter breakdown
 
