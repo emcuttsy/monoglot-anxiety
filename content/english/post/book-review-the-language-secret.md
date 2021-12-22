@@ -25,8 +25,6 @@ Noteeeeer
 
 **TLDR:** Great for #langtwt types trying to learn 200 languages, but I wouldn't give it to my monolingual mom who just wants to learn Italian
 
-The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), this is the book for you. Experienced language learners and language lovers will find lots of "ah hah!" moments in Stedman's book, especially in the chapters about language families. However, _The Language Secret_ misses the mark with its purported target audience—anglophone monoglots learning their first foreign language. 
-
 **The good:**
 
 * Thoroughly anti-perfectionist
@@ -45,3 +43,7 @@ The subtitle of the book is "How to speak 10 languages badly"and if that's your 
 * Rambling introductions drove me insane. But that's just me.
 
 {{</notice>}}
+
+## _The Language Secret_ by John Stedman
+
+The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), this is the book for you. Experienced language learners and language lovers will find lots of "ah hah!" moments in Stedman's book, especially in the chapters about language families. However, _The Language Secret_ misses the mark with its purported target audience—anglophone monoglots learning their first foreign language. 
