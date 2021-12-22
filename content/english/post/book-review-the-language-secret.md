@@ -15,15 +15,17 @@ type = "featured"
 +++
 Quippy intro
 
-**_Note: I was given a free ebook copy of_ The Language Secret _by its author for review._** 
+**_Note: I was given a free ebook copy of_ The Language Secret _by its author for review._**
 
 ## _The Language Secret_ by John Stedman
 
-The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), this is the book for you. Experienced language learners and language lovers will find lots of "ah hah!" moments in Stedman's book, especially in the chapters about language families. However, _The Language Secret_ misses the mark with its purported target audience—anglophone monoglots learning their first foreign language. 
+The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), this is the book for you. Experienced language learners and language lovers will find lots of "ah hah!" moments in Stedman's book, especially in the chapters about language families. 
+
+However, _The Language Secret_ misses the mark with its purported target audience—anglophone monoglots learning their first foreign language. The main takeaways are often buried under jokes and pop-culture references and actionable "do this, not that, then do this" instructions are few and far between.
 
 {{<notice note "The Language Secret by John Stedman">}}
 
-**Rating**: ★★★★☆ 
+**Rating**: ★★★★☆
 
 **Price**: $9.99 (Kindle), $19.99 (Paperback), $29.99 (Hardcover)
 
