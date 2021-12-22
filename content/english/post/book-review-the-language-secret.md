@@ -15,7 +15,7 @@ type = "featured"
 +++
 Noteeeeer
 
-{{<notice tip "High school essay transitions: the only phrases worth memorizing">}}
+{{<notice note "High school essay transitions: the only phrases worth memorizing">}}
 
 Rating: ★★★★☆ (lower for newbies)
 
