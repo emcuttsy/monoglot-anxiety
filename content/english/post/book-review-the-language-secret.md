@@ -13,6 +13,7 @@ title = "Book Review: The Language Secret"
 type = "featured"
 
 +++
+Noteeeee
 
 {{<notice note "The Language Secret by John Stedman>}}
 
