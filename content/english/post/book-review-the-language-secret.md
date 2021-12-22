@@ -52,11 +52,19 @@ However, _The Language Secret_ misses the mark with its purported target audienc
 
 ## Chapter breakdown
 
-_The Language Secret_ is divided into 10 chapters, each with an (in my opinion) far-too-long name that buries the point. Here are my translations 
+_The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Each chapter has a title, a subtitle, and a sub-subtitle. Yes, a sub-subtitle.  Excessive verbosity is my main critique of The Language Secret, and these title names should give you a sense of what I mean by that. 
 
-1. **The 4 Core Language Skills: Speaking, Listening, Reading, and Writing   
-   **(_The Birmingham Screwdriver: In Which We Find Out How To Get Started and Use The Right Tools for the Job: What Is Involved in Learning a Language and How Long It Takes_)
-   1. Hi
+Below are the 10 chapters, fist my "translation" of the chapter name  
+
+1. The Birmingham Screwdriver: In Which We Find Out How To Get Started and Use The Right Tools for the Job: What Is Involved in Learning a Language and How Long It Takes
+
+**_Read: The 4 Core Language Skills: Speaking, Listening, Reading, and Writing._**
+
+2. Caught in the Web of Words: In Which We Learn from a Scot Who Loved English: Active and Passive Vocabulary
+
+**Read: How to Learn Vocabulary**
+
+**Chapter 3:** 
 
 ## Use language families to learn multiple languages at once
 
