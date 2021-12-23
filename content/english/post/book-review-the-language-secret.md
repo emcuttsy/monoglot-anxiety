@@ -95,7 +95,7 @@ The alternate title of the book is "How to speak 10 languages badly." If that's 
 
 ### The important points get buried under excessive quips and references
 
-Unfortunately, _The Language Secret_ buries most of its helpful points under a heap of unnecessary verbiage and indulgent references to pop-culture and history. And instead of providing clear instructions or highlighting the main points succinctly, it waxes sarcastic to indulge in line upon line of what I can only describe as very British humor. To get a sense of what I'm talking about, look at the chapter titles in the[ ](/#chapter-breakdown)[next]()[ section](#chapter-breakdown). 
+Unfortunately, _The Language Secret_ buries most of its helpful points under a heap of unnecessary verbiage and indulgent references to pop-culture and history. And instead of providing clear instructions or highlighting the main points succinctly, it waxes sarcastic to indulge in line upon line of what I can only describe as very British humor. To get a sense of what I'm talking about, look at the chapter titles in the[ ](/#chapter-breakdown)[next]()[ section](www.monoglotanxiety.com/post/book-review-the-language-secret#chapter-breakdown). 
 
 This, in my view, makes the book almost unusable for beginners. 
 
