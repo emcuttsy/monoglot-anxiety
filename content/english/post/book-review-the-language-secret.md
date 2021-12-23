@@ -13,9 +13,7 @@ title = "Book Review: The Language Secret by John Stedman"
 type = "featured"
 
 +++
-If you're a language nerd like me, you probably waste hours reading books _about_ languages that you could have spent actually _learning_ one.  
-
-And now you're reading a review _about_ a book _about_ language learning instead of actually learning a language. So it goes.
+If you're a language nerd like me, you probably waste hours reading books _about_ languages that you could have spent actually _learning_ one.  And now you're reading a review _about_ a book _about_ language learning instead of actually learning a language. So it goes.
 
 Anyhow, this is my first book review for the blog. Let me know what you like — and especially what you _don't_ like — so the next one can be better.
 
