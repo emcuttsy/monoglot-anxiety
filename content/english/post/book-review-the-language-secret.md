@@ -9,11 +9,15 @@ images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/languagese
 sidebar = "right"
 subtitle = "The Language Secret isn't my first choice for newbies but it offers plenty of \"ah hah!\" moments for experienced learners"
 tags = ["Language learning books", "Language resources", "Book Reviews"]
-title = "Book Review: The Language Secret"
+title = "Book Review: The Language Secret by John Stedman"
 type = "featured"
 
 +++
-Quippy intro
+If you're a language nerd like me, you probably waste hours reading books _about_ languages that you could have spent actually _learning_ one.  
+
+And now you're reading a review _about_ a book _about_ language learning instead of actually learning a language. So it goes.
+
+Anyhow, this is my first book review for the blog. Let me know what you like — and especially what you _don't_ like — so the next one can be better.
 
 **_Note: I was given a free ebook copy of_ The Language Secret _by its author for review._**
 
@@ -209,3 +213,7 @@ A note: I've introduced each chapter under my own "translated" titles. The real 
 * The Language Secret: To speak a foreign language well, you first need to speak it badly
 
 ## Conclusion
+
+For all of my frustration with this book's tone and my recommendation that first-time learners skip it, _The Language Secret_ is still a solid language learning guide for experienced learners. Instead of focusing on the practical specifics of language learning, it zooms out to offer an overview of many of the important concepts underpinning language and language learning, especially language families. Pick it up if you want to learn multiple languages and can handle a bit of rambling. 
+
+And remember the "language secret" — to speak a language well, you first have to speak it badly!
