@@ -19,7 +19,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 # search
 search = true
 # main sections
-mainSections = ["post"]
+mainSections = ["blog"]
 # featured post
 featured_post = true
 # layout

@@ -2,52 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://monoglotanxiety.com/blog/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/german/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/german-exam/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/language-learning/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/language-learning-tips/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/learn-german/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/</loc>
+    <lastmod>2021-12-19T11:19:22-05:00</lastmod>
+  </url><url>
     <loc>https://monoglotanxiety.com/tags/anki/</loc>
     <lastmod>2021-04-15T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/post/</loc>
+    <loc>https://monoglotanxiety.com/blog/spaced-repetition-writing/</loc>
     <lastmod>2021-04-15T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/categories/</loc>
-    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/post/spaced-repetition-writing/</loc>
-    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/categories/language-learning/</loc>
-    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/tags/language-learning-tips/</loc>
-    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/</loc>
-    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/tags/</loc>
-    <lastmod>2021-04-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/post/german-science-youtube-channels/</loc>
+    <loc>https://monoglotanxiety.com/blog/german-science-youtube-channels/</loc>
     <lastmod>2021-03-13T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/tags/comprehensible-input/</loc>
     <lastmod>2021-03-13T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/categories/german/</loc>
-    <lastmod>2021-03-13T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/tags/learn-german/</loc>
-    <lastmod>2021-03-13T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://monoglotanxiety.com/tags/recommendations/</loc>
     <lastmod>2021-03-13T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/post/german-anki-template/</loc>
+    <loc>https://monoglotanxiety.com/blog/german-anki-template/</loc>
     <lastmod>2021-02-28T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/post/11-ways-to-practice-writing-in-a-foreign-language/</loc>
+    <loc>https://monoglotanxiety.com/blog/11-ways-to-practice-writing-in-a-foreign-language/</loc>
     <lastmod>2021-01-30T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/post/pimsleur-danish-review/</loc>
+    <loc>https://monoglotanxiety.com/blog/pimsleur-danish-review/</loc>
     <lastmod>2021-01-25T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/categories/danish/</loc>
@@ -62,7 +68,7 @@
     <loc>https://monoglotanxiety.com/categories/reviews/</loc>
     <lastmod>2021-01-25T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/post/is-duolingo-bad/</loc>
+    <loc>https://monoglotanxiety.com/blog/is-duolingo-bad/</loc>
     <lastmod>2020-12-08T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/tags/language-apps/</loc>
