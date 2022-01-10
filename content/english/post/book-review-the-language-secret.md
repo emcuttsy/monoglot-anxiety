@@ -63,7 +63,7 @@ Learning to be okay with being bad at stuff is a skill, and an important one for
 
 Should that hold you back? Absolutely not. And that's why I think **Stedman's anti-perfectionist "language secret" is some of the best language learning advice you could ask for.**
 
-{{< collapse "But... should you actually \\"speak\\" badly? Some thoughts on the silent period. >}}
+{{< collapse "Should \\"speaking badly\\" really involve speaking? In defense of a silent period">}}
 
 With its call to "speak badly" and specific advice aimed at starting to speak as quickly as possible — including knowingly ignoring proper grammar and using easier-to-learn, but incorrect work-arounds instead — _The Language Secret_ falls firmly into the speak-from-day-one [á la Benny Lewis](https://www.fluentin3months.com/tedx/) camp.
 
@@ -74,6 +74,8 @@ I didn't start speaking German _badly_, at least not in the way Stedman suggests
 Still, the existence of a true "silent period" in 2nd language acquisition by children isn't even settled in the research yet, let alone in language-learning adults ([Roberts 2014](https://doi.org/10.1016/j.ecresq.2013.09.001)). And at the end of the day, Stedman is the polyglot, not I. Go forth and speak badly if that's what you want to do.
 
 {{</ collapse >}}
+
+<br>
 
 And really, if you really need to be able to achieve perfect mastery over something to find it fulfilling, language learning is not for you. Find a hobby you can master, like solving Rubik's cubes.
 
