@@ -25,7 +25,7 @@ sections:
 - type: heading
   label: German
 - type: directory
-  path: content/deutsch/post
+  path: content/deutsch/blog
   label: Posts
   create: none
   match: "**/*"
