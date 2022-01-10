@@ -28,7 +28,7 @@ However, the book misses the mark with its purported target audience—anglophon
 
 **Rating**: ★★★★☆
 
-**Price**: $9.99 (Kindle), $19.99 (Paperback), $29.99 (Hardcover)
+**Price**: $9.99 (Kindle), $19.99 (Paperback), $29.99 (Hardcover) \[[Amazon](https://www.amazon.com/dp/B09HPM8TDN/)\]
 
 **TLDR:** Outstanding for #langtwt types trying to learn 15 languages, but I wouldn't give it to my monolingual mom who just wants to learn Italian
 
@@ -122,7 +122,7 @@ For pronunciation, the book doesn't suggest shadowing or comprehensible input or
 
 ## Chapter breakdown
 
-_The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Below are quick breakdowns of each of the 10 chapters. As you can see, the book covers a lot of ground! 
+_The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Below are quick breakdowns of each of the 10 chapters. As you can see, the book covers a lot of ground!
 
 _A quick note: I've introduced each chapter under my own "translated" titles. The real titles (provided below each "translation") each consist of title, a subtitle, and a sub-subtitle and were a bit too long to look nice on the blog, so I summarized._
 
