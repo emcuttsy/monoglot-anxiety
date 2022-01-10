@@ -3,7 +3,6 @@ author = "Elise Cutts"
 categories = ["Language Learning", "Reviews"]
 date = 2021-12-20T05:00:00Z
 description = "The Language Secret isn't my first choice for newbies but it offers plenty of \"ah hah!\" moments for experienced learners"
-draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/languagesecret.jpg"]
 sidebar = "right"
@@ -81,17 +80,17 @@ And really, if you really need to be able to achieve perfect mastery over someth
 
 ## "Ah-hah" moments for experienced learners
 
-Beyond its refreshing anti-perfectionism, Stedman's book really shines as a soft intro to many of the more technical ideas that underpin language learning. For experienced learners who haven't already encountered these ideas, _The Language Secret_ will set off lightbulbs left and right.
+Beyond its refreshing anti-perfectionism, Stedman's book  shines as a soft introduction to a few important ideas from linguistics that can be illuminating for language learners. If you're an experienced learner who hasn't already encountered these ideas, _The Language Secret_ will set off lightbulbs left and right for you.
 
-This is especially true if you're studying or have ever studied a Germanic or Romance language. The two chapters on these language families pull back the curtain on some interesting patterns that provide a "why" for many of the major patterns and quirks of these popular languages.
+This is especially true if you're studying or have ever studied a Germanic or Romance language. The two chapters on these language families do a good job of providing a "why" for many of the most important patterns and quirks of these popular languages.
 
 But even if you're studying Russian or Thai, the sections on grammar, idiom, register, and language families in general will all offer helpful insights. Anglophones, in particular, will benefit from the chapter on grammar which points out many of the patterns in English that tend to break down in other languages.
 
 ### If you like learning a little bit of lots of languages, this book is for you
 
-I see a lot of people interested in many, many languages in the language learning corners of the internet. Look at people's Twitter bios and you'll see 15 different flags indicating their target languages.
+I see a lot of people interested in many, many languages in the language learning corners of the internet. Look at people's Twitter bios and you'll see 13 different flags indicating their target languages.
 
-If that sounds like you, _The Language Secret_ can probably help you achieve that rough understanding of many languages that you're aiming for. The chapters on language families are intended to show how you can acquire basic vocabulary and grammar in many sister languages at once.
+If that sounds like you, _The Language Secret_ can probably help you gain a rough understanding of many languages that you're aiming for. The chapters on language families are intended to show how you can acquire basic vocabulary and grammar in many sister languages at once.
 
 ## Not the best book for first-time learners
 
@@ -105,21 +104,21 @@ Unfortunately, _The Language Secret_ buries most of its helpful points under a h
 
 This, in my view, makes the book almost unusable for beginners.
 
-If you already have an idea of how to learn a language, the quips and random references might just be fun icing on information you can take and incorporate into your existing learning practices. But for total newbies, the book does not offer clear enough directions. Information is provided, but the "so what" is often missing.
+If you already have an idea of how to learn a language, the quips and random references could be fun icing on information you can take and incorporate into your existing learning practices. But for total newbies, the book does not offer clear enough directions. Loads of information is provided, but the "so what" is often missing.
 
-Each chapter begins with few (ebook) pages devoted to a story that is in most cases only tangentially related to the topics at hand. References to that story will then show up over, and over, and over again throughout the chapter — alongside new references to other things that you may or may not have ever heard of before or care about.
+Each chapter begins with a few (ebook) pages devoted to a story that is in most cases only tangentially related to the topics at hand. References to that story will then show up over, and over, and over again throughout the chapter — alongside new references to other things that you may or may not have ever heard of before or care about.
 
-Perhaps it's my journalism experience ("Don't bury the lede!"), but I found the references and extremely quippy tone excessive. And irritating. Especially because reference-laden quips take the place of bullet-points with the main takeaways at the end of each chapter.
+Perhaps it's my journalism experience ("Don't bury the lede!"), but I found the references and extremely quippy tone excessive. And irritating. It especially bothered me that reference-laden quips took the place of bullet-points with the main takeaways at the end of each chapter.
 
 ### Suggested learning methods can be a tad out of touch
 
 My final bone to pick with _The Language Secret_ is that the few specific methods it does suggest are often a bit out of touch.
 
-The book doesn't seem to recognize that digital tools other than Google Translate and Duolingo exist. The section on spaced repetition doesn't even mention Anki, Memrise, or any of the other popular spaced repetition programs.
+The book doesn't seem to recognize that digital tools other than Google Translate and Duolingo exist. The section on spaced repetition doesn't  mention Anki, Memrise, or any of the other popular spaced repetition programs used widely in the language community.
 
-Instead of introducing Anki, _The Language Secret_ suggests that you make paper flashcards and have a friend (in practice, I assume, romantic partner) drill you on them. The method outlined wouldn't be possible to do on your own. You _need_ that friend to pronounce things for you.
+Instead of introducing Anki, _The Language Secret_ suggests that you make paper flashcards and have a friend (in practice, I assume, romantic partner) drill you on them daily. The method outlined wouldn't be possible to do using the cards on your own.
 
-For pronunciation, the book doesn't suggest shadowing or comprehensible input or even much listening — it suggests using the IPA. That's fine, but I can't remember the book specifying _how_ exactly one should use the IPA to learn pronunciation.
+For pronunciation, the book doesn't suggest shadowing or comprehensible input or even much listening — it suggests using the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). That's fine, but I can't remember the book specifying _how_ exactly one should use the IPA to learn pronunciation.
 
 As a final point, one strategy suggested was learning vocabulary while squeezing a ball or doing some other task with your non-dominant hand. This was motivated by some left-brain-right-brain stuff and ultimately didn't make logical sense — not just because that whole left-brain-right-brain thing is kinda hokey, but also because it was predicated on the left side of the body being tied to the left side of the brain, which is is wrong. The right side of the body is controlled by the left side of the brain.
 
@@ -127,7 +126,7 @@ As a final point, one strategy suggested was learning vocabulary while squeezing
 
 _The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Below are quick breakdowns of each of the 10 chapters.
 
-A note: I've introduced each chapter under my own "translated" titles. The real chapter titles always consist of title, a subtitle, and a sub-subtitle. Yes, a _sub_-subtitle. As mentioned above, over-writing like this is one of the biggest problems with _The Language Secret._
+A note: I've introduced each chapter under my own "translated" titles. The real chapter titles always consist of title, a subtitle, and a sub-subtitle. Yes, a _sub_-subtitle. As mentioned above, over-writing like this is one of the biggest problems I have with _The Language Secret._
 
 ### Chapter 1: The 4 Core Language Skills — Speaking, Listening, Reading, and Writing
 
@@ -214,8 +213,12 @@ A note: I've introduced each chapter under my own "translated" titles. The real 
 * How to learn and teach languages
 * The Language Secret: To speak a foreign language well, you first need to speak it badly
 
-## Conclusion
+## Conclusion: read it!
 
-For all of my frustration with this book's tone and my recommendation that first-time learners skip it, _The Language Secret_ is still a solid language learning guide for experienced learners. Instead of focusing on the practical specifics of language learning, it zooms out to offer an overview of many of the important concepts underpinning language and language learning, especially language families. Pick it up if you want to learn multiple languages and can handle a bit of rambling.
+For all of my frustration with this book's tone and my recommendation that first-time learners skip it, _The Language Secret_ is still a book I plan on recommending to a lot of people. 
 
-And remember the "language secret" — to speak a language well, you first have to speak it badly!
+Unlike many of the polyglot books I've come across, it's honest and doesn't try to convince you that if you just buy or do one thing, you'll suddenly be fluent in a new language. It's up-front about the work it takes to learn a language and honest about the factors beyond your control that can make it easier or harder. And it's a fascinating look at the "everyday multilingualism" that exists in much of the world.
+
+Instead of focusing on the practical specifics of language learning, _The Language Secret_ zooms out to offer an overview of many of the important concepts underpinning language and language learning, especially language families. Pick it up if you want to learn multiple languages and can handle a bit of rambling. Pass if you're a newbie... but consider coming back to it later, when you're ready.
+
+And do remember the "language secret" — to speak a language well, you first have to speak it badly!
