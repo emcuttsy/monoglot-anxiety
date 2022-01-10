@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: English
 - type: directory
-  path: content/english/post
+  path: content/english/blog
   label: Posts
   create: all
   match: "**/*"
