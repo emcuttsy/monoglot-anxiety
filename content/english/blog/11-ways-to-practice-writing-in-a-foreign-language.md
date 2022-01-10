@@ -13,7 +13,7 @@ description: "11 ways to practice writing in your target language"
 # Taxonomies
 categories: ["Language Learning"]
 tags: ["language learning tips"]
-type: "featured" # available type (regular or featured)
+type: "regular" # available type (regular or featured)
 draft: false
 sidebar: right
 enableComments: true
