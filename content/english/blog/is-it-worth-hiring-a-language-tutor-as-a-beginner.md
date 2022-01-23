@@ -8,7 +8,7 @@ enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2020/12/beer2.jpg"]
 sidebar = "right"
 subtitle = "I used to think that hiring a tutor as a total beginner was a waste of money, but now believe it can be helpful — if you find the right tutor"
-tags = ["iTalki", "Teach yourself a language", "Language learning tips"]
+tags = ["Beginner language learning", "Teach yourself a language", "Language learning tips"]
 title = "Is it worth hiring a language tutor as a beginner?"
 type = ""
 
@@ -37,5 +37,8 @@ Finding the "best" tutor
 
 Qualities that 
 
-* Prepares structured lessons
+* Prepares structured lessons to fill the time
+* Uses support materials to help you speak (e.g., slideshows) 
 * Customizes lessons so you learn the words _you_ actually need first
+* Simplifies their speech to provide you with comprehensible input
+* Helps you find media in the language that you're interested in
