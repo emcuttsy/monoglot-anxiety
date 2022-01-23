@@ -21,7 +21,7 @@ I used to think that it'd be a waste of time and money to hire a language tutor 
 
 I previously tried taking a few lessons in Spanish and Danish, two languages I'm not confident speaking in, but wasn't convinced they were any more helpful than watching target language TV.
 
-But recently, I started taking lessons in Italian, a language in which I'm about A1 and definitely can't communicate effectively. And working with my stellar Italian tutor completely changed my mind: `{{<`**`highlight`**`html >}}`It _can_ be worth it to work with a tutor as a total beginner — you just need to find the right teacher. `{{< /`**`highlight`**` >}}`
+But recently, I started taking lessons in Italian, a language in which I'm about A1 and definitely can't communicate effectively. And working with my stellar Italian tutor completely changed my mind: `{{<`**`highlight`** `html >}}`It _can_ be worth it to work with a tutor as a total beginner — you just need to find the right teacher. `{{< /`**`highlight`**` >}}`
 
 Because I already had a functional understanding of the language, I didn't need a teacher prepared to sit down and walk me through the basics. That meant I could opt for more affordable conversation practice lessons with tutors who weren't certified teachers. And because I could speak German throughout the whole lesson none of the lesson was "wasted" on explanations in English.
 
