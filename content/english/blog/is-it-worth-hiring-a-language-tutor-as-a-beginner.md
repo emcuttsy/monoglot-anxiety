@@ -19,7 +19,7 @@ I used to think that it'd be a waste of time and money to hire a language tutor 
 
 The few lessons I've taken in Spanish and Danish, two languages I'm not confident speaking in, didn't convince me they were any more helpful than watching target language TV. But recently, I started taking lessons in Italian,  And working with my stellar Italian tutor completely changed my mind: 
 
-{{ < highlight html > }} It _can_ be worth it to work with a tutor as a total beginner — you just need to find the right teacher. {{ </ highlight > }}
+{{< highlight html >}} It _can_ be worth it to work with a tutor as a total beginner — you just need to find the right teacher. {{< / highlight >}}
 
 ## Should you "speak from day one" or wait for conversation lessons?
 
