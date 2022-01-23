@@ -9,7 +9,7 @@ sidebar = "right"
 subtitle = "The Language Secret isn't my first choice for newbies but it offers plenty of \"ah hah!\" moments for experienced learners"
 tags = ["Language learning books", "Language resources", "Book Reviews"]
 title = "Book Review: The Language Secret by John Stedman"
-type = "featured"
+type = "regular"
 
 +++
 If you're a language nerd like me, you probably waste hours reading books _about_ languages that you could have spent actually _learning_ one.  And now you're reading a review _about_ a book _about_ language learning instead of actually learning a language. So it goes.
