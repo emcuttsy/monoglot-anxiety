@@ -9,7 +9,7 @@ sidebar = "right"
 subtitle = "I used to think that hiring a tutor as a total beginner was a waste of money, but now believe it can be helpful — if you find the right tutor"
 tags = ["Beginner language learning", "Teach yourself a language", "Language learning tips"]
 title = "Is it worth hiring a language tutor as a beginner?"
-type = ""
+type = "featured"
 
 +++
 I didn't book my first lesson with an online tutor until about one and half years after starting to learn German. My lesson was my first conversation in German, but by that point I was already speaking at an intermediate level (about B1 for you CEFR people).
