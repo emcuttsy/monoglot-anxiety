@@ -33,11 +33,17 @@ Likewise, **finding a tutor as a beginner is likely to be more expensive**. Comm
 
 And finally — and perhaps most controversially — **starting to speak too early might not be a great idea**.
 
-### Is a silent period important for adult learners?
+### Maybe don't "speak from day one" 
 
-When we  The science seems to be mixed here.
+The jury is still out on whether "speaking from day one" — an approach popularized by Irish polyglot Benny Lewis of _Fluent in 3 Months_ fame — is a good idea. I tend to think it isn't, and that a silent period is important, for two reasons:
 
-## The right tutor for a beginner might not be best at 
+One, I don't think trying to speak is a good use of your time at the beginning. At the start, learning a few basic grammar rules and a core vocabulary of a few hundred words will rapidly increase your comprehension. If your foreign language has a script that you need to learn before you can read, learning that early is critical. I can't imagine how spending a few hours struggling through basic conversations would be more useful than giving yourself the core toolkit you need for comprehension.
+
+Second — and this is controversial — I think that speaking early can actually hinder learning, specifically by allowing you to practice incorrect speech and pronunciation. When you speak, you become your own "input." And if you speak incorrectly, you are feeding yourself incorrect input. A silent period protects your brain from incorrect input for a bit and gives you time to get a feel for your target language before you start using it and almost inevitably imposing your native language's patterns and rules on it. 
+
+However, I will caution here that a “silent period” in 2nd language acquisition by children isn’t even settled in the research yet, let alone in language-learning adults ([Roberts 2014](https://doi.org/10.1016/j.ecresq.2013.09.001)). Lots of polyglots swear by the speak-from-day-one approach, lots don't. Do what feels right for you.
+
+## Hiring a tutor as a beginner can be very helpful — if you find the right tutor 
 
 The best tutor for you is not necessarily the best tutor for someone else — and the language learner you are now is not the same as the language learner you'll be in a year. 
 
