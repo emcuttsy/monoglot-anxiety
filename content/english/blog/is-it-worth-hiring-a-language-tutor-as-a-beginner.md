@@ -24,7 +24,7 @@ The few lessons I've taken in Spanish and Danish, two languages I'm not confiden
 
 If you poll the language learning community, you'll hear a range of opinions on whether tutors are worth it at the beginning (or at all). Waiting to start lessons worked well for me, and there certainly are good reasons to wait on hiring a language tutor until you reach an intermediate level.
 
-First, **informal conversation lessons are generally cheaper than lessons for beginners**. It takes more work and time to design lessons suitable for true beginners in a new language. Starting at an intermediate level means that you can opt for informal conversation-based classes, which are often cheaper.
+First, **informal conversation lessons are generally cheaper than lessons for beginners**. It takes more work and time to design lessons suitable for true beginners in a new language. Starting at an intermediate level means that you can opt for less expensive, informal conversation-based classes.
 
 Likewise, **finding a tutor as a beginner is likely to be more expensive**. Community tutors — tutors who are not certified second-language teachers — on sites like iTalki often only offer informal conversation courses for intermediate and advanced students (some do teach beginners, though). Tutors who are confident guiding beginners from 0 to A1 are often certified teachers and therefore more expensive.
 
