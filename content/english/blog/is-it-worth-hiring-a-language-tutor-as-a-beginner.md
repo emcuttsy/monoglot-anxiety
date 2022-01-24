@@ -50,15 +50,17 @@ All that being said, I recently had an amazing experience with an Italian tutor 
 
 ### Informal conversation practice isn't enough
 
-Many tutors on sites like iTalki offer mostly informal conversation practice. This is fantastic as a low-cost way to get practice speaking a language, but it isn't ideal for beginners who can't hold conversations yet (see reasons above).
+Many tutors on sites like iTalki offer mostly informal conversation practice. This is fantastic, since it makes speaking practice available at a more accessible price, but it isn't ideal for beginners who can't hold conversations yet (see reasons above).
 
-The right tutor for a beginner offers more than informal conversation practice. They need to — a true beginner can't hold a conversation in their target language for 30 minutes or an hour.
+The right tutor for a beginner offers more than informal conversation practice. They need to — a true beginner can't hold a conversation in their target language for 30 minutes or an hour. 
 
 ### What a good tutor can do for beginners
 
-For me, a tutor is only "worth it" if working with them gives me something helpful I couldn't get on my own. At the intermediate level, this is speaking practice. At the beginner level, a skilled tutor can provide **custom-tailored comprehensible input** that teaches the things most relevant to you. They are a **window on the culture associated with your target language**. And they can also **do wonders for motivation**.
+For me, a tutor is only "worth it" if working with them gives me something helpful I couldn't get on my own.
 
-My Italian tutor clearly plans our lessons around vocabulary that she anticipates will be relevant to me based on my iTalki profile and on what she learns about me throughout our lessons. She modifies her speech so that I can understand it and so that it models the most common patterns I need to understand and communicate basic ideas in Italian. We don't focus on grammar, but rather on learning to communicate and understand. She recommends level-appropriate content in Italian for me to enjoy between lessons, and shares Italian culture with me as part of the lesson. It's amazing!
+At the intermediate level, that is speaking practice. At the beginner level, a skilled tutor can provide **custom-tailored comprehensible input** that teaches the things most relevant to you. They offer a **window on the culture associated with your target language**. And they can also **do wonders for motivation**.
+
+My Italian tutor clearly plans our lessons around vocabulary that she anticipates will be relevant to me based on my iTalki profile and on what she learns about me during lessons. She modifies her speech so that I can understand it and so that it models the most common patterns I need to understand and communicate basic ideas in Italian. She recommends level-appropriate content in Italian for me to enjoy between lessons, and shares Italian culture with me as part of the lesson. She takes time to explain her approach and what she thinks I need to work on, which makes it easier for me to see the value her lessons bring me and understand if I'm making more progress with her than I would alone.
 
 Here are some things a great language tutor can do for a beginner:
 
@@ -66,6 +68,7 @@ Here are some things a great language tutor can do for a beginner:
 * Model the correct use of forms you need to learn during conversation
 * Recommend level-appropriate content for comprehensible input
 * Customize the lesson material to expose you to the words most relevant to you and your life first
+* Help you understand your level and your weak points
 * Be a source of accountability that keeps you consistent
 * Motivate you and inspire your interest in the language
 
@@ -75,13 +78,13 @@ If you decide that you'd like to work with a tutor as a beginner, here are a few
 
 ### Look for someone who will show up with a lesson planned
 
-As a beginner, holding your own in a conversation lesson is a challenge... and I'm not totally convinced it's even a useful one to take on. I know people do it, but I can think of many better ways to spend 30 minutes to an hour as a beginner (learning core vocabulary, bare bones grammar, and scripts). A tutor with a plan, however, can really make the use of your time.
+As a beginner, holding your own in a conversation lesson is a challenge... a challenge I'm not totally convinced is worth at all. I know people do it, but I can think of many better things to do with 30 minutes to an hour as a beginner (learning core vocabulary, bare bones grammar, and scripts) than struggling through formulaic beginner dialogues. A tutor with a plan, however, can really make the best use of your time.
 
-Keep an eye out for tutors who use materials like images, slides, documents, videos, discussion prompts, etc. to structure lessons and who obviously have a plan for what to do with your time together.
+Keep an eye out for tutors who use materials like images, slides, documents, videos, discussion prompts, etc. to structure lessons and who obviously have a plan for what to do with your time together. You should feel like you're making more progress with your tutor than you would alone, and never have to struggle to come up with something to talk about or focus on during lessons yourself.
 
 ### Message your tutor first to introduce yourself and ask if they take beginners
 
-This seems obvious, but it's been helpful for me in the past. If a tutor's profile or pricing intrigues you but you're not sure if they take beginners, it's always fine to ask. Providing a bit of information about yourself helps tutors customize lessons for you, too.
+This seems obvious, but it's been helpful for me in the past. If a tutor's profile or pricing intrigues you but you're not sure if they take beginners, it's always a good idea to ask. Providing a bit of information about yourself helps tutors customize lessons for you, too.
 
 ### Take advantage of trial lesson prices and shop around
 
@@ -96,11 +99,11 @@ Trial lessons are often cheaper than standard lessons and they're a good chance 
 * Simplifies their speech to provide you with comprehensible input
 * Helps you find media in the language that you're interested in
 * Excites you about learning the language
-* "Feels" correct — a good fit sometimes is a gut feeling
+* "Feels" correct — a good fit is sometimes a gut feeling
 
 ### Consider hiring a certified teacher
 
-There are certainly amazing community tutors out there who do great work with beginners. But if you want a safe bet that someone has experience working with beginners and can offer more than casual conversation, a certified teacher is a safe bet. My current Italian tutor on iTalki is a certified teacher and she's fantastic.
+There are certainly amazing community tutors out there who do great work with beginners. But if you want a safe bet that someone has experience working with beginners and can offer more than casual conversation, consider working with a certified teacher at the beginning. My current Italian tutor on iTalki is a certified teacher and she's fantastic.
 
 If certified teachers are too expensive for you long-term, booking lessons for your first month or two and then switching to a community tutor for conversation lessons could be a good compromise.
 
@@ -110,4 +113,4 @@ If you're a beginner to your target language, I recommend that you wait on casua
 
 But finding the right tutor early on can be helpful. A good tutor can provide you with targeted comprehensible input — including their speech — that's appropriate for your level. They can customize lessons to you, your needs, and your interests so that you learn what you specifically need first and skip things that you don't need as often in the beginning. A good tutor can also add a source of accountability to your learning and inspire your love for the language — something that will help you learn more between your lessons no matter what you focus on together with your tutor.
 
-Just make sure you shop around and find the right tutor for you.
+Just make sure you shop around to find the right tutor for you.
