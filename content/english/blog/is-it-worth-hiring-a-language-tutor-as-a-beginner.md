@@ -16,7 +16,7 @@ I didn't book my first lesson with an online tutor until about one and half year
 
 I used to think that it'd be a waste of time and money to hire a language tutor as a total beginner. For me, working with tutors was always about practicing speech — the only language skill I couldn't learn alone. And why pay to talk to someone in your target language if you're not ready to actually _talk_ yet?
 
-The few lessons I've taken in Spanish and Danish, two languages I'm not confident speaking in, didn't convince me they were any more helpful than watching target language TV. But recently, I started taking lessons in Italian,  And working with my stellar Italian tutor completely changed my mind:
+The few lessons I've taken in Spanish and Danish, two languages I'm not confident speaking in, didn't convince me they were any more helpful than learning on my own. But recently, I started taking lessons in Italian,  and working with my stellar Italian tutor completely changed my mind:
 
 **It _can_ be worth it to work with a tutor as a total beginner —  if you find the right teacher.**
 
