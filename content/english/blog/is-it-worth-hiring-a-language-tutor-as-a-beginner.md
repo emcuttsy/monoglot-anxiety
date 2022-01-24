@@ -26,7 +26,7 @@ If you poll the language learning community, you'll hear a range of opinions on 
 
 First, **informal conversation lessons are generally cheaper than lessons for beginners**. It takes more work and time to design lessons suitable for true beginners in a new language. Starting at an intermediate level means that you can opt for less expensive, informal conversation-based classes.
 
-Likewise, **finding a tutor as a beginner is likely to be more expensive**. Community tutors — tutors who are not certified second-language teachers — on sites like iTalki often only offer informal conversation courses for intermediate and advanced students (some do teach beginners, though). Tutors who are confident guiding beginners from 0 to A1 are often certified teachers and therefore more expensive.
+Likewise, **finding a tutor as a beginner can be more expensive**. Community tutors — tutors who are not certified second-language teachers — on language tutoring marketplaces like [iTalki](https://www.italki.com/) often only offer informal conversation courses for intermediate and advanced students (some do teach beginners, though). Tutors who are confident guiding beginners from 0 to A1 are often certified teachers and therefore more expensive.
 
 **Many of the things you need to learn as a beginner are easy to teach yourself for free**, anyways. You can save yourself a nice chunk of cash by teaching yourself the basics.
 
