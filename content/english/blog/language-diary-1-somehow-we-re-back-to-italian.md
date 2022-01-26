@@ -69,15 +69,32 @@ Of course, there's a bit more to it than that. It's true that hopping around too
 
 ### Think about what makes sense _now_
 
-What matters now, not Sunk costs.
+I took Mandarin courses in middle school. Back then, I was enthralled by the language and couldn't imagine ever abandoning it. Fast-forward 10 years and I can think of 15 languages I'd rather learn before Mandarin. 
 
-Your other target languages aren't going anywhere — unless they are. If you have some time-limited special opportunity to get quality practice in for one of your target languages, it might make sense to stick with it until the opportunity
+Should I force myself to learn it anyways? After all, I took 2 years of Mandarin when I was a preteen, and I promised myself I'd learn the language back then. It was a goal! I need to follow through!
 
-* usually not a problem to leaev something on maintenence. watch a video every once and a while, keep it in mind
-* But if you're in the country for a short period of tm
+... ridiculous, right? 
+
+Goals change. Life changes. It's great to have vision for how we want to live our lives, but priorities shift and we need to be real about that. 
+
+Spanish is appealing to me mostly for three reasons: language aesthetics, size of native speaker community, and the fact that I used to be okay at it in high school. Ok, I'm also into Spanish because of the existence of Borges. 3.5 reasons. Until recently, those 3.5 reasons kept me motivated for Spanish than for Italian. But my situation has changed and now there are some reasons it makes sense for me to focus on Italian instead. 
+
+First, I'm moving to Austria soon. There's a lot of Austro-Italo exchange since Austria borders Italy, and I can easily imagine spending time in Italy since it'll be so close by. Second, my mom recently decided that she may want to retire in Italy. If she actually wants to do that, me learning Italian could make a huge difference when it comes to making that dream actually possible.
+
+I really value learning languages that I think I'll actually use, so these two factors really pushed my motivation for Italian beyond my motivation for Spanish. Finding an incredible tutor to help me and some really great beginners resources was just a cherry on top.
+
+It's important to keep your _current_ situation — including soft factors like motivation — in mind when you choose which language to focus on.  Your other target languages aren't going anywhere... unless they are. Keeping track of your "current situation" also includes making the best of time-limited special opportunities to learn one of your target languages like being in the country or taking a university course. Switching back to Spanish in the middle of an Italy trip might not be worth it.
 
 ### Make a short-term commitment and know when your next chance to switch is coming
 
-Committing to a subset of your target languages for a defined period — say a month or a quarter — gives you time to make progress but also gives you flexi
+So, how to actually put that rambling thought into practice? 
 
-That's all for this week. Thanks for reading, and I'll see you around the internet langosphere. Ciao ciao!
+Committing to a subset of your target languages for a defined period — say a month or a quarter — might give you enough time to make a satisfying amount of progress without locking yourself into a language that isn't sparking your interest for too long.
+
+I'm doing this with Italian now. I decided to stick with it until at least the beginning of April. That's 3 months to focus on Italian, which I think should be enough to get to a point where I can understand a fair chunk of what I hear in relatively straightforward authentic content — a nice point to reach even if I don't go further.  After those 3 months, I can decide if I want to go on with Italian for another chunk of time. 
+
+Writing down the plan is helping me stick with it: I noted my intention to stick with Italian until at least the beginning of April in my digital goal-setting notebook (the Notion people finally got me). I also booked lessons with a tutor through the end of my Italian study period to keep me accountable.
+
+That's all from me for this week. How do you handle dabbling and shifting motivations? Have you tried something like the short-term commitment suggestion I outline? Let me know what you think in the comments below. 
+
+Ciao!
