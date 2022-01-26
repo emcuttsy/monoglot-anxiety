@@ -7,9 +7,9 @@ enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/languagesecret.jpg"]
 sidebar = "right"
 subtitle = "The Language Secret isn't my first choice for newbies but it offers plenty of \"ah hah!\" moments for experienced learners"
-tags = ["Language learning books", "Language resources", "Book Reviews"]
+tags = ["Language learning books", "Language resources", "Book Reviews", "Teach yourself a language"]
 title = "Book Review: The Language Secret by John Stedman"
-type = "featured"
+type = "regular"
 
 +++
 If you're a language nerd like me, you probably waste hours reading books _about_ languages that you could have spent actually _learning_ one.  And now you're reading a review _about_ a book _about_ language learning instead of actually learning a language. So it goes.
@@ -20,7 +20,7 @@ Anyhow, this is my first book review for the blog. Let me know what you like —
 
 ## _The Language Secret_ by John Stedman
 
-The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), you will find a lot to love in _The Language Secret_. 
+The subtitle of the book is "How to speak 10 languages badly"and if that's your goal (and if those 10 languages are Romance and Germanic languages), you will find a lot to love in _The Language Secret_.
 
 However, the book misses the mark with its purported target audience—anglophone monoglots learning their first new language. The main takeaways get buried under jokes and pop-culture references and actionable "do this, not that, then do this" instructions are few and far between.
 
@@ -28,7 +28,7 @@ However, the book misses the mark with its purported target audience—anglophon
 
 **Rating**: ★★★★☆
 
-**Price**: $9.99 (Kindle), $19.99 (Paperback), $29.99 (Hardcover)
+**Price**: $9.99 (Kindle), $19.99 (Paperback), $29.99 (Hardcover) \[[Amazon](https://www.amazon.com/dp/B09HPM8TDN/)\]
 
 **TLDR:** Outstanding for #langtwt types trying to learn 15 languages, but I wouldn't give it to my monolingual mom who just wants to learn Italian
 
@@ -54,7 +54,7 @@ However, the book misses the mark with its purported target audience—anglophon
 
 The eponymous "Language Secret" of _The Language Secret_ is this: to speak a language well, you first have to speak it badly.
 
-As language secrets go, I think this is a great one — an anti-perfectionism mantra I'm going to keep in my subconscious back-pocket for every time I encounter another person who keeps perfectly calligraphed bullet journals and actually uses Toggl. 
+As language secrets go, I think this is a great one — an anti-perfectionism mantra I'm going to keep in my subconscious back-pocket for every time I encounter another person who keeps perfectly calligraphed bullet journals and actually uses Toggl.
 
 > The eponymous "language secret" of _The Language Secret_ is this: to speak a language well, you first have to speak it badly.
 
@@ -120,13 +120,11 @@ Instead of introducing Anki, _The Language Secret_ suggests that you make paper 
 
 For pronunciation, the book doesn't suggest shadowing or comprehensible input or even much listening — it suggests using the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). That's fine, but I can't remember the book specifying _how_ exactly one should use the IPA to learn pronunciation.
 
-As a final point, one strategy suggested was learning vocabulary while squeezing a ball or doing some other task with your non-dominant hand. This was motivated by some left-brain-right-brain stuff and ultimately didn't make logical sense — not just because that whole left-brain-right-brain thing is kinda hokey, but also because it was predicated on the left side of the body being tied to the left side of the brain, which is is wrong. The right side of the body is controlled by the left side of the brain.
-
 ## Chapter breakdown
 
-_The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Below are quick breakdowns of each of the 10 chapters.
+_The Language Secret_ is divided into an introduction, conclusion, and 10 chapters. Below are quick breakdowns of each of the 10 chapters. As you can see, the book covers a lot of ground!
 
-A note: I've introduced each chapter under my own "translated" titles. The real chapter titles always consist of title, a subtitle, and a sub-subtitle. Yes, a _sub_-subtitle. As mentioned above, over-writing like this is one of the biggest problems I have with _The Language Secret._
+_A quick note: I've introduced each chapter under my own "translated" titles. The real titles (provided below each "translation") each consist of title, a subtitle, and a sub-subtitle and were a bit too long to look nice on the blog, so I summarized._
 
 ### Chapter 1: The 4 Core Language Skills — Speaking, Listening, Reading, and Writing
 
@@ -215,7 +213,7 @@ A note: I've introduced each chapter under my own "translated" titles. The real 
 
 ## Conclusion: read it!
 
-For all of my frustration with this book's tone and my recommendation that first-time learners skip it, _The Language Secret_ is still a book I plan on recommending to a lot of people. 
+For all of my frustration with this book's tone and my recommendation that first-time learners skip it, _The Language Secret_ is still a book I plan on recommending to a lot of people.
 
 Unlike many of the polyglot books I've come across, it's honest and doesn't try to convince you that if you just buy or do one thing, you'll suddenly be fluent in a new language. It's up-front about the work it takes to learn a language and honest about the factors beyond your control that can make it easier or harder. And it's a fascinating look at the "everyday multilingualism" that exists in much of the world.
 
