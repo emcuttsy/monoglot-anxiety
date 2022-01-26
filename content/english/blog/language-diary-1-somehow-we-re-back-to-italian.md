@@ -63,7 +63,7 @@ Following my gut and deciding to focus on Italian even though I have some solid 
 
 The short answer: Switching is always okay. Life is not a contract signed in blood that a demon is going to show up to enforce every time you stray from your original plans. 
 
-{{ < tweet id="1313083848670892032" > }}
+{{< tweet "1313083848670892032" >}}
 
 Of course, there's a bit more to it than that. It's true that hopping around too frequently can mean you end up dabbling in a lot of languages but never learning any of them to the standards _you set for yourself_ (read that again!). As a solution to this problem, I'm trying out a strategy of making short-term commitments with end-dates. The idea is that this will allow me to make a satisfying chunk of progress while still leaving room to respond to my motivation and current situation.
 
