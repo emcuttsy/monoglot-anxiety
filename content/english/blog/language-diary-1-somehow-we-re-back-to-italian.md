@@ -22,14 +22,14 @@ Anyhow, you can expect to see a little update from me every week from here on. E
 
 **Languages on-hold:** Spanish (\~A1) and Danish (\~A1-)
 
-**Italian - beginner (maaaybe A1?)** 
+**Italian - beginner (maaaybe A1?)**
 
 * Total time studied: \~3 months
 * Current focus streak: \~1 month
 * Learner resources: [Speakly](https://www.speakly.me/), [Learn Italian with Lucrezia](https://www.youtube.com/channel/UCnVc-IW8Q98qFmQcXla5FdQ), [Easy Italian](https://www.youtube.com/c/EasyItalian),  [Modern Italian Grammar](https://www.amazon.com/Modern-Italian-Grammar-Practical-Grammars/dp/0415331641), iTalki tutor
 * Native content: [Storia di Roma](https://open.spotify.com/show/3LnjkcuweVaxa9eQ894oMC) (way too hard, just for background noise while running)
 
-**German - advanced (B2+)** 
+**German - advanced (B2+)**
 
 * Total time studied: \~2.75 years
 * Current focus streak: \~2.75 years
@@ -76,17 +76,17 @@ Should I force myself to learn it anyways? After all, I took 2 years of Mandarin
 
 Goals change. Life changes. It's great to have some vision for the future, but priorities shift and we need to be real about that.
 
-Spanish is appealing to me mostly for three reasons: language aesthetics, size of native speaker community, and the fact that I used to be okay at it in high school. 
+Spanish is appealing to me mostly for three reasons: language aesthetics, size of native speaker community, and the fact that I used to be okay at it in high school.
 
-Ok, I'm also into Spanish because of the existence of Borges. 3.5 reasons. 
+Ok, I'm also into Spanish because of the existence of Borges. 3.5 reasons.
 
-Until recently, those 3.5 reasons kept me motivated for Spanish than for Italian. But my situation has changed and now there are some reasons it makes sense for me to focus on Italian instead.
+Until recently, those 3.5 reasons kept me more motivated for Spanish than for Italian. But my situation has changed and now there are some reasons it makes sense for me to focus on Italian instead.
 
 First, I'm moving to Austria soon. There's a lot of Austro-Italo exchange since Austria borders Italy, and I can easily imagine spending time in Italy since it'll be so close by. Second, my mom recently decided that she may want to retire in Italy. If she actually wants to do that, me learning Italian could make a huge difference when it comes to making that dream actually possible.
 
 I really value learning languages that I think I'll actually use, so these two factors really pushed my motivation for Italian beyond my motivation for Spanish. Finding an incredible tutor, discovering that Italian just _sounds_ awesome, and finding some really great beginners resources just threw a cherry on top.
 
-Switching to Italian was a response to my _current_ situation — including soft factors like motivation. And I think we should always choose languages to learn based on where we are _now_ rather than where when we set goals in the past. 
+Switching to Italian was a response to my _current_ situation — including soft factors like motivation. And I think we should always choose languages to learn based on where we are _now_ rather than where when we set goals in the past.
 
 Taking a break is fine. Your other target languages aren't going anywhere... unless they are. Keeping track of your "current situation" also includes making the best of time-limited special opportunities to learn one of your target languages like being in the country or taking a university course. Switching back to Spanish in the middle of an Italy trip might not be worth it.
 
