@@ -96,7 +96,7 @@ So, how to actually put that rambling thought into practice?
 
 **Committing to a subset of your target languages for a defined period — say a month or a quarter — might give you enough time to make a satisfying amount of progress without locking yourself into a language that isn't sparking your interest for too long.**
 
-I'm doing this with Italian now. I decided to stick with it until at least the beginning of April. That's 3 months to focus on Italian, which I think should be enough to get to a point where I can understand a fair chunk of what I hear in relatively straightforward authentic content — a nice point to reach even if I don't go further.  After those 3 months, I can decide if I want to go on with Italian for another chunk of time.
+I'm doing this with Italian now. I decided to stick with it until at least the beginning of April. That's 3 months to focus on Italian, which I think should be enough to get to a point where I can understand a fair bit of what I hear in relatively straightforward authentic content — a nice point to reach even if I don't go further.  After those 3 months, I can decide if I want to go on with Italian for another chunk of time.
 
 Writing down the plan is helping me stick with it: I noted my intention to stick with Italian until at least the beginning of April in my digital goal-setting notebook (the Notion people finally got me). I also booked lessons with a tutor through the end of my Italian study period to keep me accountable.
 
