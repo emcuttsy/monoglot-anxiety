@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = ["Italian", "German", "Language diary"]
-date = 2022-01-25T23:00:00Z
+date = 2022-01-26T23:00:00Z
 description = ""
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/01/language-diary-1.jpg"]
