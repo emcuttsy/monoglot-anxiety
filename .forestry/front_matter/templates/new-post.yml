@@ -36,6 +36,8 @@ fields:
   name: enableComments
   label: enableComments
 pages:
+- content/english/blog/inertia-opportunity-cost-and-why-i-quit-grad-school.md
 - content/english/blog/is-it-worth-hiring-a-language-tutor-as-a-beginner.md
 - content/english/blog/language-diary-1-somehow-we-re-back-to-italian.md
 - content/english/blog/language-diary-2-first-italian-exchange.md
+- content/english/blog/who-needs-language-laws.md
