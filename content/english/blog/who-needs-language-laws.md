@@ -3,7 +3,6 @@ author = "Elise Cutts"
 categories = ["Opinion and Analysis"]
 date = 2022-05-31T00:00:00Z
 description = "New language laws in Canada and the UK raise questions about what language laws really protect"
-draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/05/languagelaws.png"]
 sidebar = "right"
