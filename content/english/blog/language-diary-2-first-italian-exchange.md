@@ -9,7 +9,7 @@ sidebar = "right"
 subtitle = "Updates from the German+Italian road, with some thoughts on why crosstalk could be a better choice for beginners than traditional language exchange"
 tags = ["Language learning tips", "Teach yourself a language", "Beginner language learning"]
 title = "Language Diary #2: Italian Crosstalk"
-type = "featured"
+type = ""
 
 +++
 Welcome back to my language diary. Which is apparently biweekly now with posts appearing on either Wednesdays or Thursdays, depending on how I feel.
