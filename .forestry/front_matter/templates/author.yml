@@ -21,3 +21,5 @@ fields:
   - type: text
     name: link
     label: link
+pages:
+- content/english/author/elise-cutts.md
