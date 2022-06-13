@@ -40,7 +40,9 @@ When I shared my new goal with my wife, a retired French teacher, she said that 
 
 I bought two textbooks with workbooks and audio CDs for A1 and A2 level French from the Saison series of Didier. I actually date the beginning of my time learning French from that point. I don’t count that first year because I learned so little (and spent so little time learning).
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/french_textbooks.jpeg)<center><small>My French textbooks. I learned a lot more from these than I ever did from language apps, but the real breakthrough came after I discovered “comprehensible input” and started listening to many hours of French a day.</center></small>
+<br>
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/french_textbooks.jpeg)<center><small>My French textbooks. I learned a lot more from these than I ever did from language apps, but the real breakthrough came after I discovered “comprehensible input” and started listening to many hours of French a day.</center></small><br>
 
 I read the textbooks, did all the exercises, and listened to the CDs. After working my way through those two books, I bought the next in the series, which was at B1 level, and continued to plug away at French.
 
