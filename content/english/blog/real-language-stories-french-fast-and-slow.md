@@ -16,7 +16,7 @@ type = ""
 +++
 {{<notice note "About Real Language Stories">}}
 
-_This post is the first in the “Real Language Stories'' series, which tells the real stories of how language learners of all stripes (and all levels) learned their first foreign languages in their own words._ 
+_This post is the first in the “Real Language Stories'' series, in which real language learners share their journeys with their first foreign languages in their own words._
 
 _Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
 
