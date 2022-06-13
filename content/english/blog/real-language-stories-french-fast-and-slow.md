@@ -54,7 +54,7 @@ I also asked my wife if she were willing to speak French with me. She agreed and
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/accent_francais-montpellier.jpeg)
 
-<center><small>Me at the entrance to the Accent Français language school in Montpelier, where I took an intensive French course for two weeks that brought me from a B1 level to B2.</center></small>
+<center><small>Me at the entrance to the Accent Français language school in Montpelier, where I took an intensive French course for two weeks that brought me from a B1 level to B2.</center></small><br>
 
 # Moving past textbooks
 
@@ -70,7 +70,7 @@ At the school, we had three 50-minute classes per day, plus an hour of homework 
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/montpellier_market.jpeg)
 
-<center><small>Vegetable shopping at a market in Montpelier, France that I visited during my two-week intensive language course. Communicating with the vendors was a learning experience.</center></small>
+<center><small>Vegetable shopping at a market in Montpelier, France that I visited during my two-week intensive language course. Communicating with the vendors was a learning experience.</center></small><br>
 
 # B2 and beyond
 
