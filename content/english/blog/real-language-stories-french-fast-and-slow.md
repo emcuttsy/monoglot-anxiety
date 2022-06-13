@@ -13,7 +13,11 @@ title = "Real Language Stories: French, Fast and Slow"
 type = ""
 
 +++
+{{<notice note "Note from Elise">}}
+
 _This post is the first in the “Real Language Stories'' series, which tells the real stories of how language learners of all stripes (and all levels) learned their first foreign languages. Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
+
+{{ </notice> }}
 
 <hr>
 
