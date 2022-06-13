@@ -14,11 +14,11 @@ title = "Real Language Stories: French, Fast and Slow"
 type = ""
 
 +++
-{{<notice note "About Real Language Stories">}}
+{{<notice note "Note from Elise">}}
 
-_This post is the first in the “Real Language Stories'' series, in which real language learners share their journeys with their first foreign languages in their own words._
+This post is the first in the “Real Language Stories'' series, in which real language learners share their journeys with their first foreign languages in their own words.
 
-_Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
+Have a story you’d like to share? Email [hello@monoglotanxiety.com](mailto:hello@monoglotanxiety.com) to learn more.
 
 {{</ notice  >}}
 
@@ -40,9 +40,7 @@ When I shared my new goal with my wife, a retired French teacher, she said that 
 
 I bought two textbooks with workbooks and audio CDs for A1 and A2 level French from the Saison series of Didier. I actually date the beginning of my time learning French from that point. I don’t count that first year because I learned so little (and spent so little time learning).
 
-< TEXTBOOKS PHOTO >
-
-_My French textbooks. I learned a lot more from these than I ever did from language apps, but the real breakthrough came after I discovered “comprehensible input” and started listening to many hours of French a day._
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/french_textbooks.jpeg)<center><small>_My French textbooks. I learned a lot more from these than I ever did from language apps, but the real breakthrough came after I discovered “comprehensible input” and started listening to many hours of French a day.<center></small>_
 
 I read the textbooks, did all the exercises, and listened to the CDs. After working my way through those two books, I bought the next in the series, which was at B1 level, and continued to plug away at French.
 
@@ -88,8 +86,8 @@ I still rely heavily on input, but I make a point of practicing speaking regular
 
 Four years after that language school experience, I believe I am at a C1 level overall. So, 9 months to B2, then another 4 years to C1. I guess I’m a slow learner, but I still spend 75% of my time on input. A month ago I started my next adventure, learning Italian.
 
-—
+***
 
-David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years._​​
+_David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years._​​_
 
 _You can find him on Twitter at @david_anice_guy_
