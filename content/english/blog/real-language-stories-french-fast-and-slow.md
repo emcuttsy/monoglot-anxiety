@@ -8,6 +8,7 @@ enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/Language Stories - David.png"]
 sidebar = "right"
 subtitle = "For David Guy, learning French took a false start, a 44 year break, 9 months from A1 to B2, and 4 years to C1"
+summary = "My language learning journey started in an American high school. I studied French for four years. I was a serious student. I had always felt drawn to the language by way of my family history — my ancestors on my mother’s side were French, and many generations of her family lived in French-speaking Quebec, Canada. Learning French was, to me, a way to connect to that heritage."
 tags = ["French"]
 title = "Real Language Stories: French, Fast and Slow"
 type = ""
