@@ -68,9 +68,9 @@ Once I finally arrived at the language school in Montpelier, I took a placement 
 
 At the school, we had three 50-minute classes per day, plus an hour of homework (always writing an essay). During class we spoke a lot, usually in small groups or pairs. We also watched videos and took quizzes on the content. In addition, my wife and I stayed with a “welcome family” — in our case, an elderly divorced woman. She prepared dinner for us every evening and we always had a 60–90-minute conversation with her during dinner.
 
-< VEGGIE SHOPPING PHOTO >
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/montpellier_market.jpeg)
 
-_Vegetable shopping at a market in Montpelier, France that I visited during my two-week intensive language course. Communicating with the vendors was a learning experience._
+<center><small>Vegetable shopping at a market in Montpelier, France that I visited during my two-week intensive language course. Communicating with the vendors was a learning experience.</center></small>
 
 **B2 and beyond**
 
