@@ -54,6 +54,8 @@ So I decided to sign up for a two week intensive course at a language school in 
 
 I also asked my wife if she were willing to speak French with me. She agreed and we started having conversations in French a few times a week, and four years later we’re still having those conversations. I would never have gotten to my current level without those talks, and without her patiently answering my questions.
 
+<br>
+
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/accent_francais-montpellier.jpeg)
 
 <center><small>Me at the entrance to the Accent Français language school in Montpelier, where I took an intensive French course for two weeks that brought me from a B1 level to B2.</center></small><br>
@@ -69,6 +71,8 @@ I spent three months listening to a lot of French, reading a lot of French, and 
 Once I finally arrived at the language school in Montpelier, I took a placement test that consisted of a grammar test, a reading test, and a conversation with a teacher. I was flabbergasted to be placed in a B1.8 class (out of B1.1 - 10).
 
 At the school, we had three 50-minute classes per day, plus an hour of homework (always writing an essay). During class we spoke a lot, usually in small groups or pairs. We also watched videos and took quizzes on the content. In addition, my wife and I stayed with a “welcome family” — in our case, an elderly divorced woman. She prepared dinner for us every evening and we always had a 60–90-minute conversation with her during dinner.
+
+<br>
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/montpellier_market.jpeg)
 
