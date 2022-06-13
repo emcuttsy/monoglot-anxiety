@@ -1,7 +1,7 @@
 +++
 author = "David Guy"
-categories = ["Real Language Stories"]
-date = ""
+categories = ["Language Learning", "Real Language Stories"]
+date = 2022-06-15T07:00:00Z
 description = ""
 draft = true
 enableComments = true
@@ -13,6 +13,10 @@ title = "Real Language Stories: French, Fast and Slow"
 type = ""
 
 +++
+_This post is the first in the “Real Language Stories'' series, which tells the real stories of how language learners of all stripes (and all levels) learned their first foreign languages. Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
+
+<hr>
+
 My language learning journey started in an American high school. I studied French for four years. I was a serious student. I had always felt drawn to the language by way of my family history — my ancestors on my mother’s side were French, and many generations of her family lived in French-speaking Quebec, Canada. Learning French was, to me, a way to connect to that heritage.
 
 Unfortunately, my French classes didn’t do much in the way of fostering that connection. They did a lot more to foster frustration.
@@ -81,9 +85,6 @@ Four years after that language school experience, I believe I am at a C1 level o
 
 —
 
-_David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years._​​
+David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years._​​
 
 _You can find him on Twitter at @david_anice_guy_
-
-  
-_This post is the first in the “Real Language Stories'' series, which tells the real stories of how language learners of all stripes (and all levels) learned their first foreign languages. Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
