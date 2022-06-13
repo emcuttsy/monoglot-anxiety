@@ -19,8 +19,6 @@ _This post is the first in the “Real Language Stories'' series, which tells th
 
 {{</ notice  >}}
 
-<hr>
-
 My language learning journey started in an American high school. I studied French for four years. I was a serious student. I had always felt drawn to the language by way of my family history — my ancestors on my mother’s side were French, and many generations of her family lived in French-speaking Quebec, Canada. Learning French was, to me, a way to connect to that heritage.
 
 Unfortunately, my French classes didn’t do much in the way of fostering that connection. They did a lot more to foster frustration.
