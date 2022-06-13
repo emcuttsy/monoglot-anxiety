@@ -35,6 +35,15 @@ fields:
 - type: boolean
   name: enableComments
   label: enableComments
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
 pages:
 - content/english/blog/inertia-opportunity-cost-and-why-i-quit-grad-school.md
 - content/english/blog/is-it-worth-hiring-a-language-tutor-as-a-beginner.md
