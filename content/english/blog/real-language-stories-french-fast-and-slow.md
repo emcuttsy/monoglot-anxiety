@@ -32,7 +32,7 @@ My teachers were totally focused on grammar and particularly on conjugation. My 
 
 I found the whole experience very frustrating, but I decided that, some day, I would really learn French and achieve my goal of connecting to that piece of my family history.
 
-**A second start**
+# A second start
 
 “Some day” arrived 44 years later. I had retired from my career as a software engineer and wanted a new intellectual challenge. Learning French was the perfect project and would fulfill my lifetime objective of learning French.
 
@@ -56,7 +56,7 @@ I also asked my wife if she were willing to speak French with me. She agreed and
 
 <center><small>Me at the entrance to the Accent Français language school in Montpelier, where I took an intensive French course for two weeks that brought me from a B1 level to B2.</center></small>
 
-**Moving past textbooks**
+# Moving past textbooks
 
 I also decided to explore YouTube for new material. In hindsight, that was a blindingly obvious thing to do, but I had been stuck in the view that you learned a language with textbooks. I discovered Johan’s channel Français Authentique and started watching all his videos. Johan is a disciple of Stephen Krashen and believes that the primary way to learn a language is through comprehensible input — material in your target language that you can _almost_ perfectly understand.
 
@@ -72,7 +72,7 @@ At the school, we had three 50-minute classes per day, plus an hour of homework 
 
 <center><small>Vegetable shopping at a market in Montpelier, France that I visited during my two-week intensive language course. Communicating with the vendors was a learning experience.</center></small>
 
-**B2 and beyond**
+# B2 and beyond
 
 After two weeks, I took tests in reading, listening, writing, and speaking. I was evaluated at B2 overall, with very high marks on listening and reading. All that time spent listening and reading definitely paid off.
 
