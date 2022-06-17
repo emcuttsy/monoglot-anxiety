@@ -2,25 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://monoglotanxiety.com/tags/advanced-language-learning/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/tags/beginner-language-learning/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://monoglotanxiety.com/blog/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/categories/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/french/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/minority-languages/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/opinion-and-analysis/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/politics/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/blog/who-needs-language-laws/</loc>
+    <lastmod>2022-05-30T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/beginner-language-learning/</loc>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/categories/german/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/categories/italian/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/categories/language-diary/</loc>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/blog/language-diary-2-first-italian-exchange/</loc>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/categories/language-learning/</loc>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/language-learning-tips/</loc>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/teach-yourself-a-language/</loc>
+    <lastmod>2022-02-09T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monoglotanxiety.com/tags/advanced-language-learning/</loc>
     <lastmod>2022-01-26T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/blog/language-diary-1-somehow-we-re-back-to-italian/</loc>
@@ -32,25 +65,10 @@
     <loc>https://monoglotanxiety.com/tags/learn-italian/</loc>
     <lastmod>2022-01-26T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://monoglotanxiety.com/tags/speakly/</loc>
     <lastmod>2022-01-26T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://monoglotanxiety.com/tags/</loc>
-    <lastmod>2022-01-26T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://monoglotanxiety.com/blog/is-it-worth-hiring-a-language-tutor-as-a-beginner/</loc>
-    <lastmod>2022-01-22T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/categories/language-learning/</loc>
-    <lastmod>2022-01-22T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/tags/language-learning-tips/</loc>
-    <lastmod>2022-01-22T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://monoglotanxiety.com/tags/teach-yourself-a-language/</loc>
     <lastmod>2022-01-22T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monoglotanxiety.com/blog/book-review-the-language-secret/</loc>
@@ -115,6 +133,8 @@
     <loc>https://monoglotanxiety.com/author/</loc>
   </url><url>
     <loc>https://monoglotanxiety.com/contact/</loc>
+  </url><url>
+    <loc>https://monoglotanxiety.com/author/elise-cutts/</loc>
   </url><url>
     <loc>https://monoglotanxiety.com/author/john-doe.fr/</loc>
   </url><url>
