@@ -96,6 +96,6 @@ Four years after that language school experience, I believe I am at a C1 level o
 
 _David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years.​​_
 
-_You can find him on Twitter at @david\_a\_nice\_guy_ 
+_You can find him on Twitter at_ [_@david_anice_guy_](https://twitter.com/david_anice_guy)
 
 _This post is the first in the “Real Language Stories'' series, which tells the real stories of how language learners of all stripes (and all levels) learned their first foreign languages. Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
