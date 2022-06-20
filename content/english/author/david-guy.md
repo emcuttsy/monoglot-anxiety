@@ -1,19 +1,10 @@
 +++
-draft = true
 email = ""
 image = "images/authordefault.png"
 title = "David Guy"
 [[social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/elisecutts"
-[[social]]
-icon = "fab fa-instagram"
-link = "https://instagram.com/elisecutts"
-[[social]]
-icon = "fa fa-envelope"
-link = "mailto:hello@monoglotanxiety.com"
+link = "https://twitter.com/david_anice_guy"
 
 +++
-Elise Cutts is the geek behind Monoglot Anxiety. A former geobiologist, she traded her pipette for a pen in 2022 and now writes about science instead of doing it. She started learning German kind of by accident in 2019 and has been nerding out about languages ever since. She speaks English and German, and is learning Spanish and Italian.
-
-You can follow Elise on [Twitter]("https://twitter.com/elisecutts") and [Instagram]("https://instagram.com/elisecutts"), or [subscribe to her newsletter]("https://buttondown.email/monoglotanxiety/") to get a new recommendation for German songs, podcasts, YouTube channels, and other media every week.
+David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years.​​
