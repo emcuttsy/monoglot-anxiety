@@ -3,7 +3,6 @@ author = "David Guy"
 categories = ["Language Learning", "Real Language Stories"]
 date = 2022-06-20T18:00:00Z
 description = ""
-draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/Language Stories - David.png"]
 sidebar = "right"
