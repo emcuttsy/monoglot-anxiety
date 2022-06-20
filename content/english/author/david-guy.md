@@ -1,6 +1,6 @@
 +++
 draft = true
-email = "hello@monoglotanxiety.com"
+email = ""
 image = "images/authordefault.png"
 title = "David Guy"
 [[social]]
