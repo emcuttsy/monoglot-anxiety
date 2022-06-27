@@ -34,7 +34,7 @@ The researchers in this study used a very cool method called Functional Near-Inf
 
 In a nutshell, fNIRS works by shining light into the brain and seeing how much comes back. In this study, each baby was fit with a cap containing a network of tiny light sensors called optodes, each of which is either red or blue. The red optodes shine near-infrared light into the scalp, which passes harmlessly through human tissue until it bounces back out. The blue optodes measure how much light makes it out of the brain. 
 
-Because active brain areas need more oxygen and fresh, oxygen-loaded blood absorbs lots of near-infrared light, scientists can measure brain activity by watching how much light from the red optodes makes it to the blue ones.
+Because active brain areas need more oxygen and because fresh, oxygen-loaded blood absorbs lots of near-infrared light, scientists can measure brain activity by watching how much light from the red optodes makes it to the blue ones.
 
 Cool, right?
 
