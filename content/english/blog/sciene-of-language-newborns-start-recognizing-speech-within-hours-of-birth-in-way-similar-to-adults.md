@@ -22,7 +22,7 @@ Babies start life already tuned-in to human speech. Newborns respond differently
 
 It's also clear that babies start the more sophisticated task of distinguishing different phonemes — the individual sounds that make up human speech — very early, within the first few hours or days of life. But it's still not settled whether phoneme recognition is something we're born with or something that we start learning shortly after birth.
 
-Hearing organs come online at around 24 weeks of gestation, and there is some interesting evidence showing that newborns come into the world already preferring the sounds of their native language over foreign ones. This would suggest that the infant brain comes pre-installed with phoneme recognition. However, another study found that while newborns can distinguish between simple vowels right after birth, they only start picking up the differences between trickier sounds after training.
+The evidence isn't clear one way or the other. Hearing organs come online at around 24 weeks of gestation, and there is some interesting work showing that newborns come into the world already preferring the sounds of their native language over foreign ones. This would suggest that the infant brain comes pre-installed with phoneme recognition. However, another study found that while newborns can distinguish between simple vowels right after birth, they only start picking up the differences between trickier sounds after training.
 
 # Watching newborn brains learn language
 
