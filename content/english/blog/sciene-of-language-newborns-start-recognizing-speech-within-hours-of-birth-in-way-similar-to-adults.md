@@ -20,7 +20,7 @@ I personally shove bluetooth headbuds into my ears and flood my poor brain with 
 
 All that makes it easy to forget that language learning is actually pretty natural for humans. And new research shows that the neural circuits that we use to process language as an adult seem to start doing their jobs just hours after birth.
 
-Researchers from Shenzhen University in China recently published a study in _Nature X_ showing that newborn babies can be taught to better distinguish natural vowel sounds from the same sounds played backwards within just hours of birth. They do it using brain areas that are known to be associated with human speech — and they don't get better at noticing the backwards vowels, which is a good sign that we're born hard-wired to use our language-learning circuits for language and not for meaningless auditory garbage.
+Researchers from Shenzhen University in China recently published a study in _Nature X_ showing that newborn babies can be taught to better distinguish natural vowel sounds from the same sounds played backwards within just hours of birth. Infants do this using brain areas that are known to be associated with human speech — and they don't get better at noticing the backwards vowels, which is a good sign that we're born hard-wired to use our language-learning circuits for language and not for meaningless auditory garbage.
 
 # Newborns recognize speech  sounds, but do they _learn_ them? And how?
 
