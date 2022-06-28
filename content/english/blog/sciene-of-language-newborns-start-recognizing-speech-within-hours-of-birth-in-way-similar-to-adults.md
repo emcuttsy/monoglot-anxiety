@@ -16,7 +16,7 @@ type = "featured"
 +++
 We adults do some pretty unnatural crap to learn languages.
 
-I personally shove bluetooth headbuds into my ears and flood my poor brain with hours of the same old podcast (looking at you, _Servus. Grüezi. Hallo_) I've already listened through at twice. I know people who spend hours every day doing workbook exercises. In school, I drove myself nuts memorizing tables of verb conjugations. A lot of us have phones crowded with apps that have us learn sentences like "she has the holy potato."
+I personally shove bluetooth headbuds into my ears and flood my poor brain with hours of the same old podcast (looking at you, _Servus. Grüezi. Hallo._) even though I've already listened through at twice. I know people who spend hours every day doing workbook exercises. In school, I drove myself nuts memorizing tables of verb conjugations. And a lot of us have phones crowded with apps that have us learn sentences like "she has the holy potato."
 
 All that makes it easy to forget that language learning is actually pretty natural for humans. And new research shows that the neural circuits that we use to process language as an adult seem to start doing their jobs just hours after birth.
 
