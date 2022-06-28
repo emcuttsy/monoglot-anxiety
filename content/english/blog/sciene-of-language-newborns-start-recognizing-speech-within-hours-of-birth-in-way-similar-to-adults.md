@@ -7,7 +7,7 @@ draft = true
 enableComments = true
 images = []
 sidebar = "right"
-subtitle = "A new study found that newborns start recognizing tricky vowel sounds just hours after birth using a speech-processing system very similar to the one adults use to learn and use language"
+subtitle = "A new study found that newborns start recognizing vowel sounds just hours after birth using a speech-processing system very similar to the one adults use to learn and use language"
 summary = ""
 tags = []
 title = "Science of Language: Newborns learn speech sounds using same brain regions as adults"
@@ -24,9 +24,11 @@ It's also clear that babies start the more sophisticated task of distinguishing 
 
 Hearing organs come online at around 24 weeks of gestation, and there is some interesting evidence showing that newborns come into the world already preferring the sounds of their native language over foreign ones. This would suggest that the infant brain comes pre-installed with phoneme recognition. However, another study found that while newborns can distinguish between simple vowels right after birth, they only start picking up the differences between trickier sounds after training.
 
+# Watching newborn brains learn language
+
 Innate or learned, phoneme recognition clearly starts early. But exactly _how_ that recognition plays out in the infant brain wasn't clear — do newborns have a unique way of processing speech, or do their brains already respond to human language the way adult brains do?
 
-To find out, researchers watched the brain activity of 75 newborns as they were presented with vowel sounds in Mandarin, their native language, within three hours of birth.
+To find out, researchers measured the brain activity of infants to see if — and how — they could distinguish between natural vowel sounds in their native language, Mandarin, and the same vowels played backwards.
 
 {{<notice note "Nerd Alert: How measuring brain activity works">}}
 
@@ -39,3 +41,9 @@ Because active brain areas need more oxygen and because fresh, oxygen-loaded blo
 Cool, right?
 
 {{</ notice  >}}
+
+The researchers "trained" 25 babies to recognize a set of 3 vowels (/ɑː/, /ɔː/ and /iː/) by having them listen to 10-minute recordings of the same vowel sound played forward and then backwards for 5 hours. After training, the babies took a "test" — the scientists played recordings of the vowels they had "learned" both forwards and backwards and watched how their brain activity responded. 2 hours after the 1st test, the babies took the same test again.
+
+For reference, the researchers also gave the same two tests to 25 babies that had "trained" on a different set of vowels () or not trained at all. 
+
+ 
