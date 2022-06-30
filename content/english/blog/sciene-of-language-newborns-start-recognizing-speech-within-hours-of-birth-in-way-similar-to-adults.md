@@ -3,7 +3,6 @@ author = "Elise Cutts"
 categories = ["Science of Language"]
 date = 2022-06-30T20:00:00Z
 description = "A new study found that newborns start recognizing vowel sounds just hours after birth using a speech-processing system very similar to the one adults use to learn and use language"
-draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/Science of Language.png"]
 sidebar = "right"
