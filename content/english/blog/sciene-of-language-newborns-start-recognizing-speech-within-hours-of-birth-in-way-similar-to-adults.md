@@ -1,7 +1,7 @@
 +++
 author = "Elise Cutts"
 categories = ["Science of Language"]
-date = ""
+date = 2022-06-30T20:00:00Z
 description = "A new study found that newborns start recognizing vowel sounds just hours after birth using a speech-processing system very similar to the one adults use to learn and use language"
 draft = true
 enableComments = true
@@ -9,7 +9,7 @@ images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/Science of
 sidebar = "right"
 subtitle = "A new study found that newborns start recognizing vowel sounds just hours after birth using a speech-processing system very similar to the one adults use to learn and use language"
 summary = "A new study found that newborns start recognizing vowel sounds just hours after birth using a speech-processing system very similar to the one adults use to learn and use language"
-tags = []
+tags = ["research", "science of language learning", "neuroscience"]
 title = "Science of Language: Newborns learn speech sounds using same brain regions as adults"
 type = "featured"
 
@@ -53,6 +53,8 @@ The researchers "trained" 25 babies to recognize a set of 3 vowels (/ɑː/, /ɔ�
 For reference, the researchers also gave the same two tests to 25 babies that had "trained" on vowels that didn't show up in the test (what scientists call an "active control") or not trained at all (a "passive control").
 
 Babies' brains have a little spike in activity after hearing sounds. If that peak is stronger and faster for natural vowels than it is for backwards vowels, that's a good indication that babies can distinguish between the two. So by comparing the speed and strength of those post-vowel spikes, the researchers could compare how quickly the different training groups responded to natural vs unnatural vowel sounds.
+
+Training and testing took about 8 hours — something I have to say sounds tough considering these babies had just been born and had to spend that time away from their parents. Parents were compensated for participating in the study and gave written informed consent to participate, and babies that cried were excluded from the study and returned to their parents early.
 
 # The language grind starts on day 0
 
