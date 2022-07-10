@@ -14,6 +14,14 @@ title = "Real Language Stories: Becoming an Imperfect Language Learner"
 type = "featured"
 
 +++
+{{<notice note "Note from Elise">}}
+
+This post is the second in the [“Real Language Stories''](/categories/real-language-stories/) series, in which real language learners share their journeys with their first foreign languages in their own words.
+
+Have a story you’d like to share? Email [hello@monoglotanxiety.com](mailto:hello@monoglotanxiety.com) to learn more.
+
+{{</ notice  >}}
+
 My husband and I had been trying to get to Europe for years for his job, and it was finally happening to _us_. We were moving to Italy. What a dream! But as friends raved about the food and wine I’d enjoy, gave recommendations for which city to see first, and silently planned their own vacations to visit us, all I could think about was the language.
 
 I was 33 years old, and although I’d always wanted to learn a second language, growing up in the United States, there weren’t many opportunities to do so. My first opportunity to take a foreign language course was in high school, so at 16 years old I took my first Spanish class. After four semesters studying vocab and grammar in order to pass exams, this bright-eyed, straight-A student was left disappointed with how little Spanish she could actually speak.
