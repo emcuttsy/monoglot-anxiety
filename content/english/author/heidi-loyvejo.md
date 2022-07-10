@@ -1,8 +1,8 @@
 +++
 draft = true
 email = ""
-image = "images/authordefault.png"
-title = "Heidi Loyvejo"
+image = "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/heidi_lovejoy.jpg"
+title = "Heidi Lovejoy"
 [[social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/david_anice_guy"
