@@ -4,9 +4,6 @@ email = ""
 image = "/images/authordefault.jpg"
 title = "Heidi Lovejoy"
 [[social]]
-icon = "fa-solid fa-blog"
-link = "https://lovejoyandlanguages.com/"
-[[social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/LoveJoy_Lang"
 
