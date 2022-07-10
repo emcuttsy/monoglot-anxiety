@@ -89,3 +89,11 @@ It’s not perfect. I still struggle with feeling overwhelmed by language learni
 Aiming for perfection was hard. It gave me a false sense of achievement and stirred up destructive spirals of self-doubt and self-loathing that eroded my mental health and held up real progress. Learning to aim for “good enough” was somehow harder – until it wasn’t. It took time and conscious effort, but shifting my mindset worked. “Good enough” turned out to get a lot closer to “perfect” than perfection ever could.
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/IMG_4816.jpg)
+
+<hr>
+
+_Heidi Lovejoy is a U.S. American living abroad with her husband and two children since 2017. She began learning languages at age 33 and quickly found herself feeling crushed under the pressure of perfectionism. Through a journey of personal healing and growth, Heidi changed her mindset and developed her own methods for mastering perfectionism in language learning. She shares her story and insights on her_ [_blog_](https://lovejoyandlanguages.com/) _and_ [_podcast_](http://www.lovejoyandlanguagespodcast.com/)_, both titled_ Love, Joy, and Languages.
+
+_You can find her on Twitter at_ [@LoveJoy_Lang](www.twitter.com/LoveJoy_Lang)
+
+_This post is the second in the “Real Language Stories'' series, which tells the real stories of how language learners of all stripes (and all levels) learned their first foreign languages. Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
