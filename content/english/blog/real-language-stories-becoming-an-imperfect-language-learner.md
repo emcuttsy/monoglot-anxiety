@@ -24,7 +24,7 @@ Our first week in Italy was a mixture of language excitement and fear. Walking a
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/IMG_3304.jpg)
 
-<center><small>The author and her child looking out over an Italian landscape of rolling hills and vineyards.</small></center> 
+<center><small>The author and her child looking out over an Italian landscape of rolling hills and vineyards. After her husband got a job in Italy, Heidi moved with her family and started learning Italian.</small></center><br>
 
 Yet as I eavesdropped on the conversations going on around me, I noticed that I couldn’t tell where one Italian word ended and the next began. I started to realize how much I needed to learn _just_ to be able to order food and pay the bill in Italian. How would I ever learn enough to speak with my kids’ school teachers, go to a doctor, or make friends?
 
@@ -54,7 +54,7 @@ Even as it became clear that it wasn’t working, I kept approaching the languag
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/thumbnail_IMG_9980.jpg)
 
-<center><small>The author on a hike in the Italian alps.</small></center>
+<center><small>The author on a hike in the Italian alps.</small></center><br>
 
 I reached a breaking point about two years into my journey with Italian. I was constantly stressed. And worse, I realized that my stress had started to creep into my now 6-year-old daughter’s own language challenges at school. I was so focused on my mistakes, failures, and wasted time that I doubted everything. I started to believe the lies I’d heard about language learning. _I’m too old to learn a language. I don’t have the right kind of brain for it. I didn’t learn it as a child, so it’s impossible for me. I’m not gifted in languages. Immersion is only useful for young people with no other obligations._
 
@@ -79,3 +79,5 @@ The difference has been incredible. Not only am I speaking Italian at an interme
 It’s not perfect. I still struggle with feeling overwhelmed by language learning, especially as I realize how much more there is to learn. I still have a voice in my head telling me that I’m too old or not talented at languages. I make mistakes and get frustrated with them. But the new version of myself – the one that sets realistic expectations, focuses on what I have accomplished, and knows what I’m capable of – that version always wins now. She grounds me. She speaks positivity. She moves forward with her head held high.
 
 Aiming for perfection was hard. It gave me a false sense of achievement and stirred up destructive spirals of self-doubt and self-loathing that eroded my mental health and held up real progress. Learning to aim for “good enough” was somehow harder – until it wasn’t. It took time and conscious effort, but shifting my mindset worked. “Good enough” turned out to get a lot closer to “perfect” than perfection ever could.
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/IMG_4816.jpg)
