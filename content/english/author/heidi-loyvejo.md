@@ -1,7 +1,7 @@
 +++
 draft = true
 email = ""
-image = "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/heidi_lovejoy.jpg"
+image = "/images/authordefault.jpg"
 title = "Heidi Lovejoy"
 [[social]]
 icon = "fa-solid fa-blog"
