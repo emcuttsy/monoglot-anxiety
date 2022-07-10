@@ -92,7 +92,7 @@ Aiming for perfection was hard. It gave me a false sense of achievement and stir
 
 <hr>
 
-_Heidi Lovejoy is a U.S. American living abroad with her husband and two children since 2017. She began learning languages at age 33 and quickly found herself feeling crushed under the pressure of perfectionism. Through a journey of personal healing and growth, Heidi changed her mindset and developed her own methods for mastering perfectionism in language learning. She shares her story and insights on her_ [_blog_](https://lovejoyandlanguages.com/) _and_ [_podcast_](http://www.lovejoyandlanguagespodcast.com/)_, both titled "Love, Joy, and Languages._"
+_Heidi Lovejoy is a U.S. American living abroad with her husband and two children since 2017. She began learning languages at age 33 and quickly found herself feeling crushed under the pressure of perfectionism. Through a journey of personal healing and growth, Heidi changed her mindset and developed her own methods for mastering perfectionism in language learning. She shares her story and insights on her [blog](https://lovejoyandlanguages.com/) and [podcast](http://www.lovejoyandlanguagespodcast.com/), both titled "Love, Joy, and Languages."_
 
 _You can find her on Twitter at_ [@LoveJoy_Lang](www.twitter.com/LoveJoy_Lang)
 
