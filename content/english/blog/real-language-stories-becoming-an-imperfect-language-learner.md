@@ -1,5 +1,5 @@
 +++
-author = "Heidi Lovejoy"
+author = ""
 categories = ["Language Learning", "Real Language Stories"]
 date = 2022-07-18T15:00:00Z
 description = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
