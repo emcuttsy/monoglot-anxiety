@@ -1,9 +1,8 @@
 +++
 author = "David Guy"
 categories = ["Language Learning", "Real Language Stories"]
-date = 2022-06-15T07:00:00Z
+date = 2022-06-20T16:00:00Z
 description = ""
-draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/Language Stories - David.png"]
 sidebar = "right"
@@ -94,6 +93,8 @@ Four years after that language school experience, I believe I am at a C1 level o
 
 ***
 
-_David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years._​​_
+_David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years.​​_
 
-_You can find him on Twitter at_ [_@david_anice_guy_](https://twitter.com/david_anice_guy)
+_You can find him on Twitter at_ [_@david_anice_guy](https://twitter.com/david_anice_guy)_
+
+_This post is the first in the “Real Language Stories'' series, which tells the real stories of how language learners of all stripes (and all levels) learned their first foreign languages. Have a story you’d like to share? Email_ [_hello@monoglotanxiety.com_](mailto:hello@monoglotanxiety.com) _to learn more._
