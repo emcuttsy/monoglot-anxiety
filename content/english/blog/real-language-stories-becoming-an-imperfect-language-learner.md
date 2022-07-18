@@ -1,15 +1,14 @@
 +++
-author = ""
+author = "Heidi Lovejoy"
 categories = ["Language Learning", "Real Language Stories"]
 date = 2022-07-18T15:00:00Z
 description = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
-draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/Language Stories - Heidi.png"]
 sidebar = "right"
 subtitle = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
 summary = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
-tags = ["Language learning tips", "Learn italian", "Italian"]
+tags = ["Perfectionism", "Language learning tips", "Learn italian", "Italian"]
 title = "Real Language Stories: Becoming an Imperfect Language Learner"
 type = "featured"
 
