@@ -1,7 +1,7 @@
 +++
 draft = true
 email = ""
-image = "images/guests/heidi_lovejoy.jpg"
+image = "images/authordefault.png"
 title = "Heidi Lovejoy"
 [[social]]
 icon = "fab fa-twitter"
