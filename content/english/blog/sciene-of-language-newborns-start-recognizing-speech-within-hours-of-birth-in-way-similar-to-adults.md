@@ -10,7 +10,7 @@ subtitle = "A new study found that newborns start recognizing vowel sounds just 
 summary = "A new study found that newborns start recognizing vowel sounds just hours after birth using a speech-processing system very similar to the one adults use to learn and use language"
 tags = ["research", "science of language learning", "neuroscience"]
 title = "Science of Language: Newborns learn speech sounds using same brain regions as adults"
-type = "featured"
+type = "normal"
 
 +++
 We adults engage in some pretty unnatural behaviors to learn languages.
