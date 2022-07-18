@@ -1,23 +1,24 @@
 ---
-title: "10 Great German Science Youtube Channels"
-subtitle: "Get your German language immersion with a side of nerdy awesomeness with these 10 German science YouTube channels"
-date: 2021-03-13T15:40:24+06:00
-# post thumb
+title: 10 Great German Science Youtube Channels
+subtitle: Get your German language immersion with a side of nerdy awesomeness with
+  these 10 German science YouTube channels
+date: 2021-03-13T15:40:24.000+06:00
 images:
-  - "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/03/12/sciencesplash.jpg"
-#author
-author: "Elise Cutts"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["Language Learning", "German"]
-tags: ["learn german","recommendations", "comprehensible input"]
-type: "featured" # available type (regular or featured)
-draft: false
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/03/12/sciencesplash.jpg
+author: Elise Cutts
+description: This is meta description
+categories:
+- Language Learning
+- German
+tags:
+- learn german
+- recommendations
+- comprehensible input
+type: normal
 sidebar: right
 enableComments: true
----
 
+---
 German science videos were some of the first "real" German media that I could understand. It might sound like a tough place to start, but thanks to the overlap between English and German scienctific vocabulary, science videos can actually be a great entry into authentic German content (especially if you're a nerd like me). These 10 channels are a great resource for German learners or anyone else looking for awesome science videos in German.
 
 Many of these channels are supported by German public broadcasters like ZDF, so you can look forward to plenty of ad-free immersion.
@@ -93,4 +94,3 @@ Rounding out the Terra X trio and this list of German science YouTube channels i
 <br>
 
 Maybe you're already a fan of some of these channels—one even has a popular English counterpart. Or, maybe I missed oned you would have included. Are there any other subjects you'd like me to list out some great German YouTube channels about? Do you just want to shame me for writing a listicle? Whatever the case, just drop a comment below if you want to say something. I'd love to hear from you (even if it's just to ring the shame bell).
-
