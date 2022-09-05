@@ -1,11 +1,13 @@
 +++
-draft = true
 email = ""
 image = "images/authordefault.png"
 title = "Dack Powell"
 [[social]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/dacktheripper/"
+[[social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/david_anice_guy"
+link = "https://twitter.com/dackiechan"
 
 +++
-David Guy grew up in Massachusetts, USA. After dropping out of a PhD program in English Literature he became a software engineer who enjoyed a nearly forty year career in the software industry before retiring. An avid cyclist, hiker, and traveler, David has been happily married for 46 years.​​
+Dack Powell is an American educator and wannabe polyglot, and musician. He likes making friends and hopes to do graduate work in linguistics. He can be found on Twitter and Instagram at [@dackiechan](https://twitter.com/dackiechan) and [@dacktheripper](https://www.instagram.com/dacktheripper/) respectively.
