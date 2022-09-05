@@ -32,8 +32,6 @@ Still, I _really_ needed to find that train. So after a few agonizing minutes of
 
 Not only was the woman kind enough to point me in the right direction, she said I spoke very well for an Englishman (close enough, I didn’t bother to correct her). All that fear and worry turned out to be for nothing.
 
-{{< instagram BlbWKaehU9l >}}
-
 As I sat on the train, I realized that I had finally done it, I had spoken my target language in-country! Not only that, I had done so successfully — I communicated well enough to be understood, and I understood what was said back to me. It was even pleasant and fun! I came away from that experience energized and motivated, and while learning Russian can certainly still be a challenge sometimes, I have grown enormously as a speaker since that day at the train station. Today, I’ve achieved a comfortable upper-intermediate, or B2 level, on the CEFR scale.
 
 And I am here to tell you: if I can do it, you can do it! I hope that my story can help encourage you, wherever you are on your language learning journey.
