@@ -8,9 +8,9 @@ images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/Language S
 sidebar = "right"
 subtitle = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
 summary = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
-tags = ["Perfectionism", "Language learning tips", "Learn italian", "Italian"]
+tags = ["Perfectionism", "Language learning tips", "Italian"]
 title = "Real Language Stories: Becoming an Imperfect Language Learner"
-type = "featured"
+type = ""
 
 +++
 {{<notice note "Note from Elise">}}

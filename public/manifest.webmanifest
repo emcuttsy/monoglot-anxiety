@@ -1,0 +1,53 @@
+{
+  "name": "Monoglot Anxiety",
+  "short_name": "Monoglot Anxiety",
+  "lang": "en-us",
+  "theme_color": "#EFB900",
+  "background_color": "#fff",
+
+  // icon resize
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu2c7634799046b05bf321182e24eac2dc_7578_48x0_resize_box_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu2c7634799046b05bf321182e24eac2dc_7578_72x0_resize_box_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu2c7634799046b05bf321182e24eac2dc_7578_96x0_resize_box_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu2c7634799046b05bf321182e24eac2dc_7578_144x0_resize_box_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu2c7634799046b05bf321182e24eac2dc_7578_192x0_resize_box_3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu2c7634799046b05bf321182e24eac2dc_7578_512x0_resize_box_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

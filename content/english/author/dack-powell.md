@@ -1,6 +1,6 @@
 +++
 email = ""
-image = "images/authordefault.png"
+image = "images/guests/author-dack.jpeg"
 title = "Dack Powell"
 [[social]]
 icon = "fab fa-instagram"
