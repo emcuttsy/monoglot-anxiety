@@ -28,17 +28,19 @@ I'm not very organized. The only reason I can learn languages successfully is be
 
 Needless to say, it isn't natural for me to consistently start and stop a time tracker whenever I do anything.
 
-Thankfully, strangers on the internet can be helpful and good and far more clever than I could ever hope to be, and one of them solved my problem for me:
+Thankfully, internet strangers are far more clever than I am and someone figured out a great solution: iOS automations.
 
-{{< tweet "1564938702115184640" >}}
+**iOS automations can make it practically effortless to track time you spend learning languages using your phone.** You can essentially outsource the hard work of remembering to operate your time tracking app of choice to your phone.
 
-iOS automations can make it practically effortless to track time you spend learning languages using your phone. You can essentially outsource the hard work of remembering to operate your time tracking app of choice to your phone.
-
-This post walks through how to use shortcuts to track language learning using Toggl — but you can use whatever tracker you'd like so long as it is compatible with shortcuts. There's a bit of a learning curve to this, but don't worry. It's not too bad and I've already made plenty of mistakes testing things out so you don't have to yourself.
+This post walks through how to use shortcuts to track language learning using Toggl — but you can use whatever tracker you'd like so long as it is compatible with shortcuts. There's a bit of a learning curve, but don't worry. It's not too bad and I've already made plenty of mistakes testing things out so you don't have to yourself.
 
 ## Use iOS Shortcuts and Automations to automatically operate a time-tracking app on your phone
 
 You can set up iOS automations to automatically start and stop your favorite time tracking app when you open and close apps that you use to learn languages.
+
+Credit where credit is due: thank you to [Tanya](https://twitter.com/botanechka) on Twitter for the idea to use iOS automations to operate a time tracking app. 
+
+{{< tweet "1564938702115184640" >}}
 
 Shortcuts are no-code programs that let you automate repetitive tasks on your iPhone. Automations are shortcuts that run when certain events or "triggers" occur — like opening a specific app. You can run shortcuts from within automations.
 
