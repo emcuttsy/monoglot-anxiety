@@ -48,23 +48,13 @@ Credit where credit is due: thank you to [Tanya](https://twitter.com/botanechka)
 
 I listen to a lot of podcasts for language learning. Here's an example of how to set up an automation to track your time spent listening to podcasts in Toggl.
 
-First, open the Shortcuts app and create a new Automation.
+First, open the Shortcuts app and create a new Automation. Set the automation to trigger when an app is opened and select your podcast app. I used Pocket Casts for this example.  
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3015.PNG) 
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/Untitled (600 × 600 px).png)Then add a Toggl "Start Time Entry" action and set the description and project. In this example, the description is "Podcasts" and the project is "German," because I'm learning German. You can also set a task for the time entry, assign it tags, and designate it as billable or non-billable by clicking the little blue arrow next to the project field.
 
-Set the automation to trigger when an app is opened and select your podcast app. I used Pocket Casts for this example.  
+Then decide whether you'd like the automation to run automatically whenever you open your podcast app or to ask you before running. 
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3018.PNG)
-
-Then add a Toggl "Start Time Entry" action and set the description and project. In this example, the description is "Podcasts" and the project is "German," because I'm learning German. 
-
-You can also set a task for the time entry, assign it tags, and designate it as billable or non-billable by clicking the little blue arrow next to the project field.
-
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3019.PNG)Then decide whether you'd like the automation to run automatically whenever you open your podcast app or to ask you before running. 
-
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3020.PNG)
-
-df
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/Untitled (600 × 600 px)-2.png)
 
 ## What if you're learning multiple languages?
 
