@@ -26,9 +26,13 @@ The problem isn't that there aren't good ways to track time — these days there
 
 No, the the problem isn't that there aren't good time tracking tools. The problem — or my problem, at least —is actually bothering to use them.
 
-I'm not very organized and I struggle with routine. The only reason I can learn languages successfully is because languages are one of the few magical things in this universe that don't require focused, structured practice to get good at. Needless to say, it isn't natural for me to consistently start and stop a time tracker whenever I do anything. So I've never been able to keep good records, even though I've tried quite a few times now.
+I'm not very organized and I struggle with routine. The only reason I can learn languages successfully is because languages are one of the few magical things in this universe that don't require focused, structured practice to get good at. Needless to say, it isn't natural for me to consistently start and stop a time tracker whenever I do anything. 
 
-Finally, 
+Long story short, I've never been able to keep good records, even though I've tried quite a few times now.
+
+Thankfully, strangers on the internet can be helpful and good and far more clever than I could ever hope to be, and one of them solved my problem for me:
+
+{{< tweet user**=**"SanDiegoZoo" id**=**"1453110110599868418" >}}
 
 You can outsource the hard work of time tracking to your phone using iOS automations.
 
