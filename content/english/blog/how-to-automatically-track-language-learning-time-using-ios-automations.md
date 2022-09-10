@@ -18,21 +18,19 @@ I'm often asked how much time I spend on language learning. This is a good quest
 
 But I don't really have any idea. People who ask me about this usually end up receiving some totally unhelpful answer like "a lot."
 
-Even I am beginning to get frustrated by this. I really would like to know how much time I spend consuming podcasts, videos, and written material in other languages and keep tabs on how much of my time I'm investing in my various target languages. 
-
-So. What to do?
+Even I am beginning to get frustrated by this. I really would like to know how much time I spend consuming podcasts, videos, and written material in other languages and keep tabs on how much of my time I'm investing in my various target languages.
 
 The problem isn't that there aren't good ways to track time — these days there are plenty of great apps that make it """easy""" to record every second you spend on every task imaginable. Plenty of people use these apps to catalogue their time with intimidating accuracy.
 
 No, the the problem isn't that there aren't good time tracking tools. The problem — or my problem, at least —is actually bothering to use them.
 
-I'm not very organized and I struggle with routine. The only reason I can learn languages successfully is because languages are one of the few magical things in this universe that don't require focused, structured practice to get good at. Needless to say, it isn't natural for me to consistently start and stop a time tracker whenever I do anything. 
+I'm not very organized. The only reason I can learn languages successfully is because languages are one of the few magical things in this universe that don't require focused, structured practice to get good at. 
 
-Long story short, I've never been able to keep good records, even though I've tried quite a few times now.
+Needless to say, it isn't natural for me to consistently start and stop a time tracker whenever I do anything.
 
 Thankfully, strangers on the internet can be helpful and good and far more clever than I could ever hope to be, and one of them solved my problem for me:
 
-{{< tweet "1453110110599868418" >}}
+{{< tweet "1564937635054997506" >}}
 
 You can outsource the hard work of time tracking to your phone using iOS automations.
 
