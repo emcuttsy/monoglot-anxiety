@@ -32,7 +32,9 @@ Thankfully, strangers on the internet can be helpful and good and far more cleve
 
 {{< tweet "1564938702115184640" >}}
 
-You can outsource the hard work of time tracking to your phone using iOS automations.
+iOS automations can make it practically effortless to track time you spend learning languages using your phone. You can essentially outsource the hard work of remembering to operate your time tracking app of choice to your phone.
+
+This post walks through how to use shortcuts to track language learning using Toggl — but you can use whatever tracker you'd like so long as it is compatible with shortcuts. There's a bit of a learning curve to this, but don't worry. It's not too bad and I've already made plenty of mistakes testing things out so you don't have to yourself.
 
 ## Use iOS Shortcuts and Automations to automatically operate a time-tracking app on your phone
 
