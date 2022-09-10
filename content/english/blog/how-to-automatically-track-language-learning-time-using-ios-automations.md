@@ -14,8 +14,6 @@ title = "How to automatically track language learning time using iOS automations
 type = "featured"
 
 +++
-# 
-
 I'm often asked how much time I spend on language learning. This is a good question, especially since I learn through comprehensible input and time is undeniably the most important of the rather few levers one can really manipulate in an input-based study "strategy."
 
 But I don't really have any idea. People who ask me about this usually end up receiving some totally unhelpful answer like "a lot."
@@ -24,9 +22,7 @@ Even I am beginning to get frustrated by this. I really would like to know how m
 
 So. What to do?
 
-The problem isn't that there aren't good ways to track time — these days there are plenty of great apps that make it """easy""" to record every second you spend on every task imaginable. 
-
-Plenty of people use these apps quite successfully. Take a look around language learning Twitter and you'll see lots of lovely pie charts showing breakdowns of study time. Take a look around other corners of the internet where quantified self/optimization types hang about and you'll see even more carefully crafted time pies.
+The problem isn't that there aren't good ways to track time — these days there are plenty of great apps that make it """easy""" to record every second you spend on every task imaginable. Plenty of people use these apps successfully.
 
 No, the the problem isn't that there aren't good time tracking tools. The problem — or my problem, at least —is actually bothering to use them.
 
