@@ -26,7 +26,7 @@ No, the the problem isn't that there aren't good time tracking tools. The proble
 
 I'm not very organized. The only reason I can learn languages successfully is because languages are one of the few magical things in this world that don't require focused, structured work to get good at. Needless to say, it isn't natural for me to start and stop a time tracker whenever I do anything.
 
-Thankfully, internet strangers are far more clever than I am and someone figured out a solution: iOS automations.
+Thankfully, internet strangers are far more clever than I am and someone figured out a solution: iOS automations and shortcuts.
 
 **iOS automations can make it practically effortless to track time you spend learning languages using your phone.** You can essentially outsource the hard work of remembering to operate your time tracking app of choice to your phone.
 
@@ -36,15 +36,35 @@ This post walks through how to use shortcuts to track language learning using To
 
 You can set up iOS automations to automatically start and stop your favorite time tracking app when you open and close apps that you use to learn languages.
 
-Credit where credit is due: thank you to [Tanya](https://twitter.com/botanechka) on Twitter for the idea to use iOS automations to operate a time tracking app. 
-
-{{< tweet "1564938702115184640" >}}
-
 Shortcuts are no-code programs that let you automate repetitive tasks on your iPhone. Automations are shortcuts that run when certain events or "triggers" occur — like opening a specific app. You can run shortcuts from within automations.
 
 For instance, you could create an automation to automatically start a Toggl timer for Duolingo when you open the Duolingo app. Using another automation, you could automatically stop the timer once you close Duolingo.
 
-### Example: Automatically track time spent on Duolingo
+Credit where credit is due: thank you to [Tanya](https://twitter.com/botanechka) on Twitter for the idea to use iOS automations to operate a time tracking app. 
+
+{{< tweet "1564938702115184640" >}}
+
+### Example: Automatically track time spent listening to podcasts
+
+I listen to a lot of podcasts for language learning. Here's an example of how to set up an automation to track your time spent listening to podcasts in Toggl.
+
+First, open the Shortcuts app and create a new Automation.
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3015.PNG) 
+
+Set the automation to trigger when an app is opened and select your podcast app. I used Pocket Casts for this example.  
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3018.PNG)
+
+Then add a Toggl "Start Time Entry" action and set the description and project. In this example, the description is "Podcasts" and the project is "German," because I'm learning German. 
+
+You can also set a task for the time entry, assign it tags, and designate it as billable or non-billable by clicking the little blue arrow next to the project field.
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3019.PNG)Then decide whether you'd like the automation to run automatically whenever you open your podcast app or to ask you before running. 
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/IMG_3020.PNG)
+
+df
 
 ## What if you're learning multiple languages?
 
