@@ -44,9 +44,9 @@ Credit where credit is due: thank you to [Tanya](https://twitter.com/botanechka)
 
 {{< tweet "1564938702115184640" >}}
 
-### Example: Automatically track time spent listening to podcasts
+### Example: Automatically track time spent listening to podcasts in your target language
 
-I listen to a lot of podcasts for language learning. Here's an example of how to set up an automation to track your time spent listening to podcasts in Toggl.
+I listen to a lot of podcasts for language learning. Here's an example of how to set up an automation to track your time spent listening to podcasts in Toggl. It only works for one language — see below if you're learning more than one.
 
 First, open the Shortcuts app and create a new Automation. Set the automation to trigger when an app is opened and select your podcast app. I used Pocket Casts for this example.  
 
