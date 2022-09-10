@@ -22,7 +22,7 @@ Even I am beginning to get frustrated by this. I really would like to know how m
 
 So. What to do?
 
-The problem isn't that there aren't good ways to track time — these days there are plenty of great apps that make it """easy""" to record every second you spend on every task imaginable. Plenty of people use these apps successfully.
+The problem isn't that there aren't good ways to track time — these days there are plenty of great apps that make it """easy""" to record every second you spend on every task imaginable. Plenty of people use these apps to catalogue their time with intimidating accuracy.
 
 No, the the problem isn't that there aren't good time tracking tools. The problem — or my problem, at least —is actually bothering to use them.
 
