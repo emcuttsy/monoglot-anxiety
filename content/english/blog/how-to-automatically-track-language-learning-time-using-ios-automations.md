@@ -32,7 +32,7 @@ Long story short, I've never been able to keep good records, even though I've tr
 
 Thankfully, strangers on the internet can be helpful and good and far more clever than I could ever hope to be, and one of them solved my problem for me:
 
-{{< tweet user**=**"SanDiegoZoo" id**=**"1453110110599868418" >}}
+{{< tweet "1453110110599868418" >}}
 
 You can outsource the hard work of time tracking to your phone using iOS automations.
 
