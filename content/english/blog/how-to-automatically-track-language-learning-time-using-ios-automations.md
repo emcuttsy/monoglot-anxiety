@@ -26,9 +26,9 @@ No, the the problem isn't that there aren't good time tracking tools. The proble
 
 I'm not very organized. The only reason I can learn languages successfully is because languages are one of the few magical things in this universe that don't require focused, structured practice to get good at. 
 
-Needless to say, it isn't natural for me to consistently start and stop a time tracker whenever I do anything.
+Needless to say, it isn't natural for me to start and stop a time tracker whenever I do anything.
 
-Thankfully, internet strangers are far more clever than I am and someone figured out a great solution: iOS automations.
+Thankfully, internet strangers are far more clever than I am and someone figured out a solution: iOS automations.
 
 **iOS automations can make it practically effortless to track time you spend learning languages using your phone.** You can essentially outsource the hard work of remembering to operate your time tracking app of choice to your phone.
 
