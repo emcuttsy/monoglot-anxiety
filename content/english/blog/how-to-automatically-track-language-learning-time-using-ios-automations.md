@@ -88,7 +88,7 @@ Use the "Choose from Menu" action to set up your dropdown menu. Make an option f
 
 If you use automations to track time in more than one app, it might be worth setting up a shortcut for choosing a language and starting an appropriate Toggl timer that you can reuse in your automations. This will save you time if you ever want to add or remove a language from your dropdown menu — instead of updating every automation, you can simply update the shared shortcut once.
 
-See below for an example of how this can work.
+See the example at the end of this post to get an idea of how this can work.
 
 Using a shared Shortcut for selecting your language also opens up some fun options for setting up other kinds of automations and shortcuts that help with time tracking.
 
@@ -176,7 +176,7 @@ Having a Toggl widget on my Home Screen right next to my language tracking butto
 
 ## Example Toggl Tracker Shortcuts
 
-Here are a few example shortcuts showing different ways to automatically track time spent on language learning
+Here are a few example shortcuts showing different ways to automatically track time spent on language learning. Let me know if you find any errors!
 
 * [Duolingo tracker with language dropdown](https://www.icloud.com/shortcuts/654e3b686bea4e33a68a36776f6301a8)
   * Automation: When Duolingo opened, run this shortcut
@@ -190,3 +190,15 @@ Using shared language dropdown + start Toggl tracker shortcut
   * Automation: when Snipd (podcast player) opened, run this shortcut
 
 Remember to set up automations to stop your time tracker timers when you close apps!
+
+## How do you track your language learning time? If at all?
+
+How do you track your time spent on language learning? I'm finding that this system works great for me — great as in I _am actually using it halfway effectively_. 
+
+Do you have any fun shortcuts that help you track your time? Do you use an app other than Toggl? I'd love to hear about what you do differently — and quite probably better — than me!
+
+And finally, in case you're curious... here is my tracked time for the last 3 days. I'm taking a German Intensive Course right now which is why I have 3 hours of lessons in the mix (today is Monday). Podcast hours can really rack up quickly.
+
+<center>
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/Screen Shot 2022-09-12 at 16.23.48.png)</center>
