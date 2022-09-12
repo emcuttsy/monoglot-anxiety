@@ -201,4 +201,4 @@ And finally, in case you're curious... here is my tracked time for the last 3 da
 
 <center>
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/Screen Shot 2022-09-12 at 16.23.48.png)</center>
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/togglscreencap.jpg)</center>
