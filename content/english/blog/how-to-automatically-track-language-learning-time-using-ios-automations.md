@@ -44,7 +44,11 @@ It's that simple! Your phone will do the hard work of remembering to run your sh
 
 Credit where credit is due: thank you to [Tanya](https://twitter.com/botanechka) on Twitter for the idea to use iOS automations to operate a time tracking app.
 
+<center>
+
 {{< tweet "1564938702115184640" >}}
+
+</center>
 
 ### Example: Automatically track time spent listening to podcasts in your target language
 
