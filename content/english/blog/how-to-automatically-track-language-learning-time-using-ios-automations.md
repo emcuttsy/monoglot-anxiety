@@ -1,7 +1,7 @@
 +++
 author = "Elise Cutts"
-categories = []
-date = ""
+categories = ["Tips and Strategies", "Language Learning"]
+date = 2022-09-12T14:00:00Z
 description = "You can use iOS automations to automatically start and stop time tracking apps like Toggl when you open and close language learning apps — and much more!"
 draft = true
 enableComments = true
@@ -9,7 +9,7 @@ images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/timetracki
 sidebar = "right"
 subtitle = "You can use iOS automations to automatically start and stop time tracking apps like Toggl when you open and close language learning apps — and much more!"
 summary = "You can use iOS automations to automatically start and stop time tracking apps like Toggl when you open and close language learning apps — and much more!"
-tags = []
+tags = ["Language Learning Tech", "Organization"]
 title = "How to automatically track language learning time using iOS automations"
 type = "featured"
 
