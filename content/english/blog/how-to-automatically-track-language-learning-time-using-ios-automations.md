@@ -80,19 +80,23 @@ If you're learing more than one language, you can add a step to your iOS automat
 
 Use the "Choose from Menu" action to set up your dropdown menu. Make an option for each language you'd like to track. Then add appropriate time tracking actions for each of the language menu options. For instance, if I select "German" from the menu, my shortcut starts a Toggl timer for "Podcasts" in the "German" project.
 
-If you use automations to track time in more than one app, it might be worth setting up a shortcut for choosing a language and starting an appropriate Toggl timer that you can reuse in your automations. This will save you time if you ever want to add or remove a language from your dropdown menu — instead of updating every automation, you can simply update the shared shortcut once.
-
-Here's what my "universal" language-selection dropdown + start Toggl timer shortcut looks like:
-
 <center>
- 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/universal-menu.png)
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/dropdownshortcut.png)
 
 </center>
+
+If you use automations to track time in more than one app, it might be worth setting up a shortcut for choosing a language and starting an appropriate Toggl timer that you can reuse in your automations. This will save you time if you ever want to add or remove a language from your dropdown menu — instead of updating every automation, you can simply update the shared shortcut once.
+
+See below for an example of how this can work.
 
 Using a shared Shortcut for selecting your language also opens up some fun options for setting up other kinds of automations and shortcuts that help with time tracking.
 
 For instance, I created a button on my phone's Home Screen that makes it easier to track language learning activities that don't have their own app. When I tap the button, I'm prompted to choose a language (using the "Choose language" Shortcut) and then select an activity from a dropdown list. The Shortcut starts an appropriate time entry in Toggl and I use another, adjacent button to easily stop tracking once I finish.
+
+<center>
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/button0.png)![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/button1.png)</center>
 
 ## Tips for Toggl-based shortcuts
 
@@ -140,11 +144,19 @@ For podcast apps, I think it makes sense to ask before starting or stopping a To
 
 This is all pretty abstract, so here's an example of how this can work. I set up a universal "Language Dropdown Menu" shortcut for my Toggl-based time tracking automations.
 
-[Click here to see the shortcut.](https://www.icloud.com/shortcuts/86789424564f4cea9cf986dd5ab0a854)
+Here's what it looks like:
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/universal-menu.png)
+
+When it runs, it just opens up a dropdown menu of languages and then starts the appropriate Toggl Timer based on whatever activity it receives as input to the description field (i.e., Video, Formal Study, etc.)
 
 This saves me time because I don't need to set up dropdown menus for every shortcut I create — my automations tracking Duolingo, Speakly, and my podcast app all share the same same dropdown menu shortcut.
 
-Quick tip: shortcuts can take input from automations. Just select "What's Onscreen" as the source of your shortcut's input. It's a weird name but it just means "whatever the other app you called this shortcut from passes into it"
+{{<notice note "Shortcut inputs and automations running shortcuts">}}
+
+Automations can run shortcuts and shortcuts can take input from automations and other shortcuts. To give your shortcut an input from another shortcut or automation, use "Shortcut Input" as a variable to fill some field in your automation and select "What's Onscreen" as the source of input. It's a weird name but it just means "whatever the other app you called this shortcut from passes into it"
+
+{{</ notice >}}
 
 My Toggl tracking for language learning is rather basic and only has two organizational layers — Languages (projects) and categories like Podcasts, Lessons, etc., which I set as descriptions. Toggl lets you easily search by description so I'm just consistent in my naming scheme. You'll need to set up a more sophisticated dropdown shortcut with a lot of conditional statements if you use a more complicated system with tags and tasks.
 
