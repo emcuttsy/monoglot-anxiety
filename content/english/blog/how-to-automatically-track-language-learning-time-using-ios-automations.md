@@ -18,13 +18,13 @@ I'm often asked how much time I spend on language learning. This is a good quest
 
 Unfortunately, I don't really have any idea. People who ask me about the time I spend on language learning usually end up receiving some totally unhelpful answer like "a lot."
 
-It's not that I wouldn't like to know — I'm just quite bad at tracking time. 
+It's not that I wouldn't like to know — I'm just quite bad at tracking time.
 
 The problem isn't that there aren't good tools for this — these days there are plenty of great services built to help record every second you spend on every task imaginable. Plenty of people in the language learning community and beyond use these apps to catalogue their time with intimidating accuracy.
 
 So no, the problem isn't the tools. The problem is bothering to actually use the tools.
 
-I'm definitely on the chaotic side of the [D&D alignment chart](https://dungeonsdragons.fandom.com/wiki/Alignment) and — despite my desperate wish otherwise — am unfortunately rather allergic to organizaiton. The only reason I can learn languages successfully is because languages are one of the few magical things in this world that don't require focused, structured work to get good at. 
+I'm definitely on the chaotic side of the [D&D alignment chart](https://dungeonsdragons.fandom.com/wiki/Alignment) and — despite my desperate wish otherwise — am unfortunately rather allergic to organization. The only reason I can learn languages successfully is because languages are one of the few magical things in this world that don't require focused, structured work to get good at.
 
 Needless to say, it isn't natural for me to start and stop a time tracker whenever I do anything.
 
@@ -38,7 +38,7 @@ You can set up iOS automations to automatically start and stop your time trackin
 
 Shortcuts are no-code programs that let you automate repetitive tasks on your iPhone. Automations are shortcuts that run when certain events or "triggers" occur — like opening a specific app. You can run shortcuts from within automations.
 
-For instance, you could create an automation to automatically start a Toggl timer for Duolingo when you open the Duolingo app. Using another automation, you could automatically stop the timer once you close Duolingo. 
+For instance, you could create an automation to automatically start a Toggl timer for Duolingo when you open the Duolingo app. Using another automation, you could automatically stop the timer once you close Duolingo.
 
 It's that simple! Your phone will do the hard work of remembering to run your shortcut for you.
 
@@ -60,7 +60,7 @@ First, open the Shortcuts app and create a new Automation. Set the automation to
 
 Then add a Toggl "Start Time Entry" action and set the description and project. In this example, the description is "Podcasts" and the project is "German," because I'm learning German. You can also set a task for the time entry, assign it tags, and designate it as billable or non-billable by clicking the little blue arrow next to the project field.
 
-You can then decide whether you want the automation to run automatically or to ask you first before running. 
+You can then decide whether you want the automation to run automatically or to ask you first before running.
 
 <center>
 
@@ -72,19 +72,23 @@ You can then decide whether you want the automation to run automatically or to a
 
 If you're learing more than one language, you can add a step to your iOS automations that prompts you to select the language you'd like to track from a dropdown menu.
 
+<center>
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/dropdown.png)
+
+</center>
+
 Use the "Choose from Menu" action to set up your dropdown menu. Make an option for each language you'd like to track. Then add appropriate time tracking actions for each of the language menu options. For instance, if I select "German" from the menu, my shortcut starts a Toggl timer for "Podcasts" in the "German" project.
 
 If you use automations to track time in more than one app, it might be worth setting up a shortcut for choosing a language and starting an appropriate Toggl timer that you can reuse in your automations. This will save you time if you ever want to add or remove a language from your dropdown menu — instead of updating every automation, you can simply update the shared shortcut once.
 
-{{<notice note "Should automations run automatically or ask first?">}}
+Here's what my "universal" language-selection dropdown + start Toggl timer shortcut looks like:
 
-If you tell your automation to ask before running, you'll get a push notification every time your automation is triggered that you can tap to run it. 
+<center>
+ 
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/universal-menu.png)
 
-This doesn't actually gunk up the "automatic" feel of the automations that much, and I recommend having certain automations ask before running. 
-
-For podcast apps, I think it makes sense to ask before starting or stopping a Toggl timer since we often open other apps while listening to podcasts. But for apps like Duolingo that we can only actively use while they're open, it's probably fine to just let automations run on their own.
-
-{{</ notice >}}
+</center>
 
 Using a shared Shortcut for selecting your language also opens up some fun options for setting up other kinds of automations and shortcuts that help with time tracking.
 
@@ -122,6 +126,16 @@ Confused? In practice, this means that you cannot use "Choose from List" to choo
 
 The "Description" field does accept text inputs, however. This means that you can use the "Choose from List" action to set the names of your Toggl tasks.
 
+{{<notice note "Should automations run automatically or ask first?">}}
+
+If you tell your automation to ask before running, you'll get a push notification every time your automation is triggered that you can tap to run it.
+
+This doesn't actually gunk up the "automatic" feel of the automations that much, and I recommend having certain automations ask before running.
+
+For podcast apps, I think it makes sense to ask before starting or stopping a Toggl timer since we often open other apps while listening to podcasts. But for apps like Duolingo that we can only actively use while they're open, it's probably fine to just let automations run on their own.
+
+{{</ notice >}}
+
 ### Example: Universal "Language Dropdown Menu" Shortcut for Toggl-Based Time Tracking Automations
 
 This is all pretty abstract, so here's an example of how this can work. I set up a universal "Language Dropdown Menu" shortcut for my Toggl-based time tracking automations.
@@ -152,22 +166,15 @@ Having a Toggl widget on my Home Screen right next to my language tracking butto
 
 Here are a few example shortcuts showing different ways to automatically track time spent on language learning
 
--   [Duolingo tracker with language dropdown](https://www.icloud.com/shortcuts/654e3b686bea4e33a68a36776f6301a8)
-    
-    -   Automation: When Duolingo opened, run this shortcut
-        
+* [Duolingo tracker with language dropdown](https://www.icloud.com/shortcuts/654e3b686bea4e33a68a36776f6301a8)
+  * Automation: When Duolingo opened, run this shortcut
 
 Using shared language dropdown + start Toggl tracker shortcut
 
--   [Shared language dropdown + start Toggl timer shortcut](https://www.icloud.com/shortcuts/2de7d367632c4a46b5097e4876c07897)
-    
--   [Duolingo tracker using shared language dropdown menu](https://www.icloud.com/shortcuts/cc59c21e6fdd43a19a3285982773f16f)
-    
-    -   Automation: when Duolingo opened, run this shortcut
-        
--   [My personal podcast tracker with option for listening to English podcasts](https://www.icloud.com/shortcuts/4f46ae4298f9404ea2c79a3ebce4502d)
-    
-    -   Automation: when Snipd (podcast player) opened, run this shortcut
-        
+* [Shared language dropdown + start Toggl timer shortcut](https://www.icloud.com/shortcuts/2de7d367632c4a46b5097e4876c07897)
+* [Duolingo tracker using shared language dropdown menu](https://www.icloud.com/shortcuts/cc59c21e6fdd43a19a3285982773f16f)
+  * Automation: when Duolingo opened, run this shortcut
+* [My personal podcast tracker with option for listening to English podcasts](https://www.icloud.com/shortcuts/4f46ae4298f9404ea2c79a3ebce4502d)
+  * Automation: when Snipd (podcast player) opened, run this shortcut
 
 Remember to set up automations to stop your time tracker timers when you close apps!
