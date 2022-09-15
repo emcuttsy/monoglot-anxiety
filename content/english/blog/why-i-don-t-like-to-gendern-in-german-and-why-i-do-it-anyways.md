@@ -14,19 +14,19 @@ title = "Why I don't like to \"gendern\" in German — and why I do it anyways"
 type = ""
 
 +++
-Today in German class, I had an interesting conversation with my teacher about _gendern_ in German — a relatively new practice of specifically using  both the masculine and feminine forms of words describing people (and sometimes symbols to represent third genders) instead of the generic masculine.
+I recently had conversation with my German teacher about _gendern_  — using both the masculine and feminine forms of German words describing people (and sometimes symbols to represent third genders) instead of the generic masculine. 
 
-This is considered more socially progressive because it doesn't treat masculine forms as the default and explicitly includes women. Directly translated to English, it'd be like saying "male astronauts and female astronauts" instead of just "astronauts."
+_Gendern_ is considered inclusive in German because it doesn't treat masculine forms as the default and explicitly includes women. Directly translated to English, it'd be like saying "male astronauts and female astronauts" all the time instead of just "astronauts."
 
-The thing is, I _really_ don't like to gendern — not because I think women don't matter (I consider myself a feminist) and not just because it makes German sentences so clunky that practically nobody _gendern_-s in casual speech.
+The thing is, I _really_ don't like to gendern — not because I think women should just roll over and accept male dominance in language... and also not (only) because _gendern_ makes German sentences so clunky that practically nobody bothers with it casual speech.
 
-Really, I don't like _gendern_ because, as an English-speaking woman, it rubs my feminist instincts when it comes to language the wrong way.
+I don't like to _gendern_ because, as an anglophone, it rubs my feminist instincts the wrong way.
 
-Why, my thinking goes, is it helpful to further emphasize the division between men and women by constantly saying things like "male doctors and female doctors" instead of just "doctors?" Why do I need to call myself a "female journalist" every time I talk about my job? Why can't I just be a journalist? We don't make men call themselves "male journalists" all the time.
+Why, my thinking goes, should we _further_ emphasize the division between men and women by constantly saying things like "male doctors and female doctors" instead of just "doctors?" Why do I need to call myself a "female journalist" all the time? As an English speaker, it feels uncomfortable and regressive to me to — albeit indirectly — highlight my sexual biology whenever I describe my job.
 
-Of course, my German teacher, a native German speaker from Austria, felt the exact opposite. To her, not using the feminine forms feels like erasing women from existence.
+Of course, my German teacher, a native German speaker from Austria, feels the exact opposite. To her, not using the feminine forms feels like erasing women from existence.
 
-I found this mismatched perception fascinating and wanted to dig into it a bit more. This post explains what "gendern" is in German, why people do it, and why I find it uncomfortable — but still do it anyways.
+I found this mismatched perception fascinating and wanted to dig into it a bit more. This post explains what _gendern_ is in German, why people do it, and why I find it uncomfortable — but still do it anyways.
 
 ## Grammatical gender in German
 
@@ -38,13 +38,19 @@ Mark Twain famously lamented this in his essay _The Awful German Language:_
 
 > Every noun has a gender, and there is no sense or system in the distribution; so the gender of each must be learned separately and by heart. There is no other way. To do this one has to have a memory like a memorandum-book. In German, a young lady has no sex, while a turnip has. Think what overwrought reverence that shows for the turnip, and what callous disrespect for the girl.
 
-Long story short, it's basically impossible to talk about anything in German without its grammatical gender coming into play.
+Long story short, it's basically impossible to talk about anything in German without its grammatical gender coming into play. 
+
+The gender of words for people almost always lines up with the biological sex of the person you're talking about. Women get feminine nouns, men get masculine ones. This means it's basically impossible to talk about someone without bringing their sex into the conversation.
+
+For specific people this isn't usually an issue because you know their sex. But when you're talking about "doctors," "politicians," or other groups of people _in general_ things get tricky, fast.
 
 ### The generic masculine
 
-German words for people like "doctor," "artist," and "murderer" are almost always masculine in their base or "generic" form.
+Why is it hard to talk about types of people — like "doctors," "artists," and "murderers" — in general in German? 
 
-To talk about a female doctor, artist, or tyrant, you'd need to change the word by adding the suffix _-in_ and sometimes making some other small changes.
+The problem is rather straightforward: German words for people are almost always masculine in their base or "generic" form.
+
+To talk about a female doctor, artist, or murder, you'd need to change the word by adding the suffix _-in_ and sometimes making some other small changes.
 
 Here are a few examples:
 
@@ -72,13 +78,17 @@ A group of doctors that is...
 * 99 women + 1 man: _Ärzte_ (masculine, plural)
 * 100 women: _Ärztinnen_ (feminine, plural)
 
-Notice how a mixed group always takes the masculine form, even if it is mostly women.
+A mixed group always takes the masculine form, even if it is mostly women.
 
-Even further — and more important for understanding _gendern_ — is the concept of the **generic masculine**.
+If you're talking about the concept of "doctor" or "doctors" in general (i.e., when sex isn't known or doesn't matter), the traditional solution is to use the **generic masculine comes.**
 
-Essentially, when speaking in general about the concept of "doctor" or "doctors," or about some undetermined doctor whose gender isn't known or important, you'd use the masculine _Arzt_ or _Ärzte_ (plural).
+The generic masculine is the use of masculine words to describe concepts in general or groups of people whose gender isn't known (or mixed groups). For instance, to speak about the concept of "doctor" or "doctors," or about some undetermined doctor whose gender isn't known or important, you'd use the masculine _Arzt_ or _Ärzte_ (plural) — even if you don't only have males in mind.
 
-But while masculine words can refer to women, feminine words can _only_ refer to women. When used to speak in general about groups or individuals, they're restricted to only female people:
+But while the generic masculine can include women, feminine words almost always _only_ refer to women and cannot by any stretch of the imagination include men. 
+
+Basically, masculine is to rectangle as feminine is to square  — masculine words describe the general category to which the feminine special cases belong.
+
+Confused? Maybe this helps:
 
 The concept "doctors" in general: _Ärzte_ (masculine, plural)
 The concept of "female doctors" in general: _Ärztinnen_ (feminine, plural)
@@ -89,13 +99,13 @@ Because the masculine is generic, to talk about "male doctors" specifically, you
 
 ## Gendern - what is it?
 
-Many German speakers rightfully felt that using the generic masculine and specific feminine forms this way erases women, even if they're techincally "meant-together" (_mitgemeint_) in the generic masculine.
+Many German speakers rightfully feel that this system erases women, even if they're technically "meant-together" (_mitgemeint_) in the generic masculine.
 
 The solution is to _gendern_.
 
 _Gendern_ — from the English word _gender_, which didn't exist in German until recently — is the practice of explicitly including both the male and female forms of words for people in written, and sometimes spoken language.
 
-In some cases, people also use special punctuation marks and insert otherwise unnatural stops into their speech to include certain trans people as well.
+In some cases, people also use special punctuation marks and insert pauses into their speech to include certain trans people as well.
 
 ### What would gendern look like in English?
 
@@ -124,9 +134,11 @@ With _gendern_:
 * A good teacher: _eine gute Lehrerin oder ein guter Lehrer_
 * The teachers: _die Lehrerinnen und Lehrer_
 
-Because writing out all this is clunky and long, German speakers use a lot of abbreviations in writing to get around the problem. They are also starting to use special characters like * and : to represent nonbinary identities.
+In the first case of "the teacher," you go from 2 words to 5 and from 3 syllables to 9 when you _gendern_ instead of using the generic masculine.
 
-There's a good summary on [this webpage](https://www.dialog-wien.at/ueber-uns/blog/what-is-gendern-in-german/). But here are some examples of how you'll see _gendern_ abbreviated in text — and really just in text, this stuff is downright unpronouncable:
+German speakers use a lot of abbreviations in writing to get around the clunkiness of _gendern_. They also use special characters like * and : to represent nonbinary identities.
+
+There's a good summary on [this webpage](https://www.dialog-wien.at/ueber-uns/blog/what-is-gendern-in-german/). But here are some examples of how you'll see _gendern_ abbreviated in text — and really, almost exclusively in text. This stuff is not pronunciation-friendly.
 
 Generic masculine:
 
@@ -137,31 +149,37 @@ Generic masculine:
 With _gendern_:
 
 * The worker (women + men): _die/der ArbeiterIn_
-* The worker (+ nonbinary): _die*der Arbeiter*in_ OR _Arbeiter:in_
+* The worker (+ nonbinary): _dieder Arbeiter_in OR _Arbeiter:in_
 * A good worker (women + men): _ein/e gut/er ArbeiterIn_
-* A good worker (+ nonbinary): _ein*e gut*er Arbeiter*in_ OR _Arbeiter:in_
+* A good worker (+ nonbinary): _eine gut_er Arbeiter*in OR _Arbeiter:in_
 * The workers (women + men): _die ArbeiterInnen_
 * The workers (+ nonbinary): _die Arbeiter*innen_ OR _Arbeiter:innen_
 
 ## My problem with _gendern_
 
-Although _gendern_ is meant to make women feel included, I really don't like it. I also really don't like having to use feminine versions of words for people whenever I describe myself.
+Although _gendern_ is meant to make women feel included, I really don't like it. I also really don't like having to use special feminine versions of words for people whenever I describe myself.
 
-Why? Do I think being female makes me less valuable somehow?
+Why? Do I think the feminine forms are somehow lesser?
 
-Absolutely not. But you're being willfully ignorant if you insist that the forms are equal, linguistically, and will ever feel equal — the masculine forms are obviously the base form. They are shorter, easier to pronounce, simpler forms from which the female versions are derived.
+I don't think women are lesser or that being a "woman journalist" is somehow less than being a "man journalist." But you're being willfully ignorant if you insist that the feminine and masculine forms are equal in meaning and perception — the masculine forms are obviously the base form. They are shorter, easier to pronounce, and simpler and the female versions are clearly derived from them and not the other way around.
 
-I don't like to _gendern_ because I feel like it forces me to explicitly bring attention to my sex all the time even though it isn't — and shouldn't be — relevant most of the time.
+Also, the masculine forms _can_ be generic, while the feminine forms almost always _cannot_ be. Men get to refer to themselves using words that, in everyday German, refer to whole categories including both men and women. Meanwhile, women must use the words that refer only to women.
 
-Men get to describe themselves in words that are far more neutral. Although grammatically masculine, they are clearly the base form and can — and are _frequently_, especially in everyday speech — used generically to refer to men, women, and the concept the word represents in general.
+**I also don't like to _gendern_ because I feel like it forces me to explicitly bring attention to my sex all the time even though it isn't — and shouldn't be — relevant most of the time.**
+
+Men get to describe themselves in words that are far more neutral. While _Journalisten_ can mean "male journalists," it also frequently refers to the concepts of journalists in general and therefore doesn't highlight sex as explicitly as the feminine _Journalistinnen_ does — at least in my experience (and what one would infer from the existence of the generic masculine).
+
+### My native language influences how I perceive grammatical gender in German
 
 In English, very few words for people have explicitly feminine forms. "Actor" and "actress" are the only common pair that come to mind for me, though there (very) outdated feminine forms like "doctoress" and "authoress" do exist.
 
 This means that even though the "generic" words for doctor, lawyer, runner, author, etc. in English derive from the masculine forms of the words, they don't _feel_ masculine. They feel like... nothing. They don't have a sex baked in.
 
-This is why using the explicitly feminine forms feels like it unnecessarily highlights someone's female-ness in situations where sex has nothing to do with anything — it feels backwards, not progressive. Turned around, this is also the reason saying "male nurse" when a nurse's gender isn't important feels cringe.
+I think this is why using the explicitly feminine forms feels to me like it unnecessarily highlights someone's female-ness in situations where sex has nothing to do with anything — it feels backwards to me, not progressive. 
 
-So while German has decided to explicity gender everything, English went the other way: the trend in English has been to drop what few explicitly feminine titles that still exist (like actress) and use the same words to describe men and women whenever possible.
+Turned around, this is also the reason saying "male nurse" in English when a nurse's gender isn't important feels cringe.
+
+Other English-speaking women seem to feel similarly and I presume this is why   while German continues to go about gendering everything in the name of equality, English is going the other way: **the trend in English has been to drop what few explicitly feminine titles that still exist (like actress) and use the same words to describe men and women whenever possible.**
 
 ## How I wish it worked: how German handles gender mismatch for animals
 
@@ -179,15 +197,19 @@ But in everyday speech, you're just not going to hear people use these forms, ev
 
 Instead, the way this usually plays out in conversation when talking about an animal whose sex you know is the opposite of its grammatical gender is something like this:
 
-Stranger: Your **dog (masculine)** ist very cute. What breed is **he (masculine)**?
-Me: Thank you! **She's (feminine)** a **German Shepherd (masculine).**
-Stranger: **She's (feminine)** really pretty. What a **good girl (neuter)**!
+A: Your **dog (masculine)** ist very cute. What breed is **he (masculine)**? 
+
+B: Thank you! **She's (feminine)** a **German Shepherd (masculine).**
+
+A: Stranger: **She's (feminine)** really pretty. What a **good girl (neuter)**!
 
 And in German:
 
-_Fremder:_ **Dein Hund** ist sehr süß. Was für eine Rasse ist **er**?
-_Ich_: Danke! **Sie** ist **ein** **Deutscherschäferhund.**
-_Fremder:_ **Sie** ist wirklich schön. Was für ein **braves Mädchen**!
+_A:_ **Dein Hund** ist sehr süß. Was für eine Rasse ist **er**?
+
+_B_: Danke! **Sie** ist **ein** **Deutscherschäferhund.** 
+
+_A:_ **Sie** ist wirklich schön. Was für ein **braves Mädchen**!
 
 When talking about an animal whose sex you know, you'd use the corresponding masculine or feminine pronoun to talk about them. The species name is simply the name of the category to wich the animal belongs and its grammatical gender doesn't need to match the animal's sex.
 
@@ -195,9 +217,9 @@ Something similar happens when you use metaphors to compare people to an inanima
 
 This is basically how I wish it would work with gendered job titles and most other words for types of people  in German. The base form (which is almost always grammatically masculine) would be a category name like an animal species name. Saying I'm a journalist would look like this:
 
-Stranger: What do you do?   
+Stranger: What do you do?  
 Me: I'm a **journalist (masculine)  
-** Stranger: Cool, my **sister(feminine)** and my **brother(masculine)** are also **journalists(masculine)**!
+\** Stranger: Cool, my **sister(feminine)** and my **brother(masculine)** are also **journalists(masculine)**!
 
 _Fremder: Was machst du beruflich?_
 _Ich: Ich bin Journalist_
@@ -211,7 +233,7 @@ Unlike in English, almost all German words for people have either masculine or f
 
 And I mean nearly every word for people, not just job titles. I jokingly called myself a "tyrant," a _Tyrann_ today in German class and my teacher corrected me to the feminine _Tyrannin_.
 
-Because the feminine forms of German words for people exist and are used so often, hearing the "generic" masculine form doesn't sound generic like it does in English — it sounds masculine.
+**Because the feminine forms of German words for people exist and are used so often, the "generic" masculine form doesn't sound generic like it does in English — it sounds masculine.**
 
 While "Journalisten" sounds like journalists to me , it sounds like "male journalists, and _maybe_ women if you remember they also exist" to many German speakers.
 
@@ -229,7 +251,7 @@ So, lean harder into the male/female distinction in job titles and normalize use
 
 I find the second solution uncomfortable because I don't think my sex is relevant in most context and it feels weird to me to — albiet indirectly — bring my sex organs into the discussion. I do the same work as a male journalist, so why should we use different words to describe the same work?
 
-Ultimately, it's not my opinion that matters, though. How German tickles my anglophone reflexes is not the point — it's what German-speaking people feel.
+**Ultimately, it's not my opinion that matters, though. How German tickles my anglophone reflexes is not the point — it's what German-speaking people feel.**
 
 And I certainly understand why someone who grew up speaking a thoroughly gendered language in which the masculine clearly dominates would think "hey,  isn't it about time that you include the women for once!"
 
@@ -240,5 +262,3 @@ That's why I _do_ _gendern_. Even if it gives me a bit of a stomachache.
 I'd love to hear what you think about this. If you're learning German, do you find _gendern_ uncomfortable, too? How is gender-inclusive language handled in your native language or target languages? If you speak German, how well do you think the current solutions for inclusive language work in German?
 
 Let me know in the comments below. Or shoot an email off to hello@monoglotanxiety.com or DM me on Twitter at @elisecutts.
-
-Happy _gendern_-ing!
