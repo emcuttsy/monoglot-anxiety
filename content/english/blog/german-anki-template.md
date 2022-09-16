@@ -1,23 +1,24 @@
 ---
-title: "The best German Anki template ever. Probably."
-subtitle: "Automatically color-code nouns by gender, highlight irregular verbs, and generate cloze deletions from example sentences without an extra click. Supports images and audio."
-date: 2021-02-28T15:40:24+06:00
-# post thumb
+title: The best German Anki template ever. Probably.
+subtitle: Automatically color-code nouns by gender, highlight irregular verbs, and
+  generate cloze deletions from example sentences without an extra click. Supports
+  images and audio.
+date: 2021-02-28T15:40:24.000+06:00
 images:
-  - "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/03/01/ankibanner.jpg"
-#author
-author: "Elise Cutts"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["Language Learning", "German"]
-tags: ["learn german","anki"]
-type: "featured" # available type (regular or featured)
-draft: false
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/03/01/ankibanner.jpg
+author: Elise Cutts
+description: This is meta description
+categories:
+- Language Learning
+- German
+tags:
+- learn german
+- anki
+type: ''
 sidebar: right
 enableComments: true
----
 
+---
 After almost a year of experimentation, I'm finally satisfied enough with my German Anki template to dare to think it might be useful for others. So in the spirit of Mads Mikkelsen advertising a [pretty mediocre Danish beer](https://www.youtube.com/watch?v=jEKLwFdntPs) as "probably the best beer in the world," I'll say that this is "probably the best German Anki template on the internet." **You can [download it for free](https://gum.co/saHJaW).**
 
 Emphasis on probably.
@@ -116,4 +117,3 @@ Tell me if you find more or if you come up with a fix! Email hello@monoglotanxie
 
 
 <br>
-
