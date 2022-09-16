@@ -13,7 +13,7 @@ title = "Why I don't like to \"gendern\" in German — and why I do it anyways"
 type = "featured"
 
 +++
-I recently had conversation with my German teacher about _gendern_  — an attempt at making the heavily gendered German language more inclusive of women and sometimes third genders.
+I recently had conversation with my German teacher about _gendern_  — an attempt at making the heavily gendered German language more inclusive of women and sometimes also of other genders.
 
 Every word in German has grammatical gender. Most words for people like "doctor" or "actor" have a feminine version used for women and a masculine version used for men — and as a "generic masculine" for mixed groups of men and women and to refer to the concept in general.
 
@@ -259,9 +259,9 @@ So, lean harder into the male/female distinction in job titles and normalize use
 
 ### Why I _gendern_, anyways
 
-I find the German philosophy on gender-inclusive language uncomfortable because it's basically the exact opposite of the one I grew up with as an English speaker. 
+I find the German philosophy on gender-inclusive language uncomfortable because it's basically the exact opposite of the one I grew up with as an English speaker.
 
-But I don't feel it's really isn't my place to have strong opinions on what's inclusive when I'm a "guest" in a new language. It's all fun and games to imagine using German words for people the way animal species names work, but it's just that — a fun thought experiment. It's not something I'd ever try to convince anyone to adopt. 
+But I don't feel it's really isn't my place to have strong opinions on what's inclusive when I'm a "guest" in a new language. It's all fun and games to imagine using German words for people the way animal species names work, but it's just that — a fun thought experiment. It's not something I'd ever try to convince anyone to adopt.
 
 **Ultimately, it's not my opinion that matters: how German tickles my anglophone reflexes is not the point. It's what German-speaking people feel.**
 
