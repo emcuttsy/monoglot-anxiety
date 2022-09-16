@@ -2,12 +2,12 @@
 author = "Elise Cutts"
 categories = ["German", "Opinion and Analysis"]
 date = 2022-09-16T16:00:00Z
-description = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive — many German speakers feel exactly the opposite"
+description = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive. Many German speakers feel exactly the opposite"
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/gendern.png"]
 sidebar = "right"
 subtitle = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive. Many German speakers feel exactly the opposite"
-summary = ""
+summary = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive. Many German speakers feel exactly the opposite"
 tags = ["Learn German", "Inclusive Language", "Politics"]
 title = "Why I don't like to \"gendern\" in German — and why I do it anyways"
 type = "featured"
