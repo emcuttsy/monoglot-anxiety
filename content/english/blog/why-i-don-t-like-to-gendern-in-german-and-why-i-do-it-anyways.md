@@ -168,7 +168,7 @@ I don't see my sex as relevant in most contexts and it feels very, very weird to
 
 In English, very few words for people have explicitly feminine forms. "Actor" and "actress" and "waiter" and "waitress" are the only common pairs that come to mind for me, [though there are a few others. ](https://www.google.com/search?client=safari&rls=en&q=feminine+and+masculine+job+words+english&ie=UTF-8&oe=UTF-8)In the past, there were more — "doctoress" was really an English word. But most of these forms are very outdated now.
 
-This means that even though the "generic" words for doctor, lawyer, runner, author, etc. in English derive from the masculine forms of the words, they don't _feel_ masculine. They feel like... nothing. They don't have a sex baked in.
+This means that even though the "generic" words for doctor, lawyer, runner, author, etc. in English used to pretty much only refer to men, they don't _feel_ masculine. They feel like... nothing. Today, they don't have a sex baked in.
 
 I think this is why using the explicitly feminine forms in German feels like it unnecessarily highlights people's female-ness in situations where sex has nothing to do with anything — it feels backwards to me, not progressive.
 
