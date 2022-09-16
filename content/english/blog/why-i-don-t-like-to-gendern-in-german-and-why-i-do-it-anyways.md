@@ -1,17 +1,17 @@
 +++
-author = ""
-categories = []
+author = "Elise Cutts"
+categories = ["German", "Opinion and Analysis"]
 date = ""
 description = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive — many German speakers feel exactly the opposite"
 draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/gendern.png"]
 sidebar = "right"
-subtitle = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive — many German speakers feel exactly the opposite"
+subtitle = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive. Many German speakers feel exactly the opposite"
 summary = ""
-tags = []
+tags = ["Learn German", "Inclusive Language", "Politics"]
 title = "Why I don't like to \"gendern\" in German — and why I do it anyways"
-type = ""
+type = "featured"
 
 +++
 I recently had conversation with my German teacher about _gendern_  — an attempt at making the heavily gendered German language more inclusive of women and sometimes third genders.
