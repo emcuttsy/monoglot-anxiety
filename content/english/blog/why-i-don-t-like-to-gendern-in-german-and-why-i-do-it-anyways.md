@@ -1,7 +1,7 @@
 +++
 author = "Elise Cutts"
 categories = ["German", "Opinion and Analysis"]
-date = ""
+date = 2022-09-16T16:00:00Z
 description = "As an English native speaker, explicitly calling out that I'm female all the time feels more backwards than progressive — many German speakers feel exactly the opposite"
 draft = true
 enableComments = true
