@@ -76,10 +76,10 @@ Basically, masculine is to rectangle as feminine is to square  — masculine wor
 
 Confused? Maybe this helps:
 
-The concept "doctors" in general: _Ärzte_ (masculine, plural)
-The concept of "female doctors" in general: _Ärztinnen_ (feminine, plural)
-The concept of "doctor" in general: _Arzt_ (masculine, singular)
-The concept of "female doctor" in general: _Ärztin_ (feminine, singular)
+* The concept "doctors" in general: _Ärzte_ (masculine, plural)
+* The concept of "female doctors" in general: _Ärztinnen_ (feminine, plural)
+* The concept of "doctor" in general: _Arzt_ (masculine, singular)
+* The concept of "female doctor" in general: _Ärztin_ (feminine, singular)
 
 Because the masculine is generic, to talk about "male doctors" specifically, you'd either need to make your usage clear from context or say something like _männliche Ärzte_ — male (male) doctors.
 
