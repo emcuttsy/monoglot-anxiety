@@ -26,8 +26,10 @@ type = ""
 
 * **Started learning:** Spring 2019
 * **Start of latest study period:** Spring 2019
-* **Learner resources: apps:** [Speakly](https://www.speakly.me/) 10 words/day; **exchange:** 1/wk exchange partner, [Slowly](https://slowly.app/en/) penpals
-* **Native content:** **audio:** ORF (Austrian public radio); **books:** [Drachenfeuer by Wolfgang Hohlbein](https://www.amazon.com/Drachenfeuer-Wolfgang-Hohlbein/dp/3453180895); **news/magazines:** ORF.at, _Der Standard;_ **TV/movies:** [_Roman Empire_](https://www.netflix.com/dk-en/title/80096545) German dub, Servus.tv (Austrian TV my partner's mom always has on); **YouTube:** whatever my partner is randomly watching
+* **Learner resources:** Intensive course 3hrs per day, 5x per week
+* **Native content:** 
+  * *[Eine Geschichte der Welt in 100 Mikroorganismen](https://www.hanser-literaturverlage.de/buch/eine-geschichte-der-welt-in-100-mikroorganismen/978-3-446-27096-1/)* by Florian Freistetter and Helmut Jungwirth
+  * IDK just... living in Austria
 
 #### Italian - beginner (\~A2), secondary focus
 
