@@ -101,19 +101,27 @@ After many, many failed attempts at time tracking, I finally got it working. As 
 
 Long story short, you can set up iOS shortcuts to automatically start and stop Toggl trackers when you open and close certain apps. It's also possible to add fancy dropdown menus and such to select languages.
 
-I wrote a post last week all about time tracking for the time tracking challenged, if you're interested.
+[**I wrote a post last week all about time tracking for the time tracking challenged, if you're interested.**](https://www.monoglotanxiety.com/blog/how-to-automatically-track-language-learning-time-using-ios-automations/)
 
 So anyways, now I have pie charts. Yay! What's the point?
 
 Well, right now I don't think they're particularly illuminating. I'm not following my normal learning method at the moment so they don't tell me much about how I usually learn. But I think that, in general, there's much to be gained by using time tracking as a language learner — especially as a self-taught one.
 
-**Time tracking lets you set time-based goals instead of outcome-based ones, which works better for language learning.** Language learning is a weird and nebulous process that scientists still don't really understand. Setting specific outcome-based goals like "correctly use 80% of German irregular verbs" just isn't practical and doesn't play nice with the meandering paths our brains often take when acquiring a new language. Time-based goals, on the other hand, are a great fit for language learning and time tracking facilitates setting and measuring these goals.
+* **Time tracking lets you set time-based goals instead of outcome-based ones, which works better for language learning.** 
 
-**Time tracking makes your priorities clear_._** Time tracking doesn't lie (unless you put in the data wrong). It shows you exactly how you're prioritizing your target languages and other activities, if you track them. Especially for people learning many languages, it can be useful to understand how picking up additional languages eats into the time you spend on the ones you're most eager to learn — or doesn't. 
+Language learning is a weird and nebulous process that scientists still don't really understand. Setting specific outcome-based goals like "correctly use 80% of German irregular verbs" just isn't practical and doesn't play nice with the meandering paths our brains often take when acquiring a new language. Time-based goals, on the other hand, are a great fit for language learning and time tracking facilitates setting and measuring these goals.
 
-**Time tracking reveals your language learning method — and therefore makes it easier to tweak it.** This is ultimately the reason I want to time track. As someone who writes a language learning blog, I want to know exactly what I'm doing so I can recommend it to others if it works well (and write words of warning if it doesn't). I specifically want to know how much time I spend consuming comprehensible input since that's the main way I learn. Time tracking makes it easier to know what you're doing and facilitates tweaking things if your method isn't working well. 
+* **Time tracking makes your priorities clear_._** 
 
-**Time tracking lends a sense of satisfaction to learning primarily via comprehensible input.** Learning primarily via input has tons of advantages, but easily measured progress is not one of them. It can be frustrating to feel like you've consumed tons of media but still can't tell if you've improved at all in your target language. Time tracking makes your efforts to learn via comprehensible input measurable and lends a sense of achievement to what would otherwise just be listening to podcasts or reading books.
+Time tracking doesn't lie (unless you put in the data wrong). It shows you exactly how you're prioritizing your target languages and other activities, if you track them. Especially for people learning many languages, it can be useful to understand how picking up additional languages eats into the time you spend on the ones you're most eager to learn — or doesn't. 
+
+* **Time tracking reveals your language learning method — and therefore makes it easier to tweak it.** 
+
+This is ultimately the reason I want to time track. As someone who writes a language learning blog, I want to know exactly what I'm doing so I can recommend it to others if it works well (and write words of warning if it doesn't). I specifically want to know how much time I spend consuming comprehensible input since that's the main way I learn. Time tracking makes it easier to know what you're doing and facilitates tweaking things if your method isn't working well. 
+
+* **Time tracking lends a sense of satisfaction to learning primarily via comprehensible input.** 
+
+Learning primarily via input has tons of advantages, but easily measured progress is not one of them. It can be frustrating to feel like you've consumed tons of media but still can't tell if you've improved at all in your target language. Time tracking makes your efforts to learn via comprehensible input measurable and lends a sense of achievement to what would otherwise just be listening to podcasts or reading books.
 
 ### What do you like about time tracking?
 
