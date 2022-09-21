@@ -29,7 +29,7 @@ Of course, my German teacher, a native German speaker from Austria, feels differ
 
 I found this mismatched perception fascinating and wanted to dig into it a bit more. This post explains what _gendern_ is in German, why people do it, and why it short-circuits my anglophone brain — but still do it anyways.
 
-## Grammatical gender in German doesn't always
+## Crash course in German grammatical gender
 
 [In German, all nouns are either masculine, feminine, or neuter.](https://learngerman.dw.com/en/nouns-gender/gr-38306435) The words for "the" and "a/an" as well as adjectives and adverbs all change depending on a word's gender.
 

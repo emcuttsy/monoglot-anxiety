@@ -3,13 +3,12 @@ author = "Elise Cutts"
 categories = ["Language Diary", "Italian", "German"]
 date = 2022-09-20T22:00:00Z
 description = "I finally found a way to track my language learning time consistently. Here's a first look at the data"
-draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/languagediarysept21.png"]
 sidebar = "right"
 subtitle = "I finally found a way to track my language learning time consistently. Here's a first look at the data"
 summary = "Lots of German! Also: I finally found a way to track my language learning time consistently."
-tags = []
+tags = ["Teach yourself a language", "Organization", "Language Learning Tech", "Learn italian", "Learn German", "Language Classes", "Comprehensible Input", "Beginner language learning", "Advanced language learning"]
 title = "Language Diary 3: Now with tracked time data!"
 type = ""
 
@@ -26,7 +25,7 @@ This is just a long winded way of saying: here is my latest attempt at a languag
 
 **Active**: German (\~C1) and Italian (\~A2)
 
-**Dabble:** Croatian (A0)
+**Dabbling:** Croatian (A0)
 
 **On hold:** Spanish (\~A1)
 
