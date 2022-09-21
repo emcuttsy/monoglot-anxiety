@@ -1,16 +1,16 @@
 +++
 author = "Elise Cutts"
-categories = ["Italian", "German", "Language Log"]
-date = ""
-description = "I finally found a way to track my language learning time consistently. Here's a first look at a (very atypical) couple of weeks of learning data"
+categories = ["Language Diary", "Italian", "German"]
+date = 2022-09-20T22:00:00Z
+description = "I finally found a way to track my language learning time consistently. Here's a first look at the data"
 draft = true
 enableComments = true
-images = []
+images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/languagediarysept21.png"]
 sidebar = "right"
-subtitle = "I finally found a way to track my language learning time consistently. Here's a first look at a (very atypical) couple of weeks"
-summary = "I finally found a way to track my language learning time consistently. Here's a first look at a (very atypical) couple of weeks"
+subtitle = "I finally found a way to track my language learning time consistently. Here's a first look at the data"
+summary = "Lots of German! Also: I finally found a way to track my language learning time consistently."
 tags = []
-title = "Language Log 3: Now with tracked time data!"
+title = "Language Diary 3: Now with tracked time data!"
 type = ""
 
 +++
