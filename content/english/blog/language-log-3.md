@@ -85,9 +85,13 @@ Yes, I've been slacking on my Speakly. For both German and Italian. What can I s
 
 **_Data for Wednesday September 14 – Tuesday September 20_**
 
-**_![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/Screen Shot 2022-09-21 at 19.57.34.png)Data for Monday September 5 (start of tracking) until today, Wednesday September 21_**
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/screenshot1.png)
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/Screen Shot 2022-09-21 at 19.36.34.png)</center>
+**_Data for Monday September 5 (start of tracking) until today, Wednesday September 21_**
+
+![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/screenshot2.png)
+
+</center>
 
 As you can see in the data, I narrowed my focus to German a bit more narrowly as the month progressed. This week is much more German-heavy than the rest of September was.
 
