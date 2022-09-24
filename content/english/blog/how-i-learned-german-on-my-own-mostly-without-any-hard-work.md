@@ -32,7 +32,7 @@ If you're chaotic and can't stick to routines — I can't — you can still do i
 
 That's the beauty of languages. Your brain will do most of the heavy lifting of learning for you if you just get out of the way and let it work.
 
-{{< notice note "What to listen to with those headphones?" >}} 
+{{< notice note "What to do during that dead time?" >}} 
 
 Spoiler alert: I learned German using _comprehensible input_ — basically, by listening to podcasts and audiobooks, watching TV, and reading for fun. Comprehensible input is language input you can mostly understand but not entirely.
 
