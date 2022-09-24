@@ -32,13 +32,17 @@ If you're chaotic and can't stick to routines — I can't — you can still do i
 
 That's the beauty of languages. Your brain will do most of the heavy lifting of learning for you if you just get out of the way and let it work.
 
-That's why I write a **free newsletter** for German learners recommending great new German media every week.
+{{< notice note "What to listen to with those headphones?" >}} 
+
+Spoiler alert: I learned German using _comprehensible input_ — basically, by listening to podcasts and audiobooks, watching TV, and reading for fun. Comprehensible input is language input you can mostly understand but not entirely.
+
+That's why I write a **free newsletter** for German learners recommending great new German media for comprehensible input learning every week.
 
 Want in? Sign up below or check out the [archives](https://buttondown.email/monoglotanxiety), which you can access without signing up!
 
 <iframe scrolling="no" style="width:100%!important;height:220px;border:none;padding-bottom:0px;margin-bottom:0px;" src="[https://buttondown.email/monoglotanxiety?as_embed=true](https://buttondown.email/monoglotanxiety?as_embed=true "https://buttondown.email/monoglotanxiety?as_embed=true")"
 
-</iframe><br /><br /> 
+</iframe><br /><br /> {{</ notice >}}
 
 Thank you to Elliot and Ian for their emails asking about my story. They're the reason I wrote this post. If there's something else you're curious about or would like to see on the blog, just shoot me an email — given the small readership your odds are pretty good that I'll write what you ask for ;)
 
