@@ -32,7 +32,7 @@ If you're chaotic and can't stick to routines — I can't — you can still do i
 
 That's the beauty of languages. Your brain will do most of the heavy lifting of learning for you if you just get out of the way and let it work.
 
-{{< notice note "What to do during that dead time?" >}} 
+{{< notice note "What to do during that dead time?" >}}
 
 Spoiler alert: I learned German using _comprehensible input_ — basically, by listening to podcasts and audiobooks, watching TV, and reading for fun. Comprehensible input is language input you can mostly understand but not entirely. It also lets you turn dead time into language learning time.
 
@@ -41,18 +41,20 @@ That's why I write a **free newsletter** for German learners recommending great 
 Want in? Sign up below or check out the [archives](https://buttondown.email/monoglotanxiety), which you can access without signing up!
 
 <form
-  action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email: </label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
-  <input type="hidden" name="tag" value="german" />
-  <p>
-  </p>
+action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"
+method="post"
+target="popupwindow"
+onsubmit="window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')"
+class="embeddable-buttondown-form"
+
+> 
+
+<label for="bd-email">Enter your email: </label>
+<input type="email" name="email" id="bd-email" />
+<input type="submit" value="Subscribe" />
+<input type="hidden" name="tag" value="german" />
+<p>
+</p>
 </form>
 
 {{</ notice >}}
@@ -61,11 +63,69 @@ Thank you to Elliot and Ian for their emails asking about my story. They're the 
 
 ## Why I started learning German
 
+I started learning German basically by accident, thanks to two things: a class on the history of English and a job in Denmark.
+
+My undergraduate university required science students to take a handful  of elective courses in English or history. A professor I'd previously taken a class from that I enjoyed was teaching a class on the "History of the English Language" and I signed up. It walked through the development of English from Proto Indo-European to present-day  English.
+
+I don't know why, but something about Old English just flipped a switch in my brain. I loved how it felt, how it worked. I loved how it'd smoosh words together to make kennings, I loved learning about grammatical case for the first time, I loved its sound. I wanted MORE.
+
+But... Duolingo doesn't have Old English. I was clueless and didn't know where else to look, so I settled for German as the next best thing. The idea was just to play around for a month or so during the class to get a "feel" for how some of the things I liked in Old English worked in a living language related to English that retained many of those grammatical features.
+
+That's how I started. I kept going because I landed a 9-month job in Denmark. Danish has only 5.5 million or so native speakers and it's pretty dang difficult to find good Danish-learning resources for free online. 
+
+Meanwhile, German is swimming in resources, has something like 90 million native speakers, and it's related to Danish — my thinking was that learning German would be easier and more useful _now_ and also would help me pick up Danish later if I ended up staying in Denmark (I didn't).
+
 ## How I started teaching myself German as a beginner
 
-## I discovered comprehensible input by accident
+I started with Duolingo and gradually started adding resources from there over a few months. It was an organic process without much thought.
+
+The first addition to Duolingo was the Coffee Break German podcast. I love the Coffee Break podcasts and think they're great resources for beginners. It's ridiculous that they're available for free.
+
+### Accidentally starting to learn with comprehensible input
+
+In the meantime, I started looking for music in German. With Spotify's help I stumbled into the German-language "medieval folk" scene (as will happen if one plays a lot of Dungeons and Dragons and listens to playlists called stuff like "Tavern Jams"). I found a few artists I liked and started bingeing them. Nowadays I don't listen to them much because I know enough German to find the lyrics cringe. Funny how that happens...
+
+I realized after a few months of Duolingo and Coffee Break German, I was curious about how well I could understand a German TV series. I tried out _Dark_ on Netflix. 
+
+I absolutely was not "ready" for a show like _Dark._ Back then, I was not even really A1. I got maybe 10-20% of what I heard — English cognates and visual context help. 
+
+But the show still seemed _so cool_. I wanted to watch it. And I really didn't have anything else to do — all my friends graduated a year before me so I spent most of my time just laying around at home alone.
+
+So I binged _Dark_ with English subtitles and then re-watched it in German with German subtitles two or three times. And then I started to do the same thing with other shows.
+
+I soon began doing something similar with podcasts and YouTube videos, too. I found podcasts in slow, clear German like _Slow German mit Annik Ruebens_ and _News in Slow German_ and listened through the episode catalogues multiple times.
+
+It got to a point where I had something (usually a podcast, song, or YouTube video) in German going in my ears pretty much at all times when I didn't need to be thinking in English. Commuting, doing chores, cooking — any repetitive, mindless activity became German time. 
+
+The more I listened and watched, the more I understood. It became addictive, especially at the beginning when my progress was so clear. So I kept listening more and more and more, and became more aggressive about seeking out media in German that I could enjoy consuming despite not understanding everything perfectly. 
+
+It turns out that this is a legitimate learning method. **I'd stumbled into learning by comprehensible input, entirely by accident.**
+
+## What is comprehensible input, and how do I use it to learn?
+
+Before continuing, I want to stop and explain a bit about comprehensible input and go through exactly how I use it to learn.
+
+Comprehensible input is input (writing or speech) in your target language that you _almost_ understand. 
+
+If n = whatever you understand now, comprehensible input = n + 1.
+
+### A note on avoiding boredom when you can only understand boring, easy things
+
+Generally, folks seem to think that you need to understand 80-90% of something for it to be considered comprehensible input. I'm not sure where I stand on this — I definitely listened to content I _barely_ understood at the beginning. That's because I hate being bored.
+
+Baby stuff for beginners is very comprehensible. But it is also super boring. And the thing is, you need to be actively interested and paying attention to the input you consume for it to work — your brain needs to think it's interesting and important enough to bother learning the language for. 
+
+My solution to beginner boredom is re-watching and re-listening to things you already love, but translated into your target language.
+
+Since you already know the story, it's much easier to follow what's going on and stay engaged and entertained even if you only really understand 20% of the language. 
+
+I watched _Avatar: The Last Airbender_ dubbed in German more times than I'd like to admit, for instance. And the first German books I read were the translations of the _Harry Potter_ series.
 
 ## From beginner to intermediate German
+
+## From intermediate to advanced German
+
+## Summary: My tips for self-teaching German
 
 I received an email from a reader recently that is perhaps the best summary of how I feel about where my learning "approach" (tamed chaos) fits into the language learning world:
 
