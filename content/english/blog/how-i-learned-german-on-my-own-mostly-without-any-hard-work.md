@@ -40,7 +40,9 @@ That's why I write a **free newsletter** for German learners recommending great 
 
 Want in? Sign up below or check out the [archives](https://buttondown.email/monoglotanxiety), which you can access without signing up!
 
-<iframe scrolling="no" style="width:100%!important;height:220px;border:none;padding-bottom:0px;margin-bottom:0px;" src="[https://buttondown.email/monoglotanxiety?as_embed=true](https://buttondown.email/monoglotanxiety?as_embed=true "https://buttondown.email/monoglotanxiety?as_embed=true")"</iframe> {{</ notice >}}
+<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/monoglotanxiety?as_embed=true"></iframe><br /><br />
+
+{{</ notice >}}
 
 Thank you to Elliot and Ian for their emails asking about my story. They're the reason I wrote this post. If there's something else you're curious about or would like to see on the blog, just shoot me an email — given the small readership your odds are pretty good that I'll write what you ask for ;)
 
