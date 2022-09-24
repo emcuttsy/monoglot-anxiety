@@ -34,7 +34,7 @@ That's the beauty of languages. Your brain will do most of the heavy lifting of 
 
 {{< notice note "What to do during that dead time?" >}} 
 
-Spoiler alert: I learned German using _comprehensible input_ — basically, by listening to podcasts and audiobooks, watching TV, and reading for fun. Comprehensible input is language input you can mostly understand but not entirely.
+Spoiler alert: I learned German using _comprehensible input_ — basically, by listening to podcasts and audiobooks, watching TV, and reading for fun. Comprehensible input is language input you can mostly understand but not entirely. It also lets you turn dead time into language learning time.
 
 That's why I write a **free newsletter** for German learners recommending great new German media for comprehensible input learning every week.
 
