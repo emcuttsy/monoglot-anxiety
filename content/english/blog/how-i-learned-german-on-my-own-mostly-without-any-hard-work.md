@@ -47,7 +47,7 @@ Want in? Sign up below or check out the [archives](https://buttondown.email/mono
   onsubmit="window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">Enter your email: </label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
   <input type="hidden" name="tag" value="german" />
