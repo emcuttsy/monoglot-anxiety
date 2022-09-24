@@ -14,7 +14,43 @@ title = "How I learned German on my own (mostly) without any hard work"
 type = ""
 
 +++
-I received an email from a reader recently that summed up my language learning journey better than I ever could in a full post:
+Spanish was my best subject in high school. I aced my Spanish courses for four years. And yet still can't really speak any Spanish at all.
+
+Meanwhile, after 3 years of extremely chaotic self-study, I can speak German well enough to live my life in it. I moved to Austria about a month ago and whenever I step outside my apartment I'm operating close to 100% in German.   I'm not perfect, but nobody needs to switch to English for me.
+
+This is all to say: something clearly played out differently with German than it did with Spanish.
+
+## You don't need to be organized or have loads of free time to learn German
+
+I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place — until now.
+
+This is the story of how I learned German from zero to C1 in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved bingeing podcasts and reading for pleasure.
+
+My goal here is to show you that learning a new language to a high level doesn't require any kind of hardcore study plan, organization scheme, or intense regime of traditional group classes.
+
+If you're chaotic and can't stick to routines — I can't — you can still do it. If you're busy adult with a real life, you can still do it. All you really need is a few years, headphones, and a bunch of dead time: a commute, chores to do, meals to cook, laundry to fold, or whatever mindless tasks make you think you don't have time for a language in the first place.
+
+That's the beauty of languages. Your brain will do most of the heavy lifting of learning for you if you just get out of the way and let it work.
+
+That's why I write a **free newsletter** for German learners recommending great new German media every week.
+
+Want in? Sign up below or check out the [archives](https://buttondown.email/monoglotanxiety), which you can access without signing up!
+
+<iframe scrolling="no" style="width:100%!important;height:220px;border:none;padding-bottom:0px;margin-bottom:0px;" src="[https://buttondown.email/monoglotanxiety?as_embed=true](https://buttondown.email/monoglotanxiety?as_embed=true "https://buttondown.email/monoglotanxiety?as_embed=true")"
+
+> </iframe><br /><br /> {{</ notice >}}
+
+Thank you to Elliot and Ian for their emails asking about my story. They're the reason I wrote this post. If there's something else you're curious about or would like to see on the blog, just shoot me an email — given the small readership your odds are pretty good that I'll write what you ask for ;)
+
+## Why I started learning German
+
+## How I started teaching myself German as a beginner
+
+## I discovered comprehensible input by accident
+
+## From beginner to intermediate German
+
+I received an email from a reader recently that is perhaps the best summary of how I feel about where my learning "approach" (tamed chaos) fits into the language learning world:
 
 > I think in general what I appreciated most on your blog was seeing someone reach a proficient level in the target language at a reasonable, steady pace and whilst having fun. **Most B2 videos are boasting about their 3-6 month super, intensive method, but I had the feeling that it should be attainable with 2 years of not really doing much actually.** Finding someone like yourself who had gone and done that was massively reassuring.
 
@@ -22,4 +58,4 @@ That about sums it up: I learned German in about 2 years of not really doing muc
 
 Post over. Move along folks.
 
-Ok, there's a bit more to it than that. Even though I don't think I'll beat the poetry and concision of that lovely summary, I still want to try. 
+Ok, there's a bit more to it than that. Even though I don't think I'll beat the poetry and concision of that lovely summary, I still want to try.
