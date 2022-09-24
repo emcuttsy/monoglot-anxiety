@@ -52,7 +52,6 @@ Want in? Sign up below or check out the [archives](https://buttondown.email/mono
   <input type="submit" value="Subscribe" />
   <input type="hidden" name="tag" value="german" />
   <p>
-    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
   </p>
 </form>
 
