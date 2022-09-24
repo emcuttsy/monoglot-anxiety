@@ -13,15 +13,15 @@ social:
   link: https://www.buymeacoffee.com/monoglotanxiety
 
 ---
-In 2021 I decided to quit my PhD program at MIT, leave academia for science journalism, and prepare to move across the world. Making these big changes was the right call—but not an easy one. The corrosive perfectionism and self-loathing that has haunted me since high school kept me paralyzed for years, unable to sacrifice "achievement" for a life that would serve me better. I knew that science wasn't going to make me happy, but I stuck with it just because I couldn't think of quitting as anything but a failure.
+In 2022 I quit my PhD program at MIT, left academia for science journalism, moved across the world. Making these big changes was the right call—but not an easy one. The corrosive perfectionism and self-loathing that has haunted me since high school kept me paralyzed for years, unable to sacrifice "achievement" for a life that would serve me better. I knew that science wasn't going to make me happy, but I stuck with it just because I couldn't think of quitting as anything but a failure.
 
 So, what changed?
 
-Well, I learned German.
+**Well, I learned German.**
 
 Yeah, really. I learned German. There's still a lot I need to work on, but really did start getting better from there. The progress wasn't quick, but it was real.
 
-Learning a new language is the ultimate antidote to perfectionism. It forces you to screw up. It forces you to be awkward. It forces you to take the linguistic low ground and accept a temporary disadvantage when talking to native speakers. And here's the kicker: even if you study hard for the rest of your life, you'll still never be a native speaker. So why even bother learning a new language?
+**Learning a new language is the ultimate antidote to perfectionism.** It forces you to screw up. It forces you to be awkward. It forces you to take the linguistic low ground and accept a temporary disadvantage when talking to native speakers. And here's the kicker: even if you study hard for the rest of your life, you'll still never be a native speaker. So why even bother learning a new language?
 
 That's clearly an absurd question. And that's exactly the point.
 
@@ -75,13 +75,9 @@ src="https://buttondown.email/monoglotanxiety?as_embed=true"
 > </iframe><br /><br />
 > {{</ notice >}}
 
-## I'm not here to sell you stuff
+## Like what you see? Stay in touch.
 
-When I first started learning German, it frustrated me to realized that a good chunk of the polyglot blogs out there that seem to exist mostly to sell products. That's not my style. Monoglot Anxiety is an affiliate link and advertisement free zone. [Coffees](https://www.buymeacoffee.com/monoglotanxiety) are always appreciated, but I'm not here to sell you stuff. I'm here to share dorky language tips and use my little platform to complain about how flat and sandy Denmark is.
-
-### Stay in touch and support the site at Buy Me a Coffee
-
-Want to stay in touch? Head over to the [Buy Me a Coffee](https://www.buymeacoffee.com/monoglotanxiety) page. I post little updates there to let you know what I'm working on. From there, you can also sign up to support the site monthly or send a one-time donation of a singular coffee. Money from supporters pays for the site's running costs.
+Like what you see? Head over to the [Buy Me a Coffee](https://www.buymeacoffee.com/monoglotanxiety) page. I post little updates there to let you know what I'm working on. From there, you can also sign up to support the site monthly or send a one-time donation of a singular coffee. Money from supporters pays for the site's running costs.
 
 <container id="coffee">
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" style="text-align:left;" data-name="bmc-button" data-slug="monoglotanxiety" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-a-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" "></script>
