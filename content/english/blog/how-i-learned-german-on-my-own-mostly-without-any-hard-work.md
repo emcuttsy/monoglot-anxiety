@@ -123,7 +123,7 @@ Boring is bad. To learn via comprehensible input, some researchers think that th
 
 Basically, you need to be actively interested and paying attention to the input you consume for it to work — your brain needs to think it's important enough to bother learning the language for it. 
 
-**My solution to beginner boredom is re-watching and re-listening to things you already love, but translated into your target language.** 
+**My solution to beginner boredom is re-watching, re-reading and re-listening to things you already love, but translated into your target language.** 
 
 Since you already know the story, it's much easier to follow what's going on and stay engaged and entertained even if you only really understand 20% of the language. I watched _Avatar: The Last Airbender_ in German a truly embarrassing number of times.
 
