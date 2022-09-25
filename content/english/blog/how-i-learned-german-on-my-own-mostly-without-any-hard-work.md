@@ -1,7 +1,7 @@
 +++
 author = "Elise Cutts"
 categories = ["German"]
-date = ""
+date = 2022-09-24T22:00:00Z
 description = "As one reader put it, it took \"2 years of not really doing much actually\""
 draft = true
 enableComments = true
