@@ -24,7 +24,7 @@ This is all to say: something clearly played out differently with German than it
 
 I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place — until now.
 
-**This is the story of how I learned German from zero to C1 in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved listening to podcasts and reading for pleasure.**
+This is the story of how I learned German from zero to C1 in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved listening to podcasts and reading for pleasure.
 
 My goal here is to show you that learning a new language to a high level doesn't require a hardcore study plan, organization scheme, or intense regime of traditional group classes.
 
@@ -81,7 +81,7 @@ Meanwhile, German is swimming in resources, has something like 90 million native
 
 I started with Duolingo and gradually started adding resources from there over a few months. It was an organic process and I didn't think about it much or plan anything.
 
-The first addition to Duolingo was the Coffee Break German podcast. I love the Coffee Break podcasts and think they're great resources for beginners. With Duolingo and Coffee Break, I started growing my vocabulary and awareness of basic grammar enough to begin understanding bits and pieces of  things in German.
+The first addition to Duolingo was the [Coffee Break German podcast](https://coffeebreaklanguages.com/coffeebreakgerman/). I love the Coffee Break podcasts and think they're great resources for beginners. With Duolingo and Coffee Break, I started growing my vocabulary and awareness of basic grammar enough to begin understanding bits and pieces of  things in German.
 
 ### Accidentally starting to learn with comprehensible input
 
@@ -196,7 +196,7 @@ Handling all the bureaucracy for the move — all in German — really pushed me
 
 I also make a point to put myself in situations where I am forced to speak German and interact with locals rather than simply staying in the international bubble (and there's a great international bubble in Graz). And at those international bubble gatherings, I try to stick in the German-speaking groups even though there's always. the option to use English.
 
-I joined a gym, I go to "normal" meetups organized by locals instead of only international events, and I've used language exchange Facebook groups to find Austrians to exchange with in person — I try for at least one exchange each week. I also tell my partner's friends not to speak English when I'm around.
+I joined a gym, I go to "normal" meetups organized by locals instead of only international events, and I've used language exchange Facebook groups to find Austrians to exchange with in person — I try for at least one exchange each week. I also tell my partner's friends not to switch to English when I'm around.
 
 I also took my first German class: a 3-week C1 level intensive course at the local university organized primarily for international students. The class is 100% in German and the teacher shamed me enough times for speaking English with some of the other students after class that I don't do it anymore (it was hilarious shaming, I love this teacher).
 
@@ -208,7 +208,7 @@ Also, it made me a better writer. Written German is quite different from spoken 
 
 Another important thing about the course is that it cleared up some of the "wrong" things I learned thanks to lots of input in dialect... I now have an easier time keeping standard German and dialect separate, even though it's still harder for me to speak standard German correctly when the person I'm talking to responds in dialect.
 
-## Takeaways: 14 tips for successful chaotic self-studying
+## Takeaways: 15 tips for successful chaotic self-study
 
 If you want to follow a similar "plan" and self-study German chaotically over a few years, here's what I'd recommend:
 
@@ -216,7 +216,8 @@ If you want to follow a similar "plan" and self-study German chaotically over a 
 
 * **Use an app to start learning vocabulary and get some exposure to grammar.** Duolingo is free and popular. My personal favorite is Speakly because the sentences make more sense. Anki is great if you're that kind of person.
 * **Listen to Coffee Break German or some equivalent.** It'll teach you some basic grammar, expand your vocabulary and teach you to hear the difference between good and bad pronunciation.
-* **Learn to tolerate ambiguity.** Get used to not understanding some of what you're listening to — and by some I mean most. Your success with comprehensible input will depend on your ability to remain interested and engaged in content that you don't fully understand. 
+* **Learn to tolerate ambiguity.** Get used to not understanding some of what you're listening to — and by some I mean most. Your success with comprehensible input will depend on your ability to remain interested and engaged in content that you don't fully understand.
+* **English and German are related — you are not starting from 0% comprehension, use this to your advantage!** English speakers are NOT starting from 0% comprehension in German. Thanks to the languages' shared histories, they have a lot of words in common — and most of the most common words in English have German cognates. Use this advantage and start listening to harder, more interesting things earlier than you might with a language that isn't related to English.
 * **Turn dead time into German input time: get a set of bluetooth earbuds.** It's pretty much impossible to rack up enough hours of input to learn well as a normal busy adult without leaning hard into audiobooks and podcasts. You can listen to stuff when you're on your commute or doing any mindless task that requires your hands and eyes. _Audio turns dead-time in to German-learning time._ Headphones make it much easier to get enough input time if you live with other people who aren't also learning German.
 * **Consume the easiest input you can find.** Comprehensible input works best if you understand more of it. Graded readers, podcasts in "slow German," kids shows, etc. are great for comprehensibility and there are some good ones that are interesting for adults. But if you find yourself getting bored...
 * **Be willing to sacrifice comprehensibility to maintain interest. Find and start consuming German media you like before you're "ready."** Don't torture yourself with boring input. Feed your interest in the language with interesting media. Even if you don't understand all of it, it doesn't matter so long as you're entertained enough interest to pay attention. 
@@ -247,6 +248,6 @@ I think that's exactly it: I learned German in about 2 years of not really doing
 
 My hope is that reading this might inspire some of you to give language learning a shot — or to keep trying — even if you don't have time to do much of anything. 
 
-**At the end of the day, structured language studying is a bit like a fork. It can help you eat, but at the end of the day you're going to need to put some food on it if you want to digest anything.**
+**At the end of the day, structured language studying is like a fork. It can help you eat, but at the end of the day you're going to need to put some food on it if you want to digest anything.**
 
 And even if it's a bit messy, personally, I think it's way more fun to eat with your hands.
