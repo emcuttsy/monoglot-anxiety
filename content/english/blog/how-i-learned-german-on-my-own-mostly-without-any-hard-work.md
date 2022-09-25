@@ -121,7 +121,7 @@ Baby stuff for beginners is very comprehensible. But it is also super boring.
 
 Boring is bad. To learn via comprehensible input, some researchers think that the input needs to be _both_ comprehensible _and_ interesting to you. 
 
-Basically, you need to be actively interested and paying attention to the input you consume for it to work — your brain needs to think it's important enough to bother putting in the energy to learn the learning the language for it. 
+Basically, you need to be actively interested and paying attention to the input you consume for it to work — your brain needs to think it's important enough to bother learning the language for it. 
 
 **My solution to beginner boredom is re-watching and re-listening to things you already love, but translated into your target language.** 
 
