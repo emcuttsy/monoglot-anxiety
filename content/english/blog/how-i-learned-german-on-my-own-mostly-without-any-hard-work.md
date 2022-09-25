@@ -113,17 +113,23 @@ Comprehensible input is input (writing or speech) in your target language that y
 
 If n = whatever you understand now, comprehensible input = n + 1.
 
-### A note on avoiding boredom when you can only understand boring, easy things
-
 Generally, folks seem to think that you need to understand 80-90% of something for it to be considered comprehensible input. I'm not sure where I stand on this — I definitely listened to content I _barely_ understood at the beginning. That's because I hate being bored.
 
-Baby stuff for beginners is very comprehensible. But it is also super boring. And the thing is, you need to be actively interested and paying attention to the input you consume for it to work — your brain needs to think it's interesting and important enough to bother learning the language for. 
+{{< notice note "How to find interesting comprehensible input as a beginner" >}}
 
-My solution to beginner boredom is re-watching and re-listening to things you already love, but translated into your target language.
+Baby stuff for beginners is very comprehensible. But it is also super boring. 
 
-Since you already know the story, it's much easier to follow what's going on and stay engaged and entertained even if you only really understand 20% of the language. 
+Boring is bad. To learn via comprehensible input, some researchers think that the input needs to be _both_ comprehensible _and_ interesting to you. 
 
-I watched _Avatar: The Last Airbender_ dubbed in German more times than I'd like to admit, for instance. And the first German books I read were the translations of the _Harry Potter_ series.
+Basically, you need to be actively interested and paying attention to the input you consume for it to work — your brain needs to think it's important enough to bother putting in the energy to learn the learning the language for it. 
+
+**My solution to beginner boredom is re-watching and re-listening to things you already love, but translated into your target language.** 
+
+Since you already know the story, it's much easier to follow what's going on and stay engaged and entertained even if you only really understand 20% of the language. I watched _Avatar: The Last Airbender_ in German a truly embarrassing number of times.
+
+{{</ notice >}}
+
+### A note on avoiding boredom when you can only understand boring, easy things
 
 ## From beginner to intermediate German
 
