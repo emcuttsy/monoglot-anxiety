@@ -91,7 +91,7 @@ I after a few months of Duolingo and Coffee Break German, I was curious about ho
 
 I absolutely was not "ready" for a show like _Dark._ Back then, I was not even really A1. I got maybe 10-20% of what I heard — English cognates and visual context help. 
 
-> If you're chaotic and can't stick to routines — I can't — you can still learn a language. If you're busy adult with a real life, you can still do it. 
+> The more I listened and watched, the more I understood. **It became addictive**, especially at the beginning when my progress was so clear. So I kept listening more and more and more, and became more aggressive about seeking out media in German
 
 But the show was still _so cool_. I wanted to watch it. I wanted to _understand_ it. And I really didn't have anything else to do — all my friends graduated a year before me so I spent most of my time just laying around at home alone.
 
