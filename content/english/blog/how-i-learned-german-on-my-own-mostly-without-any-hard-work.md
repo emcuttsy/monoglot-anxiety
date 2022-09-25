@@ -115,6 +115,8 @@ If n = whatever you understand now, comprehensible input = n + 1.
 
 Generally, folks seem to think that you need to understand 80-90% of something for it to be considered comprehensible input. I'm not sure where I stand on this — I definitely listened to content I _barely_ understood at the beginning. That's because I hate being bored.
 
+Because I hate being bored, I maybe bit off more than I could chew when it came to the difficulty of the German I was listening to and reading. But in the long run I think that cultivating my love for German was more important than optimizing my input comprehension at the beginning. 
+
 {{< notice note "How to find interesting comprehensible input as a beginner" >}}
 
 Baby stuff for beginners is very comprehensible. But it is also super boring. 
@@ -129,20 +131,122 @@ Since you already know the story, it's much easier to follow what's going on and
 
 {{</ notice >}}
 
-### A note on avoiding boredom when you can only understand boring, easy things
+If you're looking for German media to use for comprehensible input, I write a little [newsletter with a fresh recommendation every week](https://buttondown.email/monoglotanxiety). It's free, and you can read the [archives](https://buttondown.email/monoglotanxiety/archive/) without signing up.
 
-## From beginner to intermediate German
+## I self-studied German to B1 before speaking for the first time
 
-## From intermediate to advanced German
+From 0 to B1, my German study "routine" was no routine at all — just controlled chaos.
 
-## Summary: My tips for self-teaching German
+I filled pretty much every spare moment I had with German comprehensible input. Somewhere along the way, I discovered that "comprehensible input" was a thing — that real second language acquisition researchers really thought that learning this way could work — and that encouraged me to keep going.
 
-I received an email from a reader recently that is perhaps the best summary of how I feel about where my learning "approach" (tamed chaos) fits into the language learning world:
+Podcasts and audiobooks were _critical_. I really think they're the only way to rack up enough hours of input to learn well if you have a normal life and a normal load of chores and obligations. 
+
+I figured out pretty early that I could understand German content about science particularly well thanks to my familiarity with the topics and to the significant overlaps in German and English scientific vocabulary. [German science YouTube channels were a large source of my input, and I wrote up a list of my favorites here.]()
+
+When I headed to Denmark in September of 2019, I let my study slide. I did a bit of Duolingo here and there, but I got sidetracked trying to learn Danish. I took Danish classes at the university.
+
+By the time COVID-19 sent me back to the US in 2020, I was sub-A1 in Danish and had slacked on German for months. 
+
+Quarantined in Tucson and bored out of my mind, I crawled back to my old boredom antidote: German. I started experimenting with making Anki decks and started this blog. 
+
+I'm actually super proud of my Anki template, even though I don't use Anki anymore. It automatically color-codes nouns based on gender and highlights irregular verbs. [Click here to read more about the template and download it for free.](https://www.monoglotanxiety.com/blog/german-anki-template/)
+
+And about a month into lockdown, I booked my first lesson with an iTalki community tutor.
+
+### Starting to speak
+
+By this point, about 1.5 years into learning German, I was somewhere around a B1 level. And I had never spoken German with anyone.
+
+I could listen to and read the news without trouble and had clawed my way through the first few books of the Harry Potter series — the first novels I read in German. I enjoyed YouTube channels and podcasts made for native speakers. I was clearly ready to start communicating.
+
+And it isn't like I didn't have opportunities to speak. I knew a few German-speakers at that point — and I was even carrying on a long distance relationship with my partner, who is Austrian. 
+
+But I was too embarrassed to try in front of anyone. Perfectionism paralyzed me and kept me from talking
+
+Getting a tutor was really the only way I could work up the nerve to speak at the beginning. It took so much pressure off to know that she was literally getting paid not to judge me.
+
+### Building confidence writing and speaking
+
+My iTalki lessons quickly became a regular part of my week, with a few months of interruption here and there when I'd move or travel back and forth between the US and Denmark (to visit my partner). I'd say I averaged something like one lesson every two weeks over the following year.
+
+Until I took the B2 Goethe exam, I continued learning German almost exclusively using comprehensible input. The only significant change was that I started to try and do some output in German — writing or speaking — at least once a week.
+
+I continued booking conversation practice lessons with iTalki tutors and eventually added language exchange to the mix. I found a German exchange partner through MyLanguageExchange.com and we've been meeting every couple of weeks to chat since then, and I found an in-person German exchange partner at my new university once I started my Masters in Autumn 2020.
+
+For writing practice, I'd occasionally have my iTalki tutors correct journal entries in German or upload writing to LangCorrect.com for corrections. I also wrote to a few penpals via Speakly. [Here's a post I wrote with some ideas for different ways to get writing practice.](https://www.monoglotanxiety.com/blog/11-ways-to-practice-writing-in-a-foreign-language/)
+
+Back when I was still using Anki (a phase lasting about 4 months), [I'd turn my corrected writing mistakes into Anki flashcards](https://www.monoglotanxiety.com/blog/spaced-repetition-writing/) to remember the corrections.
+
+### Taking the Goethe B2 exam
+
+I'd say the "end" of my intermediate phase really came when I took the Goethe B2 exam, because not long after that I moved to Austria and that obviously changed how I am learning German significantly.
+
+[I already wrote a post about how I studied for the exam (spoiler alert: I did not study much).](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) But long story short, I spent about 8 hours spread over 2 weeks prepping by doing practice speaking tasks with my iTalki tutor and running through a few practice exams.
+
+I passed with a great score thanks to the years of comprehensible input that came before the exam prep. The prep was just to learn how to take the test. I really don't recommend cramming for language exams — take the exam at the level you're at now, not the level you can fake for a day with a ridiculous study schedule.
+
+## I moved to Austria and took my first German class at C1 level
+
+I moved to Austria in the summer of 2022, which was a big change to my German routine in two ways:
+
+1. It turned daily life into comprehensible input
+2. It forced me to output more. _WAY_ more. 
+
+Handling all the bureaucracy for the move — all in German — really pushed me over the threshold of not giving a sh** anymore if I make mistakes when I talk to people. When moving means you need 20 German-only forms signed by 100 different German-speaking bureaucrats and doctors and bankers and whatever, there's not much time to waste being embarrassed.
+
+I also make a point to put myself in situations where I am forced to speak German and interact with locals rather than simply staying in the international bubble (and there's a great international bubble in Graz). And at those international bubble gatherings, I try to stick in the German-speaking groups even though there's always. the option to use English.
+
+I joined a gym, I go to "normal" meetups organized by locals instead of only international events, and I've used language exchange Facebook groups to find Austrians to exchange with in person — I try for at least one exchange each week. I also tell my partner's friends not to speak English when I'm around.
+
+I also took my first German class: a 3-week C1 level intensive course at the local university organized primarily for international students. The class is 100% in German and the teacher shamed me enough times for speaking English with some of the other students after class that I don't do it anymore (it was hilarious shaming, I love this teacher).
+
+### Was the course worth it?
+
+I'd say the intensive course was worth it, mostly because it made me aware of (and better at using) some of the grammar I could already use correctly half of the time thanks to comprehensible input. Having a bit more formal study basically reinforced and clarified what I'd already learned.
+
+Also, it made me a better writer. Written German is quite different from spoken German (there are entire verb tenses that almost exclusively show up in written texts) and I hadn't had _too_ much writing practice before. I wrote a lot for the course and that was a big help. 
+
+Another important thing about the course is that it cleared up some of the "wrong" things I learned thanks to lots of input in dialect... I now have an easier time keeping standard German and dialect separate, even though it's still harder for me to speak standard German correctly when the person I'm talking to responds in dialect.
+
+## Takeaways: 14 tips for successful chaotic self-studying
+
+If you want to follow a similar "plan" and self-study German chaotically over a few years, here's what I'd recommend:
+
+**Beginners (can't understand familiar kids shows)**
+
+* **Use an app to start learning vocabulary and get some exposure to grammar.** Duolingo is free and popular. My personal favorite is Speakly because the sentences make more sense. Anki is great if you're that kind of person.
+* **Listen to Coffee Break German or some equivalent.** It'll teach you some basic grammar, expand your vocabulary and teach you to hear the difference between good and bad pronunciation.
+* **Learn to tolerate ambiguity.** Get used to not understanding some of what you're listening to — and by some I mean most. Your success with comprehensible input will depend on your ability to remain interested and engaged in content that you don't fully understand. 
+* **Turn dead time into German input time: get a set of bluetooth earbuds.** It's pretty much impossible to rack up enough hours of input to learn well as a normal busy adult without leaning hard into audiobooks and podcasts. You can listen to stuff when you're on your commute or doing any mindless task that requires your hands and eyes. _Audio turns dead-time in to German-learning time._ Headphones make it much easier to get enough input time if you live with other people who aren't also learning German.
+* **Consume the easiest input you can find.** Comprehensible input works best if you understand more of it. Graded readers, podcasts in "slow German," kids shows, etc. are great for comprehensibility and there are some good ones that are interesting for adults. But if you find yourself getting bored...
+* **Be willing to sacrifice comprehensibility to maintain interest. Find and start consuming German media you like before you're "ready."** Don't torture yourself with boring input. Feed your interest in the language with interesting media. Even if you don't understand all of it, it doesn't matter so long as you're entertained enough interest to pay attention. 
+
+**Intermediate (understands familiar kids shows and novel content on familiar topics)**
+
+* **Consume as much German media as possible.** Your progress _is_ your input. More input means faster progress.
+* **Re-watch/listen/read German translations of things you already like.** Things are more comprehensible when you know what's going on already. Learning German is a good excuse to re-watch and re-read all your old favorites. Even if you have no idea what the language means, you'll probably get the gist and stay entertained.
+* **Ditch English subtitles ASAP.** The best way to use subtitles is to "learn" a show so you can re-watch it again a few times in German with German subtitles with the comprehensibility boost that comes from knowing the story.
+* **Output: find a tutor, start language exchange, get a penpal, etc.** Once you understand a lot, start speaking if you haven't already. Starting to speak is a huge motivation boost. It also takes practice and building confidence takes time for many people.
+* **Don't ignore literacy.** Reading and writing are critical and written German has its own rules. Don't ignore literacy and focus only on spoken German. Audiobooks are your friend. Find a way to practice writing too.
+
+**Advanced (understand nearly everything)**
+
+* **Consider taking a class to solidify your grammar.** You've assimilated a lot at this point, and you can certainly keep going with self-study. But I found it a great help to take a class at C1 level to tidy up some of my fuzzier spots and see where I still have room to grow, especially with respect to grammar.
+* **Read more. Read as much as possible.** Reading becomes pleasurable at advanced levels and it also injects loads of new vocabulary into your German. By advanced level you probably have some stock phrases that have stuck with you — reading breathes life into your vocabulary and arms you with more complex sentence structures and more solid grammar that allow you to better express yourself.
+* **Maintain your love for the language.** Staying in love with a language requires work, just like human relationships do. Cultivate your connection to the language by making friends in it, finding media you love in it, and otherwise giving yourself reasons to use it. Use it or lose it!
+
+## A high level in a new language is possible in a few years of "not really doing much actually"
+
+It's hard to sum up my method succinctly, because it's really just super chaotic. That's the point. There wasn't really a plan and not much intentionality besides making a habit out of listening to German podcasts. 
+
+But if you are looking for a summary, I think one of my readers put it best when he wrote this in an email to me earlier this month:
 
 > I think in general what I appreciated most on your blog was seeing someone reach a proficient level in the target language at a reasonable, steady pace and whilst having fun. **Most B2 videos are boasting about their 3-6 month super, intensive method, but I had the feeling that it should be attainable with 2 years of not really doing much actually.** Finding someone like yourself who had gone and done that was massively reassuring.
 
-That about sums it up: I learned German in about 2 years of not really doing much actually.
+I think that's exactly it: I learned German in about 2 years of not really doing much actually.
 
-Post over. Move along folks.
+My hope is that reading this might inspire some of you to give language learning a shot — or to keep trying — even if you don't have time to do much of anything. 
 
-Ok, there's a bit more to it than that. Even though I don't think I'll beat the poetry and concision of that lovely summary, I still want to try.
+**At the end of the day, structured language studying is a bit like a fork. It can help you eat, but at the end of the day you're going to need to put some food on it if you want to digest anything.**
+
+And even if it's a bit messy, personally, I think it's way more fun to eat with your hands.
