@@ -169,7 +169,9 @@ Getting a tutor was really the only way I could work up the nerve to speak at th
 
 My iTalki lessons quickly became a regular part of my week, with a few months of interruption here and there when I'd move or travel back and forth between the US and Denmark (to visit my partner). I'd say I averaged something like one lesson every two weeks over the following year.
 
-Until I took the B2 Goethe exam, I continued learning German almost exclusively using comprehensible input. The only significant change was that I started to try and do some output in German — writing or speaking — at least once a week.
+Until I took the B2 Goethe exam, I continued learning German almost exclusively using comprehensible input. The only significant change was that I started to try and do some output in German — writing or speaking — at least once a week. I barely did any structured "studying" at all. 
+
+> At the end of the day, structured language studying is like a fork. It can help you eat, but at the end of the day you're going to need to put some food on it if you want to digest anything.
 
 I continued booking conversation practice lessons with iTalki tutors and eventually added language exchange to the mix. I found a German exchange partner through MyLanguageExchange.com and we've been meeting every couple of weeks to chat since then, and I found an in-person German exchange partner at my new university once I started my Masters in Autumn 2020.
 
