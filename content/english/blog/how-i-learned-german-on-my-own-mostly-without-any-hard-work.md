@@ -20,15 +20,17 @@ Meanwhile, after 3 years of extremely chaotic self-study, I can speak German wel
 
 This is all to say: something clearly played out differently with German than it did with Spanish.
 
-## You don't need to be organized or have loads of free time to learn German
+## Normal, chaotic, and busy people can learn German
 
 I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place — until now.
 
-This is the story of how I learned German from zero to C1 in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved bingeing podcasts and reading for pleasure.
+**This is the story of how I learned German from zero to C1 in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved listening to podcasts and reading for pleasure.**
 
-My goal here is to show you that learning a new language to a high level doesn't require any kind of hardcore study plan, organization scheme, or intense regime of traditional group classes.
+My goal here is to show you that learning a new language to a high level doesn't require a hardcore study plan, organization scheme, or intense regime of traditional group classes.
 
-If you're chaotic and can't stick to routines — I can't — you can still do it. If you're busy adult with a real life, you can still do it. All you really need is a few years, headphones, and a bunch of dead time: a commute, chores to do, meals to cook, laundry to fold, or whatever mindless tasks make you think you don't have time for a language in the first place.
+**If you're chaotic and can't stick to routines — I can't — you can still do it. If you're busy adult with a real life, you can still do it.** 
+
+All you really need is a few years, headphones, and a bunch of dead time: a commute, chores to do, meals to cook, laundry to fold, or whatever mindless tasks make you think you don't have time for a language in the first place.
 
 That's the beauty of languages. Your brain will do most of the heavy lifting of learning for you if you just get out of the way and let it work.
 
@@ -63,13 +65,13 @@ Thank you to Elliot and Ian for their emails asking about my story. They're the 
 
 ## Why I started learning German
 
-I started learning German basically by accident, thanks to two things: a class on the history of English and a job in Denmark.
+I started learning German during my last year of my bachelor's degree. It was basically an accident and happened thanks to a class on the history of English and a job in Denmark.
 
-My undergraduate university required science students to take a handful  of elective courses in English or history. A professor I'd previously taken a class from that I enjoyed was teaching a class on the "History of the English Language" and I signed up. It walked through the development of English from Proto Indo-European to present-day  English.
+My undergraduate university required science students to take a handful  of elective courses in English or history. A professor I'd previously taken a class from that I enjoyed was teaching a class on the "History of the English Language" and I signed up. 
 
-I don't know why, but something about Old English just flipped a switch in my brain. I loved how it felt, how it worked. I loved how it'd smoosh words together to make kennings, I loved learning about grammatical case for the first time, I loved its sound. I wanted MORE.
+I still don't know why, but something about Old English just enthralled me. I loved its strange but somehow familiar logic. I loved how it'd smoosh words together to make kennings, I loved learning about grammatical case for the first time, I loved its sound. I wanted _more_.
 
-But... Duolingo doesn't have Old English. I was clueless and didn't know where else to look, so I settled for German as the next best thing. The idea was just to play around for a month or so during the class to get a "feel" for how some of the things I liked in Old English worked in a living language related to English that retained many of those grammatical features.
+But... Duolingo doesn't have Old English. So I settled for German as the next best thing. The idea was just to play around for a month or so during the class to get a feel for how some of the grammar I liked in Old English worked in a living language related to English that retained those features.
 
 That's how I started. I kept going because I landed a 9-month job in Denmark. Danish has only 5.5 million or so native speakers and it's pretty dang difficult to find good Danish-learning resources for free online. 
 
@@ -77,19 +79,21 @@ Meanwhile, German is swimming in resources, has something like 90 million native
 
 ## How I started teaching myself German as a beginner
 
-I started with Duolingo and gradually started adding resources from there over a few months. It was an organic process without much thought.
+I started with Duolingo and gradually started adding resources from there over a few months. It was an organic process and I didn't think about it much or plan anything.
 
-The first addition to Duolingo was the Coffee Break German podcast. I love the Coffee Break podcasts and think they're great resources for beginners. It's ridiculous that they're available for free.
+The first addition to Duolingo was the Coffee Break German podcast. I love the Coffee Break podcasts and think they're great resources for beginners. With Duolingo and Coffee Break, I started growing my vocabulary and awareness of basic grammar enough to begin understanding bits and pieces of  things in German.
 
 ### Accidentally starting to learn with comprehensible input
 
-In the meantime, I started looking for music in German. With Spotify's help I stumbled into the German-language "medieval folk" scene (as will happen if one plays a lot of Dungeons and Dragons and listens to playlists called stuff like "Tavern Jams"). I found a few artists I liked and started bingeing them. Nowadays I don't listen to them much because I know enough German to find the lyrics cringe. Funny how that happens...
+Sometime in the first few months, I started looking for German music. With Spotify's help I stumbled into the German-language "medieval folk" scene (as will happen if one plays a lot of Dungeons and Dragons and listens to playlists called stuff like "Tavern Jams"). I found a few artists I liked and started bingeing them. Nowadays I don't listen to them much... because I know enough German to find the lyrics cringe. Such is the price of progress.
 
-I realized after a few months of Duolingo and Coffee Break German, I was curious about how well I could understand a German TV series. I tried out _Dark_ on Netflix. 
+I after a few months of Duolingo and Coffee Break German, I was curious about how well I could understand a German TV series. I tried out _Dark_ on Netflix. 
 
 I absolutely was not "ready" for a show like _Dark._ Back then, I was not even really A1. I got maybe 10-20% of what I heard — English cognates and visual context help. 
 
-But the show still seemed _so cool_. I wanted to watch it. And I really didn't have anything else to do — all my friends graduated a year before me so I spent most of my time just laying around at home alone.
+> If you're chaotic and can't stick to routines — I can't — you can still learn a language. If you're busy adult with a real life, you can still do it. 
+
+But the show was still _so cool_. I wanted to watch it. I wanted to _understand_ it. And I really didn't have anything else to do — all my friends graduated a year before me so I spent most of my time just laying around at home alone.
 
 So I binged _Dark_ with English subtitles and then re-watched it in German with German subtitles two or three times. And then I started to do the same thing with other shows.
 
