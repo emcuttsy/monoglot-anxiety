@@ -25,13 +25,13 @@ The thing that played out differently was **immersion** — [**comprehensible in
 
 I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place, until now.
 
-This is the story of how I learned German from zero to C1 in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved listening to podcasts and reading for pleasure.
+This is the story of how I learned German from zero to C1* in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved listening to podcasts and reading for pleasure.
 
 My goal here is to show you that learning a new language to a high level doesn't require a hardcore study plan, organization scheme, or intense regime of traditional group classes.
 
 **If you're chaotic and can't stick to routines — I can't — you can still do it. If you're busy adult with a real life, you can still do it.**
 
-I'm a walking disaster zone with close to zero organizational ability and a serious allergy to structured routine. I still managed to pull it off. 
+I'm a walking disaster zone with close to zero organizational ability and a serious allergy to structured routine. I still managed to pull it off.
 
 All you really need is a few years, headphones, and a bunch of dead time: a commute, chores to do, meals to cook, laundry to fold, or whatever mindless tasks make you think you don't have time for a language in the first place.
 
@@ -66,6 +66,12 @@ class="embeddable-buttondown-form"
 
 Thank you to Elliot and Ian for their emails asking about my story. They're the reason I wrote this post. If there's something else you're curious about or would like to see on the blog, just shoot me an email — given the small readership your odds are pretty good that I'll write what you ask for ;)
 
+<small>
+
+\*_I haven't taken the C1 exam, but I was at the top of my C1 class and I ace C1 practice tests, I'm pretty confident saying that this is where I'm at now._
+
+</small>
+
 ## Why I started learning German
 
 I started learning German during my last year of my bachelor's degree. It was basically an accident and happened thanks to a class on the history of English and a job in Denmark.
@@ -74,7 +80,7 @@ My undergraduate university required science students to take a handful  of elec
 
 I still don't know why, but something about Old English just enthralled me. I loved how it'd smoosh words together to make kennings, I loved learning about grammatical case for the first time, I loved its sound. I wanted _more_.
 
-But... Duolingo doesn't have Old English. So I settled for German as the next best thing. 
+But... Duolingo doesn't have Old English. So I settled for German as the next best thing.
 
 That's how I started. I kept going because I landed a 9-month job in Denmark. Danish has only 5.5 million or so native speakers and it's pretty dang difficult to find good Danish-learning resources for free online.
 
@@ -152,7 +158,7 @@ I'm actually super proud of my Anki template, even though I don't use Anki anymo
 
 And about a month into lockdown, I booked my first lesson with an iTalki community tutor.
 
-### Starting to output (speak and write) 
+### Starting to output (speak and write)
 
 By this point, about 1.5 years into learning German, I was somewhere around a B1 level. And I had never spoken German with anyone.
 
