@@ -117,21 +117,13 @@ Generally, folks seem to think that you need to understand 80-90% of something f
 
 Because I hate being bored, I maybe bit off more than I could chew when it came to the difficulty of the German I was listening to and reading. But in the long run I think that cultivating my love for German was more important than optimizing my input comprehension at the beginning. 
 
-{{< notice note "How to find interesting comprehensible input as a beginner" >}}
+### Where to find comprehensible input — especially as a beginner
 
-Baby stuff for beginners is very comprehensible. But it is also super boring. 
+I won't lie, it is tricky to find good comprehensible input as a beginner. Because you understand so little, sitting through a new German TV show can be absolutely torturous. Beginner resources are easier to understand but they're also often rather boring.
 
-Boring is bad. To learn via comprehensible input, some researchers think that the input needs to be _both_ comprehensible _and_ interesting to you. 
+But there are some tricks for making it easier — and getting to more interesting, more motivating input faster.[ **I wrote up 11 tips to help beginners learn with comprehensible input from the start**](https://monoglotanxiety.ck.page/11-tips-for-beginners) based on my experience learning German. Just follow the link to get the tips sheet for free.
 
-Basically, you need to be actively interested and paying attention to the input you consume for it to work — your brain needs to think it's important enough to bother learning the language for it. 
-
-**My solution to beginner boredom is re-watching, re-reading and re-listening to things you already love, but translated into your target language.** 
-
-Since you already know the story, it's much easier to follow what's going on and stay engaged and entertained even if you only really understand 20% of the language. I watched _Avatar: The Last Airbender_ in German a truly embarrassing number of times.
-
-{{</ notice >}}
-
-If you're looking for German media to use for comprehensible input, I write a little [newsletter with a fresh recommendation every week](https://buttondown.email/monoglotanxiety). It's free, and you can read the [archives](https://buttondown.email/monoglotanxiety/archive/) without signing up.
+And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I write a little [newsletter with a fresh recommendation every week](https://buttondown.email/monoglotanxiety). It's also free, and you can read the [archives](https://buttondown.email/monoglotanxiety/archive/) without signing up.
 
 ## I self-studied German to B1 before speaking for the first time
 
@@ -210,35 +202,7 @@ Also, it made me a better writer. Written German is quite different from spoken 
 
 Another important thing about the course is that it cleared up some of the "wrong" things I learned thanks to lots of input in dialect... I now have an easier time keeping standard German and dialect separate, even though it's still harder for me to speak standard German correctly when the person I'm talking to responds in dialect.
 
-## Takeaways: 15 tips for successful chaotic self-study
-
-If you want to follow a similar "plan" and self-study German chaotically over a few years, here's what I'd recommend:
-
-**Beginners (can't understand familiar kids shows)**
-
-* **Use an app to start learning vocabulary and get some exposure to grammar.** Duolingo is free and popular. My personal favorite is Speakly because the sentences make more sense. Anki is great if you're that kind of person.
-* **Listen to Coffee Break German or some equivalent.** It'll teach you some basic grammar, expand your vocabulary and teach you to hear the difference between good and bad pronunciation.
-* **Learn to tolerate ambiguity.** Get used to not understanding some of what you're listening to — and by some I mean most. Your success with comprehensible input will depend on your ability to remain interested and engaged in content that you don't fully understand.
-* **English and German are related — you are not starting from 0% comprehension, use this to your advantage!** English speakers are NOT starting from 0% comprehension in German. Thanks to the languages' shared histories, they have a lot of words in common — and most of the most common words in English have German cognates. Use this advantage and start listening to harder, more interesting things earlier than you might with a language that isn't related to English.
-* **Turn dead time into German input time: get a set of bluetooth earbuds.** It's pretty much impossible to rack up enough hours of input to learn well as a normal busy adult without leaning hard into audiobooks and podcasts. You can listen to stuff when you're on your commute or doing any mindless task that requires your hands and eyes. _Audio turns dead-time in to German-learning time._ Headphones make it much easier to get enough input time if you live with other people who aren't also learning German.
-* **Consume the easiest input you can find.** Comprehensible input works best if you understand more of it. Graded readers, podcasts in "slow German," kids shows, etc. are great for comprehensibility and there are some good ones that are interesting for adults. But if you find yourself getting bored...
-* **Be willing to sacrifice comprehensibility to maintain interest. Find and start consuming German media you like before you're "ready."** Don't torture yourself with boring input. Feed your interest in the language with interesting media. Even if you don't understand all of it, it doesn't matter so long as you're entertained enough interest to pay attention. 
-
-**Intermediate (understands familiar kids shows and novel content on familiar topics)**
-
-* **Consume as much German media as possible.** Your progress _is_ your input. More input means faster progress.
-* **Re-watch/listen/read German translations of things you already like.** Things are more comprehensible when you know what's going on already. Learning German is a good excuse to re-watch and re-read all your old favorites. Even if you have no idea what the language means, you'll probably get the gist and stay entertained.
-* **Ditch English subtitles ASAP.** The best way to use subtitles is to "learn" a show so you can re-watch it again a few times in German with German subtitles with the comprehensibility boost that comes from knowing the story.
-* **Output: find a tutor, start language exchange, get a penpal, etc.** Once you understand a lot, start speaking if you haven't already. Starting to speak is a huge motivation boost. It also takes practice and building confidence takes time for many people.
-* **Don't ignore literacy.** Reading and writing are critical and written German has its own rules. Don't ignore literacy and focus only on spoken German. Audiobooks are your friend. Find a way to practice writing too.
-
-**Advanced (understand nearly everything)**
-
-* **Consider taking a class to solidify your grammar.** You've assimilated a lot at this point, and you can certainly keep going with self-study. But I found it a great help to take a class at C1 level to tidy up some of my fuzzier spots and see where I still have room to grow, especially with respect to grammar.
-* **Read more. Read as much as possible.** Reading becomes pleasurable at advanced levels and it also injects loads of new vocabulary into your German. By advanced level you probably have some stock phrases that have stuck with you — reading breathes life into your vocabulary and arms you with more complex sentence structures and more solid grammar that allow you to better express yourself.
-* **Maintain your love for the language.** Staying in love with a language requires work, just like human relationships do. Cultivate your connection to the language by making friends in it, finding media you love in it, and otherwise giving yourself reasons to use it. Use it or lose it!
-
-## A high level in a new language is possible in a few years of "not really doing much actually"
+## Takeaway: A high level in a new language is possible in a few years of "not really doing much actually"
 
 It's hard to sum up my method succinctly, because it's really just super chaotic. That's the point. There wasn't really a plan and not much intentionality besides making a habit out of listening to German podcasts. 
 
