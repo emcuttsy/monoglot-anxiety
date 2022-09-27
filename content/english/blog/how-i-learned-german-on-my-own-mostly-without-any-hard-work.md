@@ -1,28 +1,29 @@
 +++
 author = "Elise Cutts"
-categories = ["German"]
-date = 2022-09-24T22:00:00Z
-description = "As one reader put it, it took \"2 years of not really doing much actually\""
-draft = true
+categories = ["Tips and Strategies", "Language Learning", "German"]
+date = 2022-09-27T16:53:00Z
+description = "As one reader put it, teaching myself German took \"2 years of not really doing much actually\""
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/09/howilearnedgerman.png"]
 sidebar = "right"
-subtitle = "As one reader put it, it took \"2 years of not really doing much actually\""
-summary = "As one reader put it, it took \"2 years of not really doing much actually\""
-tags = []
-title = "How I self-studied German to C1 using comprehensible input"
-type = ""
+subtitle = "As one reader put it, teaching myself German took a few years \"of not really doing much actually\""
+summary = "As one reader put it, teaching myself German took \"2 years of not really doing much actually\""
+tags = ["Comprehensible Input", "German exam", "Language learning tips", "Teach yourself a language", "Language self-study", "Learn German"]
+title = "How I self-taught German to C1 using immersion — despite being busy and disorganized"
+type = "featured"
 
 +++
 Spanish was my best subject in high school. I gave my all in class and earned nearly perfect grades. But it didn't matter — despite all that, I can't really speak any Spanish at all.
 
 Meanwhile, after 3 years of _extremely_ chaotic and disorganized self-study, I can speak German well enough to live my life in it.[ I aced the B2 test after about 2 years of mostly listening to podcasts and watching TV](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/). I moved to Austria about a month ago and whenever I step outside my apartment I'm operating close to 100% in German.  I'm not perfect, but nobody needs to switch to English for me.
 
-All this is to say: something clearly played out differently with German than it did with Spanish.
+All this is to say that something clearly played out differently with German than it did with Spanish.
+
+The thing that played out differently was **immersion** — [**comprehensible input**](https://en.wikipedia.org/wiki/Input_hypothesis) to be more precise.
 
 ## Normal, chaotic, and busy people can learn German
 
-I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place — until now.
+I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place, until now.
 
 This is the story of how I learned German from zero to C1 in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved listening to podcasts and reading for pleasure.
 
@@ -36,9 +37,9 @@ All you really need is a few years, headphones, and a bunch of dead time: a comm
 
 That's the beauty of languages. Your brain will do most of the heavy lifting of learning for you if you just get out of the way and let it work.
 
-{{< notice note "What to do during that dead time?" >}}
+{{< notice note "Boost your Immersion with New Recommendations for German Media Each Week!" >}}
 
-Spoiler alert: I learned German using _comprehensible input_ — basically, by listening to podcasts and audiobooks, watching TV, and reading for fun. Comprehensible input is language input you can mostly understand but not entirely. It also lets you turn dead time into language learning time.
+I learned German using _comprehensible input_, which in practice meant listening to podcasts and audiobooks, watching TV, and reading for fun. Comprehensible input is language input you can mostly understand but not entirely. It also lets you turn dead time into language learning time.
 
 That's why I write a **free newsletter** for German learners recommending great new German media for comprehensible input learning every week.
 
@@ -71,9 +72,9 @@ I started learning German during my last year of my bachelor's degree. It was ba
 
 My undergraduate university required science students to take a handful  of elective courses in English or history. A professor I'd previously taken a class from that I enjoyed was teaching a class on the "History of the English Language" and I signed up.
 
-I still don't know why, but something about Old English just enthralled me. I loved its strange but somehow familiar logic. I loved how it'd smoosh words together to make kennings, I loved learning about grammatical case for the first time, I loved its sound. I wanted _more_.
+I still don't know why, but something about Old English just enthralled me. I loved how it'd smoosh words together to make kennings, I loved learning about grammatical case for the first time, I loved its sound. I wanted _more_.
 
-But... Duolingo doesn't have Old English. So I settled for German as the next best thing. The idea was just to play around for a month or so during the class to get a feel for how some of the grammar I liked in Old English worked in a living language related to English that retained those features.
+But... Duolingo doesn't have Old English. So I settled for German as the next best thing. 
 
 That's how I started. I kept going because I landed a 9-month job in Denmark. Danish has only 5.5 million or so native speakers and it's pretty dang difficult to find good Danish-learning resources for free online.
 
@@ -83,13 +84,13 @@ Meanwhile, German is swimming in resources, has something like 90 million native
 
 I started with Duolingo and gradually started adding resources from there over a few months. It was an organic process and I didn't think about it much or plan anything.
 
-The first addition to Duolingo was the [Coffee Break German podcast](https://coffeebreaklanguages.com/coffeebreakgerman/). I love the Coffee Break podcasts and think they're great resources for beginners. With Duolingo and Coffee Break, I started growing my vocabulary and awareness of basic grammar enough to begin understanding bits and pieces of  things in German.
+The first addition to Duolingo was the [Coffee Break German podcast](https://coffeebreaklanguages.com/coffeebreakgerman/). I love the _Coffee Break_ podcasts and think they're great resources for beginners. With Duolingo and _Coffee Break_, I started growing my vocabulary and awareness of basic grammar enough to begin understanding bits and pieces of  things in German.
 
 ### Accidentally starting to learn with comprehensible input
 
 Sometime in the first few months, I started looking for German music. With Spotify's help I stumbled into the German-language "medieval folk" scene (as will happen if one plays a lot of Dungeons and Dragons and listens to playlists called stuff like "Tavern Jams"). I found a few artists I liked and started bingeing them. Nowadays I don't listen to them much... because I know enough German to find the lyrics cringe. Such is the price of progress.
 
-I after a few months of Duolingo and Coffee Break German, I was curious about how well I could understand a German TV series. I tried out _Dark_ on Netflix.
+I after a few months of Duolingo and _Coffee Break German_, I was curious about how well I could understand a German TV series. I tried out _Dark_ on Netflix.
 
 I absolutely was not "ready" for a show like _Dark._ Back then, I was not even really A1. I got maybe 10-20% of what I heard — English cognates and visual context help.
 
@@ -99,7 +100,7 @@ But the show was still _so cool_. I wanted to watch it. I wanted to _understand_
 
 So I binged _Dark_ with English subtitles and then re-watched it in German with German subtitles two or three times. And then I started to do the same thing with other shows.
 
-I soon began doing something similar with podcasts and YouTube videos, too. I found podcasts in slow, clear German like _Slow German mit Annik Ruebens_ and _News in Slow German_ and listened through the episode catalogues multiple times.
+I soon began doing something similar with podcasts and YouTube videos, too. I found podcasts in slow, clear German like [_Slow German mit Annik Rubens_ ](https://slowgerman.com)and [_News in Slow German_](https://www.newsinslowgerman.com/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElasc95fz82GRzA76NdB8HUJD4JAo3giLY-sOQ--owVJvstR4LOPFDhoCUUUQAvD_BwE) and listened through the episode catalogues multiple times.
 
 It got to a point where I had something (usually a podcast, song, or YouTube video) in German going in my ears pretty much at all times when I didn't need to be thinking in English. Commuting, doing chores, cooking — any repetitive, mindless activity became German time.
 
@@ -119,13 +120,15 @@ Generally, folks seem to think that you need to understand 80-90% of something f
 
 Because I hate being bored, I maybe bit off more than I could chew when it came to the difficulty of the German I was listening to and reading. But in the long run I think that cultivating my love for German was more important than optimizing my input comprehension at the beginning.
 
-### Where to find comprehensible input — especially as a beginner
+### How to use comprehensible input as a beginner when you don't understand anything
 
 I won't lie, it is tricky to find good comprehensible input as a beginner. Because you understand so little, sitting through a new German TV show can be absolutely torturous. Beginner resources are easier to understand but they're also often rather boring.
 
-But there are some tricks for making it easier — and getting to more interesting, more motivating input faster.[ **I wrote up 11 tips to help beginners learn with comprehensible input from the start**](https://monoglotanxiety.ck.page/11-tips-for-beginners) based on my experience learning German. Just follow the link to get the tips sheet for free.
+My mom started learning German recently and this was a big problem for her. So I sat down and tried to think through the comprehensible input tricks that I figured out by accident when I was a total beginner.
 
-And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I write a little [newsletter with a fresh recommendation every week](https://buttondown.email/monoglotanxiety). It's also free, and you can read the [archives](https://buttondown.email/monoglotanxiety/archive/) without signing up.
+You have to be a little creative, but there's no witchcraft to using input to learn German as a total newbie. If you're struggling,[ **I wrote up 11 tips to help beginners learn with comprehensible input from the start**](https://monoglotanxiety.ck.page/11-tips-for-beginners) based on my experience. Just follow the link to get the tips sheet for free.
+
+And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I'll plug my recommendations newsletter again: I write a little [newsletter with a fresh German media recommendation every week](https://buttondown.email/monoglotanxiety). It's also free, and you can read the [archives](https://buttondown.email/monoglotanxiety/archive/) without signing up.
 
 ## I self-studied German to B1 before speaking for the first time
 
@@ -137,6 +140,8 @@ Podcasts and audiobooks were _critical_. I really think they're the only way to 
 
 I figured out pretty early that I could understand German content about science particularly well thanks to my familiarity with the topics and to the significant overlaps in German and English scientific vocabulary. [German science YouTube channels were a large source of my input, and I wrote up a list of my favorites here.]()
 
+> **Podcasts and audiobooks were _critical_**. I really think they're the only way to rack up enough hours of input to learn well if you have a normal life and a normal load of chores and obligations.
+
 When I headed to Denmark in September of 2019, I let my study slide. I did a bit of Duolingo here and there, but I got sidetracked trying to learn Danish. I took Danish classes at the university.
 
 By the time COVID-19 sent me back to the US in 2020, I was sub-A1 in Danish and had slacked on German for months.
@@ -147,7 +152,7 @@ I'm actually super proud of my Anki template, even though I don't use Anki anymo
 
 And about a month into lockdown, I booked my first lesson with an iTalki community tutor.
 
-### Starting to speak
+### Starting to output (speak and write) 
 
 By this point, about 1.5 years into learning German, I was somewhere around a B1 level. And I had never spoken German with anyone.
 
@@ -163,19 +168,23 @@ Getting a tutor was really the only way I could work up the nerve to speak at th
 
 My iTalki lessons quickly became a regular part of my week, with a few months of interruption here and there when I'd move or travel back and forth between the US and Denmark (to visit my partner). I'd say I averaged something like one lesson every two weeks over the following year.
 
-Until I took the B2 Goethe exam, I continued learning German almost exclusively using comprehensible input. The only significant change was that I started to try and do some output in German — writing or speaking — at least once a week. I barely did any structured "studying" at all.
+Up through B2, I continued learning German almost exclusively using comprehensible input. The only significant change was that I started to try and do some output in German — writing or speaking — at least once a week. I barely did any structured "studying" at all.
 
 > At the end of the day, structured language studying is like a fork. It can help you eat, but at the end of the day you're going to need to put some food on it if you want to digest anything.
 
-I continued booking conversation practice lessons with iTalki tutors and eventually added language exchange to the mix. I found a German exchange partner through MyLanguageExchange.com and we've been meeting every couple of weeks to chat since then, and I found an in-person German exchange partner at my new university once I started my Masters in Autumn 2020.
+I kept booking conversation practice lessons with iTalki tutors and eventually added language exchange to the mix. I found a German exchange partner through MyLanguageExchange.com and we've been meeting every couple of weeks to chat since then, and I found an in-person German exchange partner at my new university once I started my Masters in Autumn 2020.
+
+Eventually, all this speaking with sympathetic partners got me over (or mostly over) my embarrassment about speaking German in front of native speakers. I started speaking a bit with my partner. But he's stubborn and likes English, and  the German I did learn from him was all deepest Austrian dialect... which sometimes actually hurts more than it helps when it came to grammar. Talking in front of him and his family was a big motivation boost, though.
 
 For writing practice, I'd occasionally have my iTalki tutors correct journal entries in German or upload writing to LangCorrect.com for corrections. I also wrote to a few penpals via Speakly. [Here's a post I wrote with some ideas for different ways to get writing practice.](https://www.monoglotanxiety.com/blog/11-ways-to-practice-writing-in-a-foreign-language/)
 
 Back when I was still using Anki (a phase lasting about 4 months), [I'd turn my corrected writing mistakes into Anki flashcards](https://www.monoglotanxiety.com/blog/spaced-repetition-writing/) to remember the corrections.
 
+My "studying" phases were always rather short and never lasted longer than a few weeks. I have trouble sticking to plans. I don't have trouble listening to podcasts.
+
 ### Taking the Goethe B2 exam
 
-I'd say the "end" of my intermediate phase really came when I took the Goethe B2 exam, because not long after that I moved to Austria and that obviously changed how I am learning German significantly.
+I'd say the "end" of my intermediate phase came around when I took the Goethe B2 exam, because not long after that I moved to Austria and that obviously changed how I learn German significantly.
 
 [I already wrote a post about how I studied for the exam (spoiler alert: I did not study much).](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) But long story short, I spent about 8 hours spread over 2 weeks prepping by doing practice speaking tasks with my iTalki tutor and running through a few practice exams.
 
@@ -213,6 +222,8 @@ But if you are looking for a summary, I think one of my readers put it best when
 > I think in general what I appreciated most on your blog was seeing someone reach a proficient level in the target language at a reasonable, steady pace and whilst having fun. **Most B2 videos are boasting about their 3-6 month super, intensive method, but I had the feeling that it should be attainable with 2 years of not really doing much actually.** Finding someone like yourself who had gone and done that was massively reassuring.
 
 I think that's exactly it: I learned German in about 2 years of not really doing much actually.
+
+You can start learning with comprehensible input from day 1. You just need to be stubborn and learn to deal with not understanding everything. I'll make one last pitch for my [**tip sheet for beginners learning with comprehensible input**](https://monoglotanxiety.ck.page/11-tips-for-beginners): I made it to help my (very monolingual) mom get started with German and I hope it will help you too.
 
 My hope is that reading this might inspire some of you to give language learning a shot — or to keep trying — even if you don't have time to do much of anything.
 
