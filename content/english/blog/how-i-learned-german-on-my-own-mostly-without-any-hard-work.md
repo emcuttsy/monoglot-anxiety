@@ -10,7 +10,7 @@ sidebar = "right"
 subtitle = "As one reader put it, it took \"2 years of not really doing much actually\""
 summary = "As one reader put it, it took \"2 years of not really doing much actually\""
 tags = []
-title = "How I learned German on my own (mostly) without any hard work"
+title = "How I self-studied German to C1 mostly using comprehensible input"
 type = ""
 
 +++
