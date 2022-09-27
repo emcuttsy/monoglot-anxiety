@@ -7,9 +7,10 @@ enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/05/languagelaws.png"]
 sidebar = "right"
 subtitle = "New language laws in Canada and the UK raise questions about what language laws really protect"
+summary = ""
 tags = ["Politics", "Minority languages", "French"]
 title = "Who needs language laws?"
-type = "featured"
+type = ""
 
 +++
 Last weekend, thousands of people assembled in Belfast, Northern Ireland to march through the regional capital in protest. [The red-clad crowd numbered around 10,000](https://www.irishtimes.com/news/politics/thousands-demonstrate-in-belfast-over-stalled-irish-language-legislation-1.4885426) — an order of magnitude more than the number that had [gathered in Belfast to protest Russia's invasion of Ukraine](https://www.belfasttelegraph.co.uk/news/uk/hundreds-gather-in-belfast-to-denounce-invasion-of-ukraine-41386685.html) just a few months prior. But war wasn't on their minds — nor was police violence, climate change, energy prices, inflation, or any of the other headline-grabbing issues that have recently sparked large protests in other major cities.
