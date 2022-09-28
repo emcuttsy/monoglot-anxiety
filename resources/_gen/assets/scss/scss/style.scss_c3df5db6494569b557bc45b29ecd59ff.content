@@ -3,12 +3,12 @@ body {
   line-height: 1.7;
   font-family: "Commissioner", sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: #696c6d;
+  color: #1c1d1f;
   font-size: 16px; }
 
 p, .paragraph {
   font-weight: 400;
-  color: #696c6d;
+  color: #1c1d1f;
   font-size: 16px;
   line-height: 1.7;
   font-family: "Commissioner", sans-serif; }
@@ -65,7 +65,7 @@ h6, .h6 {
 
 .btn-outline-primary {
   background: transparent;
-  color: #696c6d;
+  color: #1c1d1f;
   border-color: #EFB900; }
   .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary:focus, .btn-outline-primary.active {
     background: #EFB900 !important;
@@ -74,7 +74,7 @@ h6, .h6 {
 
 .btn-outline-light {
   background: transparent;
-  color: #696c6d;
+  color: #1c1d1f;
   border-color: #ddd; }
   .btn-outline-light:active, .btn-outline-light:hover, .btn-outline-light.focus, .btn-outline-light:focus, .btn-outline-light.active {
     background: #f0f0f0 !important;
@@ -167,7 +167,7 @@ a:hover {
   color: #EFB900 !important; }
 
 .text-color {
-  color: #696c6d; }
+  color: #1c1d1f; }
 
 .rounded-lg, .post-slider, .featured-post-overlay, .featured-post-img {
   border-radius: 10px !important; }
@@ -434,7 +434,7 @@ a:hover {
   font-size: 90%; }
 
 .post-meta a {
-  color: #696c6d;
+  color: #1c1d1f;
   border-bottom: 1px dotted #ddd; }
   .post-meta a:hover {
     color: #EFB900; }
@@ -455,7 +455,7 @@ a:hover {
   margin-bottom: 0; }
   .social-icons a {
     display: block;
-    color: #888c8e;
+    color: #6495ED;
     padding: 5px;
     font-size: 14px; }
     .social-icons a:hover {
@@ -465,7 +465,7 @@ a:hover {
   margin-bottom: 0; }
   .social-icons-rounded a {
     display: block;
-    color: #888c8e;
+    color: #6495ED;
     font-size: 14px;
     height: 40px;
     width: 40px;
@@ -506,7 +506,7 @@ a:hover {
     padding: 0;
     margin-right: 10px;
     border: 0;
-    color: #696c6d; }
+    color: #1c1d1f; }
     .pagination .page-item .page-link:hover {
       background: #EFB900;
       color: #fff; }
@@ -537,10 +537,10 @@ a:hover {
   font-weight: 600; }
 
 .content a {
-  color: #696c6d;
-  border-bottom: 1px dotted #ddd; }
+  color: #6495ED; }
   .content a:hover {
-    color: #EFB900; }
+    color: #EFB900;
+    border-bottom: 1px solid #EFB900; }
 
 .content ol,
 .content ul {
@@ -623,13 +623,13 @@ a:hover {
 .content .notices.note {
   background: #f0f0f0; }
   .content .notices.note #header {
-    background: #6ab0de;
+    background: #EFB900;
     color: white; }
 
 .content .notices.tip {
   background: #f0f0f0; }
   .content .notices.tip #header {
-    background: #78C578;
+    background: #6495ED;
     color: white; }
 
 .content .notices.info p {
@@ -642,7 +642,7 @@ a:hover {
 
 .content blockquote {
   font-size: 20px !important;
-  color: #696c6d;
+  color: #1c1d1f;
   padding: 20px 40px;
   border-left: 2px solid #EFB900;
   margin: 40px 0;
@@ -782,7 +782,7 @@ a:hover {
       border: 1px solid #ddd;
       border-radius: 40px;
       display: block;
-      color: #696c6d; }
+      color: #1c1d1f; }
       .widget-list-inline li a:hover {
         border-color: #EFB900;
         background: #EFB900;
@@ -818,7 +818,7 @@ a:hover {
 
 .footer-list a {
   display: block;
-  color: #888c8e;
+  color: #6495ED;
   padding: 5px 0; }
   .footer-list a:hover {
     color: #EFB900; }

@@ -276,11 +276,11 @@
   }
 
   a {
-    color: $text-color;
-    border-bottom: 1px dotted $border-color;
+    color: $text_color_light;
 
     &:hover {
       color: $primary-color;
+      border-bottom: 1px solid $primary-color;
     }
   }
 
@@ -386,7 +386,7 @@
 
   .notices.note  {
     #header{
-      background: #6ab0de;
+      background: $primary-color;
       color: white;
     }
     background: $light;
@@ -394,7 +394,7 @@
 
   .notices.tip  {
     #header{
-      background: #78C578;
+      background:#6495ED;
       color: white;
     }
     background: $light;
