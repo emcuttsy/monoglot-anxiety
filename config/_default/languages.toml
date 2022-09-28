@@ -17,7 +17,7 @@ copyright = "Monoglot Anxiety | Copyright Elise Cutts 2021"
         image = "images/promotion.jpg"
         button_label = "Get the Newsletter"
         external_link = true
-        button_link = "https://buttondown.email/monoglotanxiety"
+        button_link = "https://monoglotanxiety.ck.page/germanrecs"
 
 ################################### German language #####################################
 [de]
@@ -38,4 +38,4 @@ copyright = "Monoglot Anxiety | Urheberrechte Elise Cutts 2021"
         image = "images/promotion.jpg"
         button_label = "Get Started"
         external_link = true
-        button_link = "https://buttondown.email/monoglotanxiety"
+        button_link = "https://monoglotanxiety.ck.page/germanrecs"

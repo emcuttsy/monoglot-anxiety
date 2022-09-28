@@ -41,7 +41,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 
 # = subsciption
-form_action = "https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety" # replace this url with yours
+form_action = "https://app.convertkit.com/forms/3655715/subscriptions" # replace this url with yours
 form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # snipcart for shop
