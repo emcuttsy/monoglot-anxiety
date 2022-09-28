@@ -46,7 +46,8 @@ Lesch&Co is one of the two science-focused arms of the Terra X channel trio, wit
 For the classic Terra X Lesch&Co astrophysics-y experience, check out the playlist ["Das Weltall erklärt."](https://www.youtube.com/watch?v=4pJur6H50y8&list=PL7siVIUmPpIGO3M8L3PObihKk7ir3LncS)
 
 {{<notice tip "Want more German YouTube channels and other media?">}}
-If you're looking for more German YouTube channels, I write a little newsletter that offers up a new recommendaiton for German YouTube channels, movies, TV, music, podcasts, books, and more each week. It's completely free. You can also check out the [archives](https://buttondown.email/monoglotanxiety/archive) to see all of the past recommendations *without signing up*. 
+If you're looking for more German YouTube channels, I write a little [newsletter](https://monoglotanxiety.ck.page/germanrecs) that offers up a new recommendaiton for German YouTube channels, movies, TV, music, podcasts, books, and more each week. It's completely free. 
+<script async data-uid="3f801db084" src="https://monoglotanxiety.ck.page/3f801db084/index.js"></script>
 {{</notice>}}
 
 ## 4. Terra X plus

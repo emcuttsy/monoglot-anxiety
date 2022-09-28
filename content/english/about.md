@@ -63,17 +63,13 @@ Learning a new language is a great way to get to grips with imperfection and lea
 {{< notice note "Learning German? Check out my free newsletter!" >}}
 You've probably heard that "immersion" is a good way to learn a language — and it is. I learned German pretty much entirely through brute-force immersion! But finding good content to immerse yourself in can be hard at first.
 
-That's why I write a **free newsletter** for German learners recommending great new German media every week.
+That's why I write a [**free newsletter**](https://monoglotanxiety.ck.page/germanrecs) for German learners recommending great new German media every week.
 
-Want in? Sign up below or check out the [archives](https://buttondown.email/monoglotanxiety), which you can access without signing up!
+Want in? Sign up here:
+<center>
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:none;padding-bottom:0px;margin-bottom:0px;"
-src="https://buttondown.email/monoglotanxiety?as_embed=true"
-
-> </iframe><br /><br />
-> {{</ notice >}}
+<script async data-uid="3f801db084" src="https://monoglotanxiety.ck.page/3f801db084/index.js"></script>
+</center>
 
 ## Like what you see? Stay in touch.
 

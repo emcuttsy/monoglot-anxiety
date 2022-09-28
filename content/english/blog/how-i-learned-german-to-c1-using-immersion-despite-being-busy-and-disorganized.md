@@ -43,24 +43,9 @@ I learned German using _comprehensible input_, which in practice meant listening
 
 That's why I write a **free newsletter** for German learners recommending great new German media for comprehensible input learning every week.
 
-Want in? Sign up below or check out the [archives](https://buttondown.email/monoglotanxiety), which you can access without signing up!
+Want in? You can sign up here:
 
-<form
-action="https://buttondown.email/api/emails/embed-subscribe/monoglotanxiety"
-method="post"
-target="popupwindow"
-onsubmit="window.open('https://buttondown.email/monoglotanxiety', 'popupwindow')"
-class="embeddable-buttondown-form"
-
-> 
-
-<label for="bd-email">Enter your email: </label>
-<input type="email" name="email" id="bd-email" />
-<input type="submit" value="Subscribe" />
-<input type="hidden" name="tag" value="german" />
-<p>
-</p>
-</form>
+<script async data-uid="3f801db084" src="https://monoglotanxiety.ck.page/3f801db084/index.js"></script>
 
 {{</ notice >}}
 
@@ -134,7 +119,7 @@ My mom started learning German recently and this was a big problem for her. So I
 
 You have to be a little creative, but there's no witchcraft to using input to learn German as a total newbie. If you're struggling,[ **I wrote up 11 tips to help beginners learn with comprehensible input from the start**](https://monoglotanxiety.ck.page/11-tips-for-beginners) based on my experience. Just follow the link to get the tips sheet for free.
 
-And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I'll plug my recommendations newsletter again: I write a little [newsletter with a fresh German media recommendation every week](https://buttondown.email/monoglotanxiety). It's also free, and you can read the [archives](https://buttondown.email/monoglotanxiety/archive/) without signing up.
+And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I'll plug my recommendations newsletter again: I write a little [newsletter with a fresh German media recommendation every week](https://monoglotanxiety.ck.page/germanrecs). It's also free!
 
 ## I self-studied German to B1 before speaking for the first time
 
