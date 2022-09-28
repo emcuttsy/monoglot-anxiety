@@ -13,7 +13,7 @@ tags:
 - German exam
 - Language learning tips
 - Learn German
-type: featured
+type: ''
 sidebar: right
 enableComments: true
 
