@@ -22,7 +22,7 @@
           <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{$imageXL.RelPermalink}}" alt="post image" width="{{$image.Width}}" height="{{$image.Height}}">
         </picture>
         {{ else }}
-        <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{ . }}" alt="post image" style="width: 1110px; height: 505px; object-fit: cover;">
+        <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{ . }}" alt="post image" style="width: 1110px; height: auto; object-fit: scale-down;">
         {{ end }}
         {{ end }}
         {{ end }}

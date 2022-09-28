@@ -59,7 +59,7 @@
               <img loading="lazy" class="img-fluid w-100" src="{{$imageLG.RelPermalink}}" alt="post-thumb">
             </picture>
             {{ else }}
-              <img loading="lazy" class="img-fluid" src="{{ . }}" alt="post-thumb" style="width: 750px; height: 341px; object-fit: cover;">
+              <img loading="lazy" class="img-fluid" src="{{ . }}" alt="post-thumb" style="width: 750px; height: auto; object-fit: scale-down;">
             {{ end }}
             {{ end }}
           </div>
@@ -84,7 +84,7 @@
               <img loading="lazy" class="img-fluid w-100" src="{{$imageLG.RelPermalink}}" alt="post-thumb">
             </picture>
             {{ else }}
-              <img loading="lazy" class="img-fluid" src="{{ . }}" alt="post-thumb" style="width: 1110px; height: 505px; object-fit: cover;">
+              <img loading="lazy" class="img-fluid" src="{{ . }}" alt="post-thumb" style="width: 1110px; height: auto; object-fit: scale-down;">
             {{ end }}
             {{ end }}
           </div>
