@@ -15,11 +15,11 @@ type = "featured"
 +++
 Spanish was my best subject in high school. I gave my all in class and earned nearly perfect grades. But it didn't matter — despite all that, I can't really speak any Spanish at all.
 
-Meanwhile, after 3 years of _extremely_ chaotic and disorganized self-study, I can speak German well enough to live my life in it.[ I aced the B2 test after about 2 years of mostly listening to podcasts and watching TV](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/). I moved to Austria about a month ago and whenever I step outside my apartment I'm operating close to 100% in German.  I'm not perfect, but nobody needs to switch to English for me.
+Meanwhile, after 3 years of _extremely_ chaotic and disorganized self-study, I can speak German well enough to live my life in it. <a href="https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/" target="_blank">I scored almost perfect on the Goethe B2 German exam</a> afer 2 years of mostly watching TV and listening to podcasts. I moved to Austria about a month ago and whenever I step outside my apartment I'm operating close to 100% in German.  I'm not perfect, but nobody needs to switch to English for me.
 
 All this is to say that something clearly played out differently with German than it did with Spanish.
 
-The thing that played out differently was **immersion** — [**comprehensible input**](https://en.wikipedia.org/wiki/Input_hypothesis) to be more precise.
+The thing that played out differently was **immersion** — **comprehensible input** to be more precise.
 
 ## Normal, chaotic, and busy people can learn German
 
@@ -91,7 +91,7 @@ But the show was still _so cool_. I wanted to watch it. I wanted to _understand_
 
 So I binged _Dark_ with English subtitles and then re-watched it in German with German subtitles two or three times. And then I started to do the same thing with other shows.
 
-I soon began doing something similar with podcasts and YouTube videos, too. I found podcasts in slow, clear German like [_Slow German mit Annik Rubens_ ](https://slowgerman.com)and [_News in Slow German_](https://www.newsinslowgerman.com/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElasc95fz82GRzA76NdB8HUJD4JAo3giLY-sOQ--owVJvstR4LOPFDhoCUUUQAvD_BwE) and listened through the episode catalogues multiple times.
+I soon began doing something similar with podcasts and YouTube videos, too. I found podcasts in slow, clear German like _<a href="https://slowgerman.com" target="_blank">Slow German mit Annik Rubens</a>_ and _<a href="https://www.newsinslowgerman.com/" target="_blank">News in Slow German</a>_ and listened through the episode catalogues multiple times.
 
 It got to a point where I had something (usually a podcast, song, or YouTube video) in German going in my ears pretty much at all times when I didn't need to be thinking in English. Commuting, doing chores, cooking — any repetitive, mindless activity became German time.
 
@@ -109,6 +109,8 @@ If n = whatever you understand now, comprehensible input = n + 1.
 
 Generally, folks seem to think that you need to understand 80-90% of something for it to be considered comprehensible input. I'm not sure where I stand on this — I definitely listened to content I _barely_ understood at the beginning. That's because I hate being bored.
 
+There's a great <a href="https://blog.thelinguist.com/comprehensible-input/" target="_blank">explanation of comprehensible input on Steve Kaufmann's blog</a>.
+
 Because I hate being bored, I maybe bit off more than I could chew when it came to the difficulty of the German I was listening to and reading. But in the long run I think that cultivating my love for German was more important than optimizing my input comprehension at the beginning.
 
 ### How to use comprehensible input as a beginner when you don't understand anything
@@ -117,9 +119,9 @@ I won't lie, it is tricky to find good comprehensible input as a beginner. Becau
 
 My mom started learning German recently and this was a big problem for her. So I sat down and tried to think through the comprehensible input tricks that I figured out by accident when I was a total beginner.
 
-You have to be a little creative, but there's no witchcraft to using input to learn German as a total newbie. If you're struggling,[ **I wrote up 11 tips to help beginners learn with comprehensible input from the start**](https://monoglotanxiety.ck.page/11-tips-for-beginners) based on my experience. Just follow the link to get the tips sheet for free.
+You have to be a little creative, but there's no witchcraft to using input to learn German as a total newbie. If you're struggling, I wrote up **<a href="https://monoglotanxiety.ck.page/11-tips-for-beginners" target="_blank">11 tips to help beginners learn with comprehensible input from the start</a>** based on my experience. Just follow the link to get the tips sheet for free.
 
-And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I'll plug my recommendations newsletter again: I write a little [newsletter with a fresh German media recommendation every week](https://monoglotanxiety.ck.page/germanrecs). It's also free!
+And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I'll plug my recommendations newsletter again: I write a little <a href="https://monoglotanxiety.ck.page/germanrecs" target="_blank">newsletter with a fresh German media recommendation every week</a>. It's also free!
 
 ## I self-studied German to B1 before speaking for the first time
 
@@ -129,7 +131,7 @@ I filled pretty much every spare moment I had with German comprehensible input. 
 
 Podcasts and audiobooks were _critical_. I really think they're the only way to rack up enough hours of input to learn well if you have a normal life and a normal load of chores and obligations.
 
-I figured out pretty early that I could understand German content about science particularly well thanks to my familiarity with the topics and to the significant overlaps in German and English scientific vocabulary. [German science YouTube channels were a large source of my input, and I wrote up a list of my favorites here.]()
+I figured out pretty early that I could understand German content about science particularly well thanks to my familiarity with the topics and to the significant overlaps in German and English scientific vocabulary. German science YouTube channels were a large source of my input (and still are). If you're also a science nerd, check out my <a href="https://www.monoglotanxiety.com/blog/german-science-youtube-channels/" target="_blank">list of 10 great German science YouTube channels</a>.
 
 > **Podcasts and audiobooks were _critical_**. I really think they're the only way to rack up enough hours of input to learn well if you have a normal life and a normal load of chores and obligations.
 
@@ -139,9 +141,13 @@ By the time COVID-19 sent me back to the US in 2020, I was sub-A1 in Danish and 
 
 Quarantined in Tucson and bored out of my mind, I crawled back to my old boredom antidote: German. I started experimenting with making Anki decks and started this blog.
 
-I'm actually super proud of my Anki template, even though I don't use Anki anymore. It automatically color-codes nouns based on gender and highlights irregular verbs. [Click here to read more about the template and download it for free.](https://www.monoglotanxiety.com/blog/german-anki-template/)
+I'm actually super proud of my Anki template, even though I don't use Anki anymore. Here's my post all about my <a href="https://www.monoglotanxiety.com/blog/german-anki-template/" target="_blank">my Anki template for German with automatic color-coding for noun gender and irregular verbs</a>. There's a link to download the template in that post (but read a bit about it first, Anki can be confusing!).
 
 And about a month into lockdown, I booked my first lesson with an iTalki community tutor.
+
+<a href="https://www.italki.com/affshare?ref=af7409579" target="_blank" rel="nofollow">iTalki makes it easy to book private online language lessons with tutors from around the world</a> (*Note: This is an affiliate link. iTalki gives me a small cut of your lesson fee if you sign up using my link. There's no extra cost to you*). I relied on iTalki heavily when I was learning German and I'm still using it every week to meet with my amazing Italian tutor. 
+
+On iTalki, community tutors are people without teaching credentials who you can pay to help you out with a language. There are also professional teachers, but they often cost more. I pay for a professional teacher for Italian since I'm a beginner, but I started at a good level in German and didn't feel I needed a pro — I just needed someone to talk to!
 
 ### Starting to output (speak and write)
 
@@ -163,7 +169,7 @@ Up through B2, I continued learning German almost exclusively using comprehensib
 
 > At the end of the day, structured language studying is like a fork. It can help you eat, but at the end of the day you're going to need to put some food on it if you want to digest anything.
 
-I kept booking conversation practice lessons with iTalki tutors and eventually added language exchange to the mix. I found a German exchange partner through MyLanguageExchange.com and we've been meeting every couple of weeks to chat since then, and I found an in-person German exchange partner at my new university once I started my Masters in Autumn 2020.
+I kept booking conversation practice lessons with iTalki tutors and eventually added language exchange to the mix. I found a German exchange partner through <a href="https://mylanguageexchange.com" target="_blank">MyLanguageExchange.com</a> and we've been meeting every couple of weeks to chat since then, and I found an in-person German exchange partner at my new university once I started my Masters in Autumn 2020.
 
 Eventually, all this speaking with sympathetic partners got me over (or mostly over) my embarrassment about speaking German in front of native speakers. I started speaking a bit with my partner. But he's stubborn and likes English, and  the German I did learn from him was all deepest Austrian dialect... which sometimes actually hurts more than it helps when it came to grammar. Talking in front of him and his family was a big motivation boost, though.
 
