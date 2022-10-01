@@ -67,6 +67,8 @@ Subsection 1 \[H3 header\] Subsection 2 \[H3 header\] Subsection 3 \[H3 header\]
 
 Pablo from Dreaming Spanish has an excellent video explaining comprehensible input, its origins in Krashen's theories, and some of the later research testing the input hypothesis on his channel. The video is in Spanish but there are English subtitles:
 
+{{< youtube M5RwvFnsZ_g >}}
+
 ## Comprehensible input strategies for language learning
 
 ### Finding a tutor who can
