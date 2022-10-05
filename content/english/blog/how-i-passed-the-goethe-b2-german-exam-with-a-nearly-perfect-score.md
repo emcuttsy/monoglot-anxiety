@@ -28,6 +28,8 @@ And that's really just a big load of crap, because I barely "studied" and still 
 
 Cramming isn't the way. Period. If you're actually a B2 German speaker, you shouldn't need to cram. And you can become a B2 German speaker without doing anything much more complicated than watching a bunch of TV and talking to people once in a while.
 
+*Note: Some of the links in this post are affiliate links. If you make a purchase via an affiliate link, I receive a small commission at no extra cost to you.*
+
 ## I self-studied mostly using comprehensible input for 2 years
 
 99\.9999% of all of the work that goes into your exam grade should come before you even sign up for the exam. No amount of cramming can make you B2 in a month. For me, it took 2 years of self-study to reach B2. And it's those 2 years—not the 2 weeks of prep I did for the exam—that earned me great scores.
@@ -40,6 +42,10 @@ Comprehensible input is anything that you can understand in your target language
 
 Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _Dark_ on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
 
+Netflix isn't your only option for comprehensible input, though. These days there are plenty of dedicated resources out there that are specially designed for language learners. Steve Kaufmann's app <a href="https://www.lingq.com/en/?referral=elisecutts" target="_blank" rel="nofollow">Lingq is all about comprehensible input</a> and <a href="https://lingopie.com/?ref=elisecutts&utm_medium=affiliate&utm_campaign=elisecutts&utm_term=elisecutts" target="_blank" rel="nofollow">Lingopie is basically Netflix for language learners</a>. 
+
+But I was stubborn and got by with Netflix just fine.
+
 <center>
 {{< tweet 1470412755303682051 >}}
 </center>
@@ -50,11 +56,9 @@ If you're a beginner and you want to get started learning with comprehensible in
 
 ### Find penpals and speaking partners once you can communicate a bit
 
-About a year in, when I hit something around a B1 level, I started trying to communicate with people. In practice, this meant chatting with an iTalki tutor about once every two weeks and writing to penpals. More recently, I found speaking partners to chat with occasionally via text and Skype.
+About a year in, when I hit something around a B1 level, I started trying to communicate with people. In practice, this meant chatting with my wonder <a href="https://www.italki.com/affshare?ref=af7409579" target="_blank" rel="nofollow">iTalki</a> tutor about once every two weeks and writing to penpals.
 
-I use [**Slowly**](https://slowly.app) to find and write to penpals.
-
-I use [**HelloTalk**](https://hellotalk.com) and [**MyLanguageExchange.com**](https://mylanguageexchange.com) to find speaking partners.
+More recently, I found speaking partners to chat with occasionally via text and Skype. I've used <a href="https://slowly.app" target="_blank">Slowly</a> to find and write to penpals and <a href="https://hellotalk.com" target="_blank">HelloTalk</a> and <a href="https://mylanguageexchange.com" target="_blank">MyLanguageExchange.com</a> to find speaking partners.
 
 ## I tested at my real level, not my reach level
 
@@ -164,8 +168,17 @@ So, prepare a few stock explanations for mistakes you're likely to make. Screw u
 
 ## The takeaway: you don't need to study hard to pass the B2 German exam
 
-If you read my blog or follow me on Twitter, you know what's coming next: **you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test.** A few years of (lots and lots of) comprehensible input supplemented with a bit of speaking and writing practice once you can communicate reasonably well and a week or two of prepping for the exam itself before the test will get you there.
+If you read my blog or follow me on Twitter, you know what's coming next: **you don't need some kind of perfectly planned, perfectly executed study plan to ace the B2 German test.** 
+
+<a href="https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/" target="_blank">Heck, I got to C1 German using almost only immersion</a>, which is a nice way of saying listening to podcasts, watching TV, and reading the news.
+
+A few years of (lots and lots of) comprehensible input supplemented with a bit of speaking and writing practice once you can communicate reasonably well and a week or two of prepping for the exam itself before the test will get you there.
 
 So don't stress. Just head over to Netflix and watch another episode of _Dark_. Or whatever you like watching. That'll help you far more than any hardcore cram-session.
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/Untitled-2.jpg)
+
+### Related articles
+
+- [How I chaotically taught myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/)
+- [Are language lessons worth it for beginners?](https://www.monoglotanxiety.com/blog/is-it-worth-hiring-a-language-tutor-as-a-beginner/)
