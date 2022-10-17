@@ -6,12 +6,12 @@ description = ""
 draft = true
 enableComments = false
 images = []
-sidebar = ""
+sidebar = "right"
 subtitle = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to for language learning."
 summary = ""
 tags = []
 title = "What is comprehensible input? Here's what language learners need to know"
-type = ""
+type = "featured"
 
 +++
 KEYWORDS:
