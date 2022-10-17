@@ -48,19 +48,19 @@ This is all fine and good, but what does comprehensible input have to do with la
 
 A lot, it turns out.
 
-That's because comprehensible input is the fuel for your brain's language-acquisition machine. And I use "acquisition" here very intentionally. 
+That's because comprehensible input is the fuel for your brain's **language-acquisition** machine. And I use "acquisition" here very intentionally. 
 
-That's because learning _about_ a language is not the same as _acquiring_ one. And comprehensible input is the key to _acquisition_ — the process by which your brain builds up a working mental model of a new language that it can use to spontaneously and flexibly interpret and communicate in that language.  
+Learning _about_ a language is not the same as _acquiring_ one. And comprehensible input is the key to _acquisition_ — the process by which your brain builds up a working mental model of a new language that it can use to spontaneously and flexibly interpret and communicate in that language.  
 
 > It's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
-A language is not just another academic subject like history or chemistry.  Using language is an ability innate to all humans. Memorizing the date that William the Conquerer invaded England is not.
+A language is not just another academic subject like history or chemistry.  Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
 
 [The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of memory tasks that traditional learning usually involves.
 
 When you understand material in your new language (i.e., when you receive comprehensible input), your brain uses that input to build or refine its model of the language. You further _acquire_ the language. 
 
-And while research has shown that input alone is sufficient for language acquisition, the jury is still out as to whether the kinds of formal studying you're used to from traditional language classes (i.e., "focus on form" teaching) can actually help the acquisition process along at all. 
+And while research has shown that input alone is sufficient for language acquisition, the jury is still out as to whether the kinds of formal studying you're used to from traditional language classes (i.e., "focus on form") can actually help the acquisition process along at all. 
 
 In other words, it's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
@@ -95,7 +95,8 @@ I based my definitions of comprehensible input and immersion on:
 * Stephen Krashen's writings and research
 * Contemporary scholarly works — especially _this_ paper
 * The usage of these terms "in the wild" in the language learning community
-* 
+
+I think the distinction between comprehensible input and immersion is useful enough to warrant strengthening and maintaining, so that's why I don't use these terms interchangeably. It's possible to learn via comprehensible input without immersion, and plenty of people who go off on immersion experiences focus far more on finding chances to produce output than on soaking up as much input as possible.
 
 {{</ notice  >}}
 
