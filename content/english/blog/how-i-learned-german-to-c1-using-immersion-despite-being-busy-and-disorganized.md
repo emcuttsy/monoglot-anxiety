@@ -21,6 +21,8 @@ All this is to say that something clearly played out differently with German tha
 
 The thing that played out differently was **immersion** — **comprehensible input** to be more precise.
 
+{{< toc >}}
+
 ## Normal, chaotic, and busy people can learn German
 
 I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place, until now.

@@ -1,0 +1,8 @@
+Table of Contents
+
+<div class="toc" {{ if len .Params | eq 2 }} id="toc" {{ end }}>
+    <p style="font-weight:bold" id = "header">Table of Contents</p>
+    <div id= "inner" class="inner">
+        <p>{{ .Page.TableOfContents }}</p>
+    </div>
+</div>
