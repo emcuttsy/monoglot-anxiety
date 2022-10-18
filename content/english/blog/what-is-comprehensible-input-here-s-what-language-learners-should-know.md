@@ -102,15 +102,15 @@ The good news is that comprehensible input is easy to come by. It's not locked b
 
 This all sounds well and good, but the problem is that a lot of foreign-language content online is geographically restricted.
 
-Using a VPN (Virtual Private Network) is an easy way to securely access foreign language content for input if you don't live in the "right" country.  I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input. Most textbooks aren't worth the paper they're printed on.
+Using a **VPN (Virtual Private Network)** is an easy way to securely access foreign language content for input if you don't live in the "right" country. 
 
-[You can get 82% Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input) using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
-
-Fellow German learner and Polygloss app founder Etiene Dalcol used Surfshark to watch Austrian and German content that wasn't available in her region: 
+[You can get 81% Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input) using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
 
 {{< tweet 1296760699339890688 >}}
 
-Note: Using a VPN to get around location restrictions can be against the terms of service of streaming sites.
+**I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input.** If you ask me, most textbooks aren't worth the paper they're printed on.
+
+_Note: Using a VPN to get around location restrictions can be against the terms of service of streaming sites. I'm not encouraging you to break the rules!_
 
 ## The science of comprehensible input
 
