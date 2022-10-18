@@ -104,7 +104,7 @@ This all sounds well and good, but the problem is that a lot of foreign-language
 
 Using a VPN (Virtual Private Network) is an easy way to get around this problem. A VPN lets you use the internet as if you were in a different country — which means you'll also get immersion from advertisements... great?
 
-{{< tweet id="1296760699339890688" >}}
+{{< tweet 1296760699339890688 >}}
 
 ## The science of comprehensible input
 
