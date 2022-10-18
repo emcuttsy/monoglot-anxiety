@@ -74,10 +74,6 @@ Of course, when you immerse, you get a _lot_ of comprehensible input. That's pro
 
 **But ultimately, immersion is just one of many ways to incorporate comprehensible input into a language learning strategy.**
 
-My Italian tutor bases her lessons on comprehensible input and foreign-language teachers and SLA researchers all have their own opinions about how best to bring comprehensible input into the classroom. Florencia Henshaw of the [Unpacking Language Pedagogy](https://www.youtube.com/c/Unpackinglanguagepedagogy) channel on YouTube does a great job of breaking down some of the ways teachers use input in their lessons.
-
-For my part, I learned German well enough to [score nearly perfectly on the Goethe B2 exam](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) just by switching most of my media consumption — but not my entire life — to German. That's not quite immersion in the traditional sense, even though I learned almost exclusively through exposure to input and not by studying.
-
 {{<notice note "Wait a second — these aren't the definitions I'm used to">}}
 
 You might be used to different definitions of comprehensible input and immersion. I know, for instance, that Refold.la, which outlines a structured input-based learning method, [defines these terms differently](https://community.refold.la/faqs/).
@@ -96,7 +92,7 @@ I based my definitions of comprehensible input and immersion on:
 
 The good news is that comprehensible input is easy to come by. Anything in your target language that you understand well enough to stay engaged in is comprehensible input.
 
-There are three types of input: audio, audio-visual, and text
+There are three types of input: audio, audio-visual, and text:
 
 * **Audio:** podcasts, audiobooks, telephone conversations
 * **Audio-visual:** TV series, movies, YouTube, in-person conversations, video calls
@@ -124,9 +120,7 @@ _Note: Using a VPN to get around location restrictions can be against the terms 
 
 The things I say about comprehensible input are not things I thought up myself. There's a huge body of scholarly work and research studies on input and language learning — my own personal experiences just happen to be consistent with it.
 
-This section gives a brief overview of where all these ideas about comprehensible input come from and the data that exists to back them up.
-
-That said, this topic really deserves its own post, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
+This topic really deserves its own post, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
 
 ### Stephen Krashen and Monitor Theory
 
@@ -136,7 +130,7 @@ His ideas extended and synthesized the previous work of other second language ac
 
 ### Research studies of comprehensible input
 
-Subsection 1 \[H3 header\] Subsection 2 \[H3 header\] Subsection 3 \[H3 header\]
+There's been substantial 
 
 Pablo from Dreaming Spanish has an excellent video explaining comprehensible input, its origins in Krashen's theories, and some of the later research testing the input hypothesis on his channel. The video is in Spanish but there are English subtitles:
 
@@ -148,7 +142,9 @@ There are countless ways to incorporate comprehensible input into whatever langu
 
 This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully).
 
-### Watch TV, movies, and YouTube in your target language
+If you're curious how I use input, you can read my story of how I learned German here. 
+
+### Switch your media consumption to your target language
 
 Your progress with comprehensible input depends on two variables: the quality of the input (see the Optimal Input hypothesis above) and the volume of the input.
 
