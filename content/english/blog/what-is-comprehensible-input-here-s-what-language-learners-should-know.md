@@ -44,7 +44,7 @@ Personally, I define comprehensible input as any language that I can understand 
 
 Being able to stay engaged is critical — and although it's often overlooked, it's  actually been part of the theory around comprehensible input and language learning from the beginning.
 
-### Comprehensible input and the difference between learning and acquiring a language
+### Language acquisition vs learning about a language
 
 This is all fine and good, but what does comprehensible input have to do with language learning?
 
