@@ -20,9 +20,9 @@ Decades of research show that becoming fluent in a new language requires **compr
 
 The good news is that learning a language via comprehensible input is far more fun and far less boring than using traditional methods. And better yet — learning via input works great for busy or chaotic people who can't make dedicated time to study. All you need to make it work is a pair of headphones and something to play audio.
 
-I'm a _huge_ fan of comprehensible input and it's the core of how I learn languages today. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) without it. 
+I'm a _huge_ fan of comprehensible input and it's the core of how I learn languages today. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) without it.
 
-But what exactly _is_ comprehensible input? 
+But what exactly _is_ comprehensible input?
 
 I talk a lot about input on this blog and on Twitter without ever fully explaining what it is. I wanted to finally change that.
 
@@ -44,19 +44,17 @@ Being able to stay engaged is critical — and although it's often overlooked, 
 
 ### Language acquisition vs learning about a language
 
-This is all fine and good, but what does comprehensible input have to do with language learning?
+Comprehensible input is critical for language learning because it is the best and only fuel for your brain's **language-acquisition** machine. And I use "acquisition" here very intentionally.
 
-A lot, it turns out.
+**Learning _about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
 
-That's because comprehensible input is the fuel for your brain's **language-acquisition** machine. And I use "acquisition" here very intentionally.
-
-Learning _about_ a language is not the same as _acquiring_ one. And comprehensible input is the key to _acquisition_ — the process by which your brain builds up a working mental model of a new language that it can use to spontaneously and flexibly interpret and communicate in that language.
+[The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves.
 
 > It's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
-A language is not just another academic subject like history or chemistry.  Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
+Explicitly learning grammar and memorizing vocabulary teaches you _about_ your target language. You can use that knowledge to catch errors and correct yourself when you have lots of time — say, when you're editing a paper or writing a speech. But if your goal is to use the language fluently, these methods will not get your far.
 
-[The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of memory tasks that traditional learning usually involves.
+Language _acquisition_ is different. It is process by which your brain builds up a working mental model of a new language that it can use to spontaneously and flexibly interpret and communicate in that language. And the only way this happens is to receive lots and lots of comprehensible input.
 
 When you understand material in your new language (i.e., when you receive comprehensible input), your brain uses that input to build or refine its model of the language. You further _acquire_ the language.
 
@@ -68,7 +66,7 @@ So go ahead memorize verb charts all you want, but your brain would probably pre
 
 ### Is comprehensible input the same thing as immersion?
 
-Comprehensible input is not the same thing as immersion, though the two are certainly connected.
+Though often used interchangeably, comprehensible input is not the same thing as immersion. 
 
 Immersion is an activity or a method for language learning. Immersion means living in an environment where you're constantly surrounded by your target language and learning through your natural exposure to it.
 
