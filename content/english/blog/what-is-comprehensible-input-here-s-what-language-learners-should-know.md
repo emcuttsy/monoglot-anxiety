@@ -66,7 +66,7 @@ In other words, it's not clear if the explicit knowledge we gain from _learning 
 
 So go ahead memorize verb charts all you want, but your brain would probably prefer if you heard that verb in its various forms in context a few thousand times and let it put two-and-two together on its own.
 
-### Is comprehensible input the same thing as language immersion?
+### Is comprehensible input the same thing as immersion?
 
 Comprehensible input is not the same thing as immersion, though the two are certainly connected.
 
