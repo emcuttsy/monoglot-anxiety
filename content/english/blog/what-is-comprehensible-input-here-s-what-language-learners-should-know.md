@@ -22,7 +22,9 @@ The good news is that learning a language via comprehensible input is far more f
 
 I'm a _huge_ fan of comprehensible input and it's the core of how I learn languages today. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) without it. 
 
-So of course, I talk a lot about input on this blog and on Twitter without ever fully explaining what it is. I wanted to finally change that.
+But what exactly _is_ comprehensible input? 
+
+I talk a lot about input on this blog and on Twitter without ever fully explaining what it is. I wanted to finally change that.
 
 In this post I explain **what comprehensible input is**, its **origins in linguist Stephen Krashen's "input hypothesis,"** and **how to use comprehensible input for language learning.**
 
@@ -37,6 +39,8 @@ There's no universal consensus on how much you need to understand for input to b
 Personally, I define comprehensible input as any language that I can understand well enough to _stay interested and engaged_, even if I don't understand everything. In my experience, "comprehensible" for me can mean anywhere from 20-100% understanding depending on what I'm watching, reading, or listening to.
 
 Being able to stay engaged is critical — and although it's often overlooked, it's  actually been part of the theory around comprehensible input and language learning from the beginning.
+
+> Comprehensible input (CI) is anything in your target language that you can understand despite not getting every little detail.
 
 ### Language acquisition vs learning about a language
 
