@@ -30,6 +30,8 @@ In this post I explain **what comprehensible input is**, the **science behind it
 
 {{< toc >}}
 
+_This post contains affiliate links. If you click on one of my links and make a purchase, I get a small commission at no extra cost to you. If you like what I do, using my links is a great way to say thanks!_
+
 ## What is comprehensible input?
 
 **Comprehensible input (CI) is anything in your target language that you can understand despite not getting every little detail.**
@@ -172,9 +174,63 @@ If you're curious how I use input, you can read my story of [how I learned Germa
 
 Your progress with comprehensible input depends on two variables: the quality of the input (see the Optimal Input hypothesis above) and the volume of the input.
 
-Lingopie is essentially Netflix for language learners, with built-in features for making and reviewing flashcards as you watch TV in your target language. Its catalogue consists exclusively of "authentic" (i.e., made originally in the language) content and leans towards shorter films and episodes.
+So switch over as much of your media diet to your target language as possible. Watch dubs of your favorite shows if necessary. Listen to music in your target language. Read newspapers in your target language. Whatever media you like in your native language, find its counterparts in your target language.
+
+#### Video
+
+Traditional streaming services like <a target="_blank" href="https://www.netflix.com/">Netflix</a> and <a target="_blank" href="http://www.amazon.com/gp/video/primesignup?_encoding=UTF8&linkCode=ib1&tag=elisecutts-20&linkId=aea35f1babd681c247aee3f12b3be2de&ref_=ihub_curatedcontent_5d5520b9-1915-4beb-bdfc-01a90af1be3f">Prime Video (30 day free trial)</a> are good places to start, but there are also great resources specifically for language learners, too:
+
+[**Lingopie is essentially Netflix for language learners**](https://lingopie.com/?ref=elisecutts&utm_medium=affiliate&utm_campaign=elisecutts&utm_term=elisecutts), with built-in features for making and reviewing flashcards as you watch TV in your target language. Its catalogue consists exclusively of "authentic" (i.e., made originally in the language) content and leans towards shorter films and episodes.
+
+Plugins like [**Toucan**](https://jointoucan.com) and [**Language Reactor**]() can also enhance your language-learning experience when consuming media online.
+
+Don't underestimate YouTube either. There are great channels aimed at learners and tons of authentic content to explore. [German science YouTube channels](https://www.monoglotanxiety.com/blog/german-science-youtube-channels/) were key to my early fascination with — and progress in — German!
+
+#### Audio
+
+Podcasts and audiobooks are great resources, and the great news is that podcasts, at least, are free. 
+
+For beginners, there are even "comprehensible" podcasts available in many languages. These podcasts use simplified language but are 100% (or almost 100%) in your target language. 
+
+Don't overlook audiobooks, though. Listening along to Harry Potter as I read with [Audible](https://amzn.to/3Tu7MBp) was a great help. And for language like German for which the written language is quite different from the spoken language, it's important to get plenty of exposure to writing. Audiobooks makes it much easier to make time for "reading."
+
+#### Text
+
+There's a ton of research showing that reading is good for you, so try to read. Reading helped me immensely while learning German and is the main thrust to my efforts to creep towards properly effortless fluency.
+
+Graded readers are also a fantastic resource, especially for beginners. I personally benefitted a lot from [Olly Richard's graded readers](https://amzn.to/3VCRaJr). His [_Short Stories in German for Beginners_](https://www.amazon.com/Short-Stories-German-Beginners-vocabulary-ebook/dp/B07HWPYWHM/ref=sr_1_3?crid=QA2R9194N715&keywords=Olly+richards+german&qid=1666124051&qu=eyJxc2MiOiI1LjAwIiwicXNhIjoiNC43MiIsInFzcCI6IjQuNjcifQ%3D%3D&sprefix=olly+richards+germ%2Caps%2C210&sr=8-3) was my very first book in German, and [the Italian version](https://amzn.to/3SrkgZP) was my first book in Italian, too! 
+
+But don't stick to graded readers forever! Start reading real books, and try before you "feel ready." I started with the translations of Harry Potter since I knew the story well and could enjoy bumbling along without getting every last word thanks to that context. 
+
+Magazines, newspapers, blogs, and social media — and basically _the entire internet_ — are also great places to find things to read in your target language. Read what you enjoy reading!
+
+{{<notice note "Want to discover great German media to use as comprehensible input?">}}
+
+[I write a little newsletter for German learners recommending new authentic German media every week.](https://monoglotanxiety.ck.page/germanrecs) Sign up to start discovering new (and compelling!) input! There is more to German music than Rammstein and Nena!
+
+{{</ notice >}}
 
 ### Use audio to fill "dead time" with input
+
+This is my single best tip for learning with input: use audio to fill dead time.
+
+You can't cook, commute, or do chores while doing flashcards or slumped over a textbook. But you can listen to a podcast or audiobook.
+
+If you want to rack up enough hours of input to make good progress, you need audio. This is doubly true if you live with other people who don't want to watch TV in a foreign language all the time. There's a reason I consider [these bluetooth headphones](https://www.lingq.com/?referral=elisecutts) to be my single most important piece of language learning "equipment."
+
+It's a joke but it's also not really a joke. I'm really hopeless without audio.
+
+### Re-watch, re-read, and re-listen to your favorites
+
+If you're a beginner, this tip will make a world of difference.
+
+Media you're already familiar with is more comprehensible. So use language learning as a good excuse to return to all your old favorites — translated into your target language, of course.
+
+There's a reason I've watched _The Dragon Prince_ on Netflix in English, German, Danish, Spanish, and Italian at this point. There's a reason my first real novel in German was _Harry Potter und der Stein der Weisen. _Familiarity boosts comprehensibility and often also makes input more compelling. We humans are creatures of habit. We like our favorite things.
+
+Especially at the beginning, you can get away with consuming input that's far beyond your "real" level by re-watching, re-reading, and re-listening to things you know well. So go watch _Avatar: The Last Airbender_ in German or Portuguese or whatever. 
+
+And if you're running into problems with geoblocking, remember that using [a VPN like Surfshark (81% off link)](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1285) can help.
 
 ### Be choosy about language apps
 
@@ -184,21 +240,33 @@ What you're looking for in a language app is _language in context_. Instead of m
 
 Here are some recommendations:
 
-* Glossika combines comprehensible input with spaced repetition — it's my top pick for a flashcard app. After much experimentation with Anki I don't really like spaced repetition flashcards at all. But Glossika has a fantastic audio-only mode that you can do 100% hands free, turning it into structured comprehensible input. All sentences are voiced by real native speakers too, not robots, which is a cut above most competitors I've tried.
-* Lingq teaches languages via a massive library of authentic content in dozens of languages. It was developed by Steve Kaufmann, a polyglot who learns languages via comprehensible input.
-* Beelinguapp uses audiobooks, news, and songs to teach languages. In addition to Lingopie and Lingq, it's probably the most obviously CI-oriented app I've tried.
-* Speakly has well-curated example sentences and listening exercises that are great for CI. Its core product is a traditional close-deletion style app but and all words are taught and learned in context.
-* Duolingo's stories and podcasts are a great free resources for languages that have these features! I'm not a huge fan of the core Duolingo app, but it also uses sentences for context so it's not the worst.
+* [**Glossika combines comprehensible input with spaced repetition **](https://ai.glossika.com/r/me_634e)— it's my top pick for a flashcard app. After much experimentation with Anki I don't really like spaced repetition flashcards at all. But Glossika has a fantastic audio-only mode that you can do 100% hands free, turning it into structured comprehensible input. All sentences are voiced by real native speakers too, not robots, which is a cut above most competitors I've tried.
+* [**Lingq teaches languages via a massive library of authentic content in dozens of languages**](https://www.lingq.com/?referral=elisecutts)**.** It was developed by Steve Kaufmann, a polyglot who learns languages via comprehensible input.
+* [**Beelinguapp uses audiobooks, news, and songs to teach languages.**](https://beelinguapp.com) In addition to Lingopie and Lingq, it's probably the most obviously CI-oriented app I've found.
+* [**Speakly has well-curated example sentences and listening exercises that are great input for beginners**](https://speakly.me). Its core product is a traditional close-deletion style app but and all words are taught and learned in context.
+* [**Duolingo's stories**](https://www.duolingo.com/stories) and [**podcasts**](https://podcast.duolingo.com) are a great free resources for languages that have these features! I'm not a huge fan of the core Duolingo app, but it also uses sentences for context so it's not the worst.
 
-### Find a tutor who uses comprehensible input to teach
+### Get input from tutors and crosstalk
+
+Finally, tutors and exchange partners can also be great sources of comprehensible input — if they're conscious about it.
+
+Remember, for input to work it needs to be comprehensible, compelling, and expose you to new things (n+1). Talking to someone is pretty compelling, so speech works well as input. But make sure your conversation partner keeps their speech comprehensible and that you make sure to talk about new things once and a while.
+
+I found my German and Italian tutors through[ iTalki, which makes it easy to find affordable online tutors for pretty much any language](https://www.italki.com/affshare?ref=af7409579). I've also used [Tandem](https://www.tandem.net) and the (admittedly old-school) [MyLanguageExchange.com](https://mylanguageexchange.com) for exchange.
+
+If you do exchange, consider doing **crosstalk**. Crosstalk is when you speak your native language and your partner speaks theirs. It works surprisingly well and doubles the amount of time you get input during exchange. I really can't praise crosstalk enough, it works great. [I've done it for Italian](https://www.monoglotanxiety.com/blog/language-diary-2-first-italian-exchange/) and Spanish now and it has been super helpful.
 
 ## Conclusion
 
-Still, while I do have a few affiliate links on this site (and would be deeply thankful if you used one of them), I will reiterate that **you do not _need_ fancy tools to learn via comprehensible input.**
+Long story short, comprehensible input is material in your target language that you mostly but not necessarily entirely, understand. It feeds your brain's language acquisition system which is necessary (and probably sufficient on its own) to learn a language well. And you do not _need_ fancy tools to learn via comprehensible input — Netflix, podcasts, and books will get you far, though there are great resources out there for learners, too. 
 
-You just need a way — preferably many ways — to access media in your target language that you like enough to spend _hundreds of hours_ listening to, watching, and reading.
+All you need to do to learn with input is to find media in your target language that you like enough to spend _hundreds of hours_ listening to, watching, and reading.
+
+And I mean _hundreds,_ if not _thousands_ of hours.
 
 For me, that way was my mom's Netflix account, Spotify, YouTube, a library card, Duolingo, and a few graded readers.
+
+What was — or will be — yours?
 
 ## Related articles
 
