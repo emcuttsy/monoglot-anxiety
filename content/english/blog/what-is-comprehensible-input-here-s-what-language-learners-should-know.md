@@ -112,9 +112,11 @@ This section gives a brief overview of where all these ideas about comprehensibl
 
 That said, this topic really deserves its own post, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
 
-### Stephen Krashen and the input hypothesis
+### Stephen Krashen and Monitor Theory
 
 His ideas extended and synthesized the previous work of other second language acquisition researchers such as X, X, and X, who
+
+### The Optimal Input Hypothesis
 
 ### Research studies of comprehensible input
 
