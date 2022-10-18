@@ -258,7 +258,7 @@ If you do exchange, consider doing **crosstalk**. Crosstalk is when you speak yo
 
 ## Conclusion
 
-Long story short, comprehensible input is material in your target language that you mostly but not necessarily entirely, understand. It feeds your brain's language acquisition system which is necessary (and probably sufficient on its own) to learn a language well. And you do not _need_ fancy tools to learn via comprehensible input — Netflix, podcasts, and books will get you far, though there are great resources out there for learners, too. 
+Long story short, comprehensible input is material in your target language that you mostly but not necessarily entirely, understand. It feeds your brain's language acquisition system which is necessary (and probably sufficient on its own) to learn a language well. And you do not _need_ fancy tools to learn via comprehensible input — TV, podcasts, and books will get you far, though there are great resources out there for learners, too. 
 
 All you need to do to learn with input is to find media in your target language that you like enough to spend _hundreds of hours_ listening to, watching, and reading.
 
@@ -270,8 +270,6 @@ What was — or will be — yours?
 
 ## Related articles
 
-Main Section 3 – \[H2 header\] Subsection 1 \[H3 header\] Subsection 2 \[H3 header\] Subsection 3 \[H3 header\]
-
-Conclusion \[H3 header\] or make it an H2 header – doesn’t matter which way
-
-Related articles \[H3 header\] Last line \[H2 header\]
+* [How I self-taught German to C1 despite being super chaotic and disorganized](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/)
+* [How I passed the B2 Goethe exam with a nearly perfect score](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/)
+* [10 great science YouTube channels](https://www.monoglotanxiety.com/blog/german-science-youtube-channels/)
