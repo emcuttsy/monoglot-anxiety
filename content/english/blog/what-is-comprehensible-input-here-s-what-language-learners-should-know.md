@@ -14,9 +14,15 @@ title = "What is comprehensible input? Here's what language learners need to kno
 type = "featured"
 
 +++
-## If you're learning a language, studying won't make you fluent. Comprehensible input will. 
+## The way we learn languages in school is wrong.
 
-Discovering comprehensible input was nothing short of revolutionary for me when it came to learning languages. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) without it.
+Decades of research show that becoming fluent in a new language requires **comprehensible input**, not the rote memorization and drills you'll find in most textbooks.
+
+The good news is that learning a language via comprehensible input is far more fun and far less boring than using traditional methods. And better yet — learning via input works great for busy or chaotic people who can't make dedicated time to study. All you need to make it work is a pair of headphones and something to play audio.
+
+I'm a _huge_ fan of comprehensible input and it's the core of how I learn languages today. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) without it. 
+
+So of course, I talk a lot about input on this blog and on Twitter without ever fully explaining what it is. I wanted to finally change that.
 
 In this post I explain **what comprehensible input is**, its **origins in linguist Stephen Krashen's "input hypothesis,"** and **how to use comprehensible input for language learning.**
 
