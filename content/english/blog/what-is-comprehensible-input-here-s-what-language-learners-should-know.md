@@ -18,7 +18,7 @@ type = "featured"
 
 Decades of research show that becoming fluent in a new language requires **comprehensible input**, not the rote memorization and drills you'll find in most textbooks.
 
-The good news is that learning a language via comprehensible input is far more fun and far less boring than using traditional methods. And better yet — learning via input works great for busy or chaotic people who can't make dedicated time to study. 
+The good news is that learning a language via comprehensible input is far more fun and far less boring than using traditional methods. And better yet — learning via input works great for busy or chaotic people who can't make dedicated time to study.
 
 I'm a _huge_ fan of comprehensible input and it's the core of how I learn languages today. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and score nearly perfect on the Goethe B2 German exam without it.
 
@@ -60,7 +60,7 @@ If you want to get started with input but need a bit of guidance, I put together
 
 {{<notice note "Use a VPN to access foreign-language content">}}
 
-Unfortunately, a lot of foreign-language content online is geographically restricted. This can make finding comprehensible input hard. Using a **VPN (Virtual Private Network)** is an easy way to securely access foreign language content for input if you don't live in the "right" country. 
+Unfortunately, a lot of foreign-language content online is geographically restricted. This can make finding comprehensible input hard. Using a **VPN (Virtual Private Network)** is an easy way to securely access foreign language content for input if you don't live in the "right" country.
 
 [You can get 81% off Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input) using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
 
@@ -110,9 +110,9 @@ The five hypotheses are:
 * **The Monitor hypothesis:** Acquisition builds our ability to produce and understand language, learning trains the "Monitor" — our ability to notice and correct mistakes, which can only operate in unlimited time settings like essay writing.
 * **The Input hypothesis:** Language acquisition occurs when learners receive input that they mostly but not entirely understand. If "n" is what the learner has already acquired, comprehensible input is "n+1"
 * **The Affective Filter hypothesis:** Having a bad attitude or low self esteem gets in the way of language acquisition. This bad attitude is the "affective filter."
-* **The Natural Order hypothesis:** Grammatical features of a language are acquired in a natural order that can't be overwritten by learning and is independent of the learner's L1. 
+* **The Natural Order hypothesis:** Grammatical features of a language are acquired in a natural order that can't be overwritten by learning and is independent of the learner's L1.
 
-Although Monitor Theory was widely criticized by second-language acquisition researchers for not being scientific enough, most of Krashen's core ideas — especially the acquisition-learning hypothesis, input hypothesis, and natural order hypothesis — [have been supported by subsequent research](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552). 
+Although Monitor Theory was widely criticized by second-language acquisition researchers for not being scientific enough, most of Krashen's core ideas — especially the acquisition-learning hypothesis, input hypothesis, and natural order hypothesis — [have been supported by subsequent research](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552).
 
 Krashen is undoubtedly the person responsible for popularizing the idea of input and crystallizing many of the most important ideas about it, but others were thinking about input before him too. [Bialystock made a distinction between implicit and explicit learning in 1972](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1979.tb01053.x?casa_token=HRum1YSDJUUAAAAA:jIxnn_kEZd7ZCU6NXEd-vQH2LsiXuyGvtUKGKPnDdVVgy4-hmPggvFAdphjVQ2bD8GzN3mtWh2H3XJ6i), for instance.
 
@@ -134,19 +134,20 @@ In other words, it's not clear if the explicit knowledge we gain from _learning 
 
 So go ahead memorize verb charts all you want, but your brain would probably prefer if you heard that verb in its various forms in context a few thousand times and let it put two-and-two together on its own.
 
-### Where to learn more 
+### Where to learn more
 
 If you want to dig into the science of comprehensible input, there are a few great places to start:
 
 * [Stephen Krashen's website](http://www.sdkrashen.com) is a great resource. He made many of his books and scholarly publications available for free. If you don't know where to start, start here.
 * [Beniko Mason](http://beniko-mason.net/publications/) spent years researching input in the classroom in Japan and beyond. Her experiments show that reading for pleasure is usually more effective than traditional classroom teaching.
-*  ["Was Krashen Right: 40 years later" by Lichtman and Van Patten (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552) is a great review and provides an interesting retrospective on Krashen's work. [Read Krashen's response to their paper](http://www.sdkrashen.com/content/articles/why_dont_educators_scholars.pdf), too. 
+* [Lichtman and Van Patten (2021)"Was Krashen Right: 40 years later"](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552) is a great review and provides an interesting retrospective on Krashen's work. [Read Krashen's response to their paper](http://www.sdkrashen.com/content/articles/why_dont_educators_scholars.pdf), too.
+* [Zobl (1995) "Converging Evidence for the ‘Acquisition-Learning’ Distinction"](https://academic.oup.com/applij/article-abstract/16/1/35/233448) discusses evidence for the aqusition-learning hypothesis as of 1995.
 * [Florencia Henshaw's Unpacking Language Pedagogy](https://www.youtube.com/watch?v=UmPgF7EMeCc) channel on YouTube is a fantastic resource and an approachable way to get your feet wet in the world of second-language acquisition research and its application to the classroom.
 * 
 
 Pablo from the Dreaming Spanish YouTube channel also does a great job explaining input and some of the research behind it in this video. It's in Spanish, but there are English subtitles.
 
-{{< youtube M5RwvFnsZ_g&list=PLlpPf-YgbU7GrtxQ9yde-J2tfxJDvReNf >
+{{< youtube M5RwvFnsZ >}}
 
 ## Comprehensible input strategies for language learning
 
@@ -154,7 +155,7 @@ There are countless ways to incorporate comprehensible input into whatever langu
 
 This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully).
 
-If you're curious how I use input, you can read my story of how I learned German here. 
+If you're curious how I use input, you can read my story of how I learned German here.
 
 ### Switch your media consumption to your target language
 
