@@ -136,7 +136,7 @@ Pablo from Dreaming Spanish has an excellent video explaining comprehensible inp
 
 ## Comprehensible input strategies for language learning
 
-### Consume media in your target language — as much and as often as possible
+### Consume media in your target language
 
 Your progress with comprehensible input depends on two variables: the quality of the input (see the Optimal Input hypothesis above) and the volume of the input.
 
