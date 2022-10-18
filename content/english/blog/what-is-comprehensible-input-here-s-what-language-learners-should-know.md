@@ -136,14 +136,14 @@ So go ahead memorize verb charts all you want, but your brain would probably pre
 
 ### Where to learn more
 
-If you want to dig into the science of comprehensible input, there are a few great places to start:
+If you want to dig into the research on comprehensible input, there are a few great places to start:
 
 * [Stephen Krashen's website](http://www.sdkrashen.com) is a great resource. He made many of his books and scholarly publications available for free. If you don't know where to start, start here.
-* [Beniko Mason](http://beniko-mason.net/publications/) spent years researching input in the classroom in Japan and beyond and developing the Story-Listening and Guided Self- Selected Reading methods. Her experiments show that reading for pleasure is usually more effective than traditional classroom teaching.
 * [Lichtman and Van Patten (2021)"Was Krashen Right: 40 years later"](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552) is a great review and provides an interesting retrospective on Krashen's work. [Read Krashen's response to their paper](http://www.sdkrashen.com/content/articles/why_dont_educators_scholars.pdf), too.
+* [Beniko Mason](http://beniko-mason.net/publications/) spent years researching input in the classroom in Japan and beyond and developing the Story-Listening and Guided Self- Selected Reading methods. Her experiments show that reading for pleasure is usually more effective than traditional classroom teaching.
 * [Zobl (1995) "Converging Evidence for the ‘Acquisition-Learning’ Distinction"](https://academic.oup.com/applij/article-abstract/16/1/35/233448) discusses evidence for the aqusition-learning hypothesis as of 1995.
 * [Florencia Henshaw's Unpacking Language Pedagogy](https://www.youtube.com/watch?v=UmPgF7EMeCc) channel on YouTube is a fantastic resource and an approachable way to get your feet wet in the world of second-language acquisition research and its application to the classroom.
-* 
+* [Jeff McQuillan](http://backseatlinguist.com/blog/about/) is noteworthy not only for his work as a professor of language education but also for his podcast and blog, which might be easier to digest than [his academic papers](http://backseatlinguist.com/blog/publications/).
 
 Pablo from the Dreaming Spanish YouTube channel also does a great job explaining input and some of the research behind it in this video. It's in Spanish, but there are English subtitles.
 
