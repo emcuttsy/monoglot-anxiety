@@ -94,11 +94,19 @@ I based my definitions of comprehensible input and immersion on:
 
 ### Comprehensible input examples
 
-The good news is that comprehensible input is easy to come by. It's not locked behind classroom doors or only accessible to people who can shell out cash for classes or expensive language programs.
+The good news is that comprehensible input is easy to come by. Anything in your target language that you understand well enough to stay engaged in is comprehensible input.
 
-#### Video comprehensible input: TV series, YouTube, and movies
+There are three types of input: audio, audio-visual, and text
 
-#### Tip for accessing foreign-language content: use a VPN!
+* **Audio:** podcasts, audiobooks, telephone conversations
+* **Audio-visual:** TV series, movies, YouTube, in-person conversations, video calls
+* **Text:** books, articles, graded readers, social media, text conversations
+
+Both content intended for native speakers and resources designed for learners can be comprehensible input, but don't get too cozy with beginner content. It is intimidating to make the jump to the real stuff, but it's an important. It will greatly deepen your connection to and interest in the culture(s) associated with the language you're learning and expand the landscape of (interesting! compelling!) input you can consume immensely.
+
+If you want to get started with input but need a bit of guidance, I put together a [free cheat sheet with 11 tips to help beginners start learning a language via comprehensible input.](https://monoglotanxiety.ck.page/11-tips-for-beginners) This is the advice I gave my mom when she started learning German!
+
+### Tip for accessing foreign-language content: use a VPN!
 
 This all sounds well and good, but the problem is that a lot of foreign-language content online is geographically restricted.
 
