@@ -32,6 +32,8 @@ Discovering comprehensible input was nothing short of revolutionary for me when 
 
 In this post I explain **what comprehensible input is**, its **origins in linguist Stephen Krashen's "input hypothesis,"** and **how to use comprehensible input for language learning.**
 
+{{< toc >}}
+
 ## What is comprehensible input?
 
 Comprehensible input (CI) is anything in your target language that you can understand despite not getting every little detail.
