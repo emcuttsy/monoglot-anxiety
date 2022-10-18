@@ -14,19 +14,7 @@ title = "What is comprehensible input? Here's what language learners need to kno
 type = "featured"
 
 +++
-KEYWORDS:
-
-* comprehensible input
-* comprehensible input examples
-* comprehensible input language learning
-* Comprehensible input strategies
-
-THINGS TO LINK
-
-* How I learned German
-* tips for beginners
-
-## FIRST SENTENCE
+## If you're learning a language, studying won't make you fluent. Comprehensible input will. 
 
 Discovering comprehensible input was nothing short of revolutionary for me when it came to learning languages. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) without it.
 
@@ -98,11 +86,7 @@ I based my definitions of comprehensible input and immersion on:
 * Contemporary scholarly works — especially _this_ paper
 * The usage of these terms "in the wild" in the language learning community
 
-I think the distinction between comprehensible input and immersion is useful enough to warrant strengthening and maintaining, so that's why I don't use these terms interchangeably. It's possible to learn via comprehensible input without immersion, and plenty of people who go off on immersion experiences focus far more on finding chances to produce output than on soaking up as much input as possible.
-
 {{</ notice  >}}
-
-Of course, not everyone agrees with these definitions. The folks over at Refold.la define comprehensible
 
 ### Comprehensible input examples
 
