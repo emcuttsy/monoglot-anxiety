@@ -98,7 +98,7 @@ The good news is that comprehensible input is easy to come by. It's not locked b
 
 #### Video comprehensible input: TV series, YouTube, and movies
 
-#### Accessing geoblocked comprehensible input
+#### Tip for accessing foreign-language content: use a VPN!
 
 This all sounds well and good, but the problem is that a lot of foreign-language content is location-specific. Now that I live in Austria, it's a lot easier for me to stream series in German than it was in the US. And it's pretty much impossible to stream anything in Danish outside of Denmark.
 
