@@ -32,7 +32,7 @@ In this post I explain **what comprehensible input is**, the **science behind it
 
 ## What is comprehensible input?
 
-Comprehensible input (CI) is anything in your target language that you can understand despite not getting every little detail.
+**Comprehensible input (CI) is anything in your target language that you can understand despite not getting every little detail.**
 
 There's no universal consensus on how much you need to understand for input to be considered "comprehensible." I often see numbers between 80% and 95% thrown around.
 
@@ -46,7 +46,7 @@ Being able to stay engaged is critical — and although it's often overlooked, 
 
 Comprehensible input is critical for language learning because it is the best and only fuel for your brain's **language-acquisition** machine. And I use "acquisition" here very intentionally.
 
-**Learning _about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry.  [The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not. 
+**Learning _about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry.  [The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
 
 > It's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
@@ -62,7 +62,7 @@ So go ahead memorize verb charts all you want, but your brain would probably pre
 
 ### Is comprehensible input the same thing as immersion?
 
-Though often used interchangeably, comprehensible input is not the same thing as immersion. 
+Though often used interchangeably, comprehensible input is not the same thing as immersion.
 
 Immersion is an activity or a method for language learning. Immersion means living in an environment where you're constantly surrounded by your target language and learning through your natural exposure to it.
 
@@ -98,17 +98,19 @@ The good news is that comprehensible input is easy to come by. It's not locked b
 
 #### Video comprehensible input: TV series, YouTube, and movies
 
-#### Accessing
+#### Accessing geoblocked comprehensible input
 
 This all sounds well and good, but the problem is that a lot of foreign-language content is location-specific. Now that I live in Austria, it's a lot easier for me to stream series in German than it was in the US. And it's pretty much impossible to stream anything in Danish outside of Denmark.
 
-Using a VPN is an easy way to get around this problem — and for certain languages like Danish
+Using a VPN (Virtual Private Network) is an easy way to get around this problem. A VPN lets you use the internet as if you were in a different country — which means you'll also get immersion from advertisements... great?
+
+{{< tweet id="1296760699339890688" >}}
 
 ## The science of comprehensible input
 
 The things I say about comprehensible input are not things I thought up myself. There's a huge body of scholarly work and research studies on input and language learning — my own personal experiences just happen to be consistent with it.
 
-This section gives a brief overview of where all these ideas about comprehensible input come from and the data that exists to back them up. 
+This section gives a brief overview of where all these ideas about comprehensible input come from and the data that exists to back them up.
 
 That said, this topic really deserves its own post, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
 
@@ -130,7 +132,7 @@ Pablo from Dreaming Spanish has an excellent video explaining comprehensible inp
 
 There are countless ways to incorporate comprehensible input into whatever language learning routine — or non-routine — works best for you.
 
-This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully). 
+This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully).
 
 ### Watch TV, movies, and YouTube in your target language
 
