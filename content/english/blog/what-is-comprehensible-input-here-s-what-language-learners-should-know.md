@@ -104,7 +104,7 @@ I think the distinction between comprehensible input and immersion is useful eno
 
 Of course, not everyone agrees with these definitions. The folks over at Refold.la define comprehensible
 
-### Comprehensible input examples — where can you find comprehensible input?
+### Comprehensible input examples
 
 The good news is that comprehensible input is easy to come by. It's not locked behind classroom doors or only accessible to people who can shell out cash for classes or expensive language programs.
 
@@ -116,7 +116,9 @@ This all sounds well and good, but the problem is that a lot of foreign-language
 
 Using a VPN is an easy way to get around this problem — and for certain languages like Danish
 
-## Crash course in the science of comprehensible input
+## The science of comprehensible input
+
+This topic really deserves its own topic, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
 
 ### Stephen Krashen and the input hypothesis
 
