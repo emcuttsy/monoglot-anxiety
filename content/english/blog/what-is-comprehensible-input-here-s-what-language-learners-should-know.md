@@ -32,8 +32,6 @@ Discovering comprehensible input was nothing short of revolutionary for me when 
 
 In this post I explain **what comprehensible input is**, its **origins in linguist Stephen Krashen's "input hypothesis,"** and **how to use comprehensible input for language learning.**
 
-{{< toc >}}
-
 ## What is comprehensible input?
 
 Comprehensible input (CI) is anything in your target language that you can understand despite not getting every little detail.
@@ -50,9 +48,9 @@ This is all fine and good, but what does comprehensible input have to do with la
 
 A lot, it turns out.
 
-That's because comprehensible input is the fuel for your brain's **language-acquisition** machine. And I use "acquisition" here very intentionally. 
+That's because comprehensible input is the fuel for your brain's **language-acquisition** machine. And I use "acquisition" here very intentionally.
 
-Learning _about_ a language is not the same as _acquiring_ one. And comprehensible input is the key to _acquisition_ — the process by which your brain builds up a working mental model of a new language that it can use to spontaneously and flexibly interpret and communicate in that language.  
+Learning _about_ a language is not the same as _acquiring_ one. And comprehensible input is the key to _acquisition_ — the process by which your brain builds up a working mental model of a new language that it can use to spontaneously and flexibly interpret and communicate in that language.
 
 > It's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
@@ -60,9 +58,9 @@ A language is not just another academic subject like history or chemistry.  Usin
 
 [The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of memory tasks that traditional learning usually involves.
 
-When you understand material in your new language (i.e., when you receive comprehensible input), your brain uses that input to build or refine its model of the language. You further _acquire_ the language. 
+When you understand material in your new language (i.e., when you receive comprehensible input), your brain uses that input to build or refine its model of the language. You further _acquire_ the language.
 
-And while research has shown that input alone is sufficient for language acquisition, the jury is still out as to whether the kinds of formal studying you're used to from traditional language classes (i.e., "focus on form") can actually help the acquisition process along at all. 
+And while research has shown that input alone is sufficient for language acquisition, the jury is still out as to whether the kinds of formal studying you're used to from traditional language classes (i.e., "focus on form") can actually help the acquisition process along at all.
 
 In other words, it's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
@@ -88,9 +86,9 @@ For my part, I learned German well enough to [score nearly perfectly on the Goet
 
 {{<notice note "Wait a second — these aren't the definitions I'm used to">}}
 
-You might be used to different definitions of comprehensible input and immersion. I know, for instance, that Refold.la, which outlines a structured input-based learning method, [defines these terms differently](https://community.refold.la/faqs/). 
+You might be used to different definitions of comprehensible input and immersion. I know, for instance, that Refold.la, which outlines a structured input-based learning method, [defines these terms differently](https://community.refold.la/faqs/).
 
-Settling on a definition is tricky, especially since the term "comprehensible input," while popular among language learners, isn't used much by modern second-language acquisition researchers. However, the core concepts associated with comprehensible input live on (and thrive) under other names — focus on meaning vs focus on form, implicit vs explicit learning, etc. 
+Settling on a definition is tricky, especially since the term "comprehensible input," while popular among language learners, isn't used much by modern second-language acquisition researchers. However, the core concepts associated with comprehensible input live on (and thrive) under other names — focus on meaning vs focus on form, implicit vs explicit learning, etc.
 
 I based my definitions of comprehensible input and immersion on:
 
