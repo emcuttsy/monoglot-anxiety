@@ -46,15 +46,11 @@ Being able to stay engaged is critical — and although it's often overlooked, 
 
 Comprehensible input is critical for language learning because it is the best and only fuel for your brain's **language-acquisition** machine. And I use "acquisition" here very intentionally.
 
-**Learning _about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
-
-[The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves.
+**Learning _about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry.  [The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not. 
 
 > It's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
-Explicitly learning grammar and memorizing vocabulary teaches you _about_ your target language. You can use that knowledge to catch errors and correct yourself when you have lots of time — say, when you're editing a paper or writing a speech. But if your goal is to use the language fluently, these methods will not get your far.
-
-Language _acquisition_ is different. It is process by which your brain builds up a working mental model of a new language that it can use to spontaneously and flexibly interpret and communicate in that language. And the only way this happens is to receive lots and lots of comprehensible input.
+Language _acquisition_ is not like traditional learning. It is the unconscious process by which your brain builds up a working mental map of a new language that can be used flexibly — and unconsciously — to understand and communicate. And the only way to build up that map is to receive lots and lots of comprehensible input.
 
 When you understand material in your new language (i.e., when you receive comprehensible input), your brain uses that input to build or refine its model of the language. You further _acquire_ the language.
 
@@ -110,7 +106,11 @@ Using a VPN is an easy way to get around this problem — and for certain langua
 
 ## The science of comprehensible input
 
-This topic really deserves its own topic, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
+The things I say about comprehensible input are not things I thought up myself. There's a huge body of scholarly work and research studies on input and language learning — my own personal experiences just happen to be consistent with it.
+
+This section gives a brief overview of where all these ideas about comprehensible input come from and the data that exists to back them up. 
+
+That said, this topic really deserves its own post, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
 
 ### Stephen Krashen and the input hypothesis
 
@@ -124,43 +124,37 @@ Pablo from Dreaming Spanish has an excellent video explaining comprehensible inp
 
 {{< youtube M5RwvFnsZ_g >}}
 
-### Why didn't Krashen's
-
 ## Comprehensible input strategies for language learning
 
-### Consume media in your target language
+There are countless ways to incorporate comprehensible input into whatever language learning routine — or non-routine — works best for you.
+
+This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully). 
+
+### Watch TV, movies, and YouTube in your target language
 
 Your progress with comprehensible input depends on two variables: the quality of the input (see the Optimal Input hypothesis above) and the volume of the input.
 
-### Use audio to fill "dead time" with input
-
-### Use language learning tools that teach via comprehensible input
-
-I used Netflix to use German, but there are plenty of great resources tailor-made to help language learners learn via comprehensible input.
-
-Refold.la offers one possible roadmap for learning with comprehensible input. I accidentally followed something similar when I learned German, though I didn't do any of the more intense study methods they recommend, such as making flashcards from TV subtitles.
-
-The Language Reactor extension for Netflix is free and adds a ton of language-learning features to Netflix. I didn't use it much, but if you're following Refold's method it's super useful.
-
 Lingopie is essentially Netflix for language learners, with built-in features for making and reviewing flashcards as you watch TV in your target language. Its catalogue consists exclusively of "authentic" (i.e., made originally in the language) content and leans towards shorter films and episodes.
 
-There's also Steve Kaufmann's learning website and app, Lingq. Kaufmann is a big believer in comprehensible input and Lingq teaches languages via a massive library of authentic content in dozens of languages.
+### Use audio to fill "dead time" with input
 
-### Do language apps use comprehensible input?
+### Be choosy about language apps
 
 Some language learning apps are built around comprehensible input to one degree or another. Especially as a beginner — that is, before you can really enjoy consuming media in your target language — apps like this can be a useful boost.
 
 What you're looking for in a language app is _language in context_. Instead of memorizing words in isolation, apps built with CI in mind show you new words in sentences (at the very least) or full stories (which is better).
 
-Beelinguapp uses audiobooks, news, and songs to teach languages. In addition to Lingopie and Lingq, it's probably the most obviously CI-oriented app I've tried.
+Here are some recommendations:
 
-I used Duolingo at the beginning with German, and it's free. However, I find the ads annoying and paid for Duolingo Plus back then. These days, I don't use Duo much because the new voices they introduced for the various characters really annoy me. Duolingo's close exercises are notoriously unnatural but it now has _stories_ for a handful of languages, which are basically interactive graded readers.
-
-These days, I use Speakly instead of Duolingo. The core of Speakly is close exercises designed around a frequency list. But there are also listening and reading exercises that are designed to be used as comprehensible input.
+* Glossika combines comprehensible input with spaced repetition — it's my top pick for a flashcard app. After much experimentation with Anki I don't really like spaced repetition flashcards at all. But Glossika has a fantastic audio-only mode that you can do 100% hands free, turning it into structured comprehensible input. All sentences are voiced by real native speakers too, not robots, which is a cut above most competitors I've tried.
+* Lingq teaches languages via a massive library of authentic content in dozens of languages. It was developed by Steve Kaufmann, a polyglot who learns languages via comprehensible input.
+* Beelinguapp uses audiobooks, news, and songs to teach languages. In addition to Lingopie and Lingq, it's probably the most obviously CI-oriented app I've tried.
+* Speakly has well-curated example sentences and listening exercises that are great for CI. Its core product is a traditional close-deletion style app but and all words are taught and learned in context.
+* Duolingo's stories and podcasts are a great free resources for languages that have these features! I'm not a huge fan of the core Duolingo app, but it also uses sentences for context so it's not the worst.
 
 ### Find a tutor who uses comprehensible input to teach
 
-### You don't need anything fancy to learn via comprehensible input
+## Conclusion
 
 Still, while I do have a few affiliate links on this site (and would be deeply thankful if you used one of them), I will reiterate that **you do not _need_ fancy tools to learn via comprehensible input.**
 
@@ -168,7 +162,7 @@ You just need a way — preferably many ways — to access media in your target 
 
 For me, that way was my mom's Netflix account, Spotify, YouTube, a library card, Duolingo, and a few graded readers.
 
-### Use
+## Related articles
 
 Main Section 3 – \[H2 header\] Subsection 1 \[H3 header\] Subsection 2 \[H3 header\] Subsection 3 \[H3 header\]
 
