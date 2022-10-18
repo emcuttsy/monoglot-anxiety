@@ -62,9 +62,9 @@ If you want to get started with input but need a bit of guidance, I put together
 
 Unfortunately, a lot of foreign-language content online is geographically restricted. This can make finding comprehensible input hard. Using a **VPN (Virtual Private Network)** is an easy way to securely access foreign language content for input if you don't live in the "right" country. 
 
-[You can get 81% Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input) using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
+[You can get 81% off Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input) using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
 
-**I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input.** If you ask me, most textbooks aren't worth the paper they're printed on.
+**I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input...** unlike textbooks!
 
 _Note: Using a VPN to get around location restrictions can be against the terms of service of streaming sites. I'm not encouraging you to break the rules!_
 
