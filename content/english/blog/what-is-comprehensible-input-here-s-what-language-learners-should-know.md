@@ -166,9 +166,9 @@ There are countless ways to incorporate comprehensible input into whatever langu
 
 This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully).
 
-If you're curious how I use input, you can read my story of [how I learned German](blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and how I aced the B2 Goethe exam mostly without "studying" here. I also wrote up a [free tips sheet](https://monoglotanxiety.ck.page/11-tips-for-beginners) to help you get started.
+If you're curious how I use input, you can read my story of [how I learned German](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and [how I aced the B2 Goethe exam mostly without "studying."](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) I also wrote up a [free tips sheet](https://monoglotanxiety.ck.page/11-tips-for-beginners) to help you get started with input if you're feeling stuck.
 
-### Switch your media consumption to your target language
+### Switch your media diet to your target language
 
 Your progress with comprehensible input depends on two variables: the quality of the input (see the Optimal Input hypothesis above) and the volume of the input.
 
