@@ -100,11 +100,17 @@ The good news is that comprehensible input is easy to come by. It's not locked b
 
 #### Tip for accessing foreign-language content: use a VPN!
 
-This all sounds well and good, but the problem is that a lot of foreign-language content is location-specific. Now that I live in Austria, it's a lot easier for me to stream series in German than it was in the US. And it's pretty much impossible to stream anything in Danish outside of Denmark.
+This all sounds well and good, but the problem is that a lot of foreign-language content online is geographically restricted.
 
-Using a VPN (Virtual Private Network) is an easy way to get around this problem. A VPN lets you use the internet as if you were in a different country — which means you'll also get immersion from advertisements... great?
+Using a VPN (Virtual Private Network) is an easy way to securely access foreign language content for input if you don't live in the "right" country.  I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input. Most textbooks aren't worth the paper they're printed on.
+
+[You can get 82% Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input) using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
+
+Fellow German learner and Polygloss app founder Etiene Dalcol used Surfshark to watch Austrian and German content that wasn't available in her region: 
 
 {{< tweet 1296760699339890688 >}}
+
+Note: Using a VPN to get around location restrictions can be against the terms of service of streaming sites.
 
 ## The science of comprehensible input
 
