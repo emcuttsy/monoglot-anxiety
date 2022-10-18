@@ -44,9 +44,20 @@ Being able to stay engaged is critical — and although it's often overlooked, 
 
 ### Optimal input
 
+All input is not created equal. To work best, input needs to be:
+
+* **Comprehensible** — input is best when you understand it. But you don't need to get all of it, smatterings of "noise" you don't understand are ok.
+* **Compelling** — good input holds your interest. It needs to be something you enjoy enough to want to pay attention to.
+* **Rich** — good input contributes to the meaning or flow of a story or text. Stand-alone sentences are not rich input. Song texts are meh. A sentence within a book or story is great.
+* **Abundant** — good input is easy to get ahold of so you can encounter it over and over without much effort.
+
+These four criteria come from ["The Optimal Input Hypothesis: Not All Comprehensible Input is of Equal Value"](http://beniko-mason.net/content/articles/2020-the-optimal-input-hypothesis.pdf) by Benito Mason and Stephen Krashen. But they also square with my own experience learning German.
+
+The input that worked best for me was always something I could understand, something I enjoyed, something with lots of rich context, and something easy to get my hands on. For me, podcasts nearly always fit the bill. Succeeding with input will mean finding what feels most "optimal" for you.
+
 ### Comprehensible input examples
 
-The good news is that comprehensible input is easy to come by. Anything in your target language that you understand well enough to stay engaged in is comprehensible input.
+One great thing about learning with input is that it doesn't have to be expensive or complicated. _Anything_ in your target language that you understand well enough to stay engaged in is comprehensible input. And that means you can find it pretty much everywhere online.
 
 There are three types of input: audio, audio-visual, and text:
 
@@ -155,7 +166,7 @@ There are countless ways to incorporate comprehensible input into whatever langu
 
 This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully).
 
-If you're curious how I use input, you can read my story of how I learned German here.
+If you're curious how I use input, you can read my story of [how I learned German](blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and how I aced the B2 Goethe exam mostly without "studying" here. I also wrote up a [free tips sheet](https://monoglotanxiety.ck.page/11-tips-for-beginners) to help you get started.
 
 ### Switch your media consumption to your target language
 
