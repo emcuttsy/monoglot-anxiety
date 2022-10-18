@@ -102,15 +102,23 @@ This topic really deserves its own post, so just think of this as a crash-course
 
 ### Stephen Krashen and Monitor Theory
 
-The idea of "comprehensible input" is often accredited to linguist Stephen Krashen.
+The idea of "comprehensible input" is often accredited to linguist Stephen Krashen. In the 1970s and 1980s, he developed five hypotheses now collectively known as "Monitor Theory," which outline how he believed comprehensible input lead to language learning.
 
-That said, Krashen happily points out that he is not the first person to think about comprehensible input and language learning. 
+The five hypotheses are:
 
-Monitor Theory 
+* **The Acquisition-Learning hypothesis:** Acquisition and learning are distinct. Acquisition is subconscious, learning is conscious. Acquisition is more important for building fluency than learning.
+* **The Monitor hypothesis:** Acquisition builds our ability to produce and understand language, learning trains the "Monitor" — our ability to notice and correct mistakes, which can only operate in unlimited time settings like essay writing.
+* **The Input hypothesis:** Language acquisition occurs when learners receive input that they mostly but not entirely understand. If "n" is what the learner has already acquired, comprehensible input is "n+1"
+* **The Affective Filter hypothesis:** Having a bad attitude or low self esteem gets in the way of language acquisition. This bad attitude is the "affective filter."
+* **The Natural Order hypothesis:** Grammatical features of a language are acquired in a natural order that can't be overwritten by learning and is independent of the learner's L1. 
+
+Although Monitor Theory was widely criticized by second-language acquisition researchers for not being scientific enough, most of Krashen's core ideas — especially the acquisition-learning hypothesis, input hypothesis, and natural order hypothesis — [have been supported by subsequent research](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552). 
+
+Krashen is undoubtedly the person responsible for popularizing the idea of input and crystallizing many of the most important ideas about it, but others were thinking about input before him too. [Bialystock made a distinction between implicit and explicit learning in 1972](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1979.tb01053.x?casa_token=HRum1YSDJUUAAAAA:jIxnn_kEZd7ZCU6NXEd-vQH2LsiXuyGvtUKGKPnDdVVgy4-hmPggvFAdphjVQ2bD8GzN3mtWh2H3XJ6i), for instance.
 
 ### Language acquisition vs language learning
 
-There's not room in this post to get into every aspect of Monitor Theory, but one of the most important ones to understand regarding comprehensible input is the **difference between language acquisition and language learning.**
+There's not room in this post to get into every component of Monitor Theory, but the most important one to understand regarding comprehensible input is the **difference between language acquisition and language learning.**
 
 According to Krashen (and others), **_learning about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry.  [The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
 
@@ -125,6 +133,20 @@ And while research has shown that input alone is sufficient for language acquisi
 In other words, it's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
 So go ahead memorize verb charts all you want, but your brain would probably prefer if you heard that verb in its various forms in context a few thousand times and let it put two-and-two together on its own.
+
+### Where to learn more 
+
+If you want to dig into the science of comprehensible input, there are a few great places to start:
+
+* [Stephen Krashen's website](http://www.sdkrashen.com) is a great resource. He made many of his books and scholarly publications available for free. If you don't know where to start, start here.
+* [Beniko Mason](http://beniko-mason.net/publications/) spent years researching input in the classroom in Japan and beyond. Her experiments show that reading for pleasure is usually more effective than traditional classroom teaching.
+*  ["Was Krashen Right: 40 years later" by Lichtman and Van Patten (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552) is a great review and provides an interesting retrospective on Krashen's work. [Read Krashen's response to their paper](http://www.sdkrashen.com/content/articles/why_dont_educators_scholars.pdf), too. 
+* [Florencia Henshaw's Unpacking Language Pedagogy](https://www.youtube.com/watch?v=UmPgF7EMeCc) channel on YouTube is a fantastic resource and an approachable way to get your feet wet in the world of second-language acquisition research and its application to the classroom.
+* 
+
+Pablo from the Dreaming Spanish YouTube channel also does a great job explaining input and some of the research behind it in this video. It's in Spanish, but there are English subtitles.
+
+{{< youtube M5RwvFnsZ_g&list=PLlpPf-YgbU7GrtxQ9yde-J2tfxJDvReNf >
 
 ## Comprehensible input strategies for language learning
 
