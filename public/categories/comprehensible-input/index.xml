@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>comprehensible input on Monoglot Anxiety</title>
-    <link>https://monoglotanxiety.com/tags/comprehensible-input/</link>
-    <description>Recent content in comprehensible input on Monoglot Anxiety</description>
+    <title>Comprehensible Input on Monoglot Anxiety</title>
+    <link>https://monoglotanxiety.com/categories/comprehensible-input/</link>
+    <description>Recent content in Comprehensible Input on Monoglot Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Monoglot Anxiety | Copyright Elise Cutts 2021</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://monoglotanxiety.com/tags/comprehensible-input/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://monoglotanxiety.com/categories/comprehensible-input/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is comprehensible input? Here&#39;s what language learners need to know</title>
       <link>https://monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/</link>
@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>Language Diary 3: Now with tracked time data!</title>
-      <link>https://monoglotanxiety.com/blog/language-log-3/</link>
-      <pubDate>Tue, 20 Sep 2022 22:00:00 +0000</pubDate>
-      
-      <guid>https://monoglotanxiety.com/blog/language-log-3/</guid>
-      <description>Lots of German! Also: I finally found a way to track my language learning time consistently.</description>
-    </item>
-    
-    <item>
       <title>How I Passed the Goethe B2 German Exam With a Nearly Perfect Score</title>
       <link>https://monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/</link>
       <pubDate>Sun, 19 Dec 2021 11:19:22 -0500</pubDate>
@@ -43,15 +34,6 @@
       <guid>https://monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/</guid>
       <description>Last week on Monday I officially went from monoglot to&amp;hellip; duo-glot? Bilingual sounds wrong. I didn&amp;rsquo;t grow up speaking two languages.
 Anyways, as a newly minted official Goethe Institute certified B2 German speaker, I wanted to stop and share how I prepped for the test—and really, how I didn&amp;rsquo;t prep for the test.</description>
-    </item>
-    
-    <item>
-      <title>10 Great German Science Youtube Channels</title>
-      <link>https://monoglotanxiety.com/blog/german-science-youtube-channels/</link>
-      <pubDate>Sat, 13 Mar 2021 15:40:24 +0600</pubDate>
-      
-      <guid>https://monoglotanxiety.com/blog/german-science-youtube-channels/</guid>
-      <description>German science videos were some of the first &amp;ldquo;real&amp;rdquo; German media that I could understand. It might sound like a tough place to start, but thanks to the overlap between English and German scienctific vocabulary, science videos can actually be a great entry into authentic German content (especially if you&amp;rsquo;re a nerd like me).</description>
     </item>
     
   </channel>

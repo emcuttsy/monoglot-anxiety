@@ -1,6 +1,6 @@
 +++
 author = "Elise Cutts"
-categories = ["Tips and Strategies", "Language Learning", "German"]
+categories = ["Tips and Strategies", "Language Learning", "German", "Comprehensible Input"]
 date = 2022-09-27T16:53:00Z
 description = "As one reader put it, teaching myself German took \"2 years of not really doing much actually\""
 enableComments = true
@@ -28,6 +28,8 @@ The thing that played out differently was **immersion** — **comprehensible inp
 I allude vaguely to how I learned German in a lot of my posts and tweets, but I never sat down and put the story together all in one place, until now.
 
 This is the story of how I learned German from zero to C1* in about three years of unplanned, mostly unsupervised, and totally chaotic self study that mostly involved listening to podcasts and reading for pleasure.
+
+This really works. Decades of research show that consuming load of "comprehensible input" (i.e., media you understand and enjoy) is absolutely necessary and probably sufficient for learning a language. You can learn more in <a target="_blank" href="https://www.monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/">my blog post about comprehensible input for language learners.</a>
 
 My goal here is to show you that learning a new language to a high level doesn't require a hardcore study plan, organization scheme, or intense regime of traditional group classes.
 
@@ -103,7 +105,7 @@ It turns out that this is a legitimate learning method. **I'd stumbled into lear
 
 ## What is comprehensible input, and how do I use it to learn?
 
-Before continuing, I want to stop and explain a bit about comprehensible input and go through exactly how I use it to learn.
+Before continuing, I want to stop to briefly explain comprehensible input and go through exactly how I use it to learn.
 
 Comprehensible input is input (writing or speech) in your target language that you _almost_ understand.
 
@@ -111,7 +113,7 @@ If n = whatever you understand now, comprehensible input = n + 1.
 
 Generally, folks seem to think that you need to understand 80-90% of something for it to be considered comprehensible input. I'm not sure where I stand on this — I definitely listened to content I _barely_ understood at the beginning. That's because I hate being bored.
 
-There's a great <a href="https://blog.thelinguist.com/comprehensible-input/" target="_blank">explanation of comprehensible input on Steve Kaufmann's blog</a>.
+I wrote a whole post on <a href="https://www.monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/" target="_blank">what comprehensible input is and why it's important for language learning</a> if you want to learn more.
 
 Because I hate being bored, I maybe bit off more than I could chew when it came to the difficulty of the German I was listening to and reading. But in the long run I think that cultivating my love for German was more important than optimizing my input comprehension at the beginning.
 
@@ -124,6 +126,18 @@ My mom started learning German recently and this was a big problem for her. So I
 You have to be a little creative, but there's no witchcraft to using input to learn German as a total newbie. If you're struggling, I wrote up **<a href="https://monoglotanxiety.ck.page/11-tips-for-beginners" target="_blank">11 tips to help beginners learn with comprehensible input from the start</a>** based on my experience. Just follow the link to get the tips sheet for free.
 
 And if you're looking to discover new, _authentic_ (not for learners!) German media to use for comprehensible input, I'll plug my recommendations newsletter again: I write a little <a href="https://monoglotanxiety.ck.page/germanrecs" target="_blank">newsletter with a fresh German media recommendation every week</a>. It's also free!
+
+{{<notice note "Use a VPN to access foreign-language content">}}
+
+Unfortunately, a lot of foreign-language content online is geographically restricted. This can make finding comprehensible input hard. Using a **VPN (Virtual Private Network)** is an easy way to securely access foreign language content for input if you don't live in the "right" country.
+
+<a target="_blank" rel="nofollow" href="https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input">You can get 81% off Surfshark VPN</a> using my link. Surfshark is my pick for language learners because it is great for streaming, works seamlessly across multiple devices, and stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
+
+**I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input...** unlike textbooks!
+
+_Note: Using a VPN to get around location restrictions can be against the terms of service of streaming sites. I'm not encouraging you to break the rules!_
+
+{{</ notice >}}
 
 ## I self-studied German to B1 before speaking for the first time
 

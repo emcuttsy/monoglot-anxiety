@@ -1,6 +1,6 @@
 +++
 author = "Elise Cutts"
-categories = ["Language Learning", "Science of Language", "Tips and Strategies"]
+categories = ["Language Learning", "Science of Language", "Tips and Strategies", "Comprehensible Input"]
 date = 2022-10-19T00:00:00Z
 description = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
 draft = false
@@ -210,11 +210,19 @@ But don't stick to graded readers forever! Start reading real books, and try bef
 
 Magazines, newspapers, blogs, and social media — and basically _the entire internet_ — are also great places to find things to read in your target language. Read what you enjoy reading!
 
-{{<notice note "Want to discover great German media to use as comprehensible input?">}}
+{{< notice note "Boost your Immersion with New Recommendations for German Media Each Week!" >}}
 
-<a target="_blank" href="https://monoglotanxiety.ck.page/germanrecs">I write a newsletter recommending new authentic German media every week.</a> There is more to German music than Rammstein and Nena!
+I write a **free newsletter** for German learners recommending great new German media for comprehensible input learning every week.
+
+Want in? You can sign up here:
+
+<script async data-uid="3f801db084" src="https://monoglotanxiety.ck.page/3f801db084/index.js"></script>
 
 {{</ notice >}}
+
+Thank you to Elliot and Ian for their emails asking about my story. They're the reason I wrote this post. If there's something else you're curious about or would like to see on the blog, just shoot me an email — given the small readership your odds are pretty good that I'll write what you ask for ;)
+
+<small>
 
 ### Use audio to fill "dead time" with input
 
