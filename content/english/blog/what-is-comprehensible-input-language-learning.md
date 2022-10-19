@@ -1,7 +1,7 @@
 +++
 author = "Elise Cutts"
 categories = ["Language Learning", "Science of Language", "Tips and Strategies"]
-date = 2022-10-17T22:00:00Z
+date = 2022-10-19T00:00:00Z
 description = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
 draft = false
 enableComments = true
