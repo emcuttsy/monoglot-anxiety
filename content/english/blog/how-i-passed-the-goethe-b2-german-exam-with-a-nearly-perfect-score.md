@@ -26,7 +26,7 @@ I've seen a lot of advice out there for test-takers that I fundamentally disagre
 
 And that's really just a big load of crap, because I barely "studied" and still earned a nearly perfect score.
 
-Cramming isn't the way. Period. If you're actually a B2 German speaker, you shouldn't need to cram. And you can become a B2 German speaker without doing anything much more complicated than watching a bunch of TV and talking to people once in a while.
+Cramming isn't the way. Period. If you're actually a B2 German speaker, you shouldn't need to cram. Luckily, <a target="_blank" href="https://www.monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/">comprehensible input is the key to language aqusition</a> — not grammar drills. So you can become a B2 German speaker without doing anything much more complicated than watching a bunch of TV and talking to people once in a while. Neat, huh?
 
 *Note: Some of the links in this post are affiliate links. If you make a purchase via an affiliate link, I receive a small commission at no extra cost to you.*
 

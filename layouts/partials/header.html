@@ -23,9 +23,9 @@
           {{ range site.Menus.main }}
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
-            <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+            <a class="nav-link" href = "{{ .URL | absLangURL }}" data-target ="{{ .URL | absLangURL }}" role="button" aria-haspopup="true"
               aria-expanded="false">
-              {{ .Name }} <i class="fas fa-angle-down ml-1"></i>
+              {{ .Name }}<i class="fas fa-angle-down ml-1"></i>
             </a>
             <div class="dropdown-menu">
               {{ range .Children }}

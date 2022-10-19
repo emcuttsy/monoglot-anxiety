@@ -2,34 +2,44 @@
 
 [[main]]
 weight = 1
-name = "Language Learning"
-hasChildren = false
-url = "categories/language-learning"
+name = "Blog"
+hasChildren = true
+url="/blog/"
 
+    [[main]]
+        parent="Blog"
+        name="Science of Language"
+        weight=1
+        url="/categories/science-of-language/"
+
+    [[main]]
+        parent="Blog"
+        name="Tips and Strategies"
+        weight=2
+        url="/categories/tips-and-strategies/"
+    
+    [[main]]
+        parent="Blog"
+        weight=3
+        name="Opinion & Analysis"
+        url="/categories/opinion-and-analysis/"
+    
+    [[main]]
+        parent="Blog"
+        weight=4
+        name="Real Language Stories"
+        url="/categories/real-language-stories/"
+        
+
+[[main]]
+url = "categories/german"
+weight = 2
+name = "German"
 
 [[main]]
 url = "categories/reviews"
-weight = 2
-name = "Reviews"
-
-
-
-[[main]]
 weight = 3
-name = "Languages"
-hasChildren = true
-
-    [[main]]
-    parent = "Languages"
-    url= "categories/german"
-    weight=  2
-    name = "German"
-
-    [[main]]
-    parent = "Languages"
-    url = "categories/danish"
-    weight = 3
-    name = "Danish"
+name = "Reviews"
 
 
 [[main]]
