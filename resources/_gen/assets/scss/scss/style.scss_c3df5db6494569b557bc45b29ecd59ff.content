@@ -649,11 +649,16 @@ a:hover {
   .content .toc ul li {
     margin-bottom: .5rem; }
   .content .toc ul {
-    margin-bottom: 0rem;
+    margin-bottom: .5rem;
     list-style-type: none; }
     .content .toc ul li {
       padding-left: 20px;
-      position: relative; }
+      position: relative;
+      font-weight: bold; }
+      .content .toc ul li ul {
+        margin-top: .5rem; }
+        .content .toc ul li ul li {
+          font-weight: normal; }
       .content .toc ul li::before {
         position: absolute;
         content: '';

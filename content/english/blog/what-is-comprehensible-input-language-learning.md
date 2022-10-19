@@ -20,13 +20,13 @@ Decades of research show that becoming fluent in a new language requires **compr
 
 The good news is that learning a language via comprehensible input is far more fun and far less boring than using traditional methods. And better yet — learning via input works great for busy or chaotic people who can't make dedicated time to study.
 
-I'm a _huge_ fan of comprehensible input and it's the core of how I learn languages today. I would never have been able to [teach myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and score nearly perfect on the Goethe B2 German exam without it.
+I'm a _huge_ fan of comprehensible input and it's the core of how I learn languages today. I would never have been able to <a target="_blank" href="https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/">teach myself German to C1 level</a> without it.
 
 But what exactly _is_ comprehensible input?
 
 I talk a lot about input on this blog and on Twitter without ever fully explaining what it is. I wanted to finally change that.
 
-In this post I explain **what comprehensible input is**, the **science behind it** and **how to use it for language learning.**
+In this post I explain **what comprehensible input is** and give some helpful tips on **how to use it for language learning.**
 
 {{< toc >}}
 
@@ -53,7 +53,7 @@ All input is not created equal. To work best, input needs to be:
 * **Rich** — good input contributes to the meaning or flow of a story or text. Stand-alone sentences are not rich input. Song texts are meh. A sentence within a book or story is great.
 * **Abundant** — good input is easy to get ahold of so you can encounter it over and over without much effort.
 
-These four criteria come from ["The Optimal Input Hypothesis: Not All Comprehensible Input is of Equal Value"](http://beniko-mason.net/content/articles/2020-the-optimal-input-hypothesis.pdf) by Benito Mason and Stephen Krashen. But they also square with my own experience learning German.
+These four criteria come from <a target="_blank" href="http://beniko-mason.net/content/articles/2020-the-optimal-input-hypothesis.pdf">The Optimal Input Hypothesis: Not All Comprehensible Input is of Equal Value"</a> by Benito Mason and Stephen Krashen. But they also square with my own experience learning German.
 
 The input that worked best for me was always something I could understand, something I enjoyed, something with lots of rich context, and something easy to get my hands on. For me, podcasts nearly always fit the bill. Succeeding with input will mean finding what feels most "optimal" for you.
 
@@ -69,13 +69,13 @@ There are three types of input: audio, audio-visual, and text:
 
 Both content intended for native speakers and resources designed for learners can be comprehensible input, but don't get too cozy with beginner content. It is intimidating to make the jump to the real stuff, but it's an important. It will greatly deepen your connection to and interest in the culture(s) associated with the language you're learning and expand the landscape of (interesting! compelling!) input you can consume immensely.
 
-If you want to get started with input but need a bit of guidance, I put together a [free cheat sheet with 11 tips to help beginners start learning a language via comprehensible input.](https://monoglotanxiety.ck.page/11-tips-for-beginners) This is the advice I gave my mom when she started learning German!
+If you want to get started with input but need a bit of guidance, I put together a <a target="_blank" href="https://monoglotanxiety.ck.page/11-tips-for-beginners">free cheat sheet with 11 tips to help beginners start learning a language via comprehensible input.</a> This is the advice I gave my mom when she started learning German!
 
 {{<notice note "Use a VPN to access foreign-language content">}}
 
 Unfortunately, a lot of foreign-language content online is geographically restricted. This can make finding comprehensible input hard. Using a **VPN (Virtual Private Network)** is an easy way to securely access foreign language content for input if you don't live in the "right" country.
 
-[You can get 81% off Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input) using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
+<a target="_blank" rel="nofollow" href="https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input">You can get 81% off Surfshark VPN</a> using my link. Surfshark is my pick for language learners because it is made for streaming, supports multiple devices, stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
 
 **I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input...** unlike textbooks!
 
@@ -97,7 +97,7 @@ Of course, when you immerse, you get a _lot_ of comprehensible input. That's pro
 
 **But ultimately, immersion is just one of many ways to incorporate comprehensible input into a language learning strategy.**
 
-You might be used to different definitions of comprehensible input and immersion. I know, for instance, that Refold.la, which outlines a structured input-based learning method, [defines these terms differently](https://community.refold.la/faqs/).
+You might be used to different definitions of comprehensible input and immersion. I know, for instance, that <a target="_blank" href="https://refold.la">Refold.la</a>, which outlines a structured input-based learning method, defines these terms differently.
 
 Settling on a definition is tricky, especially since the term "comprehensible input," while popular among language learners, isn't used much by modern second-language acquisition researchers. However, the core concepts associated with comprehensible input live on (and thrive) under other names — focus on meaning vs focus on form, implicit vs explicit learning, etc.
 
@@ -125,15 +125,15 @@ The five hypotheses are:
 * **The Affective Filter hypothesis:** Having a bad attitude or low self esteem gets in the way of language acquisition. This bad attitude is the "affective filter."
 * **The Natural Order hypothesis:** Grammatical features of a language are acquired in a natural order that can't be overwritten by learning and is independent of the learner's L1.
 
-Although Monitor Theory was widely criticized by second-language acquisition researchers for not being scientific enough, most of Krashen's core ideas — especially the acquisition-learning hypothesis, input hypothesis, and natural order hypothesis — [have been supported by subsequent research](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552).
+Although Monitor Theory was widely criticized by second-language acquisition researchers for not being scientific enough, most of Krashen's core ideas — especially the acquisition-learning hypothesis, input hypothesis, and natural order hypothesis — <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552">have been supported by subsequent research</a>.
 
-Krashen is undoubtedly the person responsible for popularizing the idea of input and crystallizing many of the most important ideas about it, but others were thinking about input before him too. [Bialystock made a distinction between implicit and explicit learning in 1972](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1979.tb01053.x?casa_token=HRum1YSDJUUAAAAA:jIxnn_kEZd7ZCU6NXEd-vQH2LsiXuyGvtUKGKPnDdVVgy4-hmPggvFAdphjVQ2bD8GzN3mtWh2H3XJ6i), for instance.
+Krashen is undoubtedly the person responsible for popularizing the idea of input and crystallizing many of the most important ideas about it, but others were thinking about input before him too. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1979.tb01053.x?casa_token=HRum1YSDJUUAAAAA:jIxnn_kEZd7ZCU6NXEd-vQH2LsiXuyGvtUKGKPnDdVVgy4-hmPggvFAdphjVQ2bD8GzN3mtWh2H3XJ6i">Bialystock made a distinction between implicit and explicit learning in 1972</a>, for instance.
 
 ### Language acquisition vs language learning
 
 There's not room in this post to get into every component of Monitor Theory, but the most important one to understand regarding comprehensible input is the **difference between language acquisition and language learning.**
 
-According to Krashen (and others), **_learning about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry.  [The brain has a special dedicated "language circuit" thought to be universal to all languages](https://www.nature.com/articles/s41593-022-01115-4) and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
+According to Krashen (and others), **_learning about_ a language is not the same as _acquiring_ one.** A language is not just another academic subject like history or chemistry.  <a target="_blank" href="https://www.nature.com/articles/s41593-022-01115-4)">The brain has a special dedicated "language circuit" thought to be universal to all languages</a> and which — critically — is separate from the areas of the brain involved in the kinds of recall tasks that traditional learning usually involves. Using language is an ability innate to all humans. Memorizing the year that William the Conquerer invaded England is not.
 
 > It's not clear if the explicit knowledge we gain from _learning about_ languages actually translates into the implicit knowledge that we build as we _acquire_ them.
 
@@ -151,16 +151,18 @@ So go ahead memorize verb charts all you want, but your brain would probably pre
 
 If you want to dig into the research on comprehensible input, there are a few great places to start:
 
-* [Stephen Krashen's website](http://www.sdkrashen.com) is a great resource. He made many of his books and scholarly publications available for free. If you don't know where to start, start here.
-* [Lichtman and Van Patten (2021)"Was Krashen Right: 40 years later"](https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552) is a great review and provides an interesting retrospective on Krashen's work. [Read Krashen's response to their paper](http://www.sdkrashen.com/content/articles/why_dont_educators_scholars.pdf), too.
-* [Beniko Mason](http://beniko-mason.net/publications/) spent years researching input in the classroom in Japan and beyond and developing the Story-Listening and Guided Self- Selected Reading methods. Her experiments show that reading for pleasure is usually more effective than traditional classroom teaching.
-* [Zobl (1995) "Converging Evidence for the ‘Acquisition-Learning’ Distinction"](https://academic.oup.com/applij/article-abstract/16/1/35/233448) discusses evidence for the aqusition-learning hypothesis as of 1995.
-* [Florencia Henshaw's Unpacking Language Pedagogy](https://www.youtube.com/watch?v=UmPgF7EMeCc) channel on YouTube is a fantastic resource and an approachable way to get your feet wet in the world of second-language acquisition research and its application to the classroom.
-* [Jeff McQuillan](http://backseatlinguist.com/blog/about/) is noteworthy not only for his work as a professor of language education but also for his podcast and blog, which might be easier to digest than [his academic papers](http://backseatlinguist.com/blog/publications/).
+* <a target="_blank" href="http://www.sdkrashen.com">Stephen Krashen's website</a> is a great resource. He made many of his books and scholarly publications available for free. If you don't know where to start, start here.
+* <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/flan.12552">Lichtman and Van Patten (2021)"Was Krashen Right: 40 years later"</a> is a great review and provides an interesting retrospective on Krashen's work. <a target="_blank" href="http://www.sdkrashen.com/content/articles/why_dont_educators_scholars.pdf">Read Krashen's response to their paper</a>, too.
+* <a target="_blank" href="http://beniko-mason.net/publications/">Beniko Mason</a> spent years researching input in the classroom in Japan and beyond and developing the Story-Listening and Guided Self- Selected Reading methods. Her experiments show that reading for pleasure is usually more effective than traditional classroom teaching.
+* <a target="_blank" href="https://academic.oup.com/applij/article-abstract/16/1/35/233448">Zobl (1995) "Converging Evidence for the ‘Acquisition-Learning’ Distinction"</a> discusses evidence for the aqusition-learning hypothesis as of 1995.
+* <a target="_blank" href="https://www.youtube.com/watch?v=UmPgF7EMeCc">Florencia Henshaw's Unpacking Language Pedagogy</a> channel on YouTube is a fantastic resource and an approachable way to get your feet wet in the world of second-language acquisition research and its application to the classroom.
+* <a target="_blank" href="(http://backseatlinguist.com/blog/about/">Jeff McQuillan</a> is noteworthy not only for his work as a professor of language education but also for his podcast and blog, which might be easier to digest than his academic papers.
 
 Pablo from the Dreaming Spanish YouTube channel also does a great job explaining input and some of the research behind it in this video. It's in Spanish, but there are English subtitles.
 
 {{< youtube M5RwvFnsZ >}}
+
+<br>
 
 ## Comprehensible input strategies for language learning
 
@@ -168,7 +170,7 @@ There are countless ways to incorporate comprehensible input into whatever langu
 
 This section outlines a few tips for learning with comprehensible input and provides recommendations for resources that can help you learn faster (and less painfully).
 
-If you're curious how I use input, you can read my story of [how I learned German](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and [how I aced the B2 Goethe exam mostly without "studying."](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) I also wrote up a [free tips sheet](https://monoglotanxiety.ck.page/11-tips-for-beginners) to help you get started with input if you're feeling stuck.
+If you're curious how I use input, you can read my story of <a target="_blank" href="(https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/">how I learned German</a> and <a target="blank" href="https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/">how I aced the B2 Goethe exam mostly without "studying."</a> I also wrote up a <a target="_blank" href="https://monoglotanxiety.ck.page/11-tips-for-beginners">free tips sheet</a> to help you get started with input if you're feeling stuck.
 
 ### Switch your media diet to your target language
 
@@ -182,9 +184,9 @@ Traditional streaming services like <a target="_blank" href="https://www.netflix
 
 [**Lingopie is essentially Netflix for language learners**](https://lingopie.com/?ref=elisecutts&utm_medium=affiliate&utm_campaign=elisecutts&utm_term=elisecutts), with built-in features for making and reviewing flashcards as you watch TV in your target language. Its catalogue consists exclusively of "authentic" (i.e., made originally in the language) content and leans towards shorter films and episodes.
 
-Plugins like [**Toucan**](https://jointoucan.com) and [**Language Reactor**]() can also enhance your language-learning experience when consuming media online.
+Plugins like <a target="_blank" href="https://jointoucan.com">Toucan</a> and <a target="_blank" href="https://www.languagereactor.com">Language Reactor</a> can also enhance your language-learning experience when consuming media online.
 
-Don't underestimate YouTube either. There are great channels aimed at learners and tons of authentic content to explore. [German science YouTube channels](https://www.monoglotanxiety.com/blog/german-science-youtube-channels/) were key to my early fascination with — and progress in — German!
+Don't underestimate YouTube either. There are great channels aimed at learners and tons of authentic content to explore. <a target="_blank" href="https://www.monoglotanxiety.com/blog/german-science-youtube-channels/">German science YouTube channels</a> were key to my early fascination with — and progress in — German!
 
 #### Audio
 
@@ -198,7 +200,7 @@ Don't overlook audiobooks, though. Listening along to Harry Potter as I read wit
 
 There's a ton of research showing that reading is good for you, so try to read. Reading helped me immensely while learning German and is the main thrust to my efforts to creep towards properly effortless fluency.
 
-Graded readers are also a fantastic resource, especially for beginners. I personally benefitted a lot from [Olly Richard's graded readers](https://amzn.to/3VCRaJr). His [_Short Stories in German for Beginners_](https://www.amazon.com/Short-Stories-German-Beginners-vocabulary-ebook/dp/B07HWPYWHM/ref=sr_1_3?crid=QA2R9194N715&keywords=Olly+richards+german&qid=1666124051&qu=eyJxc2MiOiI1LjAwIiwicXNhIjoiNC43MiIsInFzcCI6IjQuNjcifQ%3D%3D&sprefix=olly+richards+germ%2Caps%2C210&sr=8-3) was my very first book in German, and [the Italian version](https://amzn.to/3SrkgZP) was my first book in Italian, too! 
+Graded readers are also a fantastic resource, especially for beginners. I personally benefitted a lot from <a target="_blank" rel="nofollow href="https://amzn.to/3VCRaJr">Olly Richard's graded readers</a>. His <a target="_blank" rel="nofollow" href="https://amzn.to/3TsNUi4">_Short Stories in German for Beginners_</a> was my very first book in German, and <a target="_blank" rel="nofollow" href="https://amzn.to/3SrkgZP">the Italian version</a> was my first book in Italian, too! 
 
 But don't stick to graded readers forever! Start reading real books, and try before you "feel ready." I started with the translations of Harry Potter since I knew the story well and could enjoy bumbling along without getting every last word thanks to that context. 
 
@@ -206,7 +208,7 @@ Magazines, newspapers, blogs, and social media — and basically _the entire int
 
 {{<notice note "Want to discover great German media to use as comprehensible input?">}}
 
-[I write a little newsletter for German learners recommending new authentic German media every week.](https://monoglotanxiety.ck.page/germanrecs) Sign up to start discovering new (and compelling!) input! There is more to German music than Rammstein and Nena!
+<a target="_blank" href="https://monoglotanxiety.ck.page/germanrecs">I write a little newsletter for German learners recommending new authentic German media every week.</a> Sign up to start discovering new (and compelling!) input! There is more to German music than Rammstein and Nena!
 
 {{</ notice >}}
 
@@ -216,7 +218,7 @@ This is my single best tip for learning with input: use audio to fill dead time.
 
 You can't cook, commute, or do chores while doing flashcards or slumped over a textbook. But you can listen to a podcast or audiobook.
 
-If you want to rack up enough hours of input to make good progress, you need audio. This is doubly true if you live with other people who don't want to watch TV in a foreign language all the time. There's a reason I consider [these bluetooth headphones](https://www.lingq.com/?referral=elisecutts) to be my single most important piece of language learning "equipment."
+If you want to rack up enough hours of input to make good progress, you need audio. This is doubly true if you live with other people who don't want to watch TV in a foreign language all the time. There's a reason I consider <a target="_blank" rel="nofollow" href="https://amzn.to/3ERouqd">these bluetooth headphones</a> to be my single most important piece of language learning "equipment."
 
 It's a joke but it's also not really a joke. I'm really hopeless without audio.
 
@@ -230,7 +232,7 @@ There's a reason I've watched _The Dragon Prince_ on Netflix in English, German,
 
 Especially at the beginning, you can get away with consuming input that's far beyond your "real" level by re-watching, re-reading, and re-listening to things you know well. So go watch _Avatar: The Last Airbender_ in German or Portuguese or whatever. 
 
-And if you're running into problems with geoblocking, remember that using [a VPN like Surfshark (81% off link)](https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1285) can help.
+And if you're running into problems with geoblocking, remember that using <a target="_blank" rel="nofollow" href="https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1285">a VPN like Surfshark (81% off link)</a> can help.
 
 ### Be choosy about language apps
 
@@ -240,11 +242,11 @@ What you're looking for in a language app is _language in context_. Instead of m
 
 Here are some recommendations:
 
-* [**Glossika combines comprehensible input with spaced repetition **](https://ai.glossika.com/r/me_634e)— it's my top pick for a flashcard app. After much experimentation with Anki I don't really like spaced repetition flashcards at all. But Glossika has a fantastic audio-only mode that you can do 100% hands free, turning it into structured comprehensible input. All sentences are voiced by real native speakers too, not robots, which is a cut above most competitors I've tried.
-* [**Lingq teaches languages via a massive library of authentic content in dozens of languages**](https://www.lingq.com/?referral=elisecutts)**.** It was developed by Steve Kaufmann, a polyglot who learns languages via comprehensible input.
-* [**Beelinguapp uses audiobooks, news, and songs to teach languages.**](https://beelinguapp.com) In addition to Lingopie and Lingq, it's probably the most obviously CI-oriented app I've found.
-* [**Speakly has well-curated example sentences and listening exercises that are great input for beginners**](https://speakly.me). Its core product is a traditional close-deletion style app but and all words are taught and learned in context.
-* [**Duolingo's stories**](https://www.duolingo.com/stories) and [**podcasts**](https://podcast.duolingo.com) are a great free resources for languages that have these features! I'm not a huge fan of the core Duolingo app, but it also uses sentences for context so it's not the worst.
+* <a target="_blank" rel="nofollow" href="https://ai.glossika.com/r/me_634e">**Glossika combines comprehensible input with spaced repetition**</a> — it's my top pick for a flashcard app. After much experimentation with Anki I don't really like spaced repetition flashcards at all. But Glossika has a fantastic audio-only mode that you can do 100% hands free, turning it into structured comprehensible input. All sentences are voiced by real native speakers too, not robots, which is a cut above most competitors I've tried.
+* <a target="_blank" rel="nofollow" href="https://www.lingq.com/?referral=elisecutts">**Lingq teaches languages via a massive library of authentic content in dozens of languages**.</a> It was developed by Steve Kaufmann, a polyglot who learns languages via comprehensible input.
+* <a target="_blank" href="https://beelinguapp.com">**Beelinguapp uses audiobooks, news, and songs to teach languages.**</a> In addition to Lingopie and Lingq, it's probably the most obviously CI-oriented app I've found.
+* <a target="_blank" href="https://speakly.me">**Speakly has well-curated example sentences and listening exercises that are great input for beginners**.</a> Its core product is a traditional close-deletion style app but and all words are taught and learned in context.
+* <a target="_blank" href="https://www.duolingo.com/stories">**Duolingo's stories**</a> and <a target="_blank" href="https://podcast.duolingo.com">**podcasts**</a> are a great free resources for languages that have these features! I'm not a huge fan of the core Duolingo app, but it also uses sentences for context so it's not the worst.
 
 ### Get input from tutors and crosstalk
 
@@ -252,9 +254,9 @@ Finally, tutors and exchange partners can also be great sources of comprehensibl
 
 Remember, for input to work it needs to be comprehensible, compelling, and expose you to new things (n+1). Talking to someone is pretty compelling, so speech works well as input. But make sure your conversation partner keeps their speech comprehensible and that you make sure to talk about new things once and a while.
 
-I found my German and Italian tutors through[ iTalki, which makes it easy to find affordable online tutors for pretty much any language](https://www.italki.com/affshare?ref=af7409579). I've also used [Tandem](https://www.tandem.net) and the (admittedly old-school) [MyLanguageExchange.com](https://mylanguageexchange.com) for exchange.
+I found my German and Italian tutors through <a target="_blank" rel="nofollow" href="https://www.italki.com/affshare?ref=af7409579">iTalki, which makes it easy to find affordable online tutors for pretty much any language</a>. I've also used <a target="_blank" href="https://www.tandem.net">Tandem</a> and the (admittedly old-school) <a target="_blank" href="https://mylanguageexchange.com">MyLanguageExchange.com</a> for exchange.
 
-If you do exchange, consider doing **crosstalk**. Crosstalk is when you speak your native language and your partner speaks theirs. It works surprisingly well and doubles the amount of time you get input during exchange. I really can't praise crosstalk enough, it works great. [I've done it for Italian](https://www.monoglotanxiety.com/blog/language-diary-2-first-italian-exchange/) and Spanish now and it has been super helpful.
+If you do exchange, consider doing **crosstalk**. Crosstalk is when you speak your native language and your partner speaks theirs. It works surprisingly well and doubles the amount of time you get input during exchange. I really can't praise crosstalk enough, it works great. <a target="_blank" href="https://www.monoglotanxiety.com/blog/language-diary-2-first-italian-exchange/">I've done it for Italian</a> and Spanish now and it has been super helpful.
 
 ## Conclusion
 
@@ -270,6 +272,6 @@ What was — or will be — yours?
 
 ## Related articles
 
-* [How I self-taught German to C1 despite being super chaotic and disorganized](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/)
-* [How I passed the B2 Goethe exam with a nearly perfect score](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/)
-* [10 great science YouTube channels](https://www.monoglotanxiety.com/blog/german-science-youtube-channels/)
+* <a target="_blank" href="https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/">How I self-taught German to C1 despite being super chaotic and disorganized</a>
+* <a target="_blank" href="https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/">How I passed the B2 Goethe exam with a nearly perfect score</a>
+* <a target="_blank" href="https://www.monoglotanxiety.com/blog/german-science-youtube-channels/">10 great science YouTube channels</a>

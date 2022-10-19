@@ -424,12 +424,19 @@
     }
 
     ul {
-      margin-bottom: 0rem;
+      margin-bottom: .5rem;
       list-style-type: none;
 
       li {
         padding-left: 20px;
         position: relative;
+        font-weight: bold;
+        ul {
+          margin-top: .5rem;
+          li {
+            font-weight: normal;
+          }
+        }
 
         &::before {
           position: absolute;
