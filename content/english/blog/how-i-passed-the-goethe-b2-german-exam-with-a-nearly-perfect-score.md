@@ -28,7 +28,9 @@ And that's really just a big load of crap, because I barely "studied" and still 
 
 Cramming isn't the way. Period. If you're actually a B2 German speaker, you shouldn't need to cram. Luckily, <a target="_blank" href="https://www.monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/">comprehensible input is the key to language aqusition</a> — not grammar drills. So you can become a B2 German speaker without doing anything much more complicated than watching a bunch of TV and talking to people once in a while. Neat, huh?
 
-*Note: Some of the links in this post are affiliate links. If you make a purchase via an affiliate link, I receive a small commission at no extra cost to you.*
+{{< toc >}}
+
+*Note: Some of the links in this post are affiliate links. If you make a purchase via an affiliate link, I receive a small commission at no extra cost to you. If you like what I do, using my links is a great way to say thanks :)*
 
 ## I self-studied mostly using comprehensible input for 2 years
 
@@ -38,7 +40,7 @@ Cramming isn't the way. Period. If you're actually a B2 German speaker, you shou
 
 I overwhelmingly relied on **comprehensible input** to learn German. This sounds fancy, but in practice it meant watching loads of TV and listening to an unholy number of podcasts. Shout out to my mom for letting me leech off of her Netflix account all these years. You rock, Teri.
 
-Comprehensible input is anything that you can understand in your target language. If _n_ is your level, the best comprehensible input is _n+1_.
+Comprehensible input is anything that you can understand in your target language. If _n_ is your level, the best comprehensible input is _n+1_. You can read more in <a target="_blank" href="https://www.monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/">my post all about comprehensible input</a>.
 
 Now, I jumped into German watching a lot of _n+1000_ content (looking at you, _Dark_ on Netflix). But even if you're stupid like me and refuse to use beginner resources you can still brute-force immersion yourself to fluency.
 
@@ -53,6 +55,18 @@ But I was stubborn and got by with Netflix just fine.
 For the first year, I relied exclusively on Duolingo (to learn basic vocabulary) and comprehensible input (Netflix, YouTube, and podcasts on Spotify) to learn German.
 
 If you're a beginner and you want to get started learning with comprehensible input but don't know where to start, [**I wrote up a little resource with 11 tips to help beginners start learning with comprehensible input.**](https://monoglotanxiety.ck.page/11-tips-for-beginners) The tips sheet is free, just follow the link.
+
+{{<notice note "Use a VPN to access foreign-language content">}}
+
+Unfortunately, a lot of foreign-language content online is geographically restricted. This can make finding comprehensible input hard. Using a **VPN (Virtual Private Network)** is an easy way to securely access foreign language content for input if you don't live in the "right" country.
+
+<a target="_blank" rel="nofollow" href="https://get.surfshark.net/aff_c?offer_id=926&aff_id=15373&url_id=1288&source=blog-comprehensible-input">You can get 81% off Surfshark VPN</a> using my link. Surfshark is my pick for language learners because it is great for streaming, works seamlessly across multiple devices, and stands out for its international focus — you can use it in 16 languages and there are servers in 100 countries, including multiple options in Africa and South America.
+
+**I really think a VPN is one of the few things you can pay for that can truly make a difference in learning a language via comprehensible input...** unlike textbooks!
+
+_Note: Using a VPN to get around location restrictions can be against the terms of service of streaming sites. I'm not encouraging you to break the rules!_
+
+{{</ notice >}}
 
 ### Find penpals and speaking partners once you can communicate a bit
 
@@ -178,7 +192,8 @@ So don't stress. Just head over to Netflix and watch another episode of _Dark_. 
 
 ![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/12/Untitled-2.jpg)
 
-### Related articles
+## Related posts
 
-- [How I chaotically taught myself German to C1 level](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/)
-- [Are language lessons worth it for beginners?](https://www.monoglotanxiety.com/blog/is-it-worth-hiring-a-language-tutor-as-a-beginner/)
+- <a target="_blank" href="https://www.monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/">What is comprehensible input? What language learners should know.</a>
+- <a target="_blank" href="https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/">How I chaotically taught myself German to C1 level</a>
+- <a target="_blank" href="https://www.monoglotanxiety.com/blog/is-it-worth-hiring-a-language-tutor-as-a-beginner/">Are language lessons worth it for beginners?</a>
