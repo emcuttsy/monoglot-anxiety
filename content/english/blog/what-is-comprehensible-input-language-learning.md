@@ -32,7 +32,7 @@ In this post I explain **what comprehensible input is** and give some helpful ti
 
 _This post contains affiliate links. If you click on one of my links and make a purchase, I get a small commission at no extra cost to you. If you like what I do, using my links is a great way to say thanks!_
 
-## What is comprehensible input?
+## Comprehensible input definition
 
 **Comprehensible input (CI) is anything in your target language that you can understand despite not getting every little detail.**
 
