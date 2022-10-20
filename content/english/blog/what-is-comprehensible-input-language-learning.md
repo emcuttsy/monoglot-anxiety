@@ -14,6 +14,7 @@ title = "What is comprehensible input? Here's what language learners need to kno
 type = "featured"
 
 +++
+
 ## The way we learn languages in school is wrong.
 
 Decades of research show that becoming fluent in a new language requires **comprehensible input**, not the rote memorization and drills you'll find in most textbooks.
@@ -109,13 +110,13 @@ I base my definitions of comprehensible input and immersion on:
 
 ## The science of comprehensible input
 
-When I say that comprehensible input is the key to language aquisition, this not something I thought up myself. There's a huge body of research on input and language learning — my own personal experiences just happen to be consistent with it.
+When I say that comprehensible input is the key to language acquisition, this not something I thought up myself. There's a huge body of research on input and language learning — my own personal experiences just happen to be consistent with it.
 
 This topic really deserves its own post, so just think of this as a crash-course meant to get you familiar with where the idea of comprehensible input comes from and why we know it works.
 
 ### Stephen Krashen and Monitor Theory
 
-The idea of "comprehensible input" is often accredited to linguist Stephen Krashen. In the 1970s and 1980s, he developed five hypotheses now collectively known as "Monitor Theory," which outline how he believed comprehensible input lead to language aquisition.
+The idea of "comprehensible input" is often accredited to linguist Stephen Krashen. In the 1970s and 1980s, he developed five hypotheses now collectively known as "Monitor Theory," which outline how he believed comprehensible input lead to language acquisition.
 
 The five hypotheses are:
 
@@ -220,9 +221,6 @@ Want in? You can sign up here:
 
 {{</ notice >}}
 
-Thank you to Elliot and Ian for their emails asking about my story. They're the reason I wrote this post. If there's something else you're curious about or would like to see on the blog, just shoot me an email — given the small readership your odds are pretty good that I'll write what you ask for ;)
-
-<small>
 
 ### Use audio to fill "dead time" with input
 
