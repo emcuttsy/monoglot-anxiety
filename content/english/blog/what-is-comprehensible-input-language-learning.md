@@ -26,7 +26,7 @@ But what exactly _is_ comprehensible input?
 
 I talk a lot about input on this blog and on Twitter without ever fully explaining what it is. I wanted to finally change that.
 
-In this post I explain **what comprehensible input is** and give some helpful tips on **how to use it for language learning.**
+In this post I explain **the definition of comprehensible input** and give some helpful tips on **how to use it for language learning.**
 
 {{< toc >}}
 
