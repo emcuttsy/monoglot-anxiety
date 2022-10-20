@@ -10,7 +10,7 @@ sidebar = "right"
 subtitle = "Language acquisition is the subconscious process by which humans gain the ability to use and understand a new language. It is not the same thing as learning about a language — which is what we normally do in school.  "
 summary = "Language acquisition is the subconscious process by which humans gain the ability to use and understand a new language. It is not the same thing as learning about a language — which is what we normally do in school.  "
 tags = []
-title = "Acquiring a language — it's not the same as studying one"
+title = "Acquiring a language: how language acquisition is different from language learning"
 type = ""
 
 +++
