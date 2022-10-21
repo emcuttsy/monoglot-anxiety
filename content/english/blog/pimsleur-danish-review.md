@@ -1,25 +1,26 @@
 ---
-title: "A candid review of Pimsleur Danish"
-subtitle: "The listening-based approach is good for phonetically-tricky Danish,
-  but the dialogue is weirdly irrelevant unless your primary motivation for learning
-  Danish is picking up girls abroad."
-date: 2021-01-25T15:40:24+06:00
-# post thumb
-images: 
-    - "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/1/headphones.jpg"
-#author
-author: "Elise Cutts"
-# description
-description: "A candid review of Pimsleur Danish"
-# Taxonomies
-categories: ["Language learning", "Reviews", "Danish"]
-tags: ["language learning tips", "language resources", "learn danish"]
-type: "regular" # available type (regular or featured)
-draft: false
+title: A candid review of Pimsleur Danish
+subtitle: The listening-based approach is good for phonetically-tricky Danish, but
+  the dialogue is weirdly irrelevant unless your primary motivation for learning Danish
+  is picking up girls abroad.
+date: 2021-01-25T15:40:24.000+06:00
+images:
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/headphones-danish.jpg
+author: Elise Cutts
+description: A candid review of Pimsleur Danish
+categories:
+- Language learning
+- Reviews
+- Danish
+tags:
+- language learning tips
+- language resources
+- learn danish
+type: regular
 sidebar: right
 enableComments: true
----
 
+---
 I received a lot of reccomendations of the Pimsleur language programs from family members back when I was preparing to head to Denmark in 2019. So naturally, I picked up Pimsleur Danish 1, never finished it, and forgot about it until about a month ago when I found the little blue Pimsleur logo lurking in my app drawer. I had been focusing on German exclusively until then, but given what I'd paid for Pimsleur (too much, see below), my stinginess demanded that I give Danish another shot.
 
 **This is my honest Pimsleur Danish review after following the course for 30 days.** And since I'm a nerd, I also worked through German 5 simultaneously to get a sense of how far Pimsleur could take my Danish if I stuck with it. So while this review is about Pimlsuer Danish, it draws on what I learned about Pimsleur generally by skipping ahead in langauge I speak at a higher level than Pimsleur teaches. 
