@@ -5,7 +5,7 @@ subtitle: Automatically color-code nouns by gender, highlight irregular verbs, a
   images and audio.
 date: 2021-02-28T15:40:24.000+06:00
 images:
-- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/ankibanner.jpg
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/anki-banner.jpg
 author: Elise Cutts
 description: This is meta description
 categories:
