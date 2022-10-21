@@ -3,9 +3,8 @@ author = "Elise Cutts"
 categories = ["Language Learning", "Science of Language", "Tips and Strategies", "Comprehensible Input"]
 date = 2022-10-19T00:00:00Z
 description = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
-draft = false
 enableComments = true
-images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/comprehensible-input.png"]
+images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/comprehensible-input.jpg"]
 sidebar = "right"
 subtitle = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
 summary = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
@@ -14,7 +13,6 @@ title = "What is comprehensible input? Here's what language learners need to kno
 type = "featured"
 
 +++
-
 ## The way we learn languages in school is wrong.
 
 Decades of research show that becoming fluent in a new language requires **comprehensible input**, not the rote memorization and drills you'll find in most textbooks.
@@ -179,7 +177,7 @@ Your progress with comprehensible input depends on two variables: the quality of
 
 So switch over as much of your media diet to your target language as possible. Watch dubs of your favorite shows if necessary. Listen to music in your target language. Read newspapers in your target language. Whatever media you like in your native language, find its counterparts in your target language.
 
-<a target="_blank" href="https://refold.la">Refold.la offers a very detailed roadmap for learning a language to fluency through immersion in comprehensible media</a>. They're a great resource — though I think they emphasize video input far too much and downplay the importance of audio. Maybe video *is* more comprehensible since there's visual context. But most working adults just do not have time to watch hours of video every day, whereas layering a podcast or audiobook over chores or a commute is entirely within reach.
+<a target="_blank" href="https://refold.la">Refold.la offers a very detailed roadmap for learning a language to fluency through immersion in comprehensible media</a>. They're a great resource — though I think they emphasize video input far too much and downplay the importance of audio. Maybe video _is_ more comprehensible since there's visual context. But most working adults just do not have time to watch hours of video every day, whereas layering a podcast or audiobook over chores or a commute is entirely within reach.
 
 #### Video
 
@@ -193,9 +191,9 @@ Don't underestimate YouTube either. There are great channels aimed at learners a
 
 #### Audio
 
-Do not overlook podcasts and audiobooks! They're incredibly helpful, and podcasts, at least, are free. 
+Do not overlook podcasts and audiobooks! They're incredibly helpful, and podcasts, at least, are free.
 
-For beginners, there are even "comprehensible" podcasts available in many languages. These podcasts use simplified language but are 100% (or almost 100%) in your target language. 
+For beginners, there are even "comprehensible" podcasts available in many languages. These podcasts use simplified language but are 100% (or almost 100%) in your target language.
 
 Once you're more confident, listen to podcasts made for native speakers about topics you enjoy. Unscripted conversational or interview podcasts are a great way to hear natural speech. It might be hard to force your exchange partner to chat with you for hours every day, but you can binge conversational podcasts all you want.
 
@@ -205,9 +203,9 @@ Don't overlook audiobooks, though. <a target="_blank" rel="nofollow" href="https
 
 There's a ton of research showing that reading is good for you, so try to read. Reading helped me immensely while learning German and is the main thrust to my efforts to creep towards properly effortless fluency.
 
-Graded readers are also a fantastic resource, especially for beginners. I personally benefitted a lot from <a target="_blank" rel="nofollow" href="https://amzn.to/3VCRaJr">Olly Richard's graded readers</a>. His <a target="_blank" rel="nofollow" href="https://amzn.to/3TsNUi4">_Short Stories in German for Beginners_</a> was my very first book in German, and <a target="_blank" rel="nofollow" href="https://amzn.to/3SrkgZP">the Italian version</a> was my first book in Italian, too! 
+Graded readers are also a fantastic resource, especially for beginners. I personally benefitted a lot from <a target="_blank" rel="nofollow" href="https://amzn.to/3VCRaJr">Olly Richard's graded readers</a>. His <a target="_blank" rel="nofollow" href="https://amzn.to/3TsNUi4">_Short Stories in German for Beginners_</a> was my very first book in German, and <a target="_blank" rel="nofollow" href="https://amzn.to/3SrkgZP">the Italian version</a> was my first book in Italian, too!
 
-But don't stick to graded readers forever! Start reading real books, and try before you "feel ready." I started with the translations of Harry Potter since I knew the story well and could enjoy bumbling along without getting every last word thanks to that context. 
+But don't stick to graded readers forever! Start reading real books, and try before you "feel ready." I started with the translations of Harry Potter since I knew the story well and could enjoy bumbling along without getting every last word thanks to that context.
 
 Magazines, newspapers, blogs, and social media — and basically _the entire internet_ — are also great places to find things to read in your target language. Read what you enjoy reading!
 
@@ -220,7 +218,6 @@ Want in? You can sign up here:
 <script async data-uid="3f801db084" src="https://monoglotanxiety.ck.page/3f801db084/index.js"></script>
 
 {{</ notice >}}
-
 
 ### Use audio to fill "dead time" with input
 
@@ -240,7 +237,7 @@ Media you're already familiar with is more comprehensible. So use language learn
 
 There's a reason I've watched _The Dragon Prince_ on Netflix in English, German, Danish, Spanish, and Italian at this point. There's a reason my first real novel in German was _Harry Potter und der Stein der Weisen. _Familiarity boosts comprehensibility and often also makes input more compelling. We humans are creatures of habit. We like our favorite things.
 
-Especially at the beginning, you can get away with consuming input that's far beyond your "real" level by re-watching, re-reading, and re-listening to things you know well. So go watch _Avatar: The Last Airbender_ in German or Portuguese or whatever. 
+Especially at the beginning, you can get away with consuming input that's far beyond your "real" level by re-watching, re-reading, and re-listening to things you know well. So go watch _Avatar: The Last Airbender_ in German or Portuguese or whatever.
 
 ### Be choosy about language apps
 
@@ -268,7 +265,7 @@ If you do exchange, consider doing **crosstalk**. Crosstalk is when you speak yo
 
 ## Conclusion
 
-Long story short, comprehensible input is material in your target language that you mostly but not necessarily entirely, understand. It feeds your brain's language acquisition system which is necessary (and probably sufficient on its own) to learn a language well. And you do not _need_ fancy tools to learn via comprehensible input — TV, podcasts, and books will get you far, though there are great resources out there for learners, too. 
+Long story short, comprehensible input is material in your target language that you mostly but not necessarily entirely, understand. It feeds your brain's language acquisition system which is necessary (and probably sufficient on its own) to learn a language well. And you do not _need_ fancy tools to learn via comprehensible input — TV, podcasts, and books will get you far, though there are great resources out there for learners, too.
 
 All you need to do to learn with input is to find media in your target language that you like enough to spend _hundreds of hours_ listening to, watching, and reading.
 
