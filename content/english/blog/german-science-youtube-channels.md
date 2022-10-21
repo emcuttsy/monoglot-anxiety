@@ -4,7 +4,7 @@ subtitle: Get your German language immersion with a side of nerdy awesomeness wi
   these 10 German science YouTube channels
 date: 2021-03-13T15:40:24.000+06:00
 images:
-- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/03/12/sciencesplash.jpg
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/youtube-german-channels-science.jpg
 author: Elise Cutts
 description: This is meta description
 categories:
