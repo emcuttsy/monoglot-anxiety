@@ -4,7 +4,7 @@ categories = ["Language Learning", "Real Language Stories"]
 date = 2022-07-18T15:00:00Z
 description = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
 enableComments = true
-images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/Language Stories - Heidi.png"]
+images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/how-i-learned-italian-heidi.jpg"]
 sidebar = "right"
 subtitle = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
 summary = "Upon moving to Italy, Heidi Lovejoy wanted to learn Italian, but her perfectionism was a bigger obstacle than anticipated. Making progress required a major change of mindset."
@@ -29,7 +29,7 @@ But now I would have _immersion_. Living in Italy was going to be my ticket to _
 
 Our first week in Italy was a mixture of language excitement and fear. Walking around the supermarket, I was thrilled to see words I understood because they were close my native English or to one of the few words I remembered from Spanish class all those years earlier. I felt a distinct thrill when saying “grazie” to a waiter. I remember passing a father and his young son at the mall and hearing, “bagno,” which I recognized as “bathroom,” and immediately turning to my 4-year-old daughter to teach her this very important word.
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/IMG_3304.jpg)
+![The author with her young son looking over the Tuscan countryside](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/IMG_3304.jpg)
 
 <center><small>The author and her child looking out over an Italian landscape of rolling hills and vineyards. After her husband got a job in Italy, Heidi moved with her family and started learning Italian.</small></center><br>
 
@@ -59,7 +59,7 @@ Over the next year, I continued searching for the perfect tool. I started listen
 
 Even as it became clear that it wasn’t working, I kept approaching the language from an all-or-nothing, perfectionist point of view. If I didn’t understand everything, I was failing. If I didn’t remember a word, I was failing. If I was too exhausted to grind through a lesson, I was failing. If I could just do more, and do it perfectly, then I would reach the fluency that immersion was supposed to give me.
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/thumbnail_IMG_9980.jpg)
+![The author on a hike in the Italian alps](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/thumbnail_IMG_9980.jpg)
 
 <center><small>The author on a hike in the Italian alps.</small></center><br>
 
@@ -87,11 +87,11 @@ It’s not perfect. I still struggle with feeling overwhelmed by language learni
 
 Aiming for perfection was hard. It gave me a false sense of achievement and stirred up destructive spirals of self-doubt and self-loathing that eroded my mental health and held up real progress. Learning to aim for “good enough” was somehow harder – until it wasn’t. It took time and conscious effort, but shifting my mindset worked. “Good enough” turned out to get a lot closer to “perfect” than perfection ever could.
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/IMG_4816.jpg)
+![The author at Christmastime in Italy, wearing a Santa hat.](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/07/IMG_4816.jpg)
 
 <hr>
 
-_Heidi Lovejoy is a U.S. American living abroad with her husband and two children since 2017. She began learning languages at age 33 and quickly found herself feeling crushed under the pressure of perfectionism. Through a journey of personal healing and growth, Heidi changed her mindset and developed her own methods for mastering perfectionism in language learning. She shares her story and insights on her_ <a target="_blank" rel="nofollow" href="https://lovejoyandlanguages.com/">_blog_</a> _and_ <a target="_blank" rel="nofollow" href="http://www.lovejoyandlanguagespodcast.com/">_podcast_</a>, both titled "Love, Joy, and Languages."_
+_Heidi Lovejoy is a U.S. American living abroad with her husband and two children since 2017. She began learning languages at age 33 and quickly found herself feeling crushed under the pressure of perfectionism. Through a journey of personal healing and growth, Heidi changed her mindset and developed her own methods for mastering perfectionism in language learning. She shares her story and insights on her_ <a target="_blank" rel="nofollow" href="https://lovejoyandlanguages.com/">_blog_</a> _and_ <a target="_blank" rel="nofollow" href="http://www.lovejoyandlanguagespodcast.com/">podcast_</a>, both titled "Love, Joy, and Languages."
 
 _You can find her on Twitter at_ <a target="_blank" rel="nofollow" href="www.twitter.com/LoveJoy_Lang">@LoveJoy_Lang</a>
 
