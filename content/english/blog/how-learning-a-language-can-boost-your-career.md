@@ -15,19 +15,19 @@ type = ""
 
 +++
 
-In a globalized world, nations and economies no longer exist independently but are interconnected. This shift is reflected in the workplace, where global expansion and workplace collaboration are increasingly becoming the norm.
-
-A globally-oriented workforce has people coming from diverse cultures and backgrounds, so it's essential to speak different languages in order to communicate effectively and work together. As [language learning becomes easier to track](https://www.monoglotanxiety.com/blog/how-to-automatically-track-language-learning-time-using-ios-automations/) with mobile automation and shortcuts, there lies a bigger motivation to learn a new language and make progress.
-
-Here are the various ways language learning can help boost your career.
-
 {{<notice note "Note from Elise">}}
 
-This is a guest post by Reese Jane. As a relatively new science writer, I remember the struggle to get my first clips and I'm always open to guest posts from other language enthusiasts — no matter whether you're an aspiring and seasoned writer ;) 
+This is a guest post by Reese Jane. As a relatively new science writer, I remember the struggle to get my first clips and for that reason I'm always open to guest posts from other writers — both seasoned and aspiring ;)
 
 So, want to contribute? Pitch your ideas to [hello@monoglotanxiety.com](mailto:hello@monoglotanxiety.com) and I'll get back to you ASAP.
 
 {{</ notice  >}}
+
+In a globalized world, nations and economies no longer exist independently but are interconnected. This shift is reflected in the workplace, where global expansion and workplace collaboration are increasingly becoming the norm.
+
+A globally-oriented workforce has people coming from diverse cultures and backgrounds, so it's essential to speak different languages in order to communicate effectively and work together. 
+
+Here are some ways language learning can help boost your career.
 
 ## Language learning offers a competitive advantage
 
