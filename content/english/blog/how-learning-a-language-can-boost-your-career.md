@@ -23,9 +23,9 @@ Here are the various ways language learning can help boost your career.
 
 {{<notice note "Note from Elise">}}
 
-This is a guest post by Reese Jane. Want to contribute your own guest post? As a relatively new science writer, I remember the struggle to get my first clips and I'm always open to guest posts from other language enthusiasts — no matter whether you're an aspiring and seasoned writer ;) 
+This is a guest post by Reese Jane. As a relatively new science writer, I remember the struggle to get my first clips and I'm always open to guest posts from other language enthusiasts — no matter whether you're an aspiring and seasoned writer ;) 
 
-Want to contribute? Pitch your ideas to [hello@monoglotanxiety.com](mailto:hello@monoglotanxiety.com) and I'll get back to you ASAP.
+So, want to contribute? Pitch your ideas to [hello@monoglotanxiety.com](mailto:hello@monoglotanxiety.com) and I'll get back to you ASAP.
 
 {{</ notice  >}}
 
