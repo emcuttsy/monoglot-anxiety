@@ -15,6 +15,12 @@ type = ""
 
 +++
 
+In a globalized world, nations and economies no longer exist independently but are interconnected. This shift is reflected in the workplace, where global expansion and workplace collaboration are increasingly becoming the norm.
+
+A globally-oriented workforce has people coming from diverse cultures and backgrounds, so it's essential to speak different languages in order to communicate effectively and work together. [Learning a language doesn't have to be painful](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) — it's possible to [self-study effectively even if you're busy](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and [you can reach a high level in just a few years](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/), so it's an investment that can pay off quickly.
+
+Here are some ways language learning can help boost your career.
+
 {{<notice note "Note from Elise">}}
 
 This is a guest post by Reese Jane. As a relatively new science writer, I remember the struggle to get my first clips and for that reason I'm always open to guest posts from other writers — both seasoned and aspiring ;)
@@ -22,12 +28,6 @@ This is a guest post by Reese Jane. As a relatively new science writer, I rememb
 So, want to contribute? Pitch your ideas to [hello@monoglotanxiety.com](mailto:hello@monoglotanxiety.com) and I'll get back to you ASAP.
 
 {{</ notice  >}}
-
-In a globalized world, nations and economies no longer exist independently but are interconnected. This shift is reflected in the workplace, where global expansion and workplace collaboration are increasingly becoming the norm.
-
-A globally-oriented workforce has people coming from diverse cultures and backgrounds, so it's essential to speak different languages in order to communicate effectively and work together. [Learning a language doesn't have to be painful](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) — it's possible to [self-study effectively even if you're busy](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and [you can reach a high level in just a few years](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/), so it's an investment that can pay off quickly.
-
-Here are some ways language learning can help boost your career.
 
 ## Language learning offers a competitive advantage
 
