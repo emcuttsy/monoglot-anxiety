@@ -1,12 +1,12 @@
 +++
 author = ""
-categories = []
+categories = ["Guest Posts"]
 date = ""
 description = ""
 draft = true
-enableComments = false
-images = []
-sidebar = ""
+enableComments = true
+images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/language-for-career-boost.jpg"]
+sidebar = "right"
 subtitle = "Reese "
 summary = ""
 tags = []
