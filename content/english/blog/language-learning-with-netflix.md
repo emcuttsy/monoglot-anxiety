@@ -40,9 +40,16 @@ Not all
 
 ## Why it works: comprehensible input
 
-### Stephen Krashen and the Input Hypothesis
+### Research shows comprehensible input works
 
 ### Other examples of comprehensible input
+
+Watching TV is obviously not the only way to get comprehensible input. _Anything_ in your target language that you can understand well enough to stay engaged in is comprehensible input — so the possibilities are really only as limited as your media diet.
+
+* **Video:** Twitch streams, YouTube, series, movies, vlogs, language apps like Lingopie and Lingq
+* **Audio:** Podcasts, audiobooks, music, language apps with an audio-only mode like Glossika
+* **Text:** Books, newspapers, magazines, blogs, articles, graded readers, websites/forums, language apps like Beelingual and Duolingo's stories
+* **Conversation:** Tutors, language exchange, friends and family, (and, if you're a high level extrovert, strangers) 
 
 ## How I learn languages with Netflix
 
