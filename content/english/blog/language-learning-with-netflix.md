@@ -55,3 +55,12 @@ Not all
 ### Not letting perfect get in the way of good enough
 
 I don't do any special extra studying when I watch TV series for language learning. That's right: no flashcards, no notes, nothing. I just sit back and watch. 
+
+## Conclusion
+
+## Related Posts
+
+* [What is comprehensible input?](https://www.monoglotanxiety.com/blog/what-is-comprehensible-input-language-learning/)
+* [How I taught myself German to C1 level in 3 years](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/)
+* [How to automatically track immersion time with iOS shortcuts + Toggl](https://www.monoglotanxiety.com/blog/how-to-automatically-track-language-learning-time-using-ios-automations/)
+* [How I scored almost perfect on the Goethe B2 German exam](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/)
