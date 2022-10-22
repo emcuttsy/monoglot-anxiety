@@ -28,16 +28,30 @@ In this post, I explain how you can learn languages with Netflix, explain why wa
 
 ## How to learn languages with Netflix
 
-### Tips for learning languages with Netflix
+However, there are some things to keeping in mind when using Netflix for language learning:
 
-### Benefits of watching TV for language learning
+### Finding the best series for language learning
+
+### Is it okay to watch dubs?
+
+### Netflix language learning extension 
+
+Not all 
 
 ## Why it works: comprehensible input
 
 ### Stephen Krashen and the Input Hypothesis
 
-### Other kinds of comprehensible input
+### Other examples of comprehensible input
 
 ## How I learn languages with Netflix
 
-### Tips for finding 
+### Re-watching old favorites makes things easier as a beginner
+
+### Accepting the absurdity of watching dubs of shows originally in my native language
+
+### Watching authentic shows and movies to build a connection to the language
+
+### Not letting perfect get in the way of good enough
+
+I don't do any special extra studying when I watch TV series for language learning. That's right: no flashcards, no notes, nothing. I just sit back and watch. 
