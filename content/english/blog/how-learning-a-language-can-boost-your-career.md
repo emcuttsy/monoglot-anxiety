@@ -1,20 +1,19 @@
 +++
-author = ""
+author = "Reed Jane"
 categories = ["Guest Posts"]
-date = ""
-description = ""
+date = 2022-10-23T22:00:00Z
+description = "In a globalized world, nations and economies no longer exist independently but are interconnected. This shift is reflected in the workplace, where global expansion and workplace collaboration are increasingly becoming the norm."
 draft = true
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/language-for-career-boost.jpg"]
 sidebar = "right"
-subtitle = "Reese "
-summary = ""
+subtitle = "In this guest post, Reed Jane writes about how language learning can boost your career."
+summary = "In this guest post, Reed Jane writes about how language learning can boost your career."
 tags = []
 title = "How learning a language can boost your career"
 type = ""
 
 +++
-
 In a globalized world, nations and economies no longer exist independently but are interconnected. This shift is reflected in the workplace, where global expansion and workplace collaboration are increasingly becoming the norm.
 
 A globally-oriented workforce has people coming from diverse cultures and backgrounds, so it's essential to speak different languages in order to communicate effectively and work together. [Learning a language doesn't have to be painful](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/) — it's possible to [self-study effectively even if you're busy](https://www.monoglotanxiety.com/blog/how-i-learned-german-to-c1-using-immersion-despite-being-busy-and-disorganized/) and [you can reach a high level in just a few years](https://www.monoglotanxiety.com/blog/how-i-passed-the-goethe-b2-german-exam-with-a-nearly-perfect-score/), so it's an investment that can pay off quickly.
@@ -57,6 +56,8 @@ Being multilingual does not only help in laying the foundation for your career b
 
 ***
 
-_This is a guest post by Reese Jones._ 
+_This is a guest post by Reed Jane._
 
-_Want to submit your own guest post? Pitch ideas to hello@monoglotanxiety.com._ 
+_Reed Jane is a freelance career development consultant and a learning advocate. She is also an aspiring writer who loves to share helpful tips on personal and professional growth. In her spare time, she loves to learn about anything under the sun - new languages, crocheting, and baking!_
+
+_Want to submit your own guest post? Pitch ideas to hello@monoglotanxiety.com._
