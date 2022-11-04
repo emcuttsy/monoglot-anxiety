@@ -1,7 +1,7 @@
 +++
 author = "Reed Jane"
 categories = ["Guest Posts"]
-date = 2022-11-03T23:00:00Z
+date = 2022-11-04T06:00:00Z
 description = "In a globalized world, nations and economies no longer exist independently but are interconnected. This shift is reflected in the workplace, where global expansion and workplace collaboration are increasingly becoming the norm."
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/language-for-career-boost.jpg"]
