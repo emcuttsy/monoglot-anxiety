@@ -8,7 +8,7 @@ images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/language-f
 sidebar = "right"
 subtitle = "In this guest post, Reed Jane writes about how language learning can boost your career."
 summary = "In this guest post, Reed Jane writes about how language learning can boost your career."
-tags = []
+tags = ["language learning"]
 title = "How learning a language can boost your career"
 type = ""
 
