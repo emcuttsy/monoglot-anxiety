@@ -9,6 +9,7 @@ summaryLength = "50"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disqus short name
+disqusShortname = "monoglot-anxiety-1"
 # disable language
 disableLanguages = ["de"] # desable language from here
 
