@@ -5,7 +5,7 @@ subtitle: Write, get your writing corrected by native speakers, and turn your mi
   into flashcards
 date: 2021-04-15T15:40:24.000+06:00
 images:
-- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/04/15/writingsplash.png
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/writing-splash.jpg
 author: Elise Cutts
 description: How to  make better language flashcards by combining writing practice
   with spaced repetition

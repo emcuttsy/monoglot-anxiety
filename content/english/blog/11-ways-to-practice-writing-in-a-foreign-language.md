@@ -1,24 +1,21 @@
 ---
-title: "11 ways to practice writing in your target language"
-subtitle: "There are more ways to learn to write a new language than just responding
-  to prompts!"
-date: 2021-01-30T15:40:24+06:00
-# post thumb
+title: 11 ways to practice writing in your target language
+subtitle: There are more ways to learn to write a new language than just responding
+  to prompts!
+date: 2021-01-30T15:40:24.000+06:00
 images:
-  - "https://monoglotanxiety.s3.us-east-2.amazonaws.com/2021/1/writing.jpg"
-#author
-author: "Elise Cutts"
-# description
-description: "11 ways to practice writing in your target language"
-# Taxonomies
-categories: ["Language Learning"]
-tags: ["language learning tips"]
-type: "regular" # available type (regular or featured)
-draft: false
+- https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/writing-splash-post.jpg
+author: Elise Cutts
+description: 11 ways to practice writing in your target language
+categories:
+- Language Learning
+tags:
+- language learning tips
+type: regular
 sidebar: right
 enableComments: true
----
 
+---
 Learning to write in a new laguage can be intimidating, especially if you're learning alone. Like speaking, writing is a productive skill which makes it impossible to learn passively. Reading will improve your writing, to be sure. But if you want to write, you need to write!
 
 But what to write?

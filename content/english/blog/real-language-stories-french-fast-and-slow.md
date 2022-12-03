@@ -4,7 +4,7 @@ categories = ["Language Learning", "Real Language Stories"]
 date = 2022-06-20T16:00:00Z
 description = "David Guy shares how he learned French in retirement."
 enableComments = true
-images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/Language Stories - David.png"]
+images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/how-i-learned-french-david.jpg"]
 sidebar = "right"
 subtitle = "For David Guy, learning French took a false start, a 44 year break, 9 months from A1 to B2, and 4 years to C1. "
 summary = "My language learning journey started in an American high school. I studied French for four years. I was a serious student. I had always felt drawn to the language by way of my family history — my ancestors on my mother’s side were French, and many generations of her family lived in French-speaking Quebec, Canada. Learning French was, to me, a way to connect to that heritage."
@@ -41,7 +41,7 @@ I bought two textbooks with workbooks and audio CDs for A1 and A2 level French f
 
 <br>
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/french_textbooks.jpeg)<center><small>My French textbooks. I learned a lot more from these than I ever did from language apps, but the real breakthrough came after I discovered “comprehensible input” and started listening to many hours of French a day.</center></small><br>
+![A pile of French textbooks that David used to learn French: Saison 1 and 2, DELF B2, and Les Clés du nouveau DELF B1](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/french_textbooks.jpeg)<center><small>My French textbooks. I learned a lot more from these than I ever did from language apps, but the real breakthrough came after I discovered “comprehensible input” and started listening to many hours of French a day.</center></small><br>
 
 I read the textbooks, did all the exercises, and listened to the CDs. After working my way through those two books, I bought the next in the series, which was at B1 level, and continued to plug away at French.
 
@@ -55,7 +55,7 @@ I also asked my wife if she were willing to speak French with me. She agreed and
 
 <br>
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/accent_francais-montpellier.jpeg)
+![David standing in front of the Accent Français language school](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/accent_francais-montpellier.jpeg)
 
 <center><small>Me at the entrance to the Accent Français language school in Montpelier, where I took an intensive French course for two weeks that brought me from a B1 level to B2.</center></small><br>
 
@@ -73,7 +73,7 @@ At the school, we had three 50-minute classes per day, plus an hour of homework 
 
 <br>
 
-![](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/montpellier_market.jpeg)
+![David at a farmer's market in France](https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/06/montpellier_market.jpeg)
 
 <center><small>Vegetable shopping at a market in Montpelier, France that I visited during my two-week intensive language course. Communicating with the vendors was a learning experience.</center></small><br>
 
