@@ -2,12 +2,12 @@
 author = "Elise Cutts"
 categories = ["Language Learning", "Science of Language", "Tips and Strategies", "Comprehensible Input"]
 date = 2022-10-19T00:00:00Z
-description = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
+description = "Comprehensible input is anything in your target language that you can mostly understand. And research shows it's the key to language acquisition."
 enableComments = true
 images = ["https://monoglotanxiety.s3.us-east-2.amazonaws.com/2022/10/comprehensible-input.jpg"]
 sidebar = "right"
-subtitle = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
-summary = "Comprehensible input is anything in your target language hat you can mostly understand. And research shows it's the key to language acquisition."
+subtitle = "Comprehensible input is anything in your target language that you can mostly understand. And research shows it's the key to language acquisition."
+summary = "Comprehensible input is anything in your target language that you can mostly understand. And research shows it's the key to language acquisition."
 tags = ["comprehensible input", "language learning tips", "research", "science of language learning", "teach yourself a language"]
 title = "What is comprehensible input? Here's what language learners need to know"
 type = "featured"
